@@ -1,0 +1,22 @@
+# Copy of Visual/ Graphic Designer at Civil Science
+
+| Field | Details |
+|-------|---------|
+| Company | [Civil Science](https://scoutify.ai/companies/civil-science?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Twin Falls, Idaho, United States |
+| Category | Product Designer |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/civilscience/jobs/5044089007) |
+
+## About This Role
+
+This product designer position at Civil Science was posted on 2026-02-05.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

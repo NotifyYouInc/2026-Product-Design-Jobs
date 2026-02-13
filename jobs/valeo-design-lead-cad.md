@@ -1,16 +1,16 @@
-# MTO Highway Design Lead  at Egis
+# Design Lead - CAD at Valeo
 
 | Field | Details |
 |-------|---------|
-| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Project Manager |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000106870952-mto-highway-design-lead) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Design-Lead---CAD_REQ2025067978) |
 
 ## About This Role
 
-This project manager position at Egis was posted on 2026-02-02.
+This project manager position at Valeo was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
