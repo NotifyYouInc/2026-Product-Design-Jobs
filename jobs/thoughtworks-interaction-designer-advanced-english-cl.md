@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Interaction Designer (Advanced English) - CL at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8eae1ea1-b803-4f80-9a5d-bd38dea5e49f) |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7591669?gh_jid=7591669) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-06.
+This product designer position at Thoughtworks was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

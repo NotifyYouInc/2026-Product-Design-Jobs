@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Design lead - IBV at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Houston, Texas, United States |
+| Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=88533) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This product designer position at IBM was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

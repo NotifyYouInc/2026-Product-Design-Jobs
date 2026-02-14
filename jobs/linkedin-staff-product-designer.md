@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Staff Product Designer at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000107763275-staff-product-designer) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This product designer position at LinkedIn was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

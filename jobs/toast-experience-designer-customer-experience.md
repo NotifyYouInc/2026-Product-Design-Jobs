@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Experience Designer, Customer Experience at Toast
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
+| Category | Customer Success |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7578765) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This customer success position at Toast was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

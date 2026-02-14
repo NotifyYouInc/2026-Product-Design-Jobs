@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Brand Designer, Growth at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Marketing |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/575cfd58-9668-4409-8104-81c5b1280f89) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This marketing position at OpenAI was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

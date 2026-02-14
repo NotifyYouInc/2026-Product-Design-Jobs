@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Lead Graphic Designer at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
+| Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/0aeada82-4105-45eb-a578-16d83a56c7a7) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This product designer position at Bjak was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

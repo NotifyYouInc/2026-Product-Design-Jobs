@@ -1,16 +1,16 @@
-# Senior Web Developer and Designer at Inovalon
+# Senior UX/UI Designer at Tanium
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Company | [Tanium](https://scoutify.ai/companies/tanium?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7622411003) |
+| Apply | [View on company site](https://www.tanium.com/careers/7590407?gh_jid=7590407) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This product designer position at Tanium was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

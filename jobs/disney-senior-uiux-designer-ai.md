@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Senior UI/UX Designer – AI at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8eae1ea1-b803-4f80-9a5d-bd38dea5e49f) |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Senior-UI-UX-Designer---AI_10140541) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-06.
+This product designer position at Disney was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

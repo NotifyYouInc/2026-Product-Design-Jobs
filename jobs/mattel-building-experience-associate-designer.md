@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Building Experience Associate Designer at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8eae1ea1-b803-4f80-9a5d-bd38dea5e49f) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000107828420-building-experience-associate-designer) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-06.
+This product designer position at Mattel was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

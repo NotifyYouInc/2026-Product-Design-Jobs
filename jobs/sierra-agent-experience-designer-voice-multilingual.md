@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Agent Experience Designer, Voice (Multilingual) at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8eae1ea1-b803-4f80-9a5d-bd38dea5e49f) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/cbac1a13-cfbb-486f-81ed-73cbe4b91da9) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-06.
+This product designer position at Sierra was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

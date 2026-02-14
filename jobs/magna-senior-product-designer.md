@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Senior Product Designer at Magna
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ostrava, Moravskoslezský, Czechia |
 | Category | Product Designer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8eae1ea1-b803-4f80-9a5d-bd38dea5e49f) |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Ostrava-CZ/Senior-Product-Designer_R00229851) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-06.
+This product designer position at Magna was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
