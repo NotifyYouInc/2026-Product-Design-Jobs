@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redlands, California, United States |
+| Location | Portland, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-01-30 |
-| Apply | [View on company site](https://www.esri.com/careers/5036365007?gh_jid=5036365007) |
+| Apply | [View on company site](https://www.esri.com/careers/5036149007?gh_jid=5036149007) |
 
 ## About This Role
 
