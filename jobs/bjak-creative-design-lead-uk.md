@@ -1,16 +1,16 @@
-# Visual/ Graphic Designer at Civil Science
+# Creative Design Lead - UK at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Civil Science](https://scoutify.ai/companies/civil-science?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lehi, Utah, United States |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/civilscience/jobs/5044097007) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/695a0524-547a-4632-9576-00ad51cad2a8) |
 
 ## About This Role
 
-This marketing position at Civil Science was posted on 2026-02-05.
+This marketing position at Bjak was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

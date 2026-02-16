@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-01-30 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Senior-Product-Designer--Ad-Experiences---Solutions_R113768-1) |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Senior-Product-Designer--Ad-Experiences---Solutions_R113766-1) |
 
 ## About This Role
 
