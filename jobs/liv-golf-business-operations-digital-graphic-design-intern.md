@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LIV Golf](https://scoutify.ai/companies/liv-golf?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/liv-golf/566af222-3b3a-4aad-bca0-54530c3ba047) |
 
 ## About This Role
 
-This strategy and operations position at LIV Golf was posted on 2026-02-05.
+This strategy & operations position at LIV Golf was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

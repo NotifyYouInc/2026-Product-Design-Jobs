@@ -1,16 +1,16 @@
-# Senior Brand Designer at Flexport
+# 2026 Product Design Intern (Motion Designer / Illustrator), US at Uber
 
 | Field | Details |
 |-------|---------|
-| Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Uber](https://scoutify.ai/companies/uber?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7599995?gh_jid=7599995) |
+| Apply | [View on company site](https://www.uber.com/us/en/careers/list/155371/) |
 
 ## About This Role
 
-This product designer position at Flexport was posted on 2026-02-09.
+This product designer position at Uber was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

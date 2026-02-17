@@ -1,16 +1,16 @@
-# Data Center Design Lead, System Engineering and Architecture at Google
+# Interaction Designer, YouTube TV at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114646820948189894-data-center-design-lead-system-engineering-and-architecture?sort_by=date&page=1) |
+| Location | San Bruno, California, United States |
+| Category | Product Designer |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73820843959820998-interaction-designer-youtube-tv?sort_by=date&page=1) |
 
 ## About This Role
 
-This technical & solutions architect position at Google was posted on 2026-02-03.
+This product designer position at Google was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

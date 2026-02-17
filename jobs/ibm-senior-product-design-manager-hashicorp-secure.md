@@ -1,16 +1,16 @@
-# Senior Brand Designer at Flexport
+# Senior Product Design Manager - HashiCorp Secure at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Product Designer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
+| Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7599995?gh_jid=7599995) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81451) |
 
 ## About This Role
 
-This product designer position at Flexport was posted on 2026-02-09.
+This product manager position at IBM was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

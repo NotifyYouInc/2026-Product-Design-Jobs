@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---Montreal---Qubec/Product-Designer_R0025089) |
 

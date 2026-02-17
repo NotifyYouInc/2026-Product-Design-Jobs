@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000107443225-service-design-lead) |
 

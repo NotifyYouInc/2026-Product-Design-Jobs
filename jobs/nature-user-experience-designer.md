@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Nature](https://scoutify.ai/companies/nature?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Arlington, Texas, United States |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-02 |
 | Apply | [View on company site](https://nature.wd108.myworkdayjobs.com/externalcareers/job/Arlington-Virginia/User-Experience-Designer_JR101611) |
 

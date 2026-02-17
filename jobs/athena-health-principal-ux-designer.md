@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Vermont, US |
+| Location | Boston, Massachusetts, United States |
 | Category | Venture Capital |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Remote---VT/Principal-UX-Designer_R14331) |
+| Posted | 2026-02-02 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Principal-UX-Designer_R14340) |
 
 ## About This Role
 
-This venture capital position at Athena Health was posted on 2026-01-30.
+This venture capital position at Athena Health was posted on 2026-02-02.
 
 ## Get Real-Time Alerts
 

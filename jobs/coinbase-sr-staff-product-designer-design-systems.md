@@ -1,16 +1,16 @@
-# Growth Marketing Designer at AppLovin
+# Sr. Staff Product Designer - Design Systems at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [AppLovin](https://scoutify.ai/companies/applovin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/applovin/jobs/4651448006?gh_jid=4651448006) |
+| Category | Product Designer |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/6599740?gh_jid=6599740) |
 
 ## About This Role
 
-This marketing position at AppLovin was posted on 2026-02-06.
+This product designer position at Coinbase was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

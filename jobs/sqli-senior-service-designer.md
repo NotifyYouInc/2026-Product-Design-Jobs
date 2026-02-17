@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000106808920-senior-service-designer) |
 

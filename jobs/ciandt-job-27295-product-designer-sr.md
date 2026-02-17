@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/2011a535-4d7a-48f8-b9ae-da5f6f9635fd) |
 

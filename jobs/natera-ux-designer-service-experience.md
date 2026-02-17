@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5790717004) |
 

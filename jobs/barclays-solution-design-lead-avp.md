@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Solutions Architect |
+| Category | Technical & Solutions Architect |
 | Posted | 2026-02-03 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Solution-Design-Lead---AVP_JR-0000083603) |
 
 ## About This Role
 
-This solutions architect position at Barclays was posted on 2026-02-03.
+This technical & solutions architect position at Barclays was posted on 2026-02-03.
 
 ## Get Real-Time Alerts
 

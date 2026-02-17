@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-02 |
 | Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/IND-Hyderabad-Hybrid/User-Experience--UI-UX--Designer-II_25102522-1) |
 

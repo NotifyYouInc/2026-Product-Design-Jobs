@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 5 locations |
-| Category | Ux Researcher |
+| Category | UX Researcher |
 | Posted | 2026-02-04 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Lead-User-Experience-Researcher-and-Designer_JR2026494581-1) |
 

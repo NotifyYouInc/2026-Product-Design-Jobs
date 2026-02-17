@@ -1,16 +1,16 @@
-# Senior Brand Designer at Flexport
+# Product Design Manager, Platforms & Plan at GitLab
 
 | Field | Details |
 |-------|---------|
-| Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7599995?gh_jid=7599995) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8406836002) |
 
 ## About This Role
 
-This product designer position at Flexport was posted on 2026-02-09.
+This product designer position at GitLab was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
