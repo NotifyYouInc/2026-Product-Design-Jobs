@@ -1,16 +1,16 @@
-# Senior Motion Designer at Bjak
+# Graphic Designer at Playtech
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/39a77e6e-fd6e-4eb5-bb3f-97a6e236d4c4) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000108532498-graphic-designer) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-02-06.
+This product designer position at Playtech was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

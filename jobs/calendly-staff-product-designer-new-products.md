@@ -1,16 +1,16 @@
-# Senior Motion Designer at Bjak
+# Staff Product Designer, New Products at Calendly
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [Calendly](https://scoutify.ai/companies/calendly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/39a77e6e-fd6e-4eb5-bb3f-97a6e236d4c4) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8416032002) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-02-06.
+This product designer position at Calendly was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shibuya, Tokyo, Japan |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000106755375-junior-fashion-product-designer) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000107633994-junior-fashion-product-designer) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-02-02.
+This product designer position at H&M Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

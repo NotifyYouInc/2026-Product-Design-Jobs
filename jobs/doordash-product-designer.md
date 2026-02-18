@@ -1,16 +1,16 @@
-# Senior Motion Designer at Bjak
+# Product Designer at DoorDash
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/39a77e6e-fd6e-4eb5-bb3f-97a6e236d4c4) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7169428) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-02-06.
+This product designer position at DoorDash was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

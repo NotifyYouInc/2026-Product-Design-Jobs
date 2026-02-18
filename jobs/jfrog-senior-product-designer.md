@@ -1,16 +1,16 @@
-# Senior Motion Designer at Bjak
+# Senior Product Designer at JFrog
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Karnataka, IN |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/39a77e6e-fd6e-4eb5-bb3f-97a6e236d4c4) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=7588276&gh_jid=7588276) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-02-06.
+This product designer position at JFrog was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

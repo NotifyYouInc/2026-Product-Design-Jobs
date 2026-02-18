@@ -1,16 +1,16 @@
-# Senior Motion Designer at Bjak
+# UX/UI Designer, eCommerce at Formlabs
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Budapest, Budapest, Hungary |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/39a77e6e-fd6e-4eb5-bb3f-97a6e236d4c4) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7603284/apply/?gh_jid=7603284) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-02-06.
+This product designer position at Formlabs was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
