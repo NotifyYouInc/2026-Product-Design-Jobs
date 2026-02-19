@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Product Designer at Spscommerce
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [Spscommerce](https://scoutify.ai/companies/spscommerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/b408bc1a-b3fd-4898-9678-17c582870b43) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://spscommerce.wd108.myworkdayjobs.com/sps/job/Germany-Remote/Product-Designer_R-000294-1) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-09.
+This product designer position at Spscommerce was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

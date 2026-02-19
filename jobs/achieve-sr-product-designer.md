@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Sr. Product Designer at Achieve
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Orlando, Florida, United States |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/b408bc1a-b3fd-4898-9678-17c582870b43) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011643926-sr-product-designer) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-09.
+This product designer position at Achieve was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

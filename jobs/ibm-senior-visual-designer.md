@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Senior Visual Designer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Groningen, Groningen, The Netherlands |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/b408bc1a-b3fd-4898-9678-17c582870b43) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93092) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-09.
+This product designer position at IBM was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

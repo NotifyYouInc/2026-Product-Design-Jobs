@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Marketing |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011471206-senior-graphic-designer-part-time) |
+| Location | Toronto, Ontario, Canada |
+| Category | Product Designer |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011607966-senior-graphic-designer-part-time) |
 
 ## About This Role
 
-This marketing position at HelloKindred was posted on 2026-02-02.
+This product designer position at HelloKindred was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
