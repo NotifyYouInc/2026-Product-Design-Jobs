@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# Product Designer, Catalog at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/876712931827988) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at Meta was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

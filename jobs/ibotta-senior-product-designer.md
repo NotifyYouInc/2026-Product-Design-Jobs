@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# Senior Product Designer at Ibotta
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Ibotta](https://scoutify.ai/companies/ibotta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Senior-Product-Designer_R-102205) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at Ibotta was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

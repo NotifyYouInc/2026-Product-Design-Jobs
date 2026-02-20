@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# Senior Product Designer at Hadrius
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Hadrius](https://scoutify.ai/companies/hadrius?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at Hadrius was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

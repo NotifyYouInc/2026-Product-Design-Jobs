@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# Brand Designer at Owner.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Owner.com](https://scoutify.ai/companies/owner-com?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.lever.co/owner/2812714f-48c5-4ca3-8c2f-df856bc86c34) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at Owner.com was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

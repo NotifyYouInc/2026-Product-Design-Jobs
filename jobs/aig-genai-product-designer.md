@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# GenAI Product Designer at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/GenAI-Product-Designer_JR2600775) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at AIG was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

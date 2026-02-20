@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Product Designer at Diligent Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7614009003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5785996004) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-13.
+This product designer position at Diligent Corporation was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

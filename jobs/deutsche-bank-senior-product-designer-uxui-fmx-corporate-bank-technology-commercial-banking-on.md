@@ -1,0 +1,22 @@
+# Senior Product Designer (UX/UI) (f/m/x) – Corporate Bank Technology - Commercial Banking Online at Deutsche Bank
+
+| Field | Details |
+|-------|---------|
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Product Designer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Senior-Product-Designer--UX-UI---f-m-x----Corporate-Bank-Technology---Commercial-Banking-Online_R0424196-1) |
+
+## About This Role
+
+This product designer position at Deutsche Bank was posted on 2026-02-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

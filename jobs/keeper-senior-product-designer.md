@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Product Designer at Keeper
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Keeper](https://scoutify.ai/companies/keeper-2?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7614009003) |
+| Category | UX Researcher |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/keeper-2/jobs/lNB2zsC-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-13.
+This ux researcher position at Keeper was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

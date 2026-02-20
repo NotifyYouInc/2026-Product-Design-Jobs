@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# Middle UX/UI Designer - Brighterly at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/2aea4ffe-a0fc-4c6b-81fd-a762c7102fd0) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at SKELAR was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

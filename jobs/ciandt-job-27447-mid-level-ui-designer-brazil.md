@@ -1,16 +1,16 @@
-# UX Content Designer at Experian
+# [Job-27447] Mid-Level UI Designer, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107335202-ux-content-designer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/354b83d4-be71-4e50-8777-ca3865470c94) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-02-04.
+This product designer position at Ciandt was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
