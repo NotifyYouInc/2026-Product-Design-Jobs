@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Product Designer at Glean
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Karnataka, IN |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011680816-staff-product-designer-temporary) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4389568005) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-13.
+This product designer position at Glean was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

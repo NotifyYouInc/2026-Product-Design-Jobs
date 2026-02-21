@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Sales Compensation Design Manager at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Operations |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109216846-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000109316412-sales-compensation-design-manager) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-13.
+This operations position at LinkedIn was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

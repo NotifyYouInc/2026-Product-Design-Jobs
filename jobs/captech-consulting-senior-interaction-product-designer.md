@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Reston, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000107326645-senior-interaction-product-designer) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000107758536-senior-interaction-product-designer) |
 
 ## About This Role
 
-This product designer position at CapTech Consulting was posted on 2026-02-04.
+This product designer position at CapTech Consulting was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

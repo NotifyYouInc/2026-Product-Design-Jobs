@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Creative Director, Copy and Content at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Marketing |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109216846-product-designer-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5118172008) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-13.
+This marketing position at Anthropic was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

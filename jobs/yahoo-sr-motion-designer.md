@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Sr Motion Designer at Yahoo
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011680816-staff-product-designer-temporary) |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Sr-Motion-Designer_JR0026932) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-13.
+This product designer position at Yahoo was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Alternance – Product Designer (f/h/n) at Aumovio
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Rambouillet, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011680816-staff-product-designer-temporary) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000109245981-alternance-product-designer-fhn) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-13.
+This product designer position at Aumovio was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

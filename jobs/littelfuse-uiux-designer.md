@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Hermosillo, Sonora, Mexico |
 | Category | Product Designer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/UI-UX-Designer_JR-110917-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Hermosillo/UI-UX-Designer_JR-110927-1) |
 
 ## About This Role
 
-This product designer position at Littelfuse was posted on 2026-01-29.
+This product designer position at Littelfuse was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

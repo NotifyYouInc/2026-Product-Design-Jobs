@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Product Designer (m/f/d)  at Flink
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Flink](https://scoutify.ai/companies/flink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011680816-staff-product-designer-temporary) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000109279135-product-designer-mfd) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-13.
+This product designer position at Flink was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

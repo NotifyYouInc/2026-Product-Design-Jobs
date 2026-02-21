@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Krakow-Poland/Senior-Product-Designer_R33760) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Designer_R33983) |
 
 ## About This Role
 
-This product designer position at Zendesk was posted on 2026-02-04.
+This product designer position at Zendesk was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

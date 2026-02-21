@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# UX/UI Designer (FAP-BC-PM-2026-26-GRAP) at CERN
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Switzerland |
+| Category | Product Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109216846-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000109168975-uxui-designer-fap-bc-pm-2026-26-grap) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-13.
+This product manager position at CERN was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Marketing motion designer - MaxBeauty at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
+| Category | Marketing |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109216846-product-designer-hf) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/4ecda63d-0b99-48b6-95a3-6920a056004e) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-13.
+This marketing position at SKELAR was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

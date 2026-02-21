@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000107345524-senior-ux-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000107352474-senior-ux-designer) |
 
 ## About This Role
 

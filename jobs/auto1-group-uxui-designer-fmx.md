@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000107278416-uxui-designer-fmx) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000108430456-uxui-designer-fmx) |
 
 ## About This Role
 
-This product designer position at AUTO1 Group was posted on 2026-02-04.
+This product designer position at AUTO1 Group was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at EarnIn
+# Senior Product Designer  at EarnIn
 
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7580686) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7600417) |
 
 ## About This Role
 
-This product designer position at EarnIn was posted on 2026-02-04.
+This product designer position at EarnIn was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Graphic Designer (Remote) at M3
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [M3](https://scoutify.ai/companies/m3?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
+| Category | Marketing |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109216846-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/M3USA/744000109233785-graphic-designer-remote) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-13.
+This marketing position at M3 was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
