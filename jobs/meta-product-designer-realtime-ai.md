@@ -1,16 +1,16 @@
-# Frontend UI/UX Designer at Ruby Labs
+# Product Designer - RealTime AI at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ukraine |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/f1c8f40d-f95a-4c80-bd1e-0ebc318354ac) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/928184646249650) |
 
 ## About This Role
 
-This product designer position at Ruby Labs was posted on 2026-02-17.
+This product designer position at Meta was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

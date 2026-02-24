@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000107352474-senior-ux-designer) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000108201177-senior-ux-designer) |
 
 ## About This Role
 
-This product designer position at Utility Warehouse was posted on 2026-02-04.
+This product designer position at Utility Warehouse was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

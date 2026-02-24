@@ -1,16 +1,16 @@
-# Frontend UI/UX Designer at Ruby Labs
+# Outsystems UI/UX Designer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ukraine |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/f1c8f40d-f95a-4c80-bd1e-0ebc318354ac) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93731) |
 
 ## About This Role
 
-This product designer position at Ruby Labs was posted on 2026-02-17.
+This product designer position at IBM was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000107382205-design-manager-mfd-data-centre-construction) |
+| Location | Frankfurt am Main, Hesse, Germany |
+| Category | Project Manager |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000107490135-design-manager-mfd-data-centre-construction) |
 
 ## About This Role
 
-This product designer position at Turner & Townsend was posted on 2026-02-04.
+This project manager position at Turner & Townsend was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

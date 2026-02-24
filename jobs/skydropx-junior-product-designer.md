@@ -1,16 +1,16 @@
-# Frontend UI/UX Designer at Ruby Labs
+# Junior Product Designer at SkydropX
 
 | Field | Details |
 |-------|---------|
-| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ukraine |
+| Company | [SkydropX](https://scoutify.ai/companies/skydropx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Argentina |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/f1c8f40d-f95a-4c80-bd1e-0ebc318354ac) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skydropx/f672a72b-16f2-44a1-8ed5-c94e83c154f2) |
 
 ## About This Role
 
-This product designer position at Ruby Labs was posted on 2026-02-17.
+This product designer position at SkydropX was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
