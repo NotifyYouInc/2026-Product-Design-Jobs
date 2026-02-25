@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Staff Product Designer at Heidi Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/bc95283e-bb2f-4f1a-9aac-e9293e3dd8a8) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Heidi Health was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

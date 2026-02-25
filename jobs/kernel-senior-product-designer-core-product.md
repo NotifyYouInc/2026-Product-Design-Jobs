@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# Senior Product Designer (Core Product) at Kernel
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Kernel](https://scoutify.ai/companies/kernel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kernel/f903c994-75c9-4f56-9f95-e57c7ee07d8b) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Kernel was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Experience Designer at Gensler
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Experience-Designer_R-16965) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Gensler was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

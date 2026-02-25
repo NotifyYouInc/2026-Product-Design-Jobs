@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Product Development Coordinator – Range & Design at JYSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denmark |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000109701416-product-development-coordinator-range-design) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at JYSK was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

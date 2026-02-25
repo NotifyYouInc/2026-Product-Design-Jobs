@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# Product Designer at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/Product-Designer_R_337141) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Marsh was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

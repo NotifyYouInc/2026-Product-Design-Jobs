@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Director, Product Design - Core Product  at Abridge
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Abridge](https://scoutify.ai/companies/abridge?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/abridge/0d20efe6-d37c-491b-8941-9732568b908d) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Abridge was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

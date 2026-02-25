@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Senior Product Designer at Xsolla
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Georgia, US |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/644c88dd-0f4b-43ca-8b4f-0a9ac77ea43e) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Xsolla was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

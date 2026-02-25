@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# Senior Product Designer at Kiavi
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Kiavi](https://scoutify.ai/companies/kiavi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://boards.greenhouse.io/kiavi/jobs/7624352?gh_jid=7624352) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Kiavi was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

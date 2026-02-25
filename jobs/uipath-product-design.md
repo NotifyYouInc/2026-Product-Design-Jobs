@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Product Design at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Karnataka, IN |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/bdb7f4f7-a96d-4b08-9704-7365425627b6) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at UiPath was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

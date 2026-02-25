@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# Manager, User Experience at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7621636) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Appian was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

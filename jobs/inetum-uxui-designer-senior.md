@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# UX/UI Designer Senior at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109708896-uxui-designer-senior) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Inetum was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

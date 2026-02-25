@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# UX Lead Specialist at TIAA
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | North Carolina, US |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Virtual-NC-USA/UX-Lead-Specialist_R260100175-1) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at TIAA was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

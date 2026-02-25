@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Visual Designer at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Menlo Park, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2389522161528226) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Meta was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

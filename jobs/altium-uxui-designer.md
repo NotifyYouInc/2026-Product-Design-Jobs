@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# UX/UI Designer at Altium
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [Altium](https://scoutify.ai/companies/altium?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | La Jolla, California, United States |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4653638006) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Altium was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

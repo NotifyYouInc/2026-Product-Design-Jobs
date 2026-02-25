@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Web Designer & Design System - Contractor at BambooHR
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [BambooHR](https://scoutify.ai/companies/bamboohr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Utah, US |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bamboohr17/jobs/5730968004) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at BambooHR was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

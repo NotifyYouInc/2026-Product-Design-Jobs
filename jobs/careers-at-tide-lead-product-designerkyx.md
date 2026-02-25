@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Lead Product Designer(KYX) at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7633932003) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Careers at Tide was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

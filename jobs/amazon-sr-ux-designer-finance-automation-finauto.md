@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Sr. UX Designer, Finance Automation (FinAuto) at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3183429/sr-ux-designer-finance-automation-finauto) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Amazon was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

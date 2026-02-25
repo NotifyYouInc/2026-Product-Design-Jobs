@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Senior Systems Designer at Epic Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5806397004?gh_jid=5806397004) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Epic Games was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

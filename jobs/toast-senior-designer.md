@@ -1,16 +1,16 @@
-# Senior Brand Designer at Bjak
+# Senior Designer at Toast
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4f084771-ad77-4083-972d-cef1c19811b5) |
+| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
+| Category | Product Designer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7610370) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-06.
+This product designer position at Toast was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

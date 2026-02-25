@@ -1,16 +1,16 @@
-# Service Design Lead at VAM Systems
+# UX/UI Product Designer (Junior to Mid-Level) at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | UX Researcher |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109677320-service-design-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000109739400-uxui-product-designer-junior-to-mid-level) |
 
 ## About This Role
 
-This ux researcher position at VAM Systems was posted on 2026-02-17.
+This ux researcher position at Sopra Steria was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

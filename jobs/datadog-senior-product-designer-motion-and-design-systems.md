@@ -1,16 +1,16 @@
-# Graphic Designer at Informa
+# Senior Product Designer - Motion and Design Systems at Datadog
 
 | Field | Details |
 |-------|---------|
-| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000108228841-graphic-designer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7622953/?gh_jid=7622953) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-02-09.
+This product designer position at Datadog was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107396565-sr-staff-product-designer-moveworks) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107660755-sr-staff-product-designer-moveworks) |
 
 ## About This Role
 
-This product designer position at ServiceNow was posted on 2026-02-04.
+This product designer position at ServiceNow was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

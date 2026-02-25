@@ -1,16 +1,16 @@
-# Senior Brand Designer at Bjak
+# Studio Product Designer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cuernavaca, Morelos, Mexico |
 | Category | Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4f084771-ad77-4083-972d-cef1c19811b5) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cuernavaca/Studio-Product-Designer_R0316578) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-02-06.
+This marketing position at Thales was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
