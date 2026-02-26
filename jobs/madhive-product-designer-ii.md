@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Product Designer II at Madhive
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Madhive](https://scoutify.ai/companies/madhive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | UX Researcher |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/madhive/75ba92e9-b94b-4e03-bdd1-aa3993a19929) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This ux researcher position at Madhive was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

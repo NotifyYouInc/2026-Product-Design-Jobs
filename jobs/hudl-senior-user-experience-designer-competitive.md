@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior User Experience Designer - Competitive at Hudl
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Hudl](https://scoutify.ai/companies/hudl?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 7 locations |
+| Category | UX Researcher |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hudl/jobs/7317489) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This ux researcher position at Hudl was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

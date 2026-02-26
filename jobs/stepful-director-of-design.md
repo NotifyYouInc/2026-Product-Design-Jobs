@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Director of Design at Stepful
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Stepful](https://scoutify.ai/companies/stepful?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stepful/21409626-bf75-413c-b308-06e351ff9380) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at Stepful was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

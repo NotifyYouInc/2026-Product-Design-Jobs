@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer    at Rubrik
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7619215?gh_jid=7619215) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at Rubrik was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

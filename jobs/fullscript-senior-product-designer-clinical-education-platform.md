@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer (Clinical Education Platform) at Fullscript
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Fullscript](https://scoutify.ai/companies/fullscript?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.lever.co/fullscript/1ea1abff-161f-43e7-8cde-9af9124caf1b) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at Fullscript was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

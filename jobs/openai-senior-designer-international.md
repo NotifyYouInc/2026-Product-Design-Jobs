@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Designer, International at OpenAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Marketing |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/b0b780a2-01de-42bd-b57c-2d276e5dd458) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This marketing position at OpenAI was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

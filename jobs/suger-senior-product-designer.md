@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer at Suger
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Suger](https://scoutify.ai/companies/suger?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.lever.co/suger/9b28a320-a32f-4b78-8a42-96da8bb1ecf6) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at Suger was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

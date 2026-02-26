@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Instructional Technologist at WGU
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Instructional-Technologist_JR-023617) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at WGU was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

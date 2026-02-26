@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior UI/UX Designer at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bucharest, București, Romania |
+| Category | Marketing |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/b229fef2-779e-4ea4-91c0-fc86800dc320) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This marketing position at UiPath was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Game Design Director at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Product Manager |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5806957004) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product manager position at Zynga was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

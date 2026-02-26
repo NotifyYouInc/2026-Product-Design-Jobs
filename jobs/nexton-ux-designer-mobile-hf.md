@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# UX DESIGNER Mobile H/F at Nexton
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | UX Researcher |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000109915375-ux-designer-mobile-hf) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This ux researcher position at Nexton was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Designer II, Color & Trend Footwear Design at Brooks Running
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Brooks Running](https://scoutify.ai/companies/brooksrunning?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.lever.co/brooksrunning/150572b2-0379-4969-a212-e5c360a4ff37) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at Brooks Running was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

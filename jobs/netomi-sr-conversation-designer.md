@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Sr. Conversation Designer at Netomi
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Designer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/d55441b3-5983-40ad-92bf-56d57c55c2dd) |
+| Category | UX Writer & Content Designer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.lever.co/netomi/d9d304db-3e21-4abb-8c11-32de7553878a) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-02-12.
+This ux writer & content designer position at Netomi was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

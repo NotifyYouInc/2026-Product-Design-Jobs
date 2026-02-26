@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer at AtoB
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [AtoB](https://scoutify.ai/companies/atob?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/atob/3c3b6f41-dff7-4787-b529-82fe1fe7f57e) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product designer position at AtoB was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

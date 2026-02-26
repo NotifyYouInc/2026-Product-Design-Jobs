@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Product Design Manager at Sitemate
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1428389668881470) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/56b3e899-ff80-4c67-99d0-a8f6a8420bdd) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-18.
+This product manager position at Sitemate was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
