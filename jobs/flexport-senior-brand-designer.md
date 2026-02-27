@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7599995?gh_jid=7599995) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7600000?gh_jid=7600000) |
 
 ## About This Role
 
-This product designer position at Flexport was posted on 2026-02-09.
+This product designer position at Flexport was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

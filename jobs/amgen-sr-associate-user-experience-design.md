@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Sr Associate User Experience Design at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-User-Experience-Design_R-229077) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This product designer position at Amgen was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

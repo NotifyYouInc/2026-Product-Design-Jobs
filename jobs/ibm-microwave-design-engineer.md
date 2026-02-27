@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Microwave Design Engineer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=37992) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This electrical / hardware engineer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

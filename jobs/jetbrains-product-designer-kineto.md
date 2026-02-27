@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Product Designer (Kineto) at JetBrains
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [JetBrains](https://scoutify.ai/companies/jetbrains?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4775489101) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at JetBrains was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

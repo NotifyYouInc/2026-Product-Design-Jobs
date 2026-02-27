@@ -1,16 +1,16 @@
-# Sr Product Designer at Target
+# Sr. Product Designer at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000430085) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/New-York-New-York/Product-Designer_R-10381501) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-02-17.
+This ux researcher position at Fiserv was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

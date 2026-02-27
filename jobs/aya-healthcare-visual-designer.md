@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Visual Designer at Aya Healthcare
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | Marketing |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7636866?gh_jid=7636866) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This marketing position at Aya Healthcare was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

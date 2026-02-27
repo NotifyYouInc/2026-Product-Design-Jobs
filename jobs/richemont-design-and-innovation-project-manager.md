@@ -1,16 +1,16 @@
-# Design Manager Ingeniería Civil - Data Centers at AECOM
+# Design and Innovation Project Manager at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Switzerland |
 | Category | Project Manager |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110202080-design-manager-ingenieria-civil-data-centers) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/NEUCHATEL/Design-and-Innovation-Project-Manager_JR125252-1) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-02-19.
+This project manager position at Richemont was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

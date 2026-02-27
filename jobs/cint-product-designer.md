@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Product Designer at Cint
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000110238867-product-designer) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at Cint was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

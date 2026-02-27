@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Lead Experience Designer at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Karnataka, IN |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7533352?gh_jid=7533352) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at Thoughtworks was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

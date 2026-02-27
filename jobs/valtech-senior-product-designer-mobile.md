@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Senior Product Designer (mobile) at Valtech
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Portugal |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4786351101) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at Valtech was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

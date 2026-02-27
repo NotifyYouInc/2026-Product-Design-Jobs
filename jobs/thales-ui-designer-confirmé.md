@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# UI Designer Confirmé at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Rennes, Brittany, France |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d8ef8c73-7bec-4a08-844a-ea1472fae779) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rennes-Courrouze/UI-Designer-Confirm_R0316569-2) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-16.
+This product designer position at Thales was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

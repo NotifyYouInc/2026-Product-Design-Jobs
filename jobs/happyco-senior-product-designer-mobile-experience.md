@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Senior Product Designer, Mobile Experience at HappyCo
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [HappyCo](https://scoutify.ai/companies/happyco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Australia |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d8ef8c73-7bec-4a08-844a-ea1472fae779) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.lever.co/happyco/d0698be8-8c1f-4b17-852a-0be8788046b9) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-16.
+This product designer position at HappyCo was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

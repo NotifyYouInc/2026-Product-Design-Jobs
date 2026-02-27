@@ -1,16 +1,16 @@
-# Sr Product Designer at Target
+# Product Designer at Binance.US
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Binance.US](https://scoutify.ai/companies/binance-us?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000430085) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/binance.us/6b79e4ce-0ecf-47f9-af89-e52c864f49ec) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-02-17.
+This ux researcher position at Binance.US was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

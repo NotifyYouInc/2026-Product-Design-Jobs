@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Sr. Product Designer at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d8ef8c73-7bec-4a08-844a-ea1472fae779) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110261757-sr-product-designer) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-16.
+This product designer position at LinkedIn was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

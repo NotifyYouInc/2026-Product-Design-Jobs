@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# AI Product Designer (£60k-£70k) at Fast-growing digital product agency at Bondsmith.co.uk
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Bondsmith.co.uk](https://scoutify.ai/companies/bondsmith-co-uk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jack-jill-external-ats/10eb08b3-b950-49f1-8d64-409753a33d20) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at Bondsmith.co.uk was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

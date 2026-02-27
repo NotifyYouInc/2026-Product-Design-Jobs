@@ -1,16 +1,16 @@
-# Design Manager Ingeniería Civil - Data Centers at AECOM
+# UI/UX Designer at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
-| Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110202080-design-manager-ingenieria-civil-data-centers) |
+| Location | Philippines |
+| Category | Product Designer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110299355-uiux-designer) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-02-19.
+This product designer position at AECOM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

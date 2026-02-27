@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Interaction Designer, YouTube Shorts at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/119151774564000454-interaction-designer-youtube-shorts?sort_by=date&page=1) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This product designer position at Google was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

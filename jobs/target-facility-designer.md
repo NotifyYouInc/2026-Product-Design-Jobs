@@ -1,16 +1,16 @@
-# Sr Product Designer at Target
+# Facility Designer at Target
 
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
-| Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000430085) |
+| Location | Karnataka, IN |
+| Category | Product Designer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Facility-Designer_R0000423934) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-02-17.
+This product designer position at Target was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

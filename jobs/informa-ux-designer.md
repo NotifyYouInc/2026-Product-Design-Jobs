@@ -1,16 +1,16 @@
-# Sr Product Designer at Target
+# UX Designer at Informa
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Malaysia |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000430085) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110297005-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-02-17.
+This ux researcher position at Informa was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

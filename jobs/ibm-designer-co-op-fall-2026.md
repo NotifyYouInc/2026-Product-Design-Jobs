@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Designer Co-Op Fall 2026 at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d8ef8c73-7bec-4a08-844a-ea1472fae779) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95596) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-16.
+This product designer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

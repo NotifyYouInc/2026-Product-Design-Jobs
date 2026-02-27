@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Senior Product Designer, Architecture and Systems at Netflix
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Senior-Product-Designer--Architecture-and-Systems_JR39047) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This product designer position at Netflix was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

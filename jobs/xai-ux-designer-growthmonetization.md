@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# UX Designer- Growth/Monetization at xAI
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [xAI](https://scoutify.ai/companies/twitter?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
+| Category | UX Researcher |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xai/jobs/5055630007) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This ux researcher position at xAI was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

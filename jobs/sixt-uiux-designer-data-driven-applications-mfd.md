@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108137850-uiux-designer-data-driven-applications-mfd) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108782345-uiux-designer-data-driven-applications-mfd) |
 
 ## About This Role
 
-This product designer position at Sixt was posted on 2026-02-09.
+This product designer position at Sixt was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

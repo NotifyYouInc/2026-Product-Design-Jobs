@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Product Designer - TENTENS Tech at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d8ef8c73-7bec-4a08-844a-ea1472fae779) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/3cafd2b6-39e7-4a50-baff-7648f5a44773) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-16.
+This product designer position at SKELAR was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

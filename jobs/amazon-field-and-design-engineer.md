@@ -1,16 +1,16 @@
-# Design Manager Ingeniería Civil - Data Centers at AECOM
+# Field and Design Engineer at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Project Manager |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110202080-design-manager-ingenieria-civil-data-centers) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184643/field-and-design-engineer) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-02-19.
+This project manager position at Amazon was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

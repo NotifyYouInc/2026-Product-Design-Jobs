@@ -1,16 +1,16 @@
-# Senior Product Designer  at WISE
+# Associate Designer at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000110181231-senior-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110135685-associate-designer) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-02-19.
+This product designer position at NBCUniversal was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
