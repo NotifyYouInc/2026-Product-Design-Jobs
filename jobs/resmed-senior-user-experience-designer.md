@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior User Experience Designer at ResMed
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Senior-User-Experience-Designer_JR_048642-1) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at ResMed was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

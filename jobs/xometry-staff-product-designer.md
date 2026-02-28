@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Staff Product Designer  at Xometry
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5058083007) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Xometry was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

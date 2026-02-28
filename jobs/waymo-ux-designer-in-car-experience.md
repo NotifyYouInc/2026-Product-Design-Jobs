@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# UX Designer, In-Car Experience at Waymo
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=7633206) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Waymo was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

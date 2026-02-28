@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior Service Design Manager at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denmark |
+| Category | UX Researcher |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Copenhagen/Senior-Service-Design-Manager_0000031895) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This ux researcher position at LEGO was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

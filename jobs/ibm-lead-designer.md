@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Lead Designer at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | UX Researcher |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94760) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This ux researcher position at IBM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

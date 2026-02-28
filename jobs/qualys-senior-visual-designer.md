@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior Visual Designer at Qualys
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Senior-Visual-Designer_R0004400) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Qualys was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

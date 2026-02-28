@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior Product Designer at Veeam Software
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4654576101) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Veeam Software was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

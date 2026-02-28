@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior Product Designer (Advanced English) - EC (Remote) at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7642715?gh_jid=7642715) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This ux researcher position at Thoughtworks was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Staff Product Designer at Instawork
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
+| Company | [Instawork](https://scoutify.ai/companies/instawork?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Product Manager |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/instawork/jobs/4534894006) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product manager position at Instawork was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

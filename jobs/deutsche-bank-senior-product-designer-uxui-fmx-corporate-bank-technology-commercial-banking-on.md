@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Senior-Product-Designer--UX-UI---f-m-x----Corporate-Bank-Technology---Commercial-Banking-Online_R0424196-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Berlin-Otto-Suhr-Allee-16/Senior-Product-Designer--UX-UI---f-m-x----Corporate-Bank-Technology---Commercial-Banking-Online_R0424199) |
 
 ## About This Role
 
-This product designer position at Deutsche Bank was posted on 2026-02-12.
+This product designer position at Deutsche Bank was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

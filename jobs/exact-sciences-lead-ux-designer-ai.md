@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Lead UX Designer AI at Exact Sciences
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Madison, Wisconsin, United States |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Lead-UX-Designer-AI_R25-11846-1) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Exact Sciences was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

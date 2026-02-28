@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+#  Sr. Product Designer, Payments  at Zapier
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Zapier](https://scoutify.ai/companies/zapier?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zapier/71b8cf73-e79a-41fc-bbce-3b7246766b23) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Zapier was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

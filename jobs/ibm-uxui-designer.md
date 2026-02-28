@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Ux Researcher |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83589) |
+| Location | Bari, Apulia, Italy |
+| Category | Product Designer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95557) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-01-30.
+This product designer position at IBM was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Product Designer Lead  at FREENOW
+# Senior Staff UX Design Manager at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Bruno, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7641249) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/80401016251392710-senior-staff-ux-design-manager?sort_by=date&page=1) |
 
 ## About This Role
 
-This product designer position at FREENOW was posted on 2026-02-20.
+This product designer position at Google was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

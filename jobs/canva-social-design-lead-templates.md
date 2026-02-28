@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Product Designer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000867357-social-design-lead-templates) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000869793-social-design-lead-templates) |
 
 ## About This Role
 
-This product designer position at Canva was posted on 2026-02-12.
+This product designer position at Canva was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
