@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Nottingham, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109194115-senior-product-designer-direct-to-consumer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109195460-senior-product-designer-direct-to-consumer) |
 
 ## About This Role
 

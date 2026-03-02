@@ -1,16 +1,16 @@
-# Senior Product Designer at Zendesk
+# Product Design, Design System Intern (Graduate, Summer 2026)    at Sigma Computing
 
 | Field | Details |
 |-------|---------|
-| Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Senior-Product-Designer_R32463) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639804003) |
 
 ## About This Role
 
-This product designer position at Zendesk was posted on 2026-02-17.
+This product designer position at Sigma Computing was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
