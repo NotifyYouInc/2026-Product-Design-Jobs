@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# UX Designer, Google Ad Manager at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/101467014794486470-ux-designer-google-ad-manager?sort_by=date&page=1) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at Google was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

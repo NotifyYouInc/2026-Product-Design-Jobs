@@ -1,16 +1,16 @@
-# Product Designer at Curri
+# Product Designer, Facebook Monetization at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Curri](https://scoutify.ai/companies/curri?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ventura, California, United States |
-| Category | Product Designer |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Menlo Park, California, United States |
+| Category | Product Manager |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/curri/jobs/jimuNuW-product-designer) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1249934097185612) |
 
 ## About This Role
 
-This product designer position at Curri was posted on 2026-02-24.
+This product manager position at Meta was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

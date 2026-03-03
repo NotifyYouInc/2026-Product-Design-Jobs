@@ -1,16 +1,16 @@
-# Design Manager at Gensler
+# Design Manager  - Critical Facilities at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Phoenix, Arizona, United States |
 | Category | Project Manager |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Munich-Germany/Design-Manager_R-17064) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Phoenix-AZ-US/Design-Manager----Critical-Facilities_R-17081) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-02-21.
+This project manager position at Gensler was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

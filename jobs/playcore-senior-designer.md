@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Designer at PlayCore
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [PlayCore](https://scoutify.ai/companies/playcore?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://playcore.rec.pro.ukg.net/PLA1500PLCN/JobBoard/8334be75-1d8a-4eb3-81ef-52822b3ba6a5/OpportunityDetail?opportunityId=81bc5980-cf3d-4276-a983-ecf04dd61c0f) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at PlayCore was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

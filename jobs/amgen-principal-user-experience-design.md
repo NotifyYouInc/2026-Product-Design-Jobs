@@ -1,16 +1,16 @@
-# Product Designer at IBM
+# Principal User Experience Design at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96020) |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Principal-User-Experience-Design_R-235898) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-23.
+This ux researcher position at Amgen was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

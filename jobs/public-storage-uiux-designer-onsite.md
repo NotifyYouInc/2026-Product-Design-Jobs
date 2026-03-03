@@ -1,16 +1,16 @@
-# Product Designer at IBM
+# UI/UX Designer - (onsite) at Public Storage
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Frisco, Texas, United States |
 | Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96020) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000110882525-uiux-designer-onsite) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-23.
+This ux researcher position at Public Storage was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

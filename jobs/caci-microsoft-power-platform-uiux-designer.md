@@ -1,16 +1,16 @@
-# Product Designer at IBM
+# Microsoft Power Platform UI/UX Designer at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96020) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Arlington/Microsoft-Power-Platform-UI-UX-Designer_322383) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-23.
+This ux researcher position at CACI was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

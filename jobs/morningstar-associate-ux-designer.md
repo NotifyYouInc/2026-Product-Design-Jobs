@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/UX-Designer_REQ-055362) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Toronto/Associate-UX-Designer_REQ-055580) |
 
 ## About This Role
 
-This product designer position at Morningstar was posted on 2026-02-13.
+This product designer position at Morningstar was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

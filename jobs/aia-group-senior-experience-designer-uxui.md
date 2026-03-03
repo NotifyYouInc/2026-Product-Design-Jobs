@@ -1,16 +1,16 @@
-# Product Designer at Curri
+# Senior Experience Designer UX/UI at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Curri](https://scoutify.ai/companies/curri?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ventura, California, United States |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/curri/jobs/jimuNuW-product-designer) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Melbourne-AU-AIA-Australia/Senior-Experience-Designer-UX-UI_JR-64508) |
 
 ## About This Role
 
-This product designer position at Curri was posted on 2026-02-24.
+This product designer position at AIA Group was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

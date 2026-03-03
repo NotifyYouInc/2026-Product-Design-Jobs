@@ -1,16 +1,16 @@
-# Product Designer at IBM
+# Manager, User Experience Design at Appian
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | UX Researcher |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96020) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7648783) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-23.
+This ux researcher position at Appian was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

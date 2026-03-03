@@ -1,16 +1,16 @@
-# Product Designer at IBM
+# Stage - Ingénieur UX Research et UI Design H/F at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | France |
 | Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96020) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Sophia-Antipolis/Stage---Ingnieur-UX-Research-et-UI-Design-H-F_R0317596-1) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-23.
+This ux researcher position at Thales was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

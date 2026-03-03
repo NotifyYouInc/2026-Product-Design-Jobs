@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Analyst, UI & UX Designer at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Shanghai-Hongkou-CN---AIA-Group-Office/Senior-Analyst--UI---UX-Designer_JR-64115-1) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at AIA Group was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

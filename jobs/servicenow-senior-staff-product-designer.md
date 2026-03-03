@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Staff Product Designer at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110680408-senior-staff-product-designer) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at ServiceNow was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Staff Product Designer, Growth at Calendly
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Calendly](https://scoutify.ai/companies/calendly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calendly/jobs/8433472002) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at Calendly was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

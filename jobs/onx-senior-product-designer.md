@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Senior Product Designer at onX
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [onX](https://scoutify.ai/companies/onx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 15 locations |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/onxmaps/jobs/4651401006) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at onX was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

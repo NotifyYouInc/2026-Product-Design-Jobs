@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# UX Design Internship 2026  at Lucid
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [Lucid](https://scoutify.ai/companies/lucidsoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6aa1e738-2cff-4ce8-9bf4-e163c36c95ea) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidsoftware/jobs/5811103004) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-23.
+This ux researcher position at Lucid was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

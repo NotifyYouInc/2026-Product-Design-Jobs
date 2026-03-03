@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Digital Design Engineer at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6aa1e738-2cff-4ce8-9bf4-e163c36c95ea) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/914381437823152) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-23.
+This semiconductor / chip design position at Meta was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

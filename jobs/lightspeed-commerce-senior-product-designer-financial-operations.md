@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/6488020) |
+| Location | 2 locations |
+| Category | Product Designer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7643423) |
 
 ## About This Role
 
-This corporate finance position at Lightspeed Commerce was posted on 2026-02-13.
+This product designer position at Lightspeed Commerce was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Interface Designer at Snapchat
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0044689) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at Snapchat was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

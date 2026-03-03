@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# UX Designer at Magnet Forensics
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [Magnet Forensics](https://scoutify.ai/companies/magnetforensics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sweden |
+| Category | UX Researcher |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6aa1e738-2cff-4ce8-9bf4-e163c36c95ea) |
+| Apply | [View on company site](https://jobs.lever.co/magnetforensics/a95575f6-6325-4a4d-b322-3f706ebfe3e3) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-23.
+This ux researcher position at Magnet Forensics was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

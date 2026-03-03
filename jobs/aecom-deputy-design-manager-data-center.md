@@ -1,16 +1,16 @@
-# Design Manager at Gensler
+# Deputy Design Manager, Data Center at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | Project Manager |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Munich-Germany/Design-Manager_R-17064) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110890025-deputy-design-manager-data-center) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-02-21.
+This project manager position at AECOM was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

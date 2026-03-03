@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Associate Manager, Hot Wheels Tracks & Playsets at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | El Segundo, California, United States |
 | Category | Product Designer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639841003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000110888445-associate-manager-hot-wheels-tracks-playsets) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-02-23.
+This product designer position at Mattel was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

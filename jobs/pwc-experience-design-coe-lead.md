@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Experience Design CoE Lead at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6aa1e738-2cff-4ce8-9bf4-e163c36c95ea) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Experience-Design-CoE-Lead_706126WD) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-02-23.
+This product manager position at PwC was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

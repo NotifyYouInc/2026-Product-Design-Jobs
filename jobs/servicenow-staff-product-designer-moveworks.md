@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107374825-staff-product-designer-moveworks) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000110859535-staff-product-designer-moveworks) |
 
 ## About This Role
 
-This product designer position at ServiceNow was posted on 2026-02-04.
+This product designer position at ServiceNow was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
