@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-04/Principal-Design-Engineer_R52319-1) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Design-Engineer_R52703) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-02-18.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

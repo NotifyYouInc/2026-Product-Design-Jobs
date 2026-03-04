@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR90555) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR92316) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-02-18.
+This embedded / firmware engineer position at Micron was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

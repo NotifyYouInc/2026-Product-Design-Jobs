@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Product Designer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000109932787-lead-game-designer-pcconsole-premium) |
+| Category | Product Manager |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000110226617-lead-game-designer-pcconsole-premium) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-02-18.
+This product manager position at Gameloft was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

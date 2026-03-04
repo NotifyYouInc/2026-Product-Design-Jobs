@@ -1,16 +1,16 @@
-# Design Manager - Data Centers at AECOM
+# Design Manager (Data Centers) at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Colombia |
 | Category | Project Manager |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000106446925-design-manager-data-centers) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000111178685-design-manager-data-centers) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-01-30.
+This project manager position at AECOM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

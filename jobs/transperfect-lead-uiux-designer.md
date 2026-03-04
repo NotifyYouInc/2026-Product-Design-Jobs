@@ -5,12 +5,12 @@
 | Company | [TransPerfect](https://scoutify.ai/companies/transperfect?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York, US |
 | Category | UX Researcher |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Lead-UI-UX-Designer_R2025-243211) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Lead-UI-UX-Designer_R2025-243282) |
 
 ## About This Role
 
-This ux researcher position at TransPerfect was posted on 2026-02-11.
+This ux researcher position at TransPerfect was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
