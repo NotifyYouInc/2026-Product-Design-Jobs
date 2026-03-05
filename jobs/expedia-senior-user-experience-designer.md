@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-User-Experience-Designer_R-100865-1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-User-Experience-Designer_R-102645-1) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-02-02.
+This product designer position at Expedia was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

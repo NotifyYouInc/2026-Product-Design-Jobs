@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | UX Researcher |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000108908854-user-experience-designer) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111310354-user-experience-designer) |
 
 ## About This Role
 
-This ux researcher position at Arista Networks was posted on 2026-02-12.
+This ux researcher position at Arista Networks was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

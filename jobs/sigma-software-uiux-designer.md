@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Albania |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000108237256-uiux-designer) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000111451991-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Sigma Software was posted on 2026-02-09.
+This product designer position at Sigma Software was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Electrical Design Engineer – Low Voltage at AFRY
+
+| Field | Details |
+|-------|---------|
+| Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111371205-electrical-design-engineer-low-voltage) |
+
+## About This Role
+
+This electrical / hardware engineer position at AFRY was posted on 2026-02-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

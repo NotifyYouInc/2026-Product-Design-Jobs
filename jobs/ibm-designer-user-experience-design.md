@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Perth, Western Australia, Australia |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=84318) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96477) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-02-02.
+This product designer position at IBM was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

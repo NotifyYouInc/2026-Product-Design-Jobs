@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
-| Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000106873250-ux-designer-hf) |
+| Location | Paris, Île-de-France, France |
+| Category | UX Researcher |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111429425-ux-designer-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-02-02.
+This ux researcher position at Nexton was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
