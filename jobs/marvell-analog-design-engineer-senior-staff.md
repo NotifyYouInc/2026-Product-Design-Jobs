@@ -1,16 +1,16 @@
-# FPGA Design Engineer - Ireland at Arista Networks
+# Analog Design Engineer, Senior Staff at Marvell
 
 | Field | Details |
 |-------|---------|
-| Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111602395-fpga-design-engineer-ireland) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Design-Engineer--Senior-Staff_2600469) |
 
 ## About This Role
 
-This semiconductor / chip design position at Arista Networks was posted on 2026-02-26.
+This semiconductor / chip design position at Marvell was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

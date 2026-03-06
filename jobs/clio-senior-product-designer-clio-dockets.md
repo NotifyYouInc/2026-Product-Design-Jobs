@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Senior Product Designer, Clio Dockets at Clio
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011873376-staff-product-designer-temporary) |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Vancouver/Senior-Product-Designer--Practice-Areas_BF-REQ-3669) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-26.
+This product designer position at Clio was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

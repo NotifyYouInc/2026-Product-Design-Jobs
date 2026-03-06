@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Product Design Manager (m/f/d) at Awin
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2401803333573961) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7645730003) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-21.
+This product designer position at Awin was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

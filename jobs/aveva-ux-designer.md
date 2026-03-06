@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# UX Designer at AVEVA
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cambridge, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Home-Office-United-Kingdom/UX-Designer_R013342-1) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at AVEVA was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

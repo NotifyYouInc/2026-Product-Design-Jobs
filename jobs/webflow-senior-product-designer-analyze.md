@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer, Analyze at Webflow
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | British Columbia, CA |
 | Category | Product Designer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2401803333573961) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/7658245) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-21.
+This product designer position at Webflow was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

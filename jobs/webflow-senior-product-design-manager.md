@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior Product Design Manager at Webflow
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | UX Researcher |
+| Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
+| Category | Product Manager |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/7658221) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This product manager position at Webflow was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Senior Manager, Product Design at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011873376-staff-product-designer-temporary) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Product-Design_R236891) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-26.
+This product designer position at Capital One was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

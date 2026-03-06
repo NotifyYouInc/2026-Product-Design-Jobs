@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior Product Designer at OpenEye
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [OpenEye](https://scoutify.ai/companies/openeye?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Washington, US |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8438358002) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at OpenEye was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

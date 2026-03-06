@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# 【2026 趨勢科技暑期實習】Visual Designer at Trend Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Designer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011873376-staff-product-designer-temporary) |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--2026--Visual-Designer_R0009186) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-26.
+This product designer position at Trend Micro was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

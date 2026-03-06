@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# UX Designer (hybrid) at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/UX-Designer--hybrid-_R26381) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at Allstate was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

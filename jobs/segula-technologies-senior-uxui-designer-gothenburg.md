@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Senior UX/UI Designer - Gothenburg at SEGULA Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sweden |
 | Category | Product Designer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011873376-staff-product-designer-temporary) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000111577665-senior-uxui-designer-gothenburg) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-26.
+This product designer position at SEGULA Technologies was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

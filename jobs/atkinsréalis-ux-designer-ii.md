@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# UX Designer II at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/INNoida-BPTP-Capital-City/UX-Designer-II_R-149588-1) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at AtkinsRéalis was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

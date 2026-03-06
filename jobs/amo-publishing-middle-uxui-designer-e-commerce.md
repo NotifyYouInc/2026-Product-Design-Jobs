@@ -5,12 +5,12 @@
 | Company | [Amo Publishing](https://scoutify.ai/companies/amo-publishing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ukraine |
 | Category | Product Designer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://jobs.eu.lever.co/amo/d9784f73-c0a7-4bff-82e3-08c1fe69ee42) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.eu.lever.co/amo/f3c408cf-bb85-4582-aa27-cac3c4632480) |
 
 ## About This Role
 
-This product designer position at Amo Publishing was posted on 2026-01-30.
+This product designer position at Amo Publishing was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

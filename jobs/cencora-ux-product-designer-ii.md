@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# UX Product Designer II at Cencora
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Delaware, US |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/UX-Product-Designer-II_R263312) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at Cencora was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

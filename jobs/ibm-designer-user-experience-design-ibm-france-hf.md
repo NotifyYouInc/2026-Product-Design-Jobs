@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Designer - User Experience Design- IBM France H/F at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | France |
 | Category | Product Designer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2401803333573961) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96164) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-21.
+This product designer position at IBM was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer - Temporary at Achieve
+# Senior CMF Designer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Designer |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990011873376-staff-product-designer-temporary) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Senior-CMF-Designer_572736-2) |
 
 ## About This Role
 
-This product designer position at Achieve was posted on 2026-02-26.
+This product designer position at Philips was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

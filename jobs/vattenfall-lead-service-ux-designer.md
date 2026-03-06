@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Lead Service & UX Designer  at Vattenfall
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sweden |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000111645045-lead-service-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at Vattenfall was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

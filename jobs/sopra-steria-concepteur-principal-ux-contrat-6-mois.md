@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Concepteur principal UX (Contrat – 6 mois) at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Québec, Quebec, Canada |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111660085-concepteur-principal-ux-contrat-6-mois) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at Sopra Steria was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

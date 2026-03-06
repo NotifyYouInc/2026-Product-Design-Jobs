@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior Designer at Field AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | UX Researcher |
+| Company | [Field AI](https://scoutify.ai/companies/field-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Irvine, California, United States |
+| Category | Marketing |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://jobs.lever.co/field-ai/769698c3-d074-47af-8d46-014f7a0f08b0) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This marketing position at Field AI was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

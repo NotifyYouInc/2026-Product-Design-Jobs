@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# [Job- 27773] Senior Product Designer, Brazil. at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2401803333573961) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/27aec799-2c16-45fc-a945-3f092dfebfbd) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-21.
+This product designer position at Ciandt was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

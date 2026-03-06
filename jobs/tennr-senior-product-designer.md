@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior Product Designer at Tennr
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Tennr](https://scoutify.ai/companies/tennr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/tennr/jobs/81hidB8-senior-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at Tennr was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000106947858-product-designer) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000111721424-product-designer) |
 
 ## About This Role
 
-This product designer position at bet365 was posted on 2026-02-02.
+This product designer position at bet365 was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

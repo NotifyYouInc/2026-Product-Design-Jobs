@@ -1,16 +1,16 @@
-# RTL Design Engineer at Intel
+# Staff IP Logic Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0276596) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Singapore/Staff-IP-Logic-Design-Engineer_JR0281286) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-02-23.
+This semiconductor / chip design position at Intel was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

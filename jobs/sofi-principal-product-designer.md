@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Principal Product Designer at SoFi
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | UX Researcher |
+| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://sofi.com/careers/job/7605986003?gh_jid=7605986003) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This product manager position at SoFi was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

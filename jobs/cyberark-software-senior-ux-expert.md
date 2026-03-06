@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior UX Expert at CyberArk Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Israel |
 | Category | UX Researcher |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111676487-product-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000111567575-senior-ux-expert) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-02-26.
+This ux researcher position at CyberArk Software was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

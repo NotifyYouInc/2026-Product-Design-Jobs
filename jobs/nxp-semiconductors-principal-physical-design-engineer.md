@@ -1,16 +1,16 @@
-# FPGA Design Engineer - Ireland at Arista Networks
+# Principal Physical Design Engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111602395-fpga-design-engineer-ireland) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Principal-Physical-Design-Engineer_R-10061932) |
 
 ## About This Role
 
-This semiconductor / chip design position at Arista Networks was posted on 2026-02-26.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
