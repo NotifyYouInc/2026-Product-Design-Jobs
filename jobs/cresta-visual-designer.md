@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Visual Designer  at Cresta
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | Marketing |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5136474008) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This marketing position at Cresta was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

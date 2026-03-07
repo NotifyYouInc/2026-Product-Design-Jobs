@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Senior Product Designer, Storefront at DoorDash
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Product Designer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7661731) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This product designer position at DoorDash was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

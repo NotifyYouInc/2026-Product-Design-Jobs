@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# 2026 UX Design Intern at Graphcore
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bristol, England, United Kingdom |
+| Category | UX Researcher |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8441350002) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This ux researcher position at Graphcore was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

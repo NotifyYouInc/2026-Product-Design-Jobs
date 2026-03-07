@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# UX Designer at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/UX-Designer_JR-0104420) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product designer position at Workday was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

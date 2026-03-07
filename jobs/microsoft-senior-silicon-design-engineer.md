@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Senior Silicon Design Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556813868) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This semiconductor / chip design position at Microsoft was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

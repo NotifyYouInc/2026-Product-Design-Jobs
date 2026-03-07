@@ -1,16 +1,16 @@
-# Design Engineer, Google Cloud, Networking at Google
+# Senior Packaging Design Engineer, Silicon at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/83956364409217734-design-engineer-google-cloud-networking?sort_by=date&page=1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/107454228196139718-senior-packaging-design-engineer-silicon?sort_by=date&page=1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-24.
+This semiconductor / chip design position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

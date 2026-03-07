@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Product Designer at H1
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [H1](https://scoutify.ai/companies/h1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | UX Researcher |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://jobs.lever.co/h1/67f12730-96c2-4695-b1b7-415fa7d31a7c) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This ux researcher position at H1 was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

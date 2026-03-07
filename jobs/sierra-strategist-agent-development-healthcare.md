@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Strategist, Agent Development - Healthcare at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York, US |
-| Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Category | Product Manager |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/ebe951fb-8e8d-4bff-a499-e19010018f3b) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product manager position at Sierra was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

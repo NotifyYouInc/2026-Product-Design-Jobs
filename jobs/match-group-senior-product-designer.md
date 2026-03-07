@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer at Match Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Match Group](https://scoutify.ai/companies/matchgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.lever.co/matchgroup/321d7376-38af-446f-b407-1ded932c89cc) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product designer position at Match Group was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

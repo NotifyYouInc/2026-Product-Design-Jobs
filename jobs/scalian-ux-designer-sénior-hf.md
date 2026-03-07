@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# UX Designer sénior (H/F) at Scalian
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montpellier, Occitanie, France |
+| Category | UX Researcher |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000111860287-ux-designer-senior-hf) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This ux researcher position at Scalian was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

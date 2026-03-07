@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# EMC Design Engineer (University Grad) at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
-| Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Location | Redmond, Washington, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1332935228583174) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This electrical / hardware engineer position at Meta was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

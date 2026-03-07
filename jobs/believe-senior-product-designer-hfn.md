@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer (H/F/N) at Believe
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000111857361-senior-product-designer-hfn) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product designer position at Believe was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

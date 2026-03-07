@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Senior Product Designer, Reconciliation at Ripple
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | UX Researcher |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7661072?gh_jid=7661072) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This ux researcher position at Ripple was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

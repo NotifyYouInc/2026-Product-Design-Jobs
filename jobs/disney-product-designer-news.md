@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Product Designer (News) at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Designer--News-_10143659-1) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product designer position at Disney was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

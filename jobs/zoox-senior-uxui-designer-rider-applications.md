@@ -1,16 +1,16 @@
-# Physical Design Engineer at IBM
+# Senior UX/UI Designer, Rider Applications at Zoox
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Semiconductor / Chip Design |
+| Company | [Zoox](https://scoutify.ai/companies/zoox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Foster City, California, United States |
+| Category | Product Designer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97622) |
+| Apply | [View on company site](https://jobs.lever.co/zoox/97d4c889-56c1-4b43-bd3a-97060a698d3b) |
 
 ## About This Role
 
-This semiconductor / chip design position at IBM was posted on 2026-02-27.
+This product designer position at Zoox was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

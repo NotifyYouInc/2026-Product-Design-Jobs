@@ -1,16 +1,16 @@
-# Product Designer, Senior Associate Level at Capital One
+# Lead Product Designer (50% Travel to Saudi Arabia) at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Designer--Senior-Associate-Level_R236836-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7641166?gh_jid=7641166) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-02-26.
+This product designer position at Thoughtworks was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

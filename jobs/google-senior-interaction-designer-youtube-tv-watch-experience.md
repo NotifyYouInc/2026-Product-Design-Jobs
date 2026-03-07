@@ -1,16 +1,16 @@
-# Design Engineer, Google Cloud, Networking at Google
+# Senior Interaction Designer, YouTube TV, Watch Experience at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/83956364409217734-design-engineer-google-cloud-networking?sort_by=date&page=1) |
+| Location | San Bruno, California, United States |
+| Category | Product Designer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115234751505146566-senior-interaction-designer-youtube-tv-watch-experience?sort_by=date&page=1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-24.
+This product designer position at Google was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

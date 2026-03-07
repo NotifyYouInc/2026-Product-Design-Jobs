@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Staff Product Designer, Enterprise at Grammarly
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Grammarly](https://scoutify.ai/companies/grammarly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1063482652642005) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grammarly/jobs/7663989) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-24.
+This product designer position at Grammarly was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 
