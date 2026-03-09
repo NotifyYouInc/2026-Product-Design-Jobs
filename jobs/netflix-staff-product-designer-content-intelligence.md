@@ -1,16 +1,16 @@
-# Staff Product Designer, Design Systems at Airwallex
+# Staff Product Designer - Content Intelligence at Netflix
 
 | Field | Details |
 |-------|---------|
-| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/876be0a8-7dfc-4498-a0a2-514e367ca574) |
+| Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Staff-Product-Designer---Content-Intelligence_JR39214) |
 
 ## About This Role
 
-This product designer position at Airwallex was posted on 2026-03-02.
+This product designer position at Netflix was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

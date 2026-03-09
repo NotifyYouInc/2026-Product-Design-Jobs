@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# UI/UX Engineer at Egis
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a36e2b47-94d0-44fa-9255-af78390e172d) |
+| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Philippines |
+| Category | Product Designer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000112071228-uiux-engineer) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-01.
+This product designer position at Egis was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

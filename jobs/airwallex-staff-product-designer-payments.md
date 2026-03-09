@@ -1,16 +1,16 @@
-# Staff Product Designer, Design Systems at Airwallex
+# Staff Product Designer - Payments at Airwallex
 
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/876be0a8-7dfc-4498-a0a2-514e367ca574) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/6967e797-5f56-495c-9ba1-28114fbb3409) |
 
 ## About This Role
 
-This product designer position at Airwallex was posted on 2026-03-02.
+This product designer position at Airwallex was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Product Designer at Thatch
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Thatch](https://scoutify.ai/companies/thatch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | Product Designer |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a36e2b47-94d0-44fa-9255-af78390e172d) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thatch/jobs/5136655008) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-01.
+This product designer position at Thatch was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 
