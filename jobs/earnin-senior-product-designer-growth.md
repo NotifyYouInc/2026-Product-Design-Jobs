@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7579191) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7662836) |
 
 ## About This Role
 
-This product designer position at EarnIn was posted on 2026-02-02.
+This product designer position at EarnIn was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

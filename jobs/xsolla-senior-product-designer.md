@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Georgia, US |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/644c88dd-0f4b-43ca-8b4f-0a9ac77ea43e) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/2a7228c0-2295-477a-bdc3-4b1cd9f2591b) |
 
 ## About This Role
 
-This product designer position at Xsolla was posted on 2026-02-17.
+This product designer position at Xsolla was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

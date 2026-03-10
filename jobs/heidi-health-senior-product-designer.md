@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/d4fca974-4af4-4dba-8957-1296ab295613) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/21728c5f-8a8e-464b-b5c9-43bcf18303b4) |
 
 ## About This Role
 
-This product designer position at Heidi Health was posted on 2026-02-17.
+This product designer position at Heidi Health was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

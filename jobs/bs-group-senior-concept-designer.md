@@ -5,12 +5,12 @@
 | Company | [B&S Group](https://scoutify.ai/companies/bsgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Oud-Beijerland, South Holland, The Netherlands |
 | Category | Product Designer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BSGroup/744000109927080-senior-concept-designer) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BSGroup/744000112138768-senior-concept-designer) |
 
 ## About This Role
 
-This product designer position at B&S Group was posted on 2026-02-18.
+This product designer position at B&S Group was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Quebec, CA |
 | Category | UX Researcher |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111147635-lead-ux-designer-contrat-6-mois) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111464595-lead-ux-designer-contrat-6-mois) |
 
 ## About This Role
 
-This ux researcher position at Sopra Steria was posted on 2026-02-24.
+This ux researcher position at Sopra Steria was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
