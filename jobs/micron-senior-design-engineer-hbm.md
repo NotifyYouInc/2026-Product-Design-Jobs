@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Design-Engineer--HBM_JR89716) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Design-Engineer--HBM_JR93093-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-02-25.
+This semiconductor / chip design position at Micron was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

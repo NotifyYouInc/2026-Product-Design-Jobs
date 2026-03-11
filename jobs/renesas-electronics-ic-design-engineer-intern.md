@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111409650-ic-design-engineer-intern) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112447847-ic-design-engineer-intern) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-02-25.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

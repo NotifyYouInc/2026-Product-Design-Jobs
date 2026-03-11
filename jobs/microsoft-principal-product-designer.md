@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Cambridge, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768668) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556816819) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-02-24.
+This product designer position at Microsoft was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

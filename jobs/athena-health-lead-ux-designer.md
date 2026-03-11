@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Lead-UX-Designer_R14375) |
+| Location | Boston, Massachusetts, United States |
+| Category | UX Researcher |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Lead-UX-Designer_R14538) |
 
 ## About This Role
 
-This product designer position at Athena Health was posted on 2026-02-06.
+This ux researcher position at Athena Health was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

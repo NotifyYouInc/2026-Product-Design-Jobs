@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111374299-electrical-design-engineer-photovoltaic-system) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111760410-electrical-design-engineer-photovoltaic-system) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AFRY was posted on 2026-02-25.
+This electrical / hardware engineer position at AFRY was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
