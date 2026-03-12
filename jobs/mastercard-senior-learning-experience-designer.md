@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Toronto, Ontario, Canada |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Senior-Learning-Experience-Designer_R-271457) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Learning-Experience-Designer_R-271523) |
 
 ## About This Role
 
-This ux writer & content designer position at Mastercard was posted on 2026-02-24.
+This ux writer & content designer position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

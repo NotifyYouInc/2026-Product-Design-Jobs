@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Product Designer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000107075050-principal-designer-content-discovery) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000112711868-principal-designer-content-discovery) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-02-03.
+This product designer position at NBCUniversal was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

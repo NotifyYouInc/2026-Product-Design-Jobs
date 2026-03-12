@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7539751?gh_jid=7539751) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7676796?gh_jid=7676796) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-02-24.
+This product designer position at Okta was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

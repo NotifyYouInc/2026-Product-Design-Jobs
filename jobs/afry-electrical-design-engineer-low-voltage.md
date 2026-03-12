@@ -6,7 +6,7 @@
 | Location | Manila, National Capital Region, Philippines |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111760382-electrical-design-engineer-low-voltage) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111816055-electrical-design-engineer-low-voltage) |
 
 ## About This Role
 

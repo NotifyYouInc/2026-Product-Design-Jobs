@@ -6,7 +6,7 @@
 | Location | Manila, National Capital Region, Philippines |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111760410-electrical-design-engineer-photovoltaic-system) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000111818308-electrical-design-engineer-photovoltaic-system) |
 
 ## About This Role
 

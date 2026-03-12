@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111602395-fpga-design-engineer-ireland) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111839165-fpga-design-engineer-ireland) |
 
 ## About This Role
 
-This semiconductor / chip design position at Arista Networks was posted on 2026-02-26.
+This semiconductor / chip design position at Arista Networks was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

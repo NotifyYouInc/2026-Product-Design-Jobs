@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Shanghai, Shanghai, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Circuit-Calibration-Design-Engineer_JR2013326) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Calibration-Design-Engineer_JR2013858) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Nvidia was posted on 2026-02-19.
+This embedded / firmware engineer position at Nvidia was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

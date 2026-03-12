@@ -5,12 +5,12 @@
 | Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/fa1430a2-a5d8-407a-b394-39b81eeab4a3) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/97897ce3-7976-4ca5-b798-62518f9f8de3) |
 
 ## About This Role
 
-This product designer position at Photoroom was posted on 2026-02-19.
+This product designer position at Photoroom was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

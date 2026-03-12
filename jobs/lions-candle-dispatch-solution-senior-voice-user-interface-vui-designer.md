@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | UX Researcher |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000111341890-senior-voice-user-interface-vui-designer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000112678187-senior-voice-user-interface-vui-designer) |
 
 ## About This Role
 
-This ux researcher position at Lions Candle-Dispatch Solution was posted on 2026-02-25.
+This ux researcher position at Lions Candle-Dispatch Solution was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000109884787-senior-analog-design-engineer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112617378-senior-analog-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-02-18.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
