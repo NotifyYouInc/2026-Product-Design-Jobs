@@ -1,16 +1,16 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# Senior CPU RTL Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-CPU-RTL-Design-Engineer_JR0281447) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-05.
+This semiconductor / chip design position at Intel was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

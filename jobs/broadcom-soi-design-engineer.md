@@ -1,16 +1,16 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# SOI Design Engineer at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Korea-Seoul-HiBrand/SOI-Design-Engineer_R025342) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-05.
+This semiconductor / chip design position at Broadcom was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

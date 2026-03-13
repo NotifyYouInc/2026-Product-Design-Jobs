@@ -1,16 +1,16 @@
-# UX Designer/ka at 2N TELEKOMUNIKACE a.s.
+# Data Visualization Designer I- Mobility at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000112895927-ux-designerka) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Data-Visualization-Designer-I--Mobility_326009-1) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-03-05.
+This product designer position at S&P Global was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

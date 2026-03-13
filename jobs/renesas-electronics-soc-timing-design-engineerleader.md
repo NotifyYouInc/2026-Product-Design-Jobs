@@ -1,12 +1,12 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# SoC Timing Design Engineer/Leader at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Location | Kodaira, Tokyo, Japan |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112846904-soc-timing-design-engineerleader) |
 
 ## About This Role
 

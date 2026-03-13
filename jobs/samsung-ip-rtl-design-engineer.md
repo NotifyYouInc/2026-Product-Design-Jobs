@@ -1,16 +1,16 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# IP RTL Design Engineer at Samsung
 
 | Field | Details |
 |-------|---------|
-| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/SSIR-Goldstone-Bangalore-India/IP-RTL-Design-Engineer_R115142) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-05.
+This semiconductor / chip design position at Samsung was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

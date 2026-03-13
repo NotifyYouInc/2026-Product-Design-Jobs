@@ -1,16 +1,16 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# Senior Design Engineer, Chip Design at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Design-Engineer--Chip-Design_JR2013950) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-05.
+This semiconductor / chip design position at Nvidia was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

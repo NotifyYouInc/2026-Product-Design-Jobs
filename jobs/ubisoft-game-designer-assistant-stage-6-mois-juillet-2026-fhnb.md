@@ -1,16 +1,16 @@
-# UX Designer/ka at 2N TELEKOMUNIKACE a.s.
+# Game Designer Assistant - Stage (6 mois) Juillet 2026 (F/H/NB) at Ubisoft
 
 | Field | Details |
 |-------|---------|
-| Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000112895927-ux-designerka) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112892693-game-designer-assistant-stage-6-mois-juillet-2026-fhnb) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-03-05.
+This product designer position at Ubisoft was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

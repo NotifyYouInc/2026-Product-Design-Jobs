@@ -1,16 +1,16 @@
-# UX Designer/ka at 2N TELEKOMUNIKACE a.s.
+# Engineer - Design Lead at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Richmond, Virginia, United States |
 | Category | Product Designer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000112895927-ux-designerka) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/US-Richmond-VA/Engineer---Design-Lead_R-101954) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-03-05.
+This product designer position at Eli Lilly was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Connector design engineer at Robert Bosch
+# Traffic Signal Design Engineer at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112889041-connector-design-engineer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Traffic-Signal-Design-Engineer_R-149107-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-03-05.
+This electrical / hardware engineer position at AtkinsRéalis was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

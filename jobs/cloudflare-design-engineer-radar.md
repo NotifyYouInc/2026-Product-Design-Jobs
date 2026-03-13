@@ -1,16 +1,16 @@
-# Senior Product Designer at Mercor
+# Design Engineer, Radar at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/fa165009-f687-48da-a141-ca49593336e5) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7449149?gh_jid=7449149) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-03-03.
+This product designer position at Cloudflare was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer/ka at 2N TELEKOMUNIKACE a.s.
+# Product Designer at ActiveCampaign
 
 | Field | Details |
 |-------|---------|
-| Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [ActiveCampaign](https://scoutify.ai/companies/activecampaign-llc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Product Designer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000112895927-ux-designerka) |
+| Apply | [View on company site](https://jobs.lever.co/activecampaign/3a24eca7-efee-4b15-bfac-4b7e6c6e925b) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-03-05.
+This product designer position at ActiveCampaign was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

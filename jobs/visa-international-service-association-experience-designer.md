@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | UX Researcher |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111876240-experience-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111935395-experience-designer) |
 
 ## About This Role
 

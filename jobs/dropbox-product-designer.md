@@ -1,16 +1,16 @@
-# Senior Product Designer at Mercor
+# Product Designer at Dropbox
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Poland |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/fa165009-f687-48da-a141-ca49593336e5) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/7608901?gh_jid=7608901) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-03-03.
+This product designer position at Dropbox was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Mercor
+# UX/UI Designer, Mid at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/fa165009-f687-48da-a141-ca49593336e5) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/UX-UI-Designer--Mid_R0235277) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-03-03.
+This product designer position at Booz Allen was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

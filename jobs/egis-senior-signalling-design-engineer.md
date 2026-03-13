@@ -1,16 +1,16 @@
-# Electrical Design Engineer (Industrial Automation) at Qualdoc
+# Senior Signalling Design Engineer at Egis
 
 | Field | Details |
 |-------|---------|
-| Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Midlothian, Texas, United States |
+| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/fdde5e58-253b-4266-87c7-484f15e65b05) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000113076107-senior-signalling-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-03-02.
+This electrical / hardware engineer position at Egis was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

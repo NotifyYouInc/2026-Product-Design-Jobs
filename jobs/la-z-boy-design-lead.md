@@ -1,16 +1,16 @@
-# Senior Product Designer at Mercor
+# Design Lead at La-Z-Boy
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | McDonough, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/fa165009-f687-48da-a141-ca49593336e5) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/489-McDonough-GA/Design-Lead_JR130684) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-03-03.
+This product designer position at La-Z-Boy was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

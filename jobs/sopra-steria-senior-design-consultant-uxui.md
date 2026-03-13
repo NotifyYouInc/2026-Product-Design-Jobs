@@ -1,16 +1,16 @@
-# UX Designer/ka at 2N TELEKOMUNIKACE a.s.
+# Senior Design Consultant (UX/UI) at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Rome, Lazio, Italy |
 | Category | Product Designer |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000112895927-ux-designerka) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112963547-senior-design-consultant-uxui) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-03-05.
+This product designer position at Sopra Steria was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Romania |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000111879051-senior-analog-mixed-design-engineer-for-microelectronics-integration-design-center-a-ot-tm) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000112223122-senior-analog-mixed-design-engineer-for-microelectronics-integration-design-center-a-ot-tm) |
 
 ## About This Role
 
-This semiconductor / chip design position at Aumovio was posted on 2026-02-27.
+This semiconductor / chip design position at Aumovio was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

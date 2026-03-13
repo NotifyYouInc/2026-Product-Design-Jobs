@@ -1,16 +1,16 @@
-# 인턴채용 - Analog Design Engineer at Renesas Electronics
+# Staff/Principal Core Design Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | South Korea |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112857702-analog-design-engineer) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Principal-Core-Design-Engineer_JR93442) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-05.
+This semiconductor / chip design position at Micron was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
