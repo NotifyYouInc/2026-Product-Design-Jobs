@@ -1,12 +1,12 @@
-# Product Designer at Meta
+# Product Designer, Manus at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1242734691171603) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1214647897532226) |
 
 ## About This Role
 

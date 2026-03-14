@@ -1,16 +1,16 @@
-# Product Designer (UX) at Bjak
+# Senior UX Designer, International Seller Services at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb4ff8fd-a651-4c0a-b6f9-e660800f95b4) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198007/senior-ux-designer-international-seller-services) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-03-06.
+This ux researcher position at Amazon was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

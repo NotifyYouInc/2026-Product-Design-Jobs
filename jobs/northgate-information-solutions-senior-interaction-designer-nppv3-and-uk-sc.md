@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000107512069-senior-interaction-designer-nppv3-and-uk-sc) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000113175627-senior-interaction-designer-nppv3-and-uk-sc) |
 
 ## About This Role
 
-This product designer position at Northgate Information Solutions was posted on 2026-02-05.
+This product designer position at Northgate Information Solutions was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

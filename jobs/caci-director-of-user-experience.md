@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Director of User Experience at CACI
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
+| Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Director-of-User-Experience_322698) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This ux researcher position at CACI was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

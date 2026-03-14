@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Digital designer UX/UI at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Product Designer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1242734691171603) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113118457-digital-designer-uxui) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-07.
+This product designer position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

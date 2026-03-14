@@ -1,16 +1,16 @@
-# Principal Physical Design Engineer at NXP Semiconductors
+# Logic Design Engineer CG at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Principal-Physical-Design-Engineer_R-10062013) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Logic-Design-Engineer-CG_JR0280957) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-06.
+This semiconductor / chip design position at Intel was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

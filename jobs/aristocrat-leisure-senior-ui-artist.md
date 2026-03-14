@@ -1,16 +1,16 @@
-# Senior Game Designer (Gameplay Expert) at Gameloft
+# Senior UI Artist at Aristocrat Leisure
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000112385433-senior-game-designer-gameplay-expert) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Product-Madness---Barcelona/Senior-Associate-Game-Artist_R0019208-1) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-03-03.
+This product designer position at Aristocrat Leisure was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

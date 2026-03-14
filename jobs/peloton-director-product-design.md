@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Director, Product Design at Peloton
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Peloton](https://scoutify.ai/companies/peloton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
+| Category | Product Designer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7650901) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product designer position at Peloton was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

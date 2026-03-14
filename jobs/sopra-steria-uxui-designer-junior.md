@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# UX/UI Designer Junior at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Italy |
+| Category | Product Designer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113110417-uxui-designer-junior) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product designer position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

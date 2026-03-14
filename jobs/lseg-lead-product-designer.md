@@ -1,16 +1,16 @@
-# Product Designer (UX) at Bjak
+# Lead Product Designer at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb4ff8fd-a651-4c0a-b6f9-e660800f95b4) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Lead-Product-Designer_R0116981-1) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-03-06.
+This ux researcher position at LSEG was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Senior Product Designer, Mail at Grammarly
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Grammarly](https://scoutify.ai/companies/grammarly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grammarly/jobs/7660257) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This ux researcher position at Grammarly was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

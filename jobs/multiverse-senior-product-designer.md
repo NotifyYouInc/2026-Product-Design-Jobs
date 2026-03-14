@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer at Multiverse
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Multiverse](https://scoutify.ai/companies/multiverse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1242734691171603) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/multiverse/cbddb4ed-6c44-450d-ac0f-bcb3b740e75b) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-07.
+This product designer position at Multiverse was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

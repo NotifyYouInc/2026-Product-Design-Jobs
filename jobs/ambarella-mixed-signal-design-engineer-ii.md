@@ -1,16 +1,16 @@
-# Principal Physical Design Engineer at NXP Semiconductors
+# Mixed Signal Design Engineer II at Ambarella
 
 | Field | Details |
 |-------|---------|
-| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Ambarella](https://scoutify.ai/companies/ambarella?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Principal-Physical-Design-Engineer_R-10062013) |
+| Apply | [View on company site](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Design-Engineer-II_JR100095-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-06.
+This semiconductor / chip design position at Ambarella was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

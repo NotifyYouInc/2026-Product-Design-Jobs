@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Manager, Design, NEF at Coca-Cola
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1242734691171603) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/EG-AQ-EGYPT-OFFICE/Senior-Manager--Design--NEF_R-135074-1) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-07.
+This product designer position at Coca-Cola was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

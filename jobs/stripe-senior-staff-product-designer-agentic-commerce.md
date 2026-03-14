@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Senior Staff Product Designer, Agentic Commerce at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | Product Designer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7688069) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product designer position at Stripe was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

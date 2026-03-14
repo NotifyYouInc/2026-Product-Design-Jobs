@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Senior Product Designer - Onchain Options Trading at Kraken
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Kraken](https://scoutify.ai/companies/kraken?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/72d227da-03d9-4f43-83fd-c61ae574c5f8) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product designer position at Kraken was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

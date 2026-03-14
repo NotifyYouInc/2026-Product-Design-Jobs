@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Senior Product Designer at Taktile
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Taktile](https://scoutify.ai/companies/taktile?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Product Designer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/taktile/72cf9577-c829-47d6-8768-39d041308c02) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product designer position at Taktile was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

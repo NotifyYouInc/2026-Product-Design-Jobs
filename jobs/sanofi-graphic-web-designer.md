@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Graphic & Web Designer at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Marketing |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Graphic---Web-Designer_R2845216) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This marketing position at Sanofi was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Denmark |
 | Category | UX Researcher |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000112192027-experienced-product-designer-uxui-shape-meaningful-saas-product-experiences-12-months-cover) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000112236867-experienced-product-designer-uxui-shape-meaningful-saas-product-experiences-12-months-cover) |
 
 ## About This Role
 

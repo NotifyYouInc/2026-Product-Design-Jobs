@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# UI/UX Designer at Banyan Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Banyan Software](https://scoutify.ai/companies/banyan-software?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1242734691171603) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/banyansoftware/jobs/4940816007) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-07.
+This product designer position at Banyan Software was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

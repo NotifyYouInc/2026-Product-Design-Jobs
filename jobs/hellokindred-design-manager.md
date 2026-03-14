@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Design Manager at HelloKindred
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Marketing |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012021996-design-manager) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This marketing position at HelloKindred was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer (UX) at Bjak
+# UX UI ANALYST II at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb4ff8fd-a651-4c0a-b6f9-e660800f95b4) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4667094005?gh_jid=4667094005) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-03-06.
+This ux researcher position at Inter Carreiras was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Design Director, Battle Pass at Epic Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5820689004?gh_jid=5820689004) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This product manager position at Epic Games was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

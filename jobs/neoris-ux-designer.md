@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# UX Designer at Neoris
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Quito, Pichincha, Ecuador |
+| Category | UX Researcher |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a5aaec23-a2e0-49c2-b6ec-852fdb356600) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4799815101) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-03-06.
+This ux researcher position at Neoris was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
