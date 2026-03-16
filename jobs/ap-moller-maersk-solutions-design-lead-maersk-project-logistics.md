@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Selangor-Petaling-Jaya-47400/Solutions-Design-Lead--Maersk-Project-Logistics-_R173689) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Selangor-Petaling-Jaya-47400/Solutions-Design-Lead--Maersk-Project-Logistics-_R175194) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-02-19.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
