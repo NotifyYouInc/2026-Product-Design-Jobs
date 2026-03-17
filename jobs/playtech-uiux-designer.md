@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000108761827-uiux-designer) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113441343-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Playtech was posted on 2026-02-11.
+This product designer position at Playtech was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

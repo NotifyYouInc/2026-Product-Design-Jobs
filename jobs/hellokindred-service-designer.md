@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011926166-service-designer) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011969165-service-designer) |
 
 ## About This Role
 
-This product designer position at HelloKindred was posted on 2026-03-02.
+This product designer position at HelloKindred was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

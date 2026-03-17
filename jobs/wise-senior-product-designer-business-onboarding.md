@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108728381-senior-product-designer-business-onboarding) |
+| Category | Product Designer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113455137-senior-product-designer-business-onboarding) |
 
 ## About This Role
 
-This customer success position at WISE was posted on 2026-02-11.
+This product designer position at WISE was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

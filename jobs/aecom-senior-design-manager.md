@@ -1,16 +1,16 @@
-# Senior Design Manager at AECOM
+# Senior Design Manager  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Program Manager |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000106779537-senior-design-manager) |
+| Location | Edinburgh, Scotland, United Kingdom |
+| Category | Project Manager |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000113444717-senior-design-manager) |
 
 ## About This Role
 
-This program manager position at AECOM was posted on 2026-02-02.
+This project manager position at AECOM was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

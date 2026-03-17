@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Staff-Experience-Designer_R0134219-1) |
+| Location | 2 locations |
+| Category | UX Researcher |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Experience-Designer_R0133704-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-02-23.
+This ux researcher position at PayPal was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
