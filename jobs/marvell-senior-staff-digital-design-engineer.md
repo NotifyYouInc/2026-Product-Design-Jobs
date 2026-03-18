@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Vietnam |
+| Location | Ottawa, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-Digital-Design-Engineer_2600498) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Senior-Staff-Digital-Design-Engineer_2600599) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-02-27.
+This semiconductor / chip design position at Marvell was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

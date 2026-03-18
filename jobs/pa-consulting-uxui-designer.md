@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000106859675-uxui-designer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000113790107-uxui-designer) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-02-02.
+This product designer position at PA Consulting was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

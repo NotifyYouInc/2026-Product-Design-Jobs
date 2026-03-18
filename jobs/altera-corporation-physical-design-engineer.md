@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | New Delhi, Delhi, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R01471) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/New-Delhi-India-Remote/Physical-Design-Engineer_R02149-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-02-23.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

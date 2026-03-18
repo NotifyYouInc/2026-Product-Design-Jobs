@@ -5,12 +5,12 @@
 | Company | [Kernel](https://scoutify.ai/companies/kernel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kernel/f903c994-75c9-4f56-9f95-e57c7ee07d8b) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kernel/18ef4bfe-e597-4811-9897-3ae2a8ffcece) |
 
 ## About This Role
 
-This ux researcher position at Kernel was posted on 2026-02-17.
+This ux researcher position at Kernel was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
