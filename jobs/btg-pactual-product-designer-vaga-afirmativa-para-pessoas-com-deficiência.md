@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# Product Designer | Vaga Afirmativa para Pessoas com Deficiência at BTG Pactual
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5822789004) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at BTG Pactual was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

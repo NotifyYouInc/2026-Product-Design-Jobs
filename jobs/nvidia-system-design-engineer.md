@@ -1,16 +1,16 @@
-# Senior Mixed-Signal Design Engineer at Nvidia
+# System Design Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2013975) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer_JR2014482-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-03-10.
+This electrical / hardware engineer position at Nvidia was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

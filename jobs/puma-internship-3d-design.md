@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# Internship 3D Design at Puma
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Herzogenaurach, Bavaria, Germany |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Internship-3D-Design_R40316) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at Puma was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

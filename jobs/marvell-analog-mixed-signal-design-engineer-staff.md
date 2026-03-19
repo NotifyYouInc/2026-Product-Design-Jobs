@@ -1,16 +1,16 @@
-# Principal Analog Design Engineer at NXP Semiconductors
+# Analog Mixed Signal Design Engineer, Staff at Marvell
 
 | Field | Details |
 |-------|---------|
-| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Toulouse/Principal-Analog-Design-Engineer_R-10061795) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Mixed-Signal-Design-Engineer--Staff_2600081) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-11.
+This semiconductor / chip design position at Marvell was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

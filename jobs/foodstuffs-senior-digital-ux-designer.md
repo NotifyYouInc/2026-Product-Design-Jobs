@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Senior Digital UX Designer at Foodstuffs
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indiana, US |
+| Company | [Foodstuffs](https://scoutify.ai/companies/foodstuffs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | UX Researcher |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Indiana-USA---Remote/Principal-User-Experience-Designer_26WD96375) |
+| Apply | [View on company site](https://jobs.lever.co/foodstuffs/053a9da5-dc7b-4d0f-8cc6-7a25a7ebd67c) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-11.
+This ux researcher position at Foodstuffs was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

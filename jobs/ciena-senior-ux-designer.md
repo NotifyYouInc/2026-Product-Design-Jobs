@@ -1,16 +1,16 @@
-# UX Designer at Robert Bosch
+# Senior UX Designer at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | UX Researcher |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113644356-ux-designer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/India--Pune--Panchshil-Tower-C/Senior-UX-Designer_R030385) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-03-10.
+This ux researcher position at Ciena was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

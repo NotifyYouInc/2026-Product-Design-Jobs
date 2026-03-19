@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Director, Service Design & Research at Asurion
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indiana, US |
+| Company | [Asurion](https://scoutify.ai/companies/asurion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | UX Researcher |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Indiana-USA---Remote/Principal-User-Experience-Designer_26WD96375) |
+| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/US-Headquarters/Director--Service-Design---Research_ASU0019089) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-11.
+This ux researcher position at Asurion was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

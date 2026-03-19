@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# [ 27952] Product Designer - CX/UX Project Lead, Portugal at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indiana, US |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Portugal |
 | Category | UX Researcher |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Indiana-USA---Remote/Principal-User-Experience-Designer_26WD96375) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/0f59ba82-df33-4541-9e26-8b1a51bb85d5) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-11.
+This ux researcher position at Ciandt was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

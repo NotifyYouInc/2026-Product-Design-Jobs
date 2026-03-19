@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Saguenay, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112734508-designer-ux) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574338-designer-ux) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-04.
+This product designer position at Ubisoft was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

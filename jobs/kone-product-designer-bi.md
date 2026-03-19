@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# Product Designer - BI at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Product-Designer---BI_R0658288-1) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at Kone was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

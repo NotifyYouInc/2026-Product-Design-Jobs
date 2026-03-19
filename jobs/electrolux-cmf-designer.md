@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# CMF Designer at Electrolux
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Shanghai/CMF-Designer_JR76507) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at Electrolux was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

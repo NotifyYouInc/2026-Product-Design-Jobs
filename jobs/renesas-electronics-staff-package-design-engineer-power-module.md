@@ -1,16 +1,16 @@
-# SoC Timing Design Engineer/Leader at Renesas Electronics
+# Staff Package Design Engineer- Power Module at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kodaira, Tokyo, Japan |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113397044-soc-timing-design-engineerleader) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000114295477-staff-package-design-engineer-power-module) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-09.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

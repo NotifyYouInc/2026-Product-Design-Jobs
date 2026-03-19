@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# UX/UI Designer Specialist at Entain
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Rome, Lazio, Italy |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000114012247-uxui-designer-specialist) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at Entain was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

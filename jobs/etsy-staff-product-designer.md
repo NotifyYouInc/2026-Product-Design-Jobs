@@ -1,16 +1,16 @@
-# UX Designer at Ubisoft
+# Staff Product Designer at Etsy
 
 | Field | Details |
 |-------|---------|
-| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saguenay, Quebec, Canada |
+| Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113574101-ux-designer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Staff-Product-Designer_JR5421-1) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-03-09.
+This product designer position at Etsy was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

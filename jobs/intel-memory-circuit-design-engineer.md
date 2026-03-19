@@ -1,16 +1,16 @@
-# Principal Analog Design Engineer at NXP Semiconductors
+# Memory Circuit Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hillsboro, Oregon, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Toulouse/Principal-Analog-Design-Engineer_R-10061795) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Memory-Circuit-Design-Engineer_JR0281607) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-11.
+This semiconductor / chip design position at Intel was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# UX Design Director / Lead at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indiana, US |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | UX Researcher |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Indiana-USA---Remote/Principal-User-Experience-Designer_26WD96375) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99434) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-11.
+This ux researcher position at IBM was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

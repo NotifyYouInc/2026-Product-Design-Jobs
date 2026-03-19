@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Product Designer (UX/UI & Research) at LGC
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indiana, US |
+| Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-03-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Indiana-USA---Remote/Principal-User-Experience-Designer_26WD96375) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000114101737-product-designer-uxui-research) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-11.
+This ux researcher position at LGC was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 
