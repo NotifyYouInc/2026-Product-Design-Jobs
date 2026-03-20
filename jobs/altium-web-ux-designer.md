@@ -5,12 +5,12 @@
 | Company | [Altium](https://scoutify.ai/companies/altium?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4660607006) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altium/jobs/4661227006) |
 
 ## About This Role
 
-This product designer position at Altium was posted on 2026-03-06.
+This product designer position at Altium was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

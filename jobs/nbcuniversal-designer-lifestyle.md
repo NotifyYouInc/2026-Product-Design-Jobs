@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Australia |
 | Category | Product Designer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113075558-designer-lifestyle) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113814637-designer-lifestyle) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-03-06.
+This product designer position at NBCUniversal was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

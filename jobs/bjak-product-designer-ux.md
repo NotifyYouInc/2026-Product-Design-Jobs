@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | UX Researcher |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb4ff8fd-a651-4c0a-b6f9-e660800f95b4) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/1f23562f-6edb-41a7-99e7-d8061b19d21e) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-03-06.
+This ux researcher position at Bjak was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

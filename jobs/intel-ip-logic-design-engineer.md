@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Haifa, Haifa, Israel |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/IP-Logic-Design-Engineer_JR0279429-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/IP-Logic-Design-Engineer_JR0281645) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-02-19.
+This semiconductor / chip design position at Intel was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

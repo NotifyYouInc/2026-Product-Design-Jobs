@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Duluth, Minnesota, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113190677-principal-analog-design-engineer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000114159557-principal-analog-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-06.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

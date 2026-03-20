@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Taiwan |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Sr-Electrical-Design-Engineer_J2441787-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Sr-Electrical-Design-Engineer_J2442836) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-05.
+This electrical / hardware engineer position at Jabil was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

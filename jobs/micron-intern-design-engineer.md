@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
-| Category | Machine Learning Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Design-Engineer_JR91771) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Design-Engineer_JR94546) |
 
 ## About This Role
 
-This machine learning engineer position at Micron was posted on 2026-03-02.
+This semiconductor / chip design position at Micron was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Australia |
 | Category | Product Designer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113075617-senior-designer-toys-hardlines) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113814802-senior-designer-toys-hardlines) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-03-06.
+This product designer position at NBCUniversal was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
