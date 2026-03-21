@@ -1,16 +1,16 @@
-# Principal Design Engineer, NVEG at Micron
+# Sr. Digital Design Engineer, HBM at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer--NVEG_JR94303) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Sr-Digital-Design-Engineer--HBM_JR93221) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-14.
+This semiconductor / chip design position at Micron was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

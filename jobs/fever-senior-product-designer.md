@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Senior Product Designer at Fever
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
-| Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1544667803671145) |
+| Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Spain |
+| Category | Product Designer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4090227101) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-03-09.
+This product designer position at Fever was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

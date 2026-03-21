@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Principal Design Director at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556620568) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This product designer position at Microsoft was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

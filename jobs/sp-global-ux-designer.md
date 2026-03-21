@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# UX Designer at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | UX Researcher |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000114666547-product-designer) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/UX-Designer_321974-1) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-13.
+This ux researcher position at S&P Global was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

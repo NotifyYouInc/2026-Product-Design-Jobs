@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# Senior Director, UX Research and Design at ChoicePoint
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
+| Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 6 locations |
 | Category | UX Researcher |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000114666547-product-designer) |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Boca-Raton-FL/Senior-Director--UX-Research-and-Design_R109455) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-13.
+This ux researcher position at ChoicePoint was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

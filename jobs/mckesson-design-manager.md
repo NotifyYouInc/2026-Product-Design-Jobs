@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Design Manager at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Product Designer |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Texas, US |
+| Category | Project Manager |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Remote/Design-Manager_JR0142952) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This project manager position at McKesson was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# SoC Timing Design Engineer/Leader at Renesas Electronics
+# Sr Mask Design Engineer at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kodaira, Tokyo, Japan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000113443276-soc-timing-design-engineerleader) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000114673788-sr-mask-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-09.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

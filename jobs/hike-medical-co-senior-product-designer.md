@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Senior Product Designer at Hike Medical Co
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Hike Medical Co](https://scoutify.ai/companies/hike-medical-co?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hike-medical/c6ef8ea2-cb7c-4a5b-8f7c-e8de2b3a5cd5) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This product designer position at Hike Medical Co was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

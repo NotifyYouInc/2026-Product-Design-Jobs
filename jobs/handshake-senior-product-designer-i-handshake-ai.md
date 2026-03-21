@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Senior Product Designer I, Handshake AI at Handshake
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/455075db-5eec-4c02-9418-f563e3ac8811) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This product designer position at Handshake was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

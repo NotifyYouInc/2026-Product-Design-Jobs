@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Senior Product Designer, Integrity at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Product Designer |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
+| Category | UX Researcher |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114649339-senior-product-designer-integrity) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This ux researcher position at Grab was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

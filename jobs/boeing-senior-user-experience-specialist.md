@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# Senior User Experience Specialist at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | UX Researcher |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000114666547-product-designer) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-User-Experience-Specialist_JR2026499970-1) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-13.
+This ux researcher position at Boeing was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Australia |
+| Location | New South Wales, AU |
 | Category | Marketing |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000113335977-digital-designer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000113817427-digital-designer) |
 
 ## About This Role
 
-This marketing position at Nearmap was posted on 2026-03-07.
+This marketing position at Nearmap was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

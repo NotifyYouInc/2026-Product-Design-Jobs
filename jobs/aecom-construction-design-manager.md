@@ -1,16 +1,16 @@
-# Technical Design Lead- Data Centres at AECOM
+# Construction Design Manager at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Technology / IT Consulting |
+| Location | Baltimore, Maryland, United States |
+| Category | Project Manager |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114631604-technical-design-lead-data-centres) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114706592-construction-design-manager) |
 
 ## About This Role
 
-This technology / it consulting position at AECOM was posted on 2026-03-13.
+This project manager position at AECOM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

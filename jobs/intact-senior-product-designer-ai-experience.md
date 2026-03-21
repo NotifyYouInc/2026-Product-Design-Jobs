@@ -1,16 +1,16 @@
-# Senior Product Designer at Venn
+# Senior Product Designer - AI Experience at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Quebec, CA |
 | Category | Product Designer |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Concepteur-trice--de-produit-principal-e----Exprience-IA_R152305) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This product designer position at Intact was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

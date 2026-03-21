@@ -1,16 +1,16 @@
-# Electrical Design Engineer (Industrial Automation) at Qualdoc
+# Power Supply Design Engineer at Egis
 
 | Field | Details |
 |-------|---------|
-| Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Midlothian, Texas, United States |
+| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hamilton, Ohio, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/f84b97b6-9fd6-460e-a991-f7baead357d6) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000114765107-power-supply-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-03-12.
+This electrical / hardware engineer position at Egis was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

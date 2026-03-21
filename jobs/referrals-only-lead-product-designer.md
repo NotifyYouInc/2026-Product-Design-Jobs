@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# Lead Product Designer at Referrals Only
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
+| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000114666547-product-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7636261) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-13.
+This ux researcher position at Referrals Only was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
