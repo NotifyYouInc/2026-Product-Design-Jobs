@@ -1,16 +1,16 @@
-# UI/UX Designer  at Playtech
+# Sr. UX Designer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113692927-uiux-designer) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Sr-UX-Designer_578493-1) |
 
 ## About This Role
 
-This product designer position at Playtech was posted on 2026-03-10.
+This product designer position at Philips was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

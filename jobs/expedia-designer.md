@@ -1,16 +1,16 @@
-# UI/UX Designer  at Playtech
+# Designer at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113692927-uiux-designer) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Designer_R-103371) |
 
 ## About This Role
 
-This product designer position at Playtech was posted on 2026-03-10.
+This product designer position at Expedia was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

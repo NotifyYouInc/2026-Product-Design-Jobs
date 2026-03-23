@@ -1,16 +1,16 @@
-# UI/UX Designer  at Playtech
+# Senior Product Designer at Blinq
 
 | Field | Details |
 |-------|---------|
-| Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Company | [Blinq](https://scoutify.ai/companies/blinq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Australia |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113692927-uiux-designer) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.lever.co/blinq/c3ec1759-3fc6-4f6d-b126-46909df0f702) |
 
 ## About This Role
 
-This product designer position at Playtech was posted on 2026-03-10.
+This product designer position at Blinq was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
