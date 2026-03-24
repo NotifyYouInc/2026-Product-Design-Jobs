@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000110181597-production-design-engineer) |
+| Category | Product Designer |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115002873-production-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at NBCUniversal was posted on 2026-02-19.
+This product designer position at NBCUniversal was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

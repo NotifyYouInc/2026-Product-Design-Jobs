@@ -1,16 +1,16 @@
-# Experience Designer at U.S. Bank
+# Principal Designer, Document Cloud at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Experience-Designer_2026-0006408) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Los-Angeles/Principal-Designer--Document-Cloud_R161794-1) |
 
 ## About This Role
 
-This ux researcher position at U.S. Bank was posted on 2026-03-16.
+This product designer position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

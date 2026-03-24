@@ -1,16 +1,16 @@
-# Experience Designer at U.S. Bank
+# Human Factors Design Engineer at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | UX Researcher |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Experience-Designer_2026-0006408) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115018123-human-factors-design-engineer) |
 
 ## About This Role
 
-This ux researcher position at U.S. Bank was posted on 2026-03-16.
+This ux researcher position at Intuitive Surgical was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

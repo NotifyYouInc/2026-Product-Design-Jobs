@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Richardson, Texas, United States |
-| Category | Product Designer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR91856) |
 
 ## About This Role
 
-This product designer position at Micron was posted on 2026-02-27.
+This semiconductor / chip design position at Micron was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

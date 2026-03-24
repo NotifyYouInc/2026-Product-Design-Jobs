@@ -1,16 +1,16 @@
-# Lead Service Designer (Advanced English) - EC - Remote at Thoughtworks
+# Lead Service Designer (Advanced English) - EC- Remote at Thoughtworks
 
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | UX Researcher |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7695556?gh_jid=7695556) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7704137?gh_jid=7704137) |
 
 ## About This Role
 
-This ux researcher position at Thoughtworks was posted on 2026-03-09.
+This ux researcher position at Thoughtworks was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

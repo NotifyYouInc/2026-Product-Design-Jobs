@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Director, Product Design - Diner at OpenTable
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8465448002) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at OpenTable was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

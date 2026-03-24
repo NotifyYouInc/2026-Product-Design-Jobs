@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Product Designer (Mobile Application) at Kyivstar
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Kyivstar](https://scoutify.ai/companies/kyivstar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.lever.co/kyivstar/45fc1951-4bba-49ef-a045-892249d1ca25) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at Kyivstar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

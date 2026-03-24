@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Senior Designer at Solventum
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Minnesota, US |
+| Category | Marketing |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/73db834f-afe6-4cfe-b5a5-306f9cf71896) |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Minnesota/Senior-Designer_R01128804) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-03-16.
+This marketing position at Solventum was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

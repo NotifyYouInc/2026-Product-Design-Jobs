@@ -1,16 +1,16 @@
-# Staff Product Designer  at Jerry.ai
+# Visual Designer, Social at Elastic
 
 | Field | Details |
 |-------|---------|
-| Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
-| Category | Product Designer |
+| Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | Marketing |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/73db834f-afe6-4cfe-b5a5-306f9cf71896) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=7697644&gh_jid=7697644) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-03-16.
+This marketing position at Elastic was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

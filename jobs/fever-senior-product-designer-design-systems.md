@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Senior Product Designer - Design Systems at Fever
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4812463101) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at Fever was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

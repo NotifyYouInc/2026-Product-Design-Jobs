@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Staff Product Designer, Retirement at Gusto
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 7 locations |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7514763) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at Gusto was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

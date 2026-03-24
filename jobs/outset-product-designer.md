@@ -1,16 +1,16 @@
-# Experience Designer at U.S. Bank
+# Product Designer at Outset
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Outset](https://scoutify.ai/companies/outset?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | UX Researcher |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Experience-Designer_2026-0006408) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/outset/f272ddff-c70d-4c07-a24a-5c26bf967c55) |
 
 ## About This Role
 
-This ux researcher position at U.S. Bank was posted on 2026-03-16.
+This ux researcher position at Outset was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

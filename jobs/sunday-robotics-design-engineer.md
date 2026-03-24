@@ -1,16 +1,16 @@
-# Senior User Experience Designer at Expedia
+# Design Engineer at Sunday Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Sunday Robotics](https://scoutify.ai/companies/sunday-robotics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Senior-User-Experience-Designer_R-99625-2) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sunday/b3658191-4943-4cd5-b48e-fdc6c84d91ad) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-03-16.
+This product designer position at Sunday Robotics was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

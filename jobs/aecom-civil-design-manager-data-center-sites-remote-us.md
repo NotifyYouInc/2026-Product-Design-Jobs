@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Civil Design Manager, Data Center Sites - Remote (U.S.) at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115033607-civil-design-manager-data-center-sites-remote-us) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at AECOM was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

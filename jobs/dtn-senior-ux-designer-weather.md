@@ -1,16 +1,16 @@
-# Experience Designer at U.S. Bank
+# Senior UX Designer, Weather at DTN
 
 | Field | Details |
 |-------|---------|
-| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [DTN](https://scoutify.ai/companies/dtn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | UX Researcher |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Experience-Designer_2026-0006408) |
+| Apply | [View on company site](https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/Austin-TX/Senior-UX-Designer--Weather_R-003041) |
 
 ## About This Role
 
-This ux researcher position at U.S. Bank was posted on 2026-03-16.
+This ux researcher position at DTN was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Product Designer, Digital (LUMA) at Mural
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Mural](https://scoutify.ai/companies/mural?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mural/26574d02-1d75-433b-bd9b-9218366ea5bf) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at Mural was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

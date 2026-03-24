@@ -1,16 +1,16 @@
-# Founding Design Engineer at Conductor
+# 2026 Technology Internship – UI/UX Engineer (Full Stack)  at Point72
 
 | Field | Details |
 |-------|---------|
-| Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/17262af5-31db-400f-bfa8-7cbb2f0e794e) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002) |
 
 ## About This Role
 
-This frontend engineer position at Conductor was posted on 2026-03-10.
+This frontend engineer position at Point72 was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

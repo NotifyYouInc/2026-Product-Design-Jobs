@@ -1,16 +1,16 @@
-# Senior User Experience Designer at Expedia
+# Staff Product Designer, AI Transformation at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Product Designer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/Senior-User-Experience-Designer_R-99625-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115045323-staff-product-designer-ai-transformation) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-03-16.
+This product designer position at ServiceNow was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

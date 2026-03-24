@@ -1,16 +1,16 @@
-# Senior Staff Product Designer at Remote
+# Product Design Manager at Squarespace
 
 | Field | Details |
 |-------|---------|
-| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Squarespace](https://scoutify.ai/companies/squarespace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7660139003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](http://www.squarespace.com/about/careers?gh_jid=7638508) |
 
 ## About This Role
 
-This product designer position at Remote was posted on 2026-03-10.
+This product designer position at Squarespace was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
