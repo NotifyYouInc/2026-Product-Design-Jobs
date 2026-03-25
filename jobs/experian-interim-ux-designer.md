@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
-| Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113755567-interim-ux-designer) |
+| Category | UX Researcher |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114159967-interim-ux-designer) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-03-10.
+This ux researcher position at Experian was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

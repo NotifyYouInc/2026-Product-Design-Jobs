@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Nashik, Maharashtra, India |
+| Location | Paranaque City, National Capital Region, Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Electrical-Design-Engineer_JR00027453) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Paranaque-City-NCR-Philippines/Electrical-Design-Engineer_JR00010267) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-04.
+This electrical / hardware engineer position at ABB was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

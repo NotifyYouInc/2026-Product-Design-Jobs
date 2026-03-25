@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Product Designer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113366097-senior-manager-product-design-logistics-service-efficiency) |
+| Category | Product Manager |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115265385-senior-manager-product-design-logistics-service-efficiency) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-03-08.
+This product manager position at Delivery Hero was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

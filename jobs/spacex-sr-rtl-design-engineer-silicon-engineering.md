@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Irvine, California, United States |
+| Location | Texas, US |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8455515002?gh_jid=8455515002) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8461485002?gh_jid=8461485002) |
 
 ## About This Role
 
-This semiconductor / chip design position at SpaceX was posted on 2026-03-10.
+This semiconductor / chip design position at SpaceX was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

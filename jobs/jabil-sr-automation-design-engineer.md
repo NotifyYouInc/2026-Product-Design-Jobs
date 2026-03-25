@@ -1,16 +1,16 @@
-# Sr Automation Design Engineer at Jabil
+# Sr. Automation Design Engineer at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Chihuahua, Chihuahua, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Sr-Automation-Design-Engineer_J2441602) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Sr-Automation-Design-Engineer_J2441447) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-10.
+This electrical / hardware engineer position at Jabil was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

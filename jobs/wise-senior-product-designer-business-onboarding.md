@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113455137-senior-product-designer-business-onboarding) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115265322-senior-product-designer-business-onboarding) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-03-09.
+This product designer position at WISE was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

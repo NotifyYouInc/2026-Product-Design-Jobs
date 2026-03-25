@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Reston, Virginia, United States |
 | Category | UX Researcher |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000111648005-associate-ux-director) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115287299-associate-ux-director) |
 
 ## About This Role
 
-This ux researcher position at CapTech Consulting was posted on 2026-02-26.
+This ux researcher position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

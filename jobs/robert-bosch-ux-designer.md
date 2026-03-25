@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | India |
 | Category | UX Researcher |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113644356-ux-designer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113948002-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-03-10.
+This ux researcher position at Robert Bosch was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

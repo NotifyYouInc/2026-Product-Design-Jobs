@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000113196708-service-designer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000115218727-service-designer) |
 
 ## About This Role
 
-This strategy / management consulting position at PA Consulting was posted on 2026-03-06.
+This strategy / management consulting position at PA Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
