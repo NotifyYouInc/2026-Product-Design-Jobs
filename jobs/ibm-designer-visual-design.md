@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99140) |
+| Posted | 2026-03-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99146) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-03-11.
+This product designer position at IBM was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

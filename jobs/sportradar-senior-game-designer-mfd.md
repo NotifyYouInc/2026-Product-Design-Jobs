@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mostar, Federation of B&H, Bosnia and Herzegovina |
+| Location | Vienna, Vienna, Austria |
 | Category | Product Designer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000114066437-senior-game-designer-mfd) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000114299262-senior-game-designer-mfd) |
 
 ## About This Role
 
-This product designer position at Sportradar was posted on 2026-03-11.
+This product designer position at Sportradar was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

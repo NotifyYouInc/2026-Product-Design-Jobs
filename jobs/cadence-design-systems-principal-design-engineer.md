@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE/Senior-Principal-Design-Engineer_R51054) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Design-Engineer_R53558) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Cadence Design Systems was posted on 2026-03-11.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

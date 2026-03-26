@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Philippines |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Senior-Designer--Layout_R261069-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Designer--Layout_R261272) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-06.
+This semiconductor / chip design position at Analog Devices was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

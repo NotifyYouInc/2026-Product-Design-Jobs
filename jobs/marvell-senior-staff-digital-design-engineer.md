@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Senior-Staff-Digital-Design-Engineer_2600599) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Irvine-CA/Senior-Staff-Digital-Design-Engineer_2600840-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-10.
+This semiconductor / chip design position at Marvell was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

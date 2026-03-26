@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3184643/field-and-design-engineer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370921/field-and-design-engineer) |
 
 ## About This Role
 
-This project manager position at Amazon was posted on 2026-02-19.
+This project manager position at Amazon was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

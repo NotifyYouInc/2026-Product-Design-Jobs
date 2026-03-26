@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/UX-Designer_JR-0104420) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/UX-Designer_JR-0105045) |
 
 ## About This Role
 
-This product designer position at Workday was posted on 2026-02-27.
+This product designer position at Workday was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Universal City, California, United States |
-| Category | Product Designer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000114099699-manager-design-pd-accessories) |
+| Category | Product Manager |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000114487048-manager-design-pd-accessories) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-03-11.
+This product manager position at NBCUniversal was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | UX Researcher |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ251893) |
+| Category | Product Designer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Designer_REQ253783-1) |
 
 ## About This Role
 
-This ux researcher position at Commonwealth Bank of Australia was posted on 2026-03-03.
+This product designer position at Commonwealth Bank of Australia was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

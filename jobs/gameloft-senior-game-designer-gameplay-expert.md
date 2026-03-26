@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000113515387-senior-game-designer-gameplay-expert) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000115381227-senior-game-designer-gameplay-expert) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-03-09.
+This product designer position at Gameloft was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

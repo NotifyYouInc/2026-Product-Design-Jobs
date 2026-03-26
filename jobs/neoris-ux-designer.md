@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Quito, Pichincha, Ecuador |
-| Category | UX Researcher |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4799815101) |
+| Location | 2 locations |
+| Category | Product Designer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4814107101) |
 
 ## About This Role
 
-This ux researcher position at Neoris was posted on 2026-03-06.
+This product designer position at Neoris was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

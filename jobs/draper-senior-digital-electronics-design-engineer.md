@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Draper](https://scoutify.ai/companies/draper?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Clearfield, Utah, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-Digital-Electronics-Design-Engineer_JR002239) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Clearfield-UT/Senior-Digital-Engineer_JR000963) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Draper was posted on 2026-02-18.
+This electrical / hardware engineer position at Draper was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

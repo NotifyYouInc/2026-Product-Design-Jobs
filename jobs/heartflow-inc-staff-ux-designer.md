@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HeartFlow, Inc](https://scoutify.ai/companies/heartflow-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/5804164004) |
+| Category | UX Researcher |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/heartflowinc/jobs/5831420004) |
 
 ## About This Role
 
-This product designer position at HeartFlow, Inc was posted on 2026-02-13.
+This ux researcher position at HeartFlow, Inc was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
