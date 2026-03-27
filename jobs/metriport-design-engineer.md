@@ -1,16 +1,16 @@
-# Founding Product Designer at Conductor
+# Design Engineer at Metriport
 
 | Field | Details |
 |-------|---------|
-| Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/4148ceb7-e6a4-409b-add5-8360c1a876ba) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/4cc0edd1-6eab-47d7-aa75-ad4ce2caf2bd) |
 
 ## About This Role
 
-This product designer position at Conductor was posted on 2026-03-12.
+This frontend engineer position at Metriport was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

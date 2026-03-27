@@ -1,16 +1,16 @@
-# Product Designer at Microsoft
+# Senior Product Designer at Valtech
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Argentina |
 | Category | Product Designer |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556658978) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4814307101) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-19.
+This product designer position at Valtech was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

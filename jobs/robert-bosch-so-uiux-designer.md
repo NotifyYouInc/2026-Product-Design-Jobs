@@ -1,16 +1,16 @@
-# Product Designer at Microsoft
+# [SO] UI/UX Designer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | Product Designer |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vietnam |
+| Category | UX Researcher |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556658978) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115597657-so-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-19.
+This ux researcher position at Robert Bosch was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

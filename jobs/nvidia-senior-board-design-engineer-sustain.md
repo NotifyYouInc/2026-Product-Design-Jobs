@@ -1,16 +1,16 @@
-# Senior Design Engineer, Coherent High Speed Interconnect at Nvidia
+# Senior Board Design Engineer, Sustain at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
+| Location | Israel |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Design-Engineer--Coherent-High-Speed-Interconnect_JR2013905) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Board-Design-Engineer--Sustain_JR2015051) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-03-19.
+This electrical / hardware engineer position at Nvidia was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

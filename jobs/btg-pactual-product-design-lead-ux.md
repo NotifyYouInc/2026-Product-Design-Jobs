@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brazil |
-| Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5797568004) |
+| Category | Product Designer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5822841004) |
 
 ## About This Role
 
-This product manager position at BTG Pactual was posted on 2026-02-09.
+This product designer position at BTG Pactual was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead - Quest Designer at Activision-Blizzard
+# Lead Quest Designer at Activision-Blizzard
 
 | Field | Details |
 |-------|---------|
 | Company | [Activision-Blizzard](https://scoutify.ai/companies/activision?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Designer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://activision.wd1.myworkdayjobs.com/External/job/Warsaw/Lead---Quest-Designer_R026825) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://activision.wd1.myworkdayjobs.com/External/job/Warsaw---Activision---Elsewhere/Lead-Quest-Designer_R026916) |
 
 ## About This Role
 
-This product designer position at Activision-Blizzard was posted on 2026-03-02.
+This product designer position at Activision-Blizzard was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

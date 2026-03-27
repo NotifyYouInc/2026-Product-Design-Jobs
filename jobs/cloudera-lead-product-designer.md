@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Toronto, Ontario, Canada |
 | Category | UX Researcher |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Czech-Republic-Prague/Lead-Product-Designer_260216-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Canada-Ontario-Toronto/Lead-Product-Designer_260454-1) |
 
 ## About This Role
 
-This ux researcher position at Cloudera was posted on 2026-03-02.
+This ux researcher position at Cloudera was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

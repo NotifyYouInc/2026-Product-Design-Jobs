@@ -1,16 +1,16 @@
-# Product Designer at Microsoft
+# Middle Product Designer - TENTENS Tech at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556658978) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/644c2084-e848-47fa-8706-e22962985f66) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-19.
+This product designer position at SKELAR was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

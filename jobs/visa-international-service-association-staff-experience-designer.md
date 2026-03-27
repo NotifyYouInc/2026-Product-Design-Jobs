@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Foster City, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111148095-staff-experience-designer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115734534-staff-experience-designer) |
 
 ## About This Role
 
-This product designer position at Visa International Service Association was posted on 2026-02-24.
+This product designer position at Visa International Service Association was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

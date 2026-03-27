@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | UX Researcher |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4644960005?gh_jid=4644960005) |
+| Category | Product Designer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4662502005?gh_jid=4662502005) |
 
 ## About This Role
 
-This ux researcher position at Inter Carreiras was posted on 2026-02-18.
+This product designer position at Inter Carreiras was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

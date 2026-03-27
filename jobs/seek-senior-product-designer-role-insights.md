@@ -1,16 +1,16 @@
-# Founding Design Engineer at Conductor
+# Senior Product Designer - Role Insights at SEEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Australia |
 | Category | UX Researcher |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/c4ce485d-547d-4632-bfce-29c35c9d8ca2) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000115795977-senior-product-designer-role-insights) |
 
 ## About This Role
 
-This ux researcher position at Conductor was posted on 2026-03-12.
+This ux researcher position at SEEK was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

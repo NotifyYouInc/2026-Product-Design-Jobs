@@ -1,16 +1,16 @@
-# Product Designer at Microsoft
+# Alternance UX/UI Designer - IBM Client Innovation Center - H/F at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | Product Designer |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lille, Hauts-de-France, France |
+| Category | UX Researcher |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556658978) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103929) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-19.
+This ux researcher position at IBM was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

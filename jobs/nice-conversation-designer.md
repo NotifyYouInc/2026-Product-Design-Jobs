@@ -1,16 +1,16 @@
-# Product Designer at Microsoft
+# Conversation Designer at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | Product Designer |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | UX Writer & Content Designer |
 | Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556658978) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4790663101?gh_jid=4790663101) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-19.
+This ux writer & content designer position at NiCE was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
