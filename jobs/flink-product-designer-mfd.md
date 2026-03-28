@@ -5,12 +5,12 @@
 | Company | [Flink](https://scoutify.ai/companies/flink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000109279135-product-designer-mfd) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flink3/744000115851491-product-designer-mfd) |
 
 ## About This Role
 
-This product designer position at Flink was posted on 2026-02-13.
+This product designer position at Flink was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

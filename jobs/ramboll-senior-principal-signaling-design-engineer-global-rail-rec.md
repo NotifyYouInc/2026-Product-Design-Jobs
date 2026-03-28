@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000114564512-senior-principal-signaling-design-engineer-global-rail-rec) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000115363137-senior-principal-signaling-design-engineer-global-rail-rec) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ramboll was posted on 2026-03-13.
+This electrical / hardware engineer position at Ramboll was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

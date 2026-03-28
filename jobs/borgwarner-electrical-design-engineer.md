@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mexico |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/San-Luis-Potos---Mexico/Electrical-Design-Engineer_R2026-0768) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Krakow---Poland/Electrical-Design-Engineer_R2026-0744-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at BorgWarner was posted on 2026-03-12.
+This electrical / hardware engineer position at BorgWarner was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

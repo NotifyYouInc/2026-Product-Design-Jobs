@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HSINCHU/Lead-Design-Engineer_R53716) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Design-Engineer_R52477-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-03-13.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

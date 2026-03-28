@@ -5,12 +5,12 @@
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brazil |
 | Category | UX Researcher |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000114666547-product-designer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000115708677-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-13.
+This ux researcher position at Cint was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Design-Engineer_JR92993) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR94995) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-02-26.
+This semiconductor / chip design position at Micron was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

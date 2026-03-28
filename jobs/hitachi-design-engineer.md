@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Gujarat, IN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Design-Engineer_R0118667) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Design-Engineer_R0122848) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-09.
+This electrical / hardware engineer position at Hitachi was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
