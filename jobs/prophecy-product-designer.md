@@ -1,16 +1,16 @@
-# Product Designer II at Microsoft
+# Product Designer at Prophecy
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Prophecy](https://scoutify.ai/companies/prophecy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556659066) |
+| Category | UX Researcher |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/5086410007) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-16.
+This ux researcher position at Prophecy was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

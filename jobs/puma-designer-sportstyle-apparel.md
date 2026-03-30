@@ -1,16 +1,16 @@
-# Product Designer II at Microsoft
+# Designer Sportstyle Apparel at Puma
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556659066) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PGS-China---Shanghai/Designer-Sportstyle-Apparel_R40492) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-03-16.
+This product designer position at Puma was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

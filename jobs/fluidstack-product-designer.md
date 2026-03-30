@@ -1,16 +1,16 @@
-# Founding Product Designer at Conductor
+# Product Designer at FLUIDSTACK
 
 | Field | Details |
 |-------|---------|
-| Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [FLUIDSTACK](https://scoutify.ai/companies/fluidstack?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/c041c77a-d837-484a-857c-5fa7b850ecdc) |
+| Category | UX Researcher |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fluidstack/00028e93-49c5-42f4-8cdc-9d864bf104cb) |
 
 ## About This Role
 
-This product designer position at Conductor was posted on 2026-03-18.
+This ux researcher position at FLUIDSTACK was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
