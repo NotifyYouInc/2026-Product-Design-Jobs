@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115018123-human-factors-design-engineer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000115698989-human-factors-design-engineer) |
 
 ## About This Role
 
-This ux researcher position at Intuitive Surgical was posted on 2026-03-16.
+This ux researcher position at Intuitive Surgical was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Fort Collins, Colorado, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/DFT-Design-Engineer_JR0282107) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/DFT-Design-Engineer_JR0281874) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-16.
+This semiconductor / chip design position at Intel was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

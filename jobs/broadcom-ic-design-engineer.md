@@ -1,16 +1,16 @@
-# IC DESIGN ENGINEER at Broadcom
+# IC Design Engineer at Broadcom
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/IC-DESIGN-ENGINEER_R024617) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/IC-Design-Engineer_R025086) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-03-13.
+This semiconductor / chip design position at Broadcom was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

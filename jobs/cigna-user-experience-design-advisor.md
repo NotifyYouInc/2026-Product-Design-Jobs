@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New Jersey, US |
-| Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/User-Experience-Design-Advisor_26001223) |
+| Category | UX Writer & Content Designer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/User-Experience-Design-Advisor_26002499) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-02-17.
+This ux writer & content designer position at Cigna was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

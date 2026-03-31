@@ -5,12 +5,12 @@
 | Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/073a1fa5-a572-49e7-8209-30efb1fb6876) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/venn/7e8a5caf-4b7b-4fbc-ba7f-4aa57817d027) |
 
 ## About This Role
 
-This product designer position at Venn was posted on 2026-03-13.
+This product designer position at Venn was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

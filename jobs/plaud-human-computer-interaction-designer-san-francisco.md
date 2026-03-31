@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Plaud](https://scoutify.ai/companies/plaud?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/e85829ba-d786-4d5b-b511-2328def92c53) |
+| Category | Product Designer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/daadf36c-4c38-4e11-ab02-e8265c54d20a) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Plaud was posted on 2026-03-16.
+This product designer position at Plaud was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
