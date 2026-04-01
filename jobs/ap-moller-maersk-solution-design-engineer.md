@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/PL---Warsaw/Solution-Design-Engineer_R169545) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Spain-Barcelona-8820/Solution-Design-Engineer_R174569-2) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-03-02.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

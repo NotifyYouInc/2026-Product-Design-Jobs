@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115321358-senior-visual-product-designer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115738677-senior-visual-product-designer) |
 
 ## About This Role
 
-This product designer position at CapTech Consulting was posted on 2026-03-17.
+This product designer position at CapTech Consulting was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

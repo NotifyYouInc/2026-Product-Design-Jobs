@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115266061-digital-design-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116408162-digital-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-17.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | UX Researcher |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113047942-lead-product-designer-demand-and-ads) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116335752-lead-product-designer-demand-and-ads) |
 
 ## About This Role
 
-This ux researcher position at Grab was posted on 2026-03-06.
+This ux researcher position at Grab was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112288317-new-college-graduate-systems-design-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116467757-new-college-graduate-systems-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-02.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

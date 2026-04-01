@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sr-IP-Logic-Design-Engineer_JR0281903) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sr-IP-Logic-Design-Engineer_JR0281896) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-17.
+This semiconductor / chip design position at Intel was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

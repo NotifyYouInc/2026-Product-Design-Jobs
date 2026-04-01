@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Irvine, California, United States |
-| Category | Product Designer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-Principal--Product-Designer_R-114062) |
+| Category | UX Researcher |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-Principal--Product-Designer_R-114077) |
 
 ## About This Role
 
-This product designer position at Ingram Micro was posted on 2026-03-17.
+This ux researcher position at Ingram Micro was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

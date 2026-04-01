@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115257728-senior-asic-physical-design-engineer) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116253527-senior-asic-physical-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-17.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

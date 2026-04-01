@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer_JR2014598) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Engineer_JR2015232) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-03-17.
+This semiconductor / chip design position at Nvidia was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

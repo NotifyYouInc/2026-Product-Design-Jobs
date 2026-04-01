@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BambooHR](https://scoutify.ai/companies/bamboohr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Utah, US |
-| Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bamboohr17/jobs/5792632004) |
+| Category | Product Designer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bamboohr17/jobs/5813221004) |
 
 ## About This Role
 
-This product manager position at BambooHR was posted on 2026-02-10.
+This product designer position at BambooHR was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

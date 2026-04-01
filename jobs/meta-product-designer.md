@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
-| Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1544667803671145) |
+| Location | California, US |
+| Category | Product Designer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1460791898494176) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-03-09.
+This product designer position at Meta was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

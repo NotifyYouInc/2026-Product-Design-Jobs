@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | UX Researcher |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112640674-alternance-uxui-designer-hf-toulouse) |
+| Category | Product Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116395022-alternance-uxui-designer-hf-toulouse) |
 
 ## About This Role
 
-This ux researcher position at Sopra Steria was posted on 2026-03-04.
+This product manager position at Sopra Steria was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Granada, Andalusia, Spain |
 | Category | UX Researcher |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000115296937-uiux-designer-m-f-d) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000115412969-uiux-designer-m-f-d) |
 
 ## About This Role
 
-This ux researcher position at T-Systems International was posted on 2026-03-17.
+This ux researcher position at T-Systems International was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
