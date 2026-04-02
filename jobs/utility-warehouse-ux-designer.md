@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000108202865-ux-designer) |
+| Category | UX Writer & Content Designer |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000116549237-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Utility Warehouse was posted on 2026-02-09.
+This ux writer & content designer position at Utility Warehouse was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

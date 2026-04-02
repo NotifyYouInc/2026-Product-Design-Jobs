@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000110261757-sr-product-designer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116718167-sr-product-designer) |
 
 ## About This Role
 
-This product designer position at LinkedIn was posted on 2026-02-19.
+This product designer position at LinkedIn was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

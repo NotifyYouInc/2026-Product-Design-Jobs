@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Senior-Layout-Design-Engineer_JR0282014) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Senior-Layout-Design-Engineer_JR0282374-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-13.
+This semiconductor / chip design position at Intel was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

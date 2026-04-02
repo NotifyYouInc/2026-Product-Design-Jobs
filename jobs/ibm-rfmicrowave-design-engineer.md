@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York, US |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=101011) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104291) |
 
 ## About This Role
 
-This electrical / hardware engineer position at IBM was posted on 2026-03-11.
+This electrical / hardware engineer position at IBM was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

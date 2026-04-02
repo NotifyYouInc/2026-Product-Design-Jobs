@@ -5,12 +5,12 @@
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000110342220-product-design-lead) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000116626847-product-design-lead) |
 
 ## About This Role
 
-This ux researcher position at SportsDirect.com Retail was posted on 2026-02-20.
+This ux researcher position at SportsDirect.com Retail was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

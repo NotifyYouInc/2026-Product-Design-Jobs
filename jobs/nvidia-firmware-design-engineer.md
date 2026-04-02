@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | Santa Clara, California, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Design-Engineer_JR2013653) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Design-Engineer_JR2003355) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Nvidia was posted on 2026-02-24.
+This embedded / firmware engineer position at Nvidia was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

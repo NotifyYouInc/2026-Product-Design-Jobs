@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/937f5243-ff44-413e-a879-a9b2611fa004) |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/fdcf51c5-c511-464f-b1e1-2a63f8c712c4) |
 
 ## About This Role
 
-This ux researcher position at Conductor was posted on 2026-03-18.
+This frontend engineer position at Conductor was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

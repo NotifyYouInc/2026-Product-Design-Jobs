@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000115448017-nouvelle-ipnew-ip-pcconsole-concepteurtrice-de-niveaux-level-designer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000115633527-nouvelle-ipnew-ip-pcconsole-concepteurtrice-de-niveaux-level-designer) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-03-18.
+This product designer position at Gameloft was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

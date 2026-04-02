@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cramlington, England, United Kingdom |
+| Location | United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115460367-digital-design-specialist) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115615107-digital-design-specialist) |
 
 ## About This Role
 
-This ux researcher position at Avery Dennison Corporation was posted on 2026-03-18.
+This ux researcher position at Avery Dennison Corporation was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
