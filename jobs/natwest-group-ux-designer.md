@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/UX-Designer_R-00272010-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/UX-Designer_R-00275538) |
 
 ## About This Role
 
-This ux researcher position at NatWest Group was posted on 2026-02-24.
+This ux researcher position at NatWest Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

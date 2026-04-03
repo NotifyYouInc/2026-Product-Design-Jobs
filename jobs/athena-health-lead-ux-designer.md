@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Product Designer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Austin-TX/Lead-UX-Designer_R14679) |
+| Location | Boston, Massachusetts, United States |
+| Category | UX Researcher |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Lead-UX-Designer_R14720) |
 
 ## About This Role
 
-This product designer position at Athena Health was posted on 2026-03-19.
+This ux researcher position at Athena Health was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

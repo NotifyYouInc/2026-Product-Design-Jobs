@@ -5,12 +5,12 @@
 | Company | [Conductor](https://scoutify.ai/companies/conductor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/844f69a9-6a73-4a00-a8d2-b0024d3ca460) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/conductor/cde83c73-5eab-46e8-acc9-fc339aa89e17) |
 
 ## About This Role
 
-This product designer position at Conductor was posted on 2026-03-19.
+This product designer position at Conductor was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | UX Researcher |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7688408?gh_jid=7688408) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7758583?gh_jid=7758583) |
 
 ## About This Role
 
-This ux researcher position at Thoughtworks was posted on 2026-03-18.
+This ux researcher position at Thoughtworks was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

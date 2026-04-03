@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Palo Alto, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/34ee0150-6bb3-4ff4-bb12-8798d2e61934) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/188dd88b-1eff-4852-a18e-50aac783de5f) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-03-20.
+This ux researcher position at Bjak was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
