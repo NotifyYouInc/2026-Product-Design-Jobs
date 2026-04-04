@@ -1,16 +1,16 @@
-# UX/UI Designer at PA Consulting
+# Lead Product Designer at Deel
 
 | Field | Details |
 |-------|---------|
-| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000116151237-uxui-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/382bdde7-f5a1-4e7b-a253-af27295ae8b1) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-03-23.
+This product designer position at Deel was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

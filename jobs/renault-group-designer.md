@@ -1,16 +1,16 @@
-# Digital designer UX/UI  at Sopra Steria
+# Designer at Renault Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Guyancourt, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117278767-digital-designer-uxui) |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/Designer_JOBREQ_50259414-1) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-27.
+This product designer position at Renault Group was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

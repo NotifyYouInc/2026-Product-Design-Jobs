@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# UX Designer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Karnataka, IN |
 | Category | UX Researcher |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116428315-product-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/UX-Designer_578039) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-24.
+This ux researcher position at Philips was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

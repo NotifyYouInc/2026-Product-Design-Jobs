@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Product Designer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000114567846-ausbildung-zum-mediengestalter-mwd-digital-und-print-aurumtours-2026) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000117298298-ausbildung-zum-mediengestalter-mwd-digital-und-print-aurumtours-2026) |
 
 ## About This Role
 
-This product designer position at CHECK24 was posted on 2026-03-13.
+This product designer position at CHECK24 was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

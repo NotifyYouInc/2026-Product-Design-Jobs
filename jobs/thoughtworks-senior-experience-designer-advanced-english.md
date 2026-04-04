@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# Senior Experience Designer (Advanced English) at Thoughtworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | UX Researcher |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116428315-product-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7731450?gh_jid=7731450) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-24.
+This ux researcher position at Thoughtworks was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

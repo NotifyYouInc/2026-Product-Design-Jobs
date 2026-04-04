@@ -1,16 +1,16 @@
-# Digital designer UX/UI  at Sopra Steria
+# Senior Designer, Innovation Footwear Design at Brooks Running
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Company | [Brooks Running](https://scoutify.ai/companies/brooksrunning?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117278767-digital-designer-uxui) |
+| Apply | [View on company site](https://jobs.lever.co/brooksrunning/d4982ace-677d-4b64-a8b2-b3c55952fe0a) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-27.
+This product designer position at Brooks Running was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

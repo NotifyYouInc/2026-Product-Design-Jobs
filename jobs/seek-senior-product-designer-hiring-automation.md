@@ -1,16 +1,16 @@
-# Product Designer at Cint
+# Senior Product Designer - Hiring Automation at SEEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Australia |
 | Category | UX Researcher |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000116428315-product-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000117219057-senior-product-designer-hiring-automation) |
 
 ## About This Role
 
-This ux researcher position at Cint was posted on 2026-03-24.
+This ux researcher position at SEEK was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

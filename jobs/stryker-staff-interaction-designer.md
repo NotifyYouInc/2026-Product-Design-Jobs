@@ -1,16 +1,16 @@
-# Senior Product Designer at Barclays
+# Staff Interaction Designer at Stryker
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cork, Munster, Ireland |
 | Category | UX Researcher |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Senior-Product-Designer_JR-0000103755) |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/Staff-Interaction-Designer_R562540) |
 
 ## About This Role
 
-This ux researcher position at Barclays was posted on 2026-03-27.
+This ux researcher position at Stryker was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

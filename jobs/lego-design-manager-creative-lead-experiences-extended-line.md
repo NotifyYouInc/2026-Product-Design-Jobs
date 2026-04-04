@@ -1,16 +1,16 @@
-# Digital designer UX/UI  at Sopra Steria
+# Design Manager, Creative Lead - Experiences, Extended Line at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denmark |
 | Category | Product Designer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117278767-digital-designer-uxui) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Design-Manager--Creative-Lead---Experiences--Extended-Line_0000033034) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-27.
+This product designer position at LEGO was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Design Engineer, Pathfinding at Micron
+# Senior Principal SoC Design Engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Design-Engineer--Pathfinding_JR95529-1) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Senior-Principal-SoC-Design-Engineer_R-10062451) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-27.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

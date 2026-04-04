@@ -1,16 +1,16 @@
-# UX/UI Designer at PA Consulting
+# Staff AI Product Designer, Gemini Assistant, GeminiApp at DeepMind
 
 | Field | Details |
 |-------|---------|
-| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [DeepMind](https://scoutify.ai/companies/deepmind?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000116151237-uxui-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/deepmind/jobs/7762107) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-03-23.
+This product designer position at DeepMind was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

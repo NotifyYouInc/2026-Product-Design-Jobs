@@ -1,16 +1,16 @@
-# Digital designer UX/UI  at Sopra Steria
+# Product Design Lead - Manager level (IC) at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117278767-digital-designer-uxui) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Design-Lead---Manager-level--IC-_R239384) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-27.
+This product designer position at Capital One was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

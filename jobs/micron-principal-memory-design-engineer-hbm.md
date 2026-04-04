@@ -1,12 +1,12 @@
-# Principal Design Engineer, Pathfinding at Micron
+# Principal Memory Design Engineer, HBM at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Design-Engineer--Pathfinding_JR95529-1) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Principal-Memory-Design-Engineer--HBM_JR91858) |
 
 ## About This Role
 

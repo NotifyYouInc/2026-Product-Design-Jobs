@@ -1,16 +1,16 @@
-# Principal Design Engineer, Pathfinding at Micron
+# ASIC Digital Design Engineer at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Yerevan, Yerevan, Armenia |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Design-Engineer--Pathfinding_JR95529-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Armenia/ASIC-Digital-Design-Engineer_2007963) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-27.
+This semiconductor / chip design position at Cisco was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

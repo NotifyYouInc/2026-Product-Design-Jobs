@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Missouri, US |
+| Location | 35 locations |
 | Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Project-Design-Manager_R309911) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Maryland-Heights-Missouri-USA/Project-Design-Manager_R309882) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-03-13.
+This project manager position at Cushman & Wakefield was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

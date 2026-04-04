@@ -1,16 +1,16 @@
-# Principal Design Engineer, Pathfinding at Micron
+# RFIC Design Engineer (RFIC Engineering) at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Redmond, Washington, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Design-Engineer--Pathfinding_JR95529-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8481824002?gh_jid=8481824002) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-27.
+This semiconductor / chip design position at SpaceX was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

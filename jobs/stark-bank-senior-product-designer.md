@@ -1,16 +1,16 @@
-# UX/UI Designer at PA Consulting
+# Senior Product Designer at Stark Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Stark Bank](https://scoutify.ai/companies/stark-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000116151237-uxui-designer) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.lever.co/starkbank/1cacf0d1-e010-4403-b443-47b1ce4d9c6e) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-03-23.
+This product designer position at Stark Bank was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

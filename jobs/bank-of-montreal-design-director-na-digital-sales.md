@@ -1,16 +1,16 @@
-# Senior Product Designer at Barclays
+# Design Director, NA Digital Sales at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | UX Researcher |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Senior-Product-Designer_JR-0000103755) |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Design-Director--NA-Digital-Sales_R260009227) |
 
 ## About This Role
 
-This ux researcher position at Barclays was posted on 2026-03-27.
+This ux researcher position at Bank of Montreal was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

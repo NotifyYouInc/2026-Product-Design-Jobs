@@ -1,16 +1,16 @@
-# Senior Digital Product Designer at Royal Bank of Canada
+# Senior Product Designer at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Location | Toronto, Ontario, Canada |
+| Category | UX Researcher |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Senior-Digital-Product-Designer_R-0000163567-2) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Designer_R-0000165386-1) |
 
 ## About This Role
 
-This product designer position at Royal Bank of Canada was posted on 2026-03-27.
+This ux researcher position at Royal Bank of Canada was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
