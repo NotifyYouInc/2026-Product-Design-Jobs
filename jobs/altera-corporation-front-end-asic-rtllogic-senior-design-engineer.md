@@ -1,16 +1,16 @@
-# FPGA IP Software Design Engineer at Altera Corporation
+# Front End ASIC RTL/Logic Senior Design Engineer at Altera Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Embedded / Firmware Engineer |
+| Location | Penang, MY |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Software-Design-Engineer_R02252) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Front-End-ASIC-RTL-Logic-Senior-Design-Engineer_R02205) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Altera Corporation was posted on 2026-03-30.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

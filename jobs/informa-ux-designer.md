@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Malaysia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | UX Researcher |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110297005-ux-designer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117553987-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Informa was posted on 2026-02-20.
+This ux researcher position at Informa was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
