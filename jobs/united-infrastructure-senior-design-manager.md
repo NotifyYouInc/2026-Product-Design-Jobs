@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Infrastructure](https://scoutify.ai/companies/unitedinfrastructure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UnitedInfrastructure/744000115857064-senior-design-manager) |
+| Category | Project Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UnitedInfrastructure/744000117618149-senior-design-manager) |
 
 ## About This Role
 
-This product designer position at United Infrastructure was posted on 2026-03-20.
+This project manager position at United Infrastructure was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Experience-Designer_R0134411-1) |
+| Location | San Jose, California, United States |
+| Category | UX Researcher |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Experience-Designer_R0135867-1) |
 
 ## About This Role
 
-This product designer position at PayPal was posted on 2026-03-03.
+This ux researcher position at PayPal was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

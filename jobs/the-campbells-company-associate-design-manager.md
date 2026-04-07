@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Campbell's Company](https://scoutify.ai/companies/campbellsoup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Camden, New Jersey, United States |
-| Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Associate-Design-Manager_Req-63452) |
+| Category | Marketing |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Associate-Design-Manager_Req-64122) |
 
 ## About This Role
 
-This product designer position at The Campbell's Company was posted on 2026-02-06.
+This marketing position at The Campbell's Company was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

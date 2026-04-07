@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seal Beach, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Harness-Electrical-Design-Engineer_JR2026499145-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Harness-Electrical-Design-Engineer_JR2026503304-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Boeing was posted on 2026-03-03.
+This electrical / hardware engineer position at Boeing was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

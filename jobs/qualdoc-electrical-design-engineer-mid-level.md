@@ -5,12 +5,12 @@
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/73a0d5ae-49a3-4ae4-997a-9ea34c3fde7f) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/8d7fc65e-627e-47d6-bd35-68628ff72b57) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-03-23.
+This electrical / hardware engineer position at Qualdoc was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

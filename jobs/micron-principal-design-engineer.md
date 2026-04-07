@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer_JR95025) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Principal-Design-Engineer_JR94422-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-23.
+This semiconductor / chip design position at Micron was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
