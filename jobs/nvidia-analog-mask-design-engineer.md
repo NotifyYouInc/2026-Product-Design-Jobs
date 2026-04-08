@@ -1,12 +1,12 @@
-# Senior Mixed Signal Design Engineer at Nvidia
+# Analog Mask Design Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2015014) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Analog-Mask-Design-Engineer_JR2013709) |
 
 ## About This Role
 

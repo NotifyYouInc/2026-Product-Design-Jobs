@@ -1,16 +1,16 @@
-# Product Manager at NBCUniversal
+# Staff Product Designer, Social Experiences at Pinterest
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Universal City, California, United States |
+| Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000117995816-product-manager) |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7684626) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-03-31.
+This product manager position at Pinterest was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

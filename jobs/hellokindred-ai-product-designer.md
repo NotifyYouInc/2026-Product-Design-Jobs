@@ -1,16 +1,16 @@
-# Product Designer  at bet365
+# AI/ Product Designer at HelloKindred
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000117961681-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012398892-ai-product-designer) |
 
 ## About This Role
 
-This product designer position at bet365 was posted on 2026-03-31.
+This product designer position at HelloKindred was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

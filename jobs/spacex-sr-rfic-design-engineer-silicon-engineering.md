@@ -1,16 +1,16 @@
-# Senior Mixed Signal Design Engineer at Nvidia
+# Sr. RFIC Design Engineer (Silicon Engineering) at SpaceX
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2015014) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8439824002?gh_jid=8439824002) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-01.
+This semiconductor / chip design position at SpaceX was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Specialist, Product Experience Design at Mastercard
+# Senior Design Operations (18 Month Fixed Term Contract)  at Lightspeed Commerce
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | UX Researcher |
+| Category | Business Analyst |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Specialist--Product-Experience-Design_R-274700) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7769113) |
 
 ## About This Role
 
-This ux researcher position at Mastercard was posted on 2026-03-31.
+This business analyst position at Lightspeed Commerce was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Mixed Signal Design Engineer at Nvidia
+# PCIe Design Engineer at Altera Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2015014) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/PCIe-Design-Engineer_R02162-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-01.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

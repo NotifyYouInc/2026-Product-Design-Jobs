@@ -1,16 +1,16 @@
-# Product Designer  at bet365
+# Product Designer at Koah Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Koah Labs](https://scoutify.ai/companies/koah-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000117961681-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/koahlabs/b9197e42-e8a7-47fb-8907-87abe7615ced) |
 
 ## About This Role
 
-This product designer position at bet365 was posted on 2026-03-31.
+This product designer position at Koah Labs was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

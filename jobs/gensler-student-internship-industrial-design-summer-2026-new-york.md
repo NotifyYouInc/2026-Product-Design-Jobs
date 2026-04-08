@@ -1,16 +1,16 @@
-# Design Manager/Project Manager at Gensler
+# Student Internship - Industrial Design - Summer 2026 - New York at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | Project Manager |
+| Location | New York, US |
+| Category | Product Designer |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Antonio-TX-US/Design-Manager-Project-Manager_R-17367) |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Student-Internship---Industrial-Design---Summer-2026---New-York_R-17347) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-01.
+This product designer position at Gensler was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

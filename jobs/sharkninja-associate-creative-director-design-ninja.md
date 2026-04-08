@@ -1,16 +1,16 @@
-# Senior Product Designer at Global Payments
+# Associate Creative Director, Design – Ninja  at SharkNinja
 
 | Field | Details |
 |-------|---------|
-| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | UX Writer & Content Designer |
+| Category | Brand Marketing |
 | Posted | 2026-03-31 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Atlanta-Georgia-USA/Senior-Product-Designer_R0070326-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4667306006) |
 
 ## About This Role
 
-This ux writer & content designer position at Global Payments was posted on 2026-03-31.
+This brand marketing position at SharkNinja was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

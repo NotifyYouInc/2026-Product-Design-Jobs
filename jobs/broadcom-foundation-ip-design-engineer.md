@@ -1,16 +1,16 @@
-# Senior Mixed Signal Design Engineer at Nvidia
+# Foundation IP Design Engineer at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2015014) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Singapore-Yishun/Foundation-IP-Design-Engineer_R025558) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-01.
+This semiconductor / chip design position at Broadcom was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
