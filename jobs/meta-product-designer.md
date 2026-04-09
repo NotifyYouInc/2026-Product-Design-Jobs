@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1460791898494176) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1681180729687838) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-24.
+This product designer position at Meta was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

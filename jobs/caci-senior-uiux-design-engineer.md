@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Cary/Senior-UI-UX-Design-Engineer_323277) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Cary/Senior-UI-UX-Design-Engineer_324183) |
 
 ## About This Role
 
-This frontend engineer position at CACI was posted on 2026-03-13.
+This frontend engineer position at CACI was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

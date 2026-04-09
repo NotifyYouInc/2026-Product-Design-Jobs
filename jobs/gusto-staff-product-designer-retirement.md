@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 7 locations |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7514763) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7514758) |
 
 ## About This Role
 
-This product designer position at Gusto was posted on 2026-03-16.
+This product designer position at Gusto was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

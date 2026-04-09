@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Valencia, ES |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Staff-Digital-Design-Engineer_R261020) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Staff-Digital-Design-Engineer_R260730) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-02-17.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

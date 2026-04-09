@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-DFT-Design-Engineer_R01930) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Senior-DFT-Design-Engineer_R02296) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-02-19.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Design Manager - Senior at Gensler
+# Design Manager – Senior at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Seattle-WA-US/Design-Manager---Senior_R-17101) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Las-Vegas-NV-US/Design-Manager---Senior_R-17376) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-02-26.
+This project manager position at Gensler was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
