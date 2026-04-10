@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Designer_R-522446) |
+| Location | 2 locations |
+| Category | UX Researcher |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Product-Designer_R-532504) |
 
 ## About This Role
 
-This product designer position at Wells Fargo was posted on 2026-03-04.
+This ux researcher position at Wells Fargo was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

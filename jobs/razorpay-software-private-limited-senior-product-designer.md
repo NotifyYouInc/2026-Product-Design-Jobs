@@ -5,12 +5,12 @@
 | Company | [Razorpay Software Private Limited](https://scoutify.ai/companies/razorpay-software-private-limited?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4673867005) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4673865005) |
 
 ## About This Role
 
-This ux researcher position at Razorpay Software Private Limited was posted on 2026-03-26.
+This ux researcher position at Razorpay Software Private Limited was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

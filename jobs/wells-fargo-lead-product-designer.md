@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Product-Designer_R-528738) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Designer_R-530925-1) |
 
 ## About This Role
 
-This product designer position at Wells Fargo was posted on 2026-03-23.
+This product designer position at Wells Fargo was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

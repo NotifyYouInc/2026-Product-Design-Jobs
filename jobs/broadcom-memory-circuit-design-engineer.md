@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Minnesota, US |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Electronic-City---S1/Memory-Circuit-Design-Engineer_R025491) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Mendota-Heights-Northland/Memory-Circuit-Design-Engineer_R025565) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-03-26.
+This semiconductor / chip design position at Broadcom was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

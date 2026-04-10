@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ludvika, Dalarna, Sweden |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Hardware-Electrical-Design-Engineer---HVDC-Control---Protection-Systems_R0119839) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/Hardware-Electrical-Design-Engineer---HVDC-Control---Protection-Systems_R0099543-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-10.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000109754225-staff-analog-design-engineer) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118406042-staff-analog-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-02-17.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

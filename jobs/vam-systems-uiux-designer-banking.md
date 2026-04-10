@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000116870497-uiux-designer-banking) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000118321827-uiux-designer-banking) |
 
 ## About This Role
 
-This product designer position at VAM Systems was posted on 2026-03-26.
+This product designer position at VAM Systems was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Location | Dundee, Scotland, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000110203094-design-engineer) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000118484587-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Smiths Group was posted on 2026-02-19.
+This electrical / hardware engineer position at Smiths Group was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
