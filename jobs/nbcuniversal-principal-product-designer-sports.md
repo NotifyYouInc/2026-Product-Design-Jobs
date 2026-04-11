@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Principal Product Designer, Sports at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-User-Experience-Designer_26WD96290-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000118618675-principal-product-designer-sports) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-04-03.
+This product designer position at NBCUniversal was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

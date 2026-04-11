@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Digital Experience Designer II at HNTB
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [HNTB](https://scoutify.ai/companies/hntb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | South Portland, Maine, United States |
 | Category | Product Designer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-User-Experience-Designer_26WD96290-1) |
+| Apply | [View on company site](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Digital-Experience-Designer-II_R-29752) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-04-03.
+This product designer position at HNTB was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

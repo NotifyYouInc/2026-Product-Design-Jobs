@@ -1,16 +1,16 @@
-# Senior Industrial Designer at Formlabs
+# Industrial Design Intern - Boston (May 2026) at PA Consulting
 
 | Field | Details |
 |-------|---------|
-| Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7777939/apply/?gh_jid=7777939) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000118604530-industrial-design-intern-boston-may-2026) |
 
 ## About This Role
 
-This product designer position at Formlabs was posted on 2026-04-03.
+This product designer position at PA Consulting was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Design Lead at Ruby Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4303076493254144) |
+| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ukraine |
+| Category | Marketing |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/1bb7dc59-839f-4202-a7fa-a8c808eec123) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-27.
+This marketing position at Ruby Labs was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

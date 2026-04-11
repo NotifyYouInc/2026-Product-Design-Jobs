@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# User Interface/User Experience Principal at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Product Designer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-User-Experience-Designer_26WD96290-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/User-Interface-User-Experience-Principal_JR336801-1) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-04-03.
+This product designer position at Salesforce was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

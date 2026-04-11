@@ -1,16 +1,16 @@
-# Design Engineer - Memory Subsystem at Nvidia
+# Senior Physical Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Design-Engineer---Memory-Subsystem_JR2015652) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Senior-Physical-Design-Engineer_JR0282471) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-03.
+This semiconductor / chip design position at Intel was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

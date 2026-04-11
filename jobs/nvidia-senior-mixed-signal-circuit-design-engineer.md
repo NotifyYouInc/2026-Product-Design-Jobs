@@ -1,12 +1,12 @@
-# Design Engineer - Memory Subsystem at Nvidia
+# Senior Mixed Signal Circuit Design Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Design-Engineer---Memory-Subsystem_JR2015652) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Circuit-Design-Engineer_JR2015519) |
 
 ## About This Role
 

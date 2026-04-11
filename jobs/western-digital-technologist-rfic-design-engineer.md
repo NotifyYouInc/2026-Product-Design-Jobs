@@ -1,16 +1,16 @@
-# Design Engineer - Memory Subsystem at Nvidia
+# Technologist, RFIC Design Engineer at Western Digital
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Design-Engineer---Memory-Subsystem_JR2015652) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118659937-technologist-rfic-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-03.
+This semiconductor / chip design position at Western Digital was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

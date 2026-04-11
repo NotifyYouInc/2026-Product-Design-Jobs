@@ -1,16 +1,16 @@
-# Design Engineer - Memory Subsystem at Nvidia
+# Senior Thermal Solutions Design Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
+| Location | Austin, Texas, United States |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Design-Engineer---Memory-Subsystem_JR2015652) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Thermal-Solutions-Design-Engineer_JR2015588) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-03.
+This electrical / hardware engineer position at Nvidia was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

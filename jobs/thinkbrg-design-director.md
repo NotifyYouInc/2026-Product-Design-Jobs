@@ -1,16 +1,16 @@
-# Principal User Experience Designer at Autodesk
+# Design Director at Thinkbrg
 
 | Field | Details |
 |-------|---------|
-| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Thinkbrg](https://scoutify.ai/companies/thinkbrg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Designer |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-User-Experience-Designer_26WD96290-1) |
+| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Washington-DC/Design-Director_JR100761) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-04-03.
+This product designer position at Thinkbrg was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

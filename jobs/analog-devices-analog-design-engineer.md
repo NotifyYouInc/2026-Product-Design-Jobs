@@ -1,16 +1,16 @@
-# Design Engineer - Memory Subsystem at Nvidia
+# Analog Design Engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Valencia, ES |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Design-Engineer---Memory-Subsystem_JR2015652) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Analog-Design-Engineer_R261714) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-03.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
