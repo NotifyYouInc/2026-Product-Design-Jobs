@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# [Job- 28521] Mid -Level UI/UX Designer, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
+| Category | UX Researcher |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/412e3ea2-8382-4384-bf84-8abced7dd7dd) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/86d70a90-4ab1-4ddc-aabe-f2f73d874a06) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-04-05.
+This ux researcher position at Ciandt was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

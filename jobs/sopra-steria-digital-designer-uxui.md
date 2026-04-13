@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117278767-digital-designer-uxui) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117387857-digital-designer-uxui) |
 
 ## About This Role
 

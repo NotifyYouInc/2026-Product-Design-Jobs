@@ -1,16 +1,16 @@
-# Staff Product Designer at Sigma Computing
+# Director, Product Design for Onboarding at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690413003) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Director--Product-Design-for-Onboarding_R-405643) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-04-06.
+This product designer position at Humana was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

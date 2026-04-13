@@ -1,16 +1,16 @@
-# Creative Design Lead - UK at Bjak
+# Product Designer at Wordware
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Marketing |
+| Company | [Wordware](https://scoutify.ai/companies/wordware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
+| Category | UX Researcher |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/412e3ea2-8382-4384-bf84-8abced7dd7dd) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/wordware/jobs/UUD4iPu-product-designer) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-04-05.
+This ux researcher position at Wordware was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

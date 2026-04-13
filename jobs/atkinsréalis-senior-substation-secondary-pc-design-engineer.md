@@ -1,12 +1,12 @@
-# Principal Substation Secondary (P&C) Design Engineer at AtkinsRéalis
+# Senior Substation Secondary (P&C) Design Engineer at AtkinsRéalis
 
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Epsom, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBEpsomWoodcote-Grove/Principal-Substation-Secondary--P-C--Design-Engineer_R-152047-1) |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBirmingham---Chamberlain-Square/Senior-Substation-Secondary--P-C--Design-Engineer_R-152065) |
 
 ## About This Role
 
