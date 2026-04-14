@@ -6,7 +6,7 @@
 | Location | Virginia, US |
 | Category | Product Manager |
 | Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117359947-director-web-and-digital-experience) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117410767-director-web-and-digital-experience) |
 
 ## About This Role
 

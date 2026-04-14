@@ -1,16 +1,16 @@
-# Senior Designer at Toast
+# Designer - Workplace - Junior at Gensler
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7716049) |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Designer---Workplace---Junior_R-16839) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-04-06.
+This product designer position at Gensler was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Designer at Toast
+# Product Designer at Decagon
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7716049) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/1117aac8-58b5-4b24-bc82-849317a52719) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-04-06.
+This product designer position at Decagon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

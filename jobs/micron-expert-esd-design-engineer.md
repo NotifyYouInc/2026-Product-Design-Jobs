@@ -1,16 +1,16 @@
-# Senior Digital Design Engineer at Analog Devices
+# Expert ESD Design Engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Digital-Design-Engineer_R261526) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Expert-ESD-Design-Engineer_JR95955) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-06.
+This semiconductor / chip design position at Micron was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

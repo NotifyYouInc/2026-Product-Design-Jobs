@@ -1,16 +1,16 @@
-# Senior Designer at Toast
+# Intern - Industrial Design at SanDisk
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Milpitas, California, United States |
 | Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7716049) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000118886057-intern-industrial-design) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-04-06.
+This product designer position at SanDisk was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

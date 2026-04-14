@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Product Designer at Just Eat Takeaway.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/9a4edacb-956f-4294-be08-39b56dcc6c73) |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Toronto-King-Street-E-Office/Product-Designer_R_050755) |
 
 ## About This Role
 
-This marketing position at Venn was posted on 2026-04-06.
+This product designer position at Just Eat Takeaway.com was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

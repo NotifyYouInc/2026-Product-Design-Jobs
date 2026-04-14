@@ -1,16 +1,16 @@
-# Senior Digital Design Engineer at Analog Devices
+# E-Core (Atom) CPU Layout Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Malaysia |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Digital-Design-Engineer_R261526) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/E-Core--Atom--CPU-Layout-Design-Engineer_JR0282650) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-06.
+This semiconductor / chip design position at Intel was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

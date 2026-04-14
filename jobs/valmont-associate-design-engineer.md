@@ -1,16 +1,16 @@
-# Design Engineer at Caterpillar
+# Associate Design Engineer at Valmont
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Company | [Valmont](https://scoutify.ai/companies/valmont?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Omaha, Nebraska, United States |
 | Category | Engineering Manager |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Design-Engineer_R0000361921) |
+| Apply | [View on company site](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Associate-Design-Engineer_R27153) |
 
 ## About This Role
 
-This engineering manager position at Caterpillar was posted on 2026-04-06.
+This engineering manager position at Valmont was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

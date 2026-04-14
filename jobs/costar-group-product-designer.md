@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | UX Researcher |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Product-Designer_R38439) |
+| Category | Product Designer |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Product-Designer_R38615) |
 
 ## About This Role
 
-This ux researcher position at CoStar Group was posted on 2026-03-10.
+This product designer position at CoStar Group was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Designer at Toast
+# Staff Product Designer - Financial Tools and Infrastructure at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7716049) |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7586690?gh_jid=7586690) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-04-06.
+This product designer position at Coinbase was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
