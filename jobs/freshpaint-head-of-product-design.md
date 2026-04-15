@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# Head of Product Design at Freshpaint
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
+| Company | [Freshpaint](https://scoutify.ai/companies/freshpaint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
+| Category | Product Manager |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/freshpaint/15798080-a8c7-408e-9a7b-a0483f49fad9) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product manager position at Freshpaint was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

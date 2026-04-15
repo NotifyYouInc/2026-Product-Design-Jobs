@@ -1,16 +1,16 @@
-# Product Designer Senior H/F at Nexton
+# UX UI ANALYST PLENO at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119162247-product-designer-senior-hf) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4644956005?gh_jid=4644956005) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-07.
+This ux researcher position at Inter Carreiras was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

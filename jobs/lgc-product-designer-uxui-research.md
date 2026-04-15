@@ -5,12 +5,12 @@
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000117670557-product-designer-uxui-research) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000118439545-product-designer-uxui-research) |
 
 ## About This Role
 
-This ux researcher position at LGC was posted on 2026-03-30.
+This ux researcher position at LGC was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

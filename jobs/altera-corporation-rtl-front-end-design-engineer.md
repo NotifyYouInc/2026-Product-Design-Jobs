@@ -1,16 +1,16 @@
-# Senior ASIC Physical Design Engineer at K2 Space
+# RTL Front End Design Engineer at Altera Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5180272008) |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/RTL-Front-End-Design-Engineer_R02232) |
 
 ## About This Role
 
-This semiconductor / chip design position at K2 Space was posted on 2026-04-07.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

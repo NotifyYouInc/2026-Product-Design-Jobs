@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# R&D Specialist at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Product Designer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Auckland-Auckland-New-Zealand/R-D-Specialist_JR00027909) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product designer position at ABB was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Visual Designer, YouTube Discovery at Google
+# Product Design Engineer at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Bruno, California, United States |
-| Category | Product Designer |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQTKe83tV3dIjcfEiCl2xmJRGkc_xVnSwMPeUkNYbWQ5EjsACxwdTNlT8XD7RSjPYjY7WSXVDasElQgk33GkHpLDF0tb3IYRCmmcoiIHEwde3RzjBIOqHXzSa3NRaw%3D%3D_V2&loc=US&title=Visual+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcwNCmkEpREeMMI0rAI_PBkqPmk0m9YXZEqN_SaT3EWPEjsACxwdTEEkgvYon_li32chPEtR2PGKHA4vEtUttdwjToWX9tPw4ESdwwUX51ZcEnOgRqXYD7bprlcngw%3D%3D_V2&loc=VN&title=Product+Design+Engineer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-04-07.
+This electrical / hardware engineer position at Google was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# 3D Visualization Manager at Alo Yoga
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Alo Yoga](https://scoutify.ai/companies/alo-yoga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beverly Hills, California, United States |
 | Category | Product Designer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://boards.greenhouse.io/aloyoga/jobs/5789952004?gh_jid=5789952004) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product designer position at Alo Yoga was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

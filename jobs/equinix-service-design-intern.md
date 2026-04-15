@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# Service Design Intern at Equinix
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
+| Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Service-Design-Intern_JR-159876) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This ux researcher position at Equinix was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

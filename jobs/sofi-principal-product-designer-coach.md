@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# Principal Product Designer, Coach at SoFi
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://sofi.com/careers/job/7668597003?gh_jid=7668597003) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product designer position at SoFi was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Boise, Idaho, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/DRAM-Design-Engineer_JR96377) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Design-Engineer_JR97486) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-25.
+This semiconductor / chip design position at Micron was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

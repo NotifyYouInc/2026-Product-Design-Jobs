@@ -1,16 +1,16 @@
-# Senior ASIC Physical Design Engineer at K2 Space
+# Sr. UX Architect at Compassion International
 
 | Field | Details |
 |-------|---------|
-| Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Compassion International](https://scoutify.ai/companies/compassion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Semiconductor / Chip Design |
+| Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5180272008) |
+| Apply | [View on company site](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Remote---USA/Sr-UX-Architect_R8035) |
 
 ## About This Role
 
-This semiconductor / chip design position at K2 Space was posted on 2026-04-07.
+This ux researcher position at Compassion International was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

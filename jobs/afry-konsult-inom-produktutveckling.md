@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# Konsult inom produktutveckling at AFRY
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Solna, Stockholm, Sweden |
 | Category | Product Designer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000119214301-konsult-inom-produktutveckling) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product designer position at AFRY was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

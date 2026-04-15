@@ -1,16 +1,16 @@
-# Product Designer Senior H/F at Nexton
+# Senior Product Designer -- Become a Customer-1 at Wells Fargo
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119162247-product-designer-senior-hf) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Product-Designer----Become-a-Customer-1_R-530876-1) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-07.
+This ux researcher position at Wells Fargo was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

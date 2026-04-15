@@ -1,16 +1,16 @@
-# Product Designer Senior H/F at Nexton
+# Pessoa Estagiária de Product Design (UX/UI) at Syngenta
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119162247-product-designer-senior-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000119206457-pessoa-estagiaria-de-product-design-uxui) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-07.
+This ux researcher position at Syngenta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

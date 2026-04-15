@@ -1,16 +1,16 @@
-# Principal Product Designer at Microsoft
+# Product Designer, Maternity Experience at Maven Clinic
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Maven Clinic](https://scoutify.ai/companies/maven-clinic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
 | Category | Product Designer |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856011) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mavenclinic/jobs/8493856002) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-07.
+This product designer position at Maven Clinic was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

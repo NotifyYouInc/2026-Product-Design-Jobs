@@ -1,16 +1,16 @@
-# Product Designer Senior H/F at Nexton
+# Special Missions UI/UX Engineer at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Fayetteville, North Carolina, United States |
 | Category | UX Researcher |
 | Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119162247-product-designer-senior-hf) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Special-Missions-UI-UX-Engineer_R0237305) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-07.
+This ux researcher position at Booz Allen was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
