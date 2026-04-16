@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113866654097515206-interaction-designer-android-ai-experiences?sort_by=date&page=1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbPbCGUVC6vwjJL9n-sfDcaJ9bZAVMgj1HfwSp74Pa6FEjsACxwdTGJ5u1N_8IqLXmCJv-hSFxw2v1yQx2qGwxPyCWV3lCnK-A4O3ckU0cprjoYPBGkejs6hrrKF1Q%3D%3D_V2&loc=US&title=Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-24.
+This product designer position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

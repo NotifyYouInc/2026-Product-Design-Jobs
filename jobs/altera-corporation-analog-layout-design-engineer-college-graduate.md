@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Penang, MY |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Analog-Layout-Design-Engineer--College-Graduate-_R02293) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Analog-Layout-Design-Engineer--College-Graduate-_R02304) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-04-02.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

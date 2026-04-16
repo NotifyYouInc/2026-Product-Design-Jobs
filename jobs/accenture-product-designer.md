@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | UX Researcher |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/Product-Designer_14236628) |
+| Location | Kolkata, West Bengal, India |
+| Category | Product Designer |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Product-Designer_ATCI-5513787-S2011580-1) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-04-01.
+This product designer position at Accenture was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Design-Manager_R239330-1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Design-Manager_R240141-1) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-03-30.
+This product designer position at Capital One was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

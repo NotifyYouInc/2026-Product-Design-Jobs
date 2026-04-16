@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Product Designer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114422857-ux-manager-acceptance-risk-detect) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000119447377-ux-manager-acceptance-risk-detect) |
 
 ## About This Role
 
-This product designer position at Visa International Service Association was posted on 2026-03-12.
+This product manager position at Visa International Service Association was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

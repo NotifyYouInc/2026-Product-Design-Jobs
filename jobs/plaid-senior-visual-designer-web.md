@@ -1,16 +1,16 @@
-# Senior Visual Designer (Web) at Plaid
+# Senior Visual Designer (Web) at plaid
 
 | Field | Details |
 |-------|---------|
-| Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [plaid](https://scoutify.ai/companies/plaid-plaid?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Marketing |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.lever.co/plaid/aed3a2ea-6f19-44fb-9eb2-a90f73af61c7) |
+| Category | Product Designer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/7ff3e1fe-1f85-43d5-b50f-70ab22e72ccd) |
 
 ## About This Role
 
-This marketing position at Plaid was posted on 2026-03-27.
+This product designer position at plaid was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Germany |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Baden/Design-Engineer_R0035319) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Engineering Manager |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Istanbul/Design-Engineer_R0036496) |
 
 ## About This Role
 
-This electrical / hardware engineer position at The Weir Group was posted on 2026-03-02.
+This engineering manager position at The Weir Group was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# New College Graduate Systems Design Engineer  at Renesas Electronics
+# New College Graduate Systems Design Engineer  at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000116467757-new-college-graduate-systems-design-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000119450478-new-college-graduate-systems-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-03-24.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118438217-principal-digital-design-engineer) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000119456527-principal-digital-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-02.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

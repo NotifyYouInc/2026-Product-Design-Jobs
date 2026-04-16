@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Principal-Digital-Design-Engineer_2600894) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Principal-Digital-Design-Engineer_2600834) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-31.
+This semiconductor / chip design position at Marvell was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113109513640256198-circuit-design-engineer-technology-and-foundry-interface?sort_by=date&page=1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdXXHm6KupHYluIG7Si7RRkhdsMMBF70n5py5kpaUmpVEjsACxwdTK6nX-T_y3l9_8uJkVMLzIjTnNYjlQMpvkOUWqh5j3Ods1HIdyxserwqdLlSGEOJsomYiDKv8Q%3D%3D_V2&loc=US&title=Circuit+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-04.
+This semiconductor / chip design position at Google was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

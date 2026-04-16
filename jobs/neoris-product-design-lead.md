@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Peru |
-| Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4818740101) |
+| Location | Lima, Lima Province, Peru |
+| Category | Product Designer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4834687101) |
 
 ## About This Role
 
-This product manager position at Neoris was posted on 2026-03-20.
+This product designer position at Neoris was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
