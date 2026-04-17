@@ -1,16 +1,16 @@
-# Senior Service Designer- Remote at ICF
+# Senior Service Designer (Remote) at ICF
 
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Program Manager |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Service-Designer--Remote_R2600292) |
+| Category | Product Designer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Service-Designer--Remote-_R2601222) |
 
 ## About This Role
 
-This program manager position at ICF was posted on 2026-01-30.
+This product designer position at ICF was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
