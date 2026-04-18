@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656701/camera-module-design-lead) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200651767/camera-module-design-lead) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-08.
+This electrical / hardware engineer position at Apple was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

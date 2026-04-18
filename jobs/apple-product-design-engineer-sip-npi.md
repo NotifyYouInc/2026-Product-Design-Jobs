@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200649331/product-design-engineer-sip-npi) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200649105/product-design-engineer-sip-npi) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-03-21.
+This product designer position at Apple was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/86331899009475270-senior-ux-engineer-incubation-and-prototyping-jigsaw?sort_by=date&page=1) |
+| Location | New York, US |
+| Category | Software Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfCL-RCLjGN5Y777FLWoG45-7WntL8OSCnNJ8BG3NT4OEjsACxwdTKGFbCbKmdJ7dwQIyaEkADlko9YS4MG-KUrxE93ZuV6Bn1AiMw-3a94A-9hRKuDx0T2HzjVvVg%3D%3D_V2&loc=US&title=Senior+UX+Engineer) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-03-02.
+This software engineer position at Google was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

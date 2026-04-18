@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653088/thermal-manufacturing-design-engineer) |
+| Posted | 2025-12-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200633032/thermal-manufacturing-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-01.
+This electrical / hardware engineer position at Apple was posted on 2025-12-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655418/manufacturing-design-engineer-cnc) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646403/manufacturing-design-engineer-cnc) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-04-07.
+This industrial automation position at Apple was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

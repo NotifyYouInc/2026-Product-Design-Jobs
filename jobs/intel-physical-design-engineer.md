@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Penang, MY |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Physical-Design-Engineer_JR0282469-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Physical-Design-Engineer_JR0282903) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-01.
+This semiconductor / chip design position at Intel was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

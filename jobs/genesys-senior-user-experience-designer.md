@@ -5,12 +5,12 @@
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Galway, Connacht, Ireland |
 | Category | UX Researcher |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ireland/Senior-User-Experience-Designer_JR110630-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ireland/Senior-User-Experience-Designer_JR110653-1) |
 
 ## About This Role
 
-This ux researcher position at Genesys was posted on 2026-04-08.
+This ux researcher position at Genesys was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

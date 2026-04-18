@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Costa Rica |
 | Category | Product Designer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Product-Designer_19039336) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Product-Designer_19039793) |
 
 ## About This Role
 
-This product designer position at TransUnion was posted on 2026-03-17.
+This product designer position at TransUnion was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

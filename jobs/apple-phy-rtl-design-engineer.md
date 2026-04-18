@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653461/phy-rtl-design-engineer) |
+| Posted | 2025-11-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631566/phy-rtl-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-03-25.
+This semiconductor / chip design position at Apple was posted on 2025-11-13.
 
 ## Get Real-Time Alerts
 

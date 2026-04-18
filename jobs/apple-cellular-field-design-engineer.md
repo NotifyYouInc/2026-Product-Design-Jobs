@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200630336/cellular-field-design-engineer) |
+| Posted | 2025-11-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631477/cellular-field-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-09.
+This electrical / hardware engineer position at Apple was posted on 2025-11-11.
 
 ## Get Real-Time Alerts
 

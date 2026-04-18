@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Virginia, US |
+| Location | Jefferson City, Missouri, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bland-Virginia-United-States-of-America/Electrical-Design-Engineer_R0120732) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Jefferson-City-Missouri-United-States-of-America/Electrical-Design-Engineer_R0118376-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-03-24.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

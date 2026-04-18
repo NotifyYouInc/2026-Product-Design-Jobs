@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4757225101) |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4838457101) |
 
 ## About This Role
 
-This marketing position at Veeam Software was posted on 2026-03-13.
+This digital / performance marketing position at Veeam Software was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

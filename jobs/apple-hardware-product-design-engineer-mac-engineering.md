@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655356/hardware-product-design-engineer-mac-engineering) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200579441/hardware-product-design-engineer-mac-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-02.
+This electrical / hardware engineer position at Apple was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

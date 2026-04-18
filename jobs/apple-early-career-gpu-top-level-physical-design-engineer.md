@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645609/early-career-gpu-top-level-physical-design-engineer) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644458/early-career-gpu-top-level-physical-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-03-26.
+This semiconductor / chip design position at Apple was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

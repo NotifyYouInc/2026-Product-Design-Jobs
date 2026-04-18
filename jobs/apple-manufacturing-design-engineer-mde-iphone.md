@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653728/manufacturing-design-engineer-mde-iphone) |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644153/manufacturing-design-engineer-mde-iphone) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-03-30.
+This embedded / firmware engineer position at Apple was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

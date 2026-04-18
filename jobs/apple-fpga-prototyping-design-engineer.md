@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655806/fpga-prototyping-design-engineer) |
+| Posted | 2026-01-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200644426/fpga-prototyping-design-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-04-03.
+This embedded / firmware engineer position at Apple was posted on 2026-01-30.
 
 ## Get Real-Time Alerts
 

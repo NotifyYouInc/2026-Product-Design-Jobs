@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Karnataka, IN |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Design-Engineer_JR00026509) |
+| Category | Robotics Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-Design-Engineer_JR00030560) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-02.
+This robotics engineer position at ABB was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

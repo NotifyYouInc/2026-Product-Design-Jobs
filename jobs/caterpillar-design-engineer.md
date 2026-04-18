@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Torreón, Coahuila, Mexico |
-| Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Design-Engineer_R0000361921) |
+| Location | Illinois, US |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Design-Engineer_R0000356075-1) |
 
 ## About This Role
 
-This engineering manager position at Caterpillar was posted on 2026-04-06.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
