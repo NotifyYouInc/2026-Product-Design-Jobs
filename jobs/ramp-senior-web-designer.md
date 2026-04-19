@@ -1,16 +1,16 @@
-# Senior UX Designer at GoodLeap
+# Senior Web Designer at Ramp
 
 | Field | Details |
 |-------|---------|
-| Company | [GoodLeap](https://scoutify.ai/companies/goodleap?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
-| Category | UX Researcher |
+| Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
+| Category | Product Designer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.lever.co/goodleap/b4167e31-3ec0-418c-a27a-48f3a2798296) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/b67f938f-b966-4d56-83d5-71db39c22474) |
 
 ## About This Role
 
-This ux researcher position at GoodLeap was posted on 2026-04-11.
+This product designer position at Ramp was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

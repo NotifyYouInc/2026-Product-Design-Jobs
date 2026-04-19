@@ -1,16 +1,16 @@
-# System Product Design Engineer - Interconnect at Apple
+# Designer, Interactive at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645561/system-product-design-engineer-interconnect) |
+| Category | Product Designer |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656061/designer-interactive) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-02-05.
+This product designer position at Apple was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
