@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200579441/hardware-product-design-engineer-mac-engineering) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200589046/hardware-product-design-engineer-mac-engineering) |
 
 ## About This Role
 

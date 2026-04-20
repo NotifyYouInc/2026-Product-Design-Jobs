@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648711/pll-design-engineer) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200645643/pll-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-02-26.
+This semiconductor / chip design position at Apple was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

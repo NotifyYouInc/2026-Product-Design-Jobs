@@ -1,16 +1,16 @@
-# Product Design Engineer at Apple
+# Experience Consultant-Design at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | Product Designer |
-| Posted | 2025-03-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200543111/product-design-engineer) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81260) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2025-03-05.
+This product designer position at IBM was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

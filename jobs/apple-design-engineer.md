@@ -1,16 +1,16 @@
-# Digital Layout Design Engineer at Apple
+# Design Engineer at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657354/digital-layout-design-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200654667/design-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-04-10.
+This electrical / hardware engineer position at Apple was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

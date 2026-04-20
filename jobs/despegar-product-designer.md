@@ -1,16 +1,16 @@
-# Product Design Engineer at Apple
+# Product Designer at Despegar
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Despegar](https://scoutify.ai/companies/despegar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Designer |
-| Posted | 2025-03-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200543111/product-design-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.lever.co/despegar/7670fd55-05b7-4e95-a898-0fc8bade777e) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2025-03-05.
+This product designer position at Despegar was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

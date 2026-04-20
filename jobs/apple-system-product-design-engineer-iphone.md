@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200651554/system-product-design-engineer-iphone) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646121/system-product-design-engineer-iphone) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Apple was posted on 2026-03-13.
+This embedded / firmware engineer position at Apple was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

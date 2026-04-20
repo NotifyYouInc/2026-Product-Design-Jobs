@@ -1,16 +1,16 @@
-# Product Design Engineer at Apple
+# Product Designer - TikTok User Growth at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2025-03-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200543111/product-design-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7626646399088511237/detail) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2025-03-05.
+This product designer position at TikTok was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

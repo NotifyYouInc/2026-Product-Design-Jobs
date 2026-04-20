@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652286/display-panel-design-engineer) |
+| Posted | 2025-11-19 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200632858/display-panel-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-03-17.
+This electrical / hardware engineer position at Apple was posted on 2025-11-19.
 
 ## Get Real-Time Alerts
 

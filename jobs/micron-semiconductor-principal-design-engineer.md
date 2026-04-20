@@ -1,4 +1,4 @@
-# Staff Design Engineer at Micron
+# Semiconductor Principal Design Engineer at Micron
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Tokyo, Tokyo, Japan |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tokyo-Japan/Staff-Design-Engineer_JR94987) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Tokyo-Japan/Semiconductor-Principal-Design-Engineer_JR94304) |
 
 ## About This Role
 
