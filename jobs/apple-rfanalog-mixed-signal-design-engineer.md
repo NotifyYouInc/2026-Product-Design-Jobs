@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646644/rf-analog-mixed-signal-design-engineer) |
+| Posted | 2025-10-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625525/rf-analog-mixed-signal-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-02-12.
+This electrical / hardware engineer position at Apple was posted on 2025-10-14.
 
 ## Get Real-Time Alerts
 

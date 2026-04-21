@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646654/ic-package-design-engineer) |
+| Posted | 2025-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200618727/ic-package-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-02-12.
+This semiconductor / chip design position at Apple was posted on 2025-09-02.
 
 ## Get Real-Time Alerts
 

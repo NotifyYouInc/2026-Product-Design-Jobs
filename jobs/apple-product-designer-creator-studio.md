@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646779/product-designer-creator-studio) |
+| Posted | 2025-09-16 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200620372/product-designer-creator-studio) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-02-16.
+This product designer position at Apple was posted on 2025-09-16.
 
 ## Get Real-Time Alerts
 

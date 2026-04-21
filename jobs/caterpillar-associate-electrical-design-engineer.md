@@ -1,16 +1,16 @@
-# Associate Electrical design engineer at Caterpillar
+# Associate Electrical Design Engineer at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Location | Alpharetta, Georgia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Associate-Electrical-design-engineer_R0000356251) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Associate-Electrical-Design-Engineer_R0000361661) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-03-10.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

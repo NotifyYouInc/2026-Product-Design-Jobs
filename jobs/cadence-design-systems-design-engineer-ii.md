@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-04/Design-Engineer-II_R52496) |
+| Location | India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Design-Engineer-II_R53128) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-03-26.
+This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

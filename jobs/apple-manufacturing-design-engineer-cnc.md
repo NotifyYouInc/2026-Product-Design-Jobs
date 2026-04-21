@@ -1,16 +1,16 @@
-# Manufacturing Design Engineer, CNC at Apple
+# Manufacturing Design Engineer (CNC) at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Industrial Automation |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646403/manufacturing-design-engineer-cnc) |
+| Posted | 2025-07-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200613787/manufacturing-design-engineer-cnc) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-02-24.
+This industrial automation position at Apple was posted on 2025-07-23.
 
 ## Get Real-Time Alerts
 

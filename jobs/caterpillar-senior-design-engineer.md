@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | East Peoria, Illinois, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Senior-Design-Engineer_R0000360714) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Senior-Design-Engineer_R0000362772) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-04-06.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

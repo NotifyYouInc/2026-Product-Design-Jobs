@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-01-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200641240/soc-machine-learning-design-engineer) |
+| Posted | 2025-09-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200623433/soc-machine-learning-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-01-15.
+This semiconductor / chip design position at Apple was posted on 2025-09-29.
 
 ## Get Real-Time Alerts
 

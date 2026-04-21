@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Brazil |
 | Category | UX Researcher |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Senior-UX-Designer_R62355-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brazil-Remote-Work/Senior-UX-Designer_R63716) |
 
 ## About This Role
 
-This ux researcher position at Motorola Solutions was posted on 2026-03-23.
+This ux researcher position at Motorola Solutions was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4667638006) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4667650006) |
 
 ## About This Role
 
-This product designer position at SharkNinja was posted on 2026-03-30.
+This product designer position at SharkNinja was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

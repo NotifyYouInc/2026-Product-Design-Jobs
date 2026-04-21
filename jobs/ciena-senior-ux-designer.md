@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | UX Researcher |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/India--Pune--Panchshil-Tower-C/Senior-UX-Designer_R030385) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Product Designer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Senior-UX-Designer_R030665) |
 
 ## About This Role
 
-This ux researcher position at Ciena was posted on 2026-03-12.
+This product designer position at Ciena was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

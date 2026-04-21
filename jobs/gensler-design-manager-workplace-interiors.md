@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Project Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Shanghai-China/Design-Manager---Workplace-Interiors_R-17190) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Francisco-CA-US/Design-Manager---Build-to-Suit_R-16101) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-03-10.
+This project manager position at Gensler was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

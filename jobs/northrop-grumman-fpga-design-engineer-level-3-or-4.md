@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Maryland, US |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/FPGA-Design-Engineer--Level-3-or-4-_R10225183) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/FPGA-Design-Engineer--Level-3-or-4-_R10229306) |
 
 ## About This Role
 
-This semiconductor / chip design position at Northrop Grumman was posted on 2026-03-06.
+This embedded / firmware engineer position at Northrop Grumman was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

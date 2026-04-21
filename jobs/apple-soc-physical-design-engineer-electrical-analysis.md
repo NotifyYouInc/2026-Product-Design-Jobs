@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647790/soc-physical-design-engineer-electrical-analysis) |
+| Posted | 2025-09-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200609319/soc-physical-design-engineer-electrical-analysis) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-02-19.
+This semiconductor / chip design position at Apple was posted on 2025-09-20.
 
 ## Get Real-Time Alerts
 

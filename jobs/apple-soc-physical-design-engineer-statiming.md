@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-01-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200642607/soc-physical-design-engineer-sta-timing) |
+| Posted | 2025-10-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200627698/soc-physical-design-engineer-sta-timing) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-01-23.
+This semiconductor / chip design position at Apple was posted on 2025-10-23.
 
 ## Get Real-Time Alerts
 

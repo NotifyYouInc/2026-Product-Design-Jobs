@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2025-11-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200631275/sram-circuit-design-engineer) |
+| Posted | 2025-10-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200626139/sram-circuit-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2025-11-10.
+This semiconductor / chip design position at Apple was posted on 2025-10-14.
 
 ## Get Real-Time Alerts
 

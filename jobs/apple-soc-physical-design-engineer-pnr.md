@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-01-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200641520/soc-physical-design-engineer-pnr) |
+| Posted | 2025-10-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200627232/soc-physical-design-engineer-pnr) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2026-01-16.
+This semiconductor / chip design position at Apple was posted on 2025-10-23.
 
 ## Get Real-Time Alerts
 

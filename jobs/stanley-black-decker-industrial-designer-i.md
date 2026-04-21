@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ohio, US |
+| Location | Towson, Maryland, United States |
 | Category | Product Designer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Industrial-Designer-I_REQ-1000046795) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Designer-I_REQ-1000047171) |
 
 ## About This Role
 
-This product designer position at Stanley Black & Decker was posted on 2026-03-18.
+This product designer position at Stanley Black & Decker was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

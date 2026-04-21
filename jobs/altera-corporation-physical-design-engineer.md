@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/New-Delhi-India-Remote/Physical-Design-Engineer_R02149-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/Physical-Design-Engineer_R02240) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-03-11.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
