@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | North Charleston, South Carolina, United States |
-| Category | Product Designer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-SC-North-Charleston/UI-UX-Designer_323820) |
+| Location | United States |
+| Category | UX Researcher |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/UI-UX-Designer_324823) |
 
 ## About This Role
 
-This product designer position at CACI was posted on 2026-03-26.
+This ux researcher position at CACI was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Design-Engineer_JR2015014) |
+| Location | Santa Clara, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2016015) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-01.
+This electrical / hardware engineer position at Nvidia was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

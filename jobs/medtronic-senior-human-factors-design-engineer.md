@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | Minnesota, US |
 | Category | UX Researcher |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Senior-Human-Factors-Design-Engineer_R61169) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Senior-Human-Factors-Design-Engineer_R63538-1) |
 
 ## About This Role
 
-This ux researcher position at Medtronic was posted on 2026-03-17.
+This ux researcher position at Medtronic was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

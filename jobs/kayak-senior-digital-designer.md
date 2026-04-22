@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [kayak](https://scoutify.ai/companies/kayak-kayak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Marketing |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/099ef745-f623-4ebf-a1f9-2de0efc2590b) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kayak/8ea60293-3aba-4634-9fdf-2c89fd65bed9) |
 
 ## About This Role
 
-This marketing position at kayak was posted on 2026-04-09.
+This marketing position at kayak was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

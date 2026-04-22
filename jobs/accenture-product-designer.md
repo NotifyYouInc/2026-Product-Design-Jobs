@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Product-Designer_ATCI-5513787-S2011580-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Product-Designer_ATCI-5513752-S2011435-1) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-07.
+This product designer position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

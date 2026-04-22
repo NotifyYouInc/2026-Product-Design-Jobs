@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Product Designer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/UX-UI-Designer--Mid_R0235277) |
+| Category | UX Researcher |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/UX-UI-Designer--Mid_R0237704-1) |
 
 ## About This Role
 
-This product designer position at Booz Allen was posted on 2026-03-06.
+This ux researcher position at Booz Allen was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

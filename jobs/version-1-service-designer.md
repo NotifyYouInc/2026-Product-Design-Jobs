@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | 6 locations |
 | Category | Product Designer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000111642845-service-designer) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000120705376-service-designer) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-02-26.
+This product designer position at Version 1 was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

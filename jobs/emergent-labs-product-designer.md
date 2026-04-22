@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emergent Labs ](https://scoutify.ai/companies/emergent-labs-?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/emergentlabsinc/jobs/4203646009) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/emergentlabsinc/jobs/4029048009) |
 
 ## About This Role
 
-This product designer position at Emergent Labs  was posted on 2026-03-30.
+This product designer position at Emergent Labs  was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

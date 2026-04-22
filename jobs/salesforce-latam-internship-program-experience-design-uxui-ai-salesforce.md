@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | UX Researcher |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/LATAM-Internship-Program---Experience-Design--UX-UI----AI---Salesforce_JR334819-2) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/LATAM-Internship-Program---Experience-Design--UX-UI----AI---Salesforce_JR334968-1) |
 
 ## About This Role
 
-This ux researcher position at Salesforce was posted on 2026-03-20.
+This ux researcher position at Salesforce was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
