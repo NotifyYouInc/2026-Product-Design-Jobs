@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90750447546966726-staff-visual-designer-labs?sort_by=date&page=1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdiFXzGdXC7_Oy-GDexKOSqkFj4amaqbfQOmKQEg81mAEjoACxwdTMts9mpEs0PpXV0DGOrndw4izKFPFB8ZRmBgW_eum7sn4fjeRxEjMVGtDC4ggpdQB2eh7kBp_V2&loc=US&title=Staff+Visual+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-03.
+This product designer position at Google was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

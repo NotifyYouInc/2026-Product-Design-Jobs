@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Penang, MY |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/FPGA-Silicon-Design-Engineer_R02307) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Silicon-Design-Engineer_R02317) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-04-06.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

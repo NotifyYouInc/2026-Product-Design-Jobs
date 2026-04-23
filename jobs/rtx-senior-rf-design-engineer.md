@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Senior-RF-Design-Engineer_01834018) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-RF-Design-Engineer_01837296) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-04-01.
+This electrical / hardware engineer position at RTX was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

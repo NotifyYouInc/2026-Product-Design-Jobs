@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Memory-Sustaining-Design-Engineer--HBM_JR96083) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Memory-Sustaining-Design-Engineer--HBM_JR97949) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-24.
+This semiconductor / chip design position at Micron was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

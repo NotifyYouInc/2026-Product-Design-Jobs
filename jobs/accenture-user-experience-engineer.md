@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/User-Experience-Engineer_ATCI-5312931-S1976674-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/User-Experience-Engineer_ATCI-5312932-S1976664-1) |
 
 ## About This Role
 

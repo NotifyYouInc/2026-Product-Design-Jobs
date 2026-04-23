@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mobile, Alabama, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Design-Engineer--Contract-_JR10404837) |
+| Location | Wichita, Kansas, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Design-Engineer--Contract-_JR10405588) |
 
 ## About This Role
 
-This engineering manager position at Airbus was posted on 2026-04-10.
+This electrical / hardware engineer position at Airbus was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

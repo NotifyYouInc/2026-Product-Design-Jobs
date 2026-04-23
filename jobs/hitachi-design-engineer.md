@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Egypt |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Sharkia-Sharkia-Egypt/Design-Engineer_R0083968) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Kosice-Kosice-Slovakia/Design-Engineer_R0126402) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-02.
+This electrical / hardware engineer position at Hitachi was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

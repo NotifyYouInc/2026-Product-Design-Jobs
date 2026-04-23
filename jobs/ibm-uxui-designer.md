@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bari, Apulia, Italy |
+| Location | Italy |
 | Category | Product Designer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95557) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109968) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-02-20.
+This product designer position at IBM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

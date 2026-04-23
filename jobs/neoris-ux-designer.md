@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lima, Lima Province, Peru |
-| Category | UX Researcher |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4821409101) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Product Designer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4834706101) |
 
 ## About This Role
 
-This ux researcher position at Neoris was posted on 2026-03-25.
+This product designer position at Neoris was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

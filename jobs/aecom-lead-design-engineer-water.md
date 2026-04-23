@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chesterfield, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112476108-lead-design-engineer-water) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120990557-lead-design-engineer-water) |
 
 ## About This Role
 
-This product designer position at AECOM was posted on 2026-03-03.
+This engineering manager position at AECOM was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

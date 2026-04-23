@@ -5,12 +5,12 @@
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Concepteur-trice--de-produit-principal-e-_R152621-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Senior-Product-Designer_R152964) |
 
 ## About This Role
 
-This product designer position at Intact was posted on 2026-04-08.
+This product designer position at Intact was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

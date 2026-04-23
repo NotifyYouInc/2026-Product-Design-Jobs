@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Illinois, US |
+| Location | Tianjin, Tianjin, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Design-Engineer_R0000356075-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Design-Engineer_R0000362351) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-04-10.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

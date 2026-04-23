@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000119994762-product-developer-edited-all-genders) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120436325-product-developer-edited-all-genders) |
 
 ## About This Role
 
-This product designer position at About You was posted on 2026-04-10.
+This product designer position at About You was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
