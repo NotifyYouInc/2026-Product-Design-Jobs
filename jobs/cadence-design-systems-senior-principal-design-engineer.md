@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE-08/Senior-Principal-Design-Engineer_R53459) |
+| Location | Hyderabad, Telangana, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HYDERABAD-04/Senior-Principal-Design-Engineer_R50856) |
 
 ## About This Role
 
-This software engineer position at Cadence Design Systems was posted on 2026-03-10.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

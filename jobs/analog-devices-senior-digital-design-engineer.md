@@ -1,16 +1,16 @@
-# Senior Digital Design Engineer at Analog Devices
+# Senior Digital Design engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Karnataka, IN |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Digital-Design-Engineer_R261526) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Digital-Design-engineer_R261687) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-06.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

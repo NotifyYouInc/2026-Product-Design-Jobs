@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Industrial Automation |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shibuya-ku-Tokyo-Japan/Design-Engineer_WD30262400) |
+| Location | London, England, United Kingdom |
+| Category | Security Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/London-London-UK/Design-Engineer_WD30264579) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-04-02.
+This security engineer position at Johnson Controls was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

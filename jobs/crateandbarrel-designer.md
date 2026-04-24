@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Chestnut Hill, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Charlotte/Designer_R24030) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Chestnut-Hill/Designer_R24014-1) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-13.
+This product designer position at Crateandbarrel was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

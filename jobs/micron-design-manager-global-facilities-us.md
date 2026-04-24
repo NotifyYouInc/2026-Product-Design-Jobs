@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Manager--Global-Facilities-US_JR83454) |
+| Location | Singapore, Singapore |
+| Category | Engineering Manager |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Design-Manager--Global-Facilities-US_JR95531) |
 
 ## About This Role
 
-This project manager position at Micron was posted on 2026-02-18.
+This engineering manager position at Micron was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Haifa, Haifa, Israel |
+| Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/CPU-Physical-Design-Engineer_JR0281740) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0282866) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-03-11.
+This semiconductor / chip design position at Intel was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

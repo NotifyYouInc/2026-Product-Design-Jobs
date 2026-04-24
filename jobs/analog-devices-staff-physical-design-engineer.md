@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Physical-Design-Engineer_R257673) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Staff-Physical-Design-Engineer_R261517) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-03-02.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

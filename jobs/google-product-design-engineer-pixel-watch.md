@@ -1,0 +1,22 @@
+# Product Design Engineer, Pixel Watch at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mountain View, California, United States |
+| Category | Product Designer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeZPybtYYacXrSRbY-p0Z26cFL05WPAl38-2SssQFlsfEjsACxwdTI0nQsSkMg1sHth1V5EtUES4D0ZKQGkd4Thi09WVDDIoyZIgRrvquMPBYJdeatu_Ikez8sJHBA%3D%3D_V2&loc=US&title=Product+Design+Engineer) |
+
+## About This Role
+
+This product designer position at Google was posted on 2026-04-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Engineer_JR2015366) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Engineer_JR2014979) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-06.
+This semiconductor / chip design position at Nvidia was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

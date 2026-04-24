@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Visual-Designer_R167428) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Senior-Visual-Designer_R167448) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-04-09.
+This product designer position at Adobe was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

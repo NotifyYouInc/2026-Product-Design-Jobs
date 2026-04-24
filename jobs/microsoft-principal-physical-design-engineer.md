@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556642840) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857458) |
 
 ## About This Role
 
-This semiconductor / chip design position at Microsoft was posted on 2026-03-20.
+This semiconductor / chip design position at Microsoft was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

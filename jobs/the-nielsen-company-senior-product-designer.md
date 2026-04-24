@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011935706-senior-product-designer) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012630126-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at The Nielsen Company was posted on 2026-03-03.
+This product designer position at The Nielsen Company was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

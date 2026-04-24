@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Englewood, Colorado, United States |
+| Location | Boulder, Colorado, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Englewood/RF-Microwave-Design-Engineer---Level-6_R10228537-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/RF-Microwave-Design-Engineer---Level-6_R10229411) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northrop Grumman was posted on 2026-04-06.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

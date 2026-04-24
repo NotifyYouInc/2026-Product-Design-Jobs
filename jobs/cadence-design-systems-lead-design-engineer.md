@@ -1,16 +1,16 @@
-# Lead Design Engineer at Cadence Design Systems
+# Lead design Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Design-Engineer_R54160) |
+| Location | India |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-design-Engineer_R53456) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-13.
+This embedded / firmware engineer position at Cadence Design Systems was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

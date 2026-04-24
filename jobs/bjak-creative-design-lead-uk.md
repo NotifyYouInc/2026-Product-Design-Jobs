@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
 | Category | Marketing |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/412e3ea2-8382-4384-bf84-8abced7dd7dd) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fb1e145f-dc4f-4372-a769-5695dec4781e) |
 
 ## About This Role
 
-This marketing position at Bjak was posted on 2026-04-05.
+This marketing position at Bjak was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

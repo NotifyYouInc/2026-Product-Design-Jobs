@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | Cork, Munster, Ireland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Design-Engineer-I_R54278) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CORK-01/Design-Engineer-I_R54358) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-04-13.
+This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

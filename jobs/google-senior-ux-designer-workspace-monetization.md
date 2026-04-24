@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckawUsvlr6zXQfkVtArC-TQZZSa-AH0vsAfd3rUJyf30lEjoACxwdTBnnYomn7XET25qFBfsXyqZ1LnrWtxVDdgdGjJ0Raa49q2NnEqqLNr-G6j2_aaqz4Rk8-H27_V2&loc=US&title=Senior+UX+Designer) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRJXzy2vunS6-ScRRu2Q62N6wzSqV-oOWWX5DzP1EFtKEjsACxwdTCLyWBjvpbSlx_C4PtmTcDMYeIVARzj3CPleEO838PEz3_RMVRzhTiP89kOYFUAf4jbF7jhKng%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-04-13.
+This product designer position at Google was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
