@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Denmark |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund-Project-House/Prototypes-Internship_0000033707) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund-Project-House/Prototypes-Internship_0000033948) |
 
 ## About This Role
 
-This product designer position at LEGO was posted on 2026-04-14.
+This product designer position at LEGO was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

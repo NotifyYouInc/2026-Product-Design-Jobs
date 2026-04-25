@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000120634363-product-designer-hf) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000121249327-product-designer-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-04-14.
+This product designer position at Nexton was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

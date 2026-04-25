@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fluxon](https://scoutify.ai/companies/fluxon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fluxon/jobs/4016843005) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fluxon/jobs/4685758005) |
 
 ## About This Role
 
-This product designer position at Fluxon was posted on 2026-02-10.
+This product designer position at Fluxon was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

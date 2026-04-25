@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Venture Capital |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Principal-Product-Designer_R0114489-1) |
+| Category | Product Designer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Principal-Product-Designer_R0117939) |
 
 ## About This Role
 
-This venture capital position at LSEG was posted on 2026-02-02.
+This product designer position at LSEG was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

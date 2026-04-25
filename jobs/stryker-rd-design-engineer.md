@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Salt Lake City, Utah, United States |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Design-Engineer_R562170) |
+| Location | Cork, Munster, Ireland |
+| Category | Engineering Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/R-D-Design-Engineer_R563354) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Stryker was posted on 2026-04-10.
+This engineering manager position at Stryker was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

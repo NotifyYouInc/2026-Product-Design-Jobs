@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7704926) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7820936) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-03-12.
+This product designer position at Toast was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

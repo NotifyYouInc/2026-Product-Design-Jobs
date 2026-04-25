@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Armenia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Armenia/Senior-Physical-Design-Engineer_2007277) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Armenia/Senior-Physical-Design-Engineer_2011239) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-03-20.
+This semiconductor / chip design position at Cisco was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Connecticut, US |
 | Category | UX Researcher |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Experience-Designer_R0882860-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Senior-Experience-Designer_R0856850-1) |
 
 ## About This Role
 
-This ux researcher position at CVS Health was posted on 2026-04-08.
+This ux researcher position at CVS Health was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
