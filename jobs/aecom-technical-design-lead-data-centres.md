@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ireland |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000117278987-technical-design-lead-data-centres) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Engineering Manager |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121586527-technical-design-lead-data-centres) |
 
 ## About This Role
 
-This technology / it consulting position at AECOM was posted on 2026-03-27.
+This engineering manager position at AECOM was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

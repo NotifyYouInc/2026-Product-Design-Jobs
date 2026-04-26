@@ -1,16 +1,16 @@
-# Product Design Engineer at Meta
+# Senior Product Designer at Sparrow
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Sparrow](https://scoutify.ai/companies/sparrow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1613776879769814) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sparrow/jobs/5973661004) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-04-18.
+This product designer position at Sparrow was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
