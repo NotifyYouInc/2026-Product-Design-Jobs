@@ -1,16 +1,16 @@
-# Senior Design Engineer, Coherent High Speed Interconnect at Nvidia
+# Firmware Design Engineer - NVLink GPU Networking at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Santa Clara, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Design-Engineer--Coherent-High-Speed-Interconnect_JR2016641) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Design-Engineer---NVLink-GPU-Networking_JR2016512) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-04-20.
+This embedded / firmware engineer position at Nvidia was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

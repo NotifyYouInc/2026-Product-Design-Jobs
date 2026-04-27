@@ -1,16 +1,16 @@
-# Sr Product Designer, Document Cloud at Adobe
+# Product Designer , Legal Mandates at Kone
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Sr-Product-Designer--Document-Cloud_R167882-1) |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/Product-Designer---Legal-Mandates_R0657128-1) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-04-20.
+This product designer position at Kone was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

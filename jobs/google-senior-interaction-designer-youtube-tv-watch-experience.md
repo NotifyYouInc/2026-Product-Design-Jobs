@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115234751505146566-senior-interaction-designer-youtube-tv-watch-experience?sort_by=date&page=1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfz4MOspTYtHrW-8QrI1ui7FznjYDi3NIKd7rgi8YI6EEjsACxwdTLaVzun-PBLGKzgj8wh29MmY9Hh_2rC7g7Er98j7Ck89DHPIdF63gbsf3Sjhzr7Zd6jla7Shgw%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-27.
+This product designer position at Google was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

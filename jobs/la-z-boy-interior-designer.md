@@ -1,16 +1,16 @@
-# Product Designer (UX) at Bjak
+# Interior Designer at La-Z-Boy
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Issaquah, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f5835403-0719-45f3-a07f-ad543cc93381) |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Issaquah-WA/Interior-Designer_JR132490) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-04-19.
+This product designer position at La-Z-Boy was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 
