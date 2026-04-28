@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lille, Hauts-de-France, France |
-| Category | UX Researcher |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000119162247-product-designer-senior-hf) |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Category | Product Designer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000121713857-product-designer-senior-hf) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-07.
+This product designer position at Nexton was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

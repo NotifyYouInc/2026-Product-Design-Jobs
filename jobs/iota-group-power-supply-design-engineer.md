@@ -1,16 +1,16 @@
-# Power supply design engineer at IOTA GROUP
+# Power Supply Design Engineer at IOTA GROUP
 
 | Field | Details |
 |-------|---------|
 | Company | [IOTA GROUP](https://scoutify.ai/companies/iotagroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000118040169-power-supply-design-engineer) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000121773153-power-supply-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at IOTA GROUP was posted on 2026-04-01.
+This electrical / hardware engineer position at IOTA GROUP was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

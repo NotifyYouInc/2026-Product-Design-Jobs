@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [alchemy](https://scoutify.ai/companies/alchemy-alchemy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/8438fa3b-258d-4da1-9af1-3e1f5b71b931) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/9665436d-236c-4631-a449-99a8834efe2f) |
 
 ## About This Role
 
-This product designer position at alchemy was posted on 2026-02-10.
+This product designer position at alchemy was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

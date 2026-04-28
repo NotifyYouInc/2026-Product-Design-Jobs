@@ -5,12 +5,12 @@
 | Company | [Traba](https://scoutify.ai/companies/traba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/traba/aff5c53d-0f79-40a6-b645-e96e0c41f43a) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/traba/51a8ae6b-94e8-4b7f-93b0-0a1010ba7e94) |
 
 ## About This Role
 
-This product designer position at Traba was posted on 2026-04-13.
+This product designer position at Traba was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

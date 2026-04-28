@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lightspeed Commerce](https://scoutify.ai/companies/lightspeed-commerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7801069) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightspeedhq/jobs/7819110) |
 
 ## About This Role
 
-This product designer position at Lightspeed Commerce was posted on 2026-04-15.
+This product designer position at Lightspeed Commerce was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

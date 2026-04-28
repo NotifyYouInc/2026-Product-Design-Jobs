@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2016379) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR1971614) |
 
 ## About This Role
 

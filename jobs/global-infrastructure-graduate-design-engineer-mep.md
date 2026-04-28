@@ -5,12 +5,12 @@
 | Company | [Global Infrastructure](https://scoutify.ai/companies/gi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/GB--London---150-Holborn/Graduate-Design-Engineer---MEP_5443) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/GB--London---150-Holborn/Graduate-Design-Engineer---MEP_5452) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Global Infrastructure was posted on 2026-04-13.
+This electrical / hardware engineer position at Global Infrastructure was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

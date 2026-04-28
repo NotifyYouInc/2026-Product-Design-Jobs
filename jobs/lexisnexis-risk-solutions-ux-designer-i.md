@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/UX-Designer-I_R110927) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/UX-Designer-I_R110697) |
 
 ## About This Role
 
-This product designer position at LexisNexis Risk Solutions was posted on 2026-03-27.
+This product designer position at LexisNexis Risk Solutions was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
