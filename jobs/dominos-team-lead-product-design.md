@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Product Designer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000115952722-team-lead-product-design) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000122157905-team-lead-product-design) |
 
 ## About This Role
 
-This product designer position at Domino's was posted on 2026-03-20.
+This product designer position at Domino's was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

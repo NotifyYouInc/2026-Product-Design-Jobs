@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Location | Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Staff-Physical-Design-Engineer_R261517) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Bonifacio-Global-City/Staff-Physical-Design-Engineer_R262020) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Senior-Principal-Physical-Design-Engineer_R-10061921) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Pune/Senior-Principal-Physical-Design-Engineer_R-10062755) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-02-25.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer, Mobile at AlphaSense
+#  Senior Product Designer, Mobile at AlphaSense
 
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8322118002) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8516322002) |
 
 ## About This Role
 
-This product designer position at AlphaSense was posted on 2026-04-07.
+This product designer position at AlphaSense was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

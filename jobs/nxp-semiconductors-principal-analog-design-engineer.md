@@ -1,16 +1,16 @@
-# Principal Analog Design Engineer at NXP Semiconductors
+# Principal Analog Design engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Toulouse/Principal-Analog-Design-Engineer_R-10061795) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Hyderabad/Principal-Analog-Design-engineer_R-10062401) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-11.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

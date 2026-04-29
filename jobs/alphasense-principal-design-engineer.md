@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Location | New York, US |
 | Category | Product Designer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8511573002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8512138002) |
 
 ## About This Role
 

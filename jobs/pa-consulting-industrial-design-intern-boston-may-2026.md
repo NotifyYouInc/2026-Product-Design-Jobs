@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000118604530-industrial-design-intern-boston-may-2026) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000121989178-industrial-design-intern-boston-may-2026) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-04-03.
+This product designer position at PA Consulting was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

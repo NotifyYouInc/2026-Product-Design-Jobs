@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Malaysia |
+| Location | Phoenix, Arizona, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Silicon-Packaging-Design-Engineer_JR0283001) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0283156) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-17.
+This semiconductor / chip design position at Intel was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

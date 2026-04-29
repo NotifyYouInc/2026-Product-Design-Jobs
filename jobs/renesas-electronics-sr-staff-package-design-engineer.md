@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000121289587-sr-staff-package-design-engineer) |
+| Location | Palm Bay, Florida, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122096212-sr-staff-package-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-16.
+This electrical / hardware engineer position at Renesas Electronics was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

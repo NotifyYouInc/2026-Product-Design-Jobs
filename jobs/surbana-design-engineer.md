@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SURBANA](https://scoutify.ai/companies/surbana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sāgar, Karnataka, India |
+| Location | Delhi, Delhi, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/MPJN-Sagar/Design-Engineer_JR115921) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec/job/Delhi/Design-Engineer_JR109011) |
 
 ## About This Role
 
-This engineering manager position at SURBANA was posted on 2026-04-17.
+This engineering manager position at SURBANA was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

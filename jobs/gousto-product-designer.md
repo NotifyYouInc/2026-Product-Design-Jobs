@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000118365489-product-designer) |
+| Category | Product Designer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000122002647-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Gousto was posted on 2026-04-02.
+This product designer position at Gousto was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

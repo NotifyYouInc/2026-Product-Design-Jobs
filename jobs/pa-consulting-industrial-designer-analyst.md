@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000118310729-industrial-designer-analyst) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000121991107-industrial-designer-analyst) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-04-02.
+This product designer position at PA Consulting was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000119972758-lead-product-designer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122020788-lead-product-designer) |
 
 ## About This Role
 
-This product designer position at Xplor Technologies was posted on 2026-04-10.
+This product designer position at Xplor Technologies was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
