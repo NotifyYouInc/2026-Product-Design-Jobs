@@ -1,16 +1,16 @@
-# Product Designer (Wearables) at Meta
+# Product Designer, Wearables at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Burlingame, California, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/835248762906258) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1305413621435612) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-02-25.
+This product designer position at Meta was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

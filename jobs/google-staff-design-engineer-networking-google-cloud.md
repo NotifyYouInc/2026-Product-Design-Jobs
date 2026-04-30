@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/116081796365329094-staff-design-engineer-networking-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeLQn64bB8v2bE7RLKd9QApClMlGAM3alCwnTtJZdi5zEjsACxwdTN0YijFe0MA4aYpUERRBjXxPobyfZOFUCAC_Evfv9-vj863CvdKNOAZpE5KBYRYnDXIKzZImgA%3D%3D_V2&loc=IL&title=Staff+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-02.
+This semiconductor / chip design position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000113075667-principal-signalling-design-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000122366080-principal-signalling-design-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Egis was posted on 2026-03-06.
+This electrical / hardware engineer position at Egis was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

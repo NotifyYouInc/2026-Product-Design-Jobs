@@ -5,12 +5,12 @@
 | Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/366df6dd-c8e2-4a01-9c46-de1a734b1a7c) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/venn/4c8be73a-9e9b-4e0d-9f75-3539d23dba26) |
 
 ## About This Role
 
-This marketing position at Venn was posted on 2026-04-20.
+This marketing position at Venn was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

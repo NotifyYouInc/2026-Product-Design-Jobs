@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Omio](https://scoutify.ai/companies/omio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000115271224-senior-product-designer-uxui-m-f-d) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Omio1/744000122281659-senior-product-designer-uxui-m-f-d) |
 
 ## About This Role
 
-This product designer position at Omio was posted on 2026-03-17.
+This product designer position at Omio was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

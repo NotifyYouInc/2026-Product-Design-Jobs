@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/101112632747926214-tpu-pcie-rtl-design-engineer?sort_by=date&page=1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQbJMf4xOUUsUZ02kNvnV_MsltIygGjH7oCnXWnUnvCWEjsACxwdTF23lehUYk5oiQepAiUw--kNox3BcE8zcRnL-VE9uftB5or7VS3wZS2m-eYyDIQDsK3EpzZBRA%3D%3D_V2&loc=US&title=TPU+PCIe+RTL+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-03.
+This semiconductor / chip design position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

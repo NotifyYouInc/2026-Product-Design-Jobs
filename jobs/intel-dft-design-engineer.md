@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/DFT-Design-Engineer_JR0281626-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/DFT-Design-Engineer_JR0283336) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-16.
+This semiconductor / chip design position at Intel was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

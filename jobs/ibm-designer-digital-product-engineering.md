@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Product Designer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105003) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105004) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-04-15.
+This product designer position at IBM was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

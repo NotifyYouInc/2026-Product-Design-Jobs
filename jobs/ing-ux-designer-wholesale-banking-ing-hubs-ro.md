@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/UX-Designer---Wholesale-Banking--ING-Hubs-RO_REQ-10111149-1) |
+| Category | UX Researcher |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/UX-Designer---Wholesale-Banking--ING-Hubs-RO_REQ-10112431) |
 
 ## About This Role
 
-This product designer position at ING was posted on 2026-03-10.
+This ux researcher position at ING was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

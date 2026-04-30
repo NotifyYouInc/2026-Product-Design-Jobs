@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111416147621880518-senior-product-design-engineer-pixel-hearables?sort_by=date&page=1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdbKtniaSphzaK9icpsheGGxxXicz6DQYH3xD17eM2tGEjsACxwdTNuR9eHi2A9E_hPxQOwG6yQJSWtKO1ljES6UX6D7R9idxCtImHKbrK3h8BDqHFvYBBgJatNOhQ%3D%3D_V2&loc=US&title=Senior+Product+Design+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-02-27.
+This electrical / hardware engineer position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

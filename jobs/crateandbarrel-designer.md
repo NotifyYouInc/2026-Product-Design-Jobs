@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Keystone, Florida, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Keystone/Designer_R24187) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Easton-Town-Center/Designer_R24211) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-17.
+This product designer position at Crateandbarrel was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

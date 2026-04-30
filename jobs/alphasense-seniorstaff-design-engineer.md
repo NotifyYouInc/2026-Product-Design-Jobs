@@ -1,16 +1,16 @@
-# Senior/Staff Design Engineer at AlphaSense
+# Senior/Staff Design Engineer  at AlphaSense
 
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Frontend Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8512712002) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8516243002) |
 
 ## About This Role
 
-This frontend engineer position at AlphaSense was posted on 2026-04-17.
+This frontend engineer position at AlphaSense was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

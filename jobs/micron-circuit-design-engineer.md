@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hashimoto, Wakayama, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hashimoto-Japan/Circuit-Design-Engineer_JR97012) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hashimoto-Japan/Circuit-Design-Engineer_JR97356-4) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-02.
+This semiconductor / chip design position at Micron was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

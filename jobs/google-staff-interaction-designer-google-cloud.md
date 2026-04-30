@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/121171362675860166-staff-interaction-designer-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXhIjgy9nncjZibxDKolBYbVLw_nA7qCqd8LRB6tJ7VNEjoAvkGZm5FZCGKChLjhJH-j5tBk0OsD5MNT7FDNmC8O_5PE2xchNmws8P2zrUFU6qVmJvTwrai6SBtH_V2&loc=US&title=Staff+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-23.
+This product designer position at Google was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
