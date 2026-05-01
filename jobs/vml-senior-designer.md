@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Sydney, New South Wales, Australia |
 | Category | Marketing |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8501254002?gh_jid=8501254002) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8384907002?gh_jid=8384907002) |
 
 ## About This Role
 
-This marketing position at VML was posted on 2026-04-15.
+This marketing position at VML was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

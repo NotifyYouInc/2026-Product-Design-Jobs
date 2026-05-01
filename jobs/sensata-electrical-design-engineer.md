@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hengelo, Overijssel, The Netherlands |
+| Location | Attleboro, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Hengelo-NL/Electrical-Design-Engineer_IRC96828) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Electrical-Design-Engineer_IRC97384-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Sensata was posted on 2026-03-09.
+This electrical / hardware engineer position at Sensata was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/8451efa4-1869-4bd9-bb22-245f232705ed) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/7a2d4a13-2c2c-4cb7-8c7f-dd8b8820d29e) |
 
 ## About This Role
 
-This product designer position at Voodoo was posted on 2026-04-21.
+This product designer position at Voodoo was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

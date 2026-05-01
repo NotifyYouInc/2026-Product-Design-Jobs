@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Turin, Piedmont, Italy |
 | Category | Security Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011891121-cybersecurity-design-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012786711-cybersecurity-design-engineer) |
 
 ## About This Role
 
-This security engineer position at Wabtec was posted on 2026-02-27.
+This security engineer position at Wabtec was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

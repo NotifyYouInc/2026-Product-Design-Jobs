@@ -5,12 +5,12 @@
 | Company | [Codal](https://scoutify.ai/companies/codalinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](http://codal.jobs?gh_jid=5194436008) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](http://codal.jobs?gh_jid=5196167008) |
 
 ## About This Role
 
-This product designer position at Codal was posted on 2026-04-20.
+This product designer position at Codal was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

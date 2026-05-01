@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | West Palm Beach, Florida, United States |
 | Category | Product Designer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Easton-Town-Center/Designer_R24211) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/West-Palm-Beach/Designer_R24243) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-20.
+This product designer position at Crateandbarrel was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

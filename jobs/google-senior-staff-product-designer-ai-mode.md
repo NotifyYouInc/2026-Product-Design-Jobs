@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75609646298997446-senior-staff-product-designer-ai-mode?sort_by=date&page=1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfF62f031yenUfOJcCzXpycr1fX8cLm9wZmZX3cqVHzTEjsACxwdTBm9WyuqDG_798cCXh-aUsKgp5On_wgZzIf0rgbXbkYY4Jdz1eD7T27sSuQyaGC_bRmVdV04Gg%3D%3D_V2&loc=US&title=Senior+Staff+Product+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-09.
+This product designer position at Google was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

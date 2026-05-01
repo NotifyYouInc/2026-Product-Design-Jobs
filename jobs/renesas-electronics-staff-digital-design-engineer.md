@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Zhubei, Taiwan, Taiwan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000121974907-staff-digital-design-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122186753-staff-digital-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-21.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

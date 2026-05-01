@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/79177006406607558-machine-learning-design-engineer-silicon?sort_by=date&page=1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWU_48EavdAoM8f4a98l_9fnh2hLVc3OBpFAOemc24xzEjsACxwdTFFhUKzREnRSG4JMIrsp3mqlb-I382ZYrdjBa5V37EtDu0i_z-WQhMnm6e_HhimtMob6JVFB7Q%3D%3D_V2&loc=IN&title=Machine+Learning+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-25.
+This semiconductor / chip design position at Google was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

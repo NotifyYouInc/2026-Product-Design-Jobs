@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000118659937-technologist-rfic-design-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000122510489-technologist-rfic-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Western Digital was posted on 2026-04-03.
+This semiconductor / chip design position at Western Digital was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Morrisville, North Carolina, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000121859517-principal-analog-design-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122465547-principal-analog-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-20.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

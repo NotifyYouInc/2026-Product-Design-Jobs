@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
+| Location | Regensburg, Bavaria, Germany |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000121350922-senior-asic-analog-design-engineer-mfd-ref5389a) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000122481669-senior-asic-analog-design-engineer-mfd-ref5389a) |
 
 ## About This Role
 
-This semiconductor / chip design position at Aumovio was posted on 2026-04-17.
+This semiconductor / chip design position at Aumovio was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
