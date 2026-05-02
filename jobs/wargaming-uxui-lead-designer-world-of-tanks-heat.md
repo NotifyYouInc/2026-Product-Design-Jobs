@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wargaming](https://scoutify.ai/companies/wargaming?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Product Designer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/wargamingen/jobs/7837329?gh_jid=7837329) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/wargamingen/jobs/7837334?gh_jid=7837334) |
 
 ## About This Role
 
-This product designer position at Wargaming was posted on 2026-04-22.
+This product designer position at Wargaming was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ElectronicS Design Engineer at Analytical Mechanics Associates
+# Electronics Design Engineer at Analytical Mechanics Associates
 
 | Field | Details |
 |-------|---------|
 | Company | [Analytical Mechanics Associates](https://scoutify.ai/companies/amainc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hampton, Virginia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/ElectronicS-Design-Engineer_R-100514) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Electronics-Design-Engineer_R-100571) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Analytical Mechanics Associates was posted on 2026-03-23.
+This electrical / hardware engineer position at Analytical Mechanics Associates was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

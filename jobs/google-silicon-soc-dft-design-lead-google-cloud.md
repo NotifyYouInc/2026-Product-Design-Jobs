@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/111722374495118022-silicon-soc-dft-design-lead-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckahnfEaqmH6XXhXvsXpSrRUE_vFYRfP0DvZ4jDpRtf2IEjsACxwdTDxsPd3kzLf-kpfkgXe58dz74auKhwmA-sjLe9xrtE9h_tQEIwC_iVpePs9WpC1FvolVrTnJMA%3D%3D_V2&loc=IN&title=Silicon+SoC+DFT+Design+lead) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-02-19.
+This semiconductor / chip design position at Google was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

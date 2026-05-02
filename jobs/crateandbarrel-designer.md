@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | West Palm Beach, Florida, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/West-Palm-Beach/Designer_R24243) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Santana-Row/Designer_R24268) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-21.
+This product designer position at Crateandbarrel was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

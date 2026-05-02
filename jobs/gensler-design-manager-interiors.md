@@ -5,12 +5,12 @@
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Project Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Phoenix-AZ-US/Design-Manager---Interiors_R-17370) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Phoenix-AZ-US/Design-Manager---Interiors_R-17557) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-02.
+This project manager position at Gensler was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Francisco-CA-US/Design-Manager---Build-to-Suit_R-16101) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Shanghai-China/Design-Manager---Workplace-Interiors_R-17551) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-14.
+This project manager position at Gensler was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
