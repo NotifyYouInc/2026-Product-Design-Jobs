@@ -1,16 +1,16 @@
-# Senior UX Designer at Anaplan
+# Designer – Apparel & Accessories at Filson
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Filson](https://scoutify.ai/companies/filson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518550002) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/filson/jobs/8470167002) |
 
 ## About This Role
 
-This product designer position at Anaplan was posted on 2026-04-23.
+This product designer position at Filson was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

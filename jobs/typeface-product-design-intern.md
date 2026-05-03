@@ -1,16 +1,16 @@
-# Senior UX Designer at Anaplan
+# Product Design Intern at Typeface
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Typeface](https://scoutify.ai/companies/typeface?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518550002) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/typeface/jobs/4987351007) |
 
 ## About This Role
 
-This product designer position at Anaplan was posted on 2026-04-23.
+This product designer position at Typeface was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

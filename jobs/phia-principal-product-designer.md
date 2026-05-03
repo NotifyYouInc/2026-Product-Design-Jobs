@@ -1,16 +1,16 @@
-# Senior UX Designer at Anaplan
+# Principal Product Designer at Phia
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Phia](https://scoutify.ai/companies/phia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518550002) |
+| Posted | 2026-01-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/phia/7524bd7f-0fbb-4e29-aa0c-f35ba4ecd8bd) |
 
 ## About This Role
 
-This product designer position at Anaplan was posted on 2026-04-23.
+This product designer position at Phia was posted on 2026-01-27.
 
 ## Get Real-Time Alerts
 

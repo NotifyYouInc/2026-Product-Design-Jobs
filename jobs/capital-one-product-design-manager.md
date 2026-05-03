@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Design-Manager_R240964-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Design-Manager_R241153-1) |
 
 ## About This Role
 

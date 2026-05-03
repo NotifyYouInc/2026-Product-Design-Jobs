@@ -1,16 +1,16 @@
-# Senior UX Designer at Anaplan
+# Design Lead at Metalab
 
 | Field | Details |
 |-------|---------|
-| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Metalab](https://scoutify.ai/companies/metalab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518550002) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metalab/jobs/7496357) |
 
 ## About This Role
 
-This product designer position at Anaplan was posted on 2026-04-23.
+This product designer position at Metalab was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
