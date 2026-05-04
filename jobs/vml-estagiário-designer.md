@@ -6,7 +6,7 @@
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8519589002?gh_jid=8519589002) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8519631002?gh_jid=8519631002) |
 
 ## About This Role
 

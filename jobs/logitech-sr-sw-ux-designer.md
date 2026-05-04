@@ -1,16 +1,16 @@
-# UI/UX Designer at NCS
+# Sr. SW UX Designer at Logitech
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Logitech](https://scoutify.ai/companies/logitech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | UX Researcher |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025869-uiux-designer) |
+| Apply | [View on company site](https://logitech.wd5.myworkdayjobs.com/logitech/job/Shanghai-China/Sr-SW-UX-Designer_145519) |
 
 ## About This Role
 
-This ux researcher position at NCS was posted on 2026-04-27.
+This ux researcher position at Logitech was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

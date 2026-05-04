@@ -1,16 +1,16 @@
-# Physical Design Engineer at Altera Corporation
+# Staff DRAM RTL design engineer at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/Physical-Design-Engineer_R02239) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Staff-DRAM-RTL-design-engineer_JR98890) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-04-27.
+This semiconductor / chip design position at Micron was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
