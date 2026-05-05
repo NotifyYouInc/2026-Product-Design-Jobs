@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | UX Researcher |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Designer_R-0000165386-1) |
+| Location | Putrajaya, Putrajaya, Malaysia |
+| Category | Product Designer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Senior-Product-Designer_R-0000169626) |
 
 ## About This Role
 
-This ux researcher position at Royal Bank of Canada was posted on 2026-03-27.
+This product designer position at Royal Bank of Canada was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

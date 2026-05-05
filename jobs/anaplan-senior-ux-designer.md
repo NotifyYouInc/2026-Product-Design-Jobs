@@ -1,16 +1,16 @@
-# Senior UX Designer at Anaplan
+# Senior UX Designer  at Anaplan
 
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
-| Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8518550002) |
+| Location | Manchester, England, United Kingdom |
+| Category | UX Researcher |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8523585002) |
 
 ## About This Role
 
-This product designer position at Anaplan was posted on 2026-04-23.
+This ux researcher position at Anaplan was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

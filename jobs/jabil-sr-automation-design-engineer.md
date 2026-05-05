@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Sr-Automation-Design-Engineer_J2443222) |
+| Location | Wuxi, Jiangsu, China |
+| Category | Industrial Automation |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/Sr-Automation-Design-Engineer_J2447193) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Jabil was posted on 2026-03-18.
+This industrial automation position at Jabil was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

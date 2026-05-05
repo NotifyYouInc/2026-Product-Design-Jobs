@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | 2 locations |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/918097644188739) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1342699267708906) |
 
 ## About This Role
 
-This ux writer & content designer position at Meta was posted on 2026-04-08.
+This ux writer & content designer position at Meta was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

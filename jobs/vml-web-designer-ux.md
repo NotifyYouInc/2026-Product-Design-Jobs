@@ -6,7 +6,7 @@
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8520139002?gh_jid=8520139002) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8521867002?gh_jid=8521867002) |
 
 ## About This Role
 

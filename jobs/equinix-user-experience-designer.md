@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | UX Researcher |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/User-Experience-Designer_JR-159003) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/User-Experience-Designer_JR-160333) |
 
 ## About This Role
 
-This ux researcher position at Equinix was posted on 2026-03-11.
+This ux researcher position at Equinix was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

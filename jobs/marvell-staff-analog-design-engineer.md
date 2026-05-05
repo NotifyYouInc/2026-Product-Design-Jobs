@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Senior-Staff-Analog-Design-Engineer_2503067) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Staff-Analog-Design-Engineer_2502224) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-03-04.
+This semiconductor / chip design position at Marvell was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

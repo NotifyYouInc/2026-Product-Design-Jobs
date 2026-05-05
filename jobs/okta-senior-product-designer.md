@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7676796?gh_jid=7676796) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7849246?gh_jid=7849246) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-03-04.
+This product designer position at Okta was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

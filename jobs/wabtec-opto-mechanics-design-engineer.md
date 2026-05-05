@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012671071-opto-mechanics-design-engineer) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012846666-opto-mechanics-design-engineer) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-04-20.
+This electrical / hardware engineer position at Wabtec was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

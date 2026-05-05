@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Issaquah, Washington, United States |
+| Location | Montgomeryville, Pennsylvania, United States |
 | Category | Product Designer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Issaquah-WA/Interior-Designer_JR132490) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Montgomeryville-PA/Interior-Designer_JR132576) |
 
 ## About This Role
 
-This product designer position at La-Z-Boy was posted on 2026-04-19.
+This product designer position at La-Z-Boy was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

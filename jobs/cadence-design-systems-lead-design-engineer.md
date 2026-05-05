@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Shanghai, Shanghai, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Design-Engineer_R54171-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Lead-Design-Engineer_R54466) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-20.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | UX Researcher |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109917) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111654) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-04-16.
+This ux researcher position at IBM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
