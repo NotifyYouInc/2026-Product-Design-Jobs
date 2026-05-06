@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000122587949-intern-game-designer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000123326158-intern-game-designer) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-04-24.
+This product designer position at Gameloft was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

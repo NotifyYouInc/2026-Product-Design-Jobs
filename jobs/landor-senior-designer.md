@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | London, England, United Kingdom |
 | Category | Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/7676410) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/7851419) |
 
 ## About This Role
 
-This marketing position at Landor was posted on 2026-03-09.
+This marketing position at Landor was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

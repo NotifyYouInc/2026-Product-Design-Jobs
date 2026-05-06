@@ -1,16 +1,16 @@
-# Fire Alarm- Design Engineer at Johnson Controls
+# Fire Alarm Design Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Location | Mumbai, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Fire-Alarm--Design-Engineer_WD30263609-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Mumbai-Ashar-IT-Park/Fire-Alarm-Design-Engineer_WD30267724-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-05.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

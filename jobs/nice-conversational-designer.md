@@ -1,16 +1,16 @@
-# Conversational Designer  at NiCE
+# Conversational Designer at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Tokyo, Tokyo, Japan |
 | Category | UX Writer & Content Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4802002101?gh_jid=4802002101) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4850886101?gh_jid=4850886101) |
 
 ## About This Role
 
-This ux writer & content designer position at NiCE was posted on 2026-03-09.
+This ux writer & content designer position at NiCE was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

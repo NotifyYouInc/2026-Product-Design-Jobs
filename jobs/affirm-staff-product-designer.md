@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7605936003) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7711523003) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-02-03.
+This product designer position at Affirm was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Engineering Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122481054-mep-design-manager-building-engineering) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123242402-mep-design-manager-building-engineering) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-23.
+This engineering manager position at AECOM was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

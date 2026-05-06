@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116895557-senior-designer-substation-bim-electrical) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123382000-senior-designer-substation-bim-electrical) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-03-26.
+This electrical / hardware engineer position at AECOM was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

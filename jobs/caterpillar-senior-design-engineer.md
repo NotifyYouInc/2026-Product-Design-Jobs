@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Senior-Design-Engineer_R0000361946) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Senior-Design-Engineer_R0000356087) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-04-15.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | UX Researcher |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000107043147-product-designer-uxui) |
+| Category | Product Designer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000123398439-product-designer-uxui) |
 
 ## About This Role
 
-This ux researcher position at Wix.com was posted on 2026-02-03.
+This product designer position at Wix.com was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

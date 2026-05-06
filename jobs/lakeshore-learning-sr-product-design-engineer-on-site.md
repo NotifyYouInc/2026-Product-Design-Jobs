@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Carson, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000122517290-sr-product-design-engineer-on-site) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000122761219-sr-product-design-engineer-on-site) |
 
 ## About This Role
 
-This product designer position at Lakeshore Learning was posted on 2026-04-23.
+This product designer position at Lakeshore Learning was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

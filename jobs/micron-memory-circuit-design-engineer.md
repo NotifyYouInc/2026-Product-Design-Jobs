@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Memory-Circuit-Design-Engineer_JR95467) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Memory-Circuit-Design-Engineer_JR95463) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-30.
+This semiconductor / chip design position at Micron was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

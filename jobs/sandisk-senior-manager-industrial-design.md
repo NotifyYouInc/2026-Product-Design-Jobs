@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000118242187-senior-manager-industrial-design) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000123521001-senior-manager-industrial-design) |
 
 ## About This Role
 
-This product designer position at SanDisk was posted on 2026-04-01.
+This product designer position at SanDisk was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Digital-Design-Engineer_ATCI-5536903-S2016940) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Digital-Design-Engineer_ATCI-5372473-S1955469-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Accenture was posted on 2026-04-22.
+This semiconductor / chip design position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

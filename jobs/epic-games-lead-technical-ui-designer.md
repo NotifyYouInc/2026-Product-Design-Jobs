@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cary, North Carolina, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/5979336004?gh_jid=5979336004) |
+| Location | Montréal, Quebec, Canada |
+| Category | Product Designer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5979338004?gh_jid=5979338004) |
 
 ## About This Role
 
-This frontend engineer position at Epic Games was posted on 2026-04-23.
+This product designer position at Epic Games was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

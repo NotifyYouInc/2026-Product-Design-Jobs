@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Kulim, Kedah, Malaysia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/SOC-Logic-Design-Engineer_JR0282896) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/SOC-Logic-Design-Engineer_JR0283506) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-16.
+This semiconductor / chip design position at Intel was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

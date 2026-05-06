@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Ottawa, Ontario, Canada |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Senior-Principal-Digital-IC-Design-Engineer_2601226) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Senior-Principal-Digital-IC-Design-Engineer_2601568) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-14.
+This semiconductor / chip design position at Marvell was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

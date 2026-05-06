@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Germany |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Bblingen-DE/Design-Engineer_R-26-16491) |
+| Location | Wolverhampton, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Wolverhampton-GBR/Design-Engineer_R-26-17447) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Moog was posted on 2026-03-10.
+This engineering manager position at Moog was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

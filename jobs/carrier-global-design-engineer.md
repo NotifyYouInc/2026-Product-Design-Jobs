@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mexico |
+| Location | Shanghai, Shanghai, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC5003-Carrier---Plant-C-Carretera-a-Garca-Km-13-Parque-STIVA-Santa-Catarina-66350-Mexico/Design-Engineer_30200026) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/LOC3254-No3239-Shenjiang-Road-Shanghai-Pudong-New-Area-Shanghai-China/Design-Engineer_30205269-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Carrier Global was posted on 2026-03-04.
+This electrical / hardware engineer position at Carrier Global was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

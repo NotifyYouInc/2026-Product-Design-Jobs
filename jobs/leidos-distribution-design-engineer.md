@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Framingham, Massachusetts, United States |
+| Location | King of Prussia, Pennsylvania, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Framingham-MA/Distribution-Design-Engineer_R-00181277) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/King-Of-Prussia-PA/Distribution-Design-Engineer_R-00181930-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-04-20.
+This electrical / hardware engineer position at Leidos was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

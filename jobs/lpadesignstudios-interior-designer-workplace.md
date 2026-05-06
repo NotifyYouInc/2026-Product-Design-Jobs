@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lpadesignstudios](https://scoutify.ai/companies/lpadesignstudios?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | Irvine, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lpadesignstudios/062824c0-5ac2-41be-8fca-f42421255fc6) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lpadesignstudios/23bdf469-2a3f-4711-87ea-d313f50f5c0a) |
 
 ## About This Role
 
-This product designer position at Lpadesignstudios was posted on 2026-04-10.
+This product designer position at Lpadesignstudios was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

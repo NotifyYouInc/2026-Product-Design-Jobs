@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Watertown, Massachusetts, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-SD-Watertown/Design-Engineer_REQ-12576) |
+| Location | Dungannon, Northern Ireland, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Dungannon/Design-Engineer_REQ-12683-3) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Terex was posted on 2026-04-22.
+This engineering manager position at Terex was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
