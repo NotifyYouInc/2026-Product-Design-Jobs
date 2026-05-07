@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d9e769fb-86e9-40fa-b0b7-c974a0019ab4) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/50f9b6e6-1a66-4727-b532-9289a7caf8a9) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-04-24.
+This product designer position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

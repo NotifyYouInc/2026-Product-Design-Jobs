@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f829f887-1e06-4666-8eef-4a180be4dab6) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/cb3f2b73-35b4-45e7-b6c1-3ece80b836f1) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-04-16.
+This ux researcher position at Bjak was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

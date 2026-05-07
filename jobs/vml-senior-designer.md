@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Marketing |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8384907002?gh_jid=8384907002) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Product Designer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8440766002?gh_jid=8440766002) |
 
 ## About This Role
 
-This marketing position at VML was posted on 2026-04-23.
+This product designer position at VML was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

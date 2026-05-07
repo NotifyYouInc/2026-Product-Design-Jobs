@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | UX Researcher |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000122623219-productux-designer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000123623489-productux-designer) |
 
 ## About This Role
 
-This ux researcher position at Avaloq was posted on 2026-04-24.
+This ux researcher position at Avaloq was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

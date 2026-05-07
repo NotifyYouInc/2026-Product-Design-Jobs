@@ -1,16 +1,16 @@
-# Principal Mixed-Signal Design Engineer at Analog Devices
+# Principal Mixed-signal Design Engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Newbury, England, United Kingdom |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Principal-Mixed-Signal-Design-Engineer_R260351) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Principal-Mixed-signal-Design-Engineer_R261503) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
+This semiconductor / chip design position at Analog Devices was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Location | Ireland |
 | Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7824008) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7861422) |
 
 ## About This Role
 
-This product designer position at Stripe was posted on 2026-04-17.
+This product designer position at Stripe was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

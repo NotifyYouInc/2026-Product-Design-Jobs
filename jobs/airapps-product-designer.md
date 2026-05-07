@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/3bf15af5-ee19-4bea-bc57-49dd88cdcdda) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/b21d399e-e65e-4764-b078-989e9053e8f7) |
 
 ## About This Role
 
-This product designer position at Airapps was posted on 2026-04-27.
+This product designer position at Airapps was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

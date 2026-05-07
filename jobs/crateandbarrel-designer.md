@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Twelve-Oaks/Designer_R24306) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Alpharetta/Designer_R24322-1) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-24.
+This product designer position at Crateandbarrel was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

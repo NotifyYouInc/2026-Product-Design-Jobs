@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Bangalore-IN/Design-Engineer_R20739) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Bangalore-IN/Design-Engineer_R20654) |
 
 ## About This Role
 
-This electrical / hardware engineer position at nVent was posted on 2026-04-17.
+This electrical / hardware engineer position at nVent was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

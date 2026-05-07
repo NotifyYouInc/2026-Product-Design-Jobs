@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Circuit-Design-Engineer_JR0283018-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Analog-Circuit-Design-Engineer_JR0283513) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-22.
+This electrical / hardware engineer position at Intel was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

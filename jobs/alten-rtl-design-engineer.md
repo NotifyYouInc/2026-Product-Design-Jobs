@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000122698770-rtl-design-engineer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000123391679-rtl-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at ALTEN was posted on 2026-04-24.
+This semiconductor / chip design position at ALTEN was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer at Teachable
+# Product Designer  at Teachable
 
 | Field | Details |
 |-------|---------|
 | Company | [Teachable](https://scoutify.ai/companies/teachable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/teachablecareers/jobs/4849978101) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/teachablecareers/jobs/4853418101) |
 
 ## About This Role
 
-This product designer position at Teachable was posted on 2026-04-24.
+This product designer position at Teachable was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
