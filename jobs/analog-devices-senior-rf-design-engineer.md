@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Senior-RF-Design-Engineer_R261901) |
+| Location | Wilmington, North Carolina, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-RF-Design-Engineer_R261916) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-24.
+This electrical / hardware engineer position at Analog Devices was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Service Designer (12 month FTC) at Lloyds Bank
+# Service Designer - 12 Month FTC at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Bristol, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer--12-month-FTC-_155984) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Service-Designer---12-Month-FTC_155850-1) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-04-23.
+This product designer position at Lloyds Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

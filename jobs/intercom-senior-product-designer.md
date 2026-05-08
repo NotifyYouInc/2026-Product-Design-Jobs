@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7861866) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/7862050) |
 
 ## About This Role
 

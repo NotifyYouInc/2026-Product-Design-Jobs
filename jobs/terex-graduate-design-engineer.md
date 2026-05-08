@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Omagh, Northern Ireland, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Omagh/Senior-Design-Engineer_REQ-10742) |
+| Location | Cedar Rapids, Iowa, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-IA-Cedar-Rapids/Graduate-Design-Engineer_REQ-12710-1) |
 
 ## About This Role
 
-This engineering manager position at Terex was posted on 2026-04-28.
+This electrical / hardware engineer position at Terex was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

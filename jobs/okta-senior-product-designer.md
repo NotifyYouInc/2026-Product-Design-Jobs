@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Senior  Product Designer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7849246?gh_jid=7849246) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/6923203?gh_jid=6923203) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-04-27.
+This product designer position at Okta was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

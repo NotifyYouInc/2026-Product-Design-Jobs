@@ -5,12 +5,12 @@
 | Company | [Sana Commerce](https://scoutify.ai/companies/sana-commerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000123260920-mediorsenior-uxui-visual-designer-uae) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sanacommerce/744000123719239-mediorsenior-uxui-visual-designer-uae) |
 
 ## About This Role
 
-This product designer position at Sana Commerce was posted on 2026-04-27.
+This product designer position at Sana Commerce was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

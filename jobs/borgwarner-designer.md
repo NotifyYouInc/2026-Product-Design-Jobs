@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ithaca, New York, United States |
+| Location | Mānesar, Haryana, India |
 | Category | Product Designer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/Designer_R2026-1324) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Manesar---India/Designer_R2026-1354) |
 
 ## About This Role
 
-This product designer position at BorgWarner was posted on 2026-04-13.
+This product designer position at BorgWarner was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

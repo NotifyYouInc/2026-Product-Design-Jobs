@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8444035002?gh_jid=8444035002) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8526394002?gh_jid=8526394002) |
 
 ## About This Role
 
-This ux researcher position at VML was posted on 2026-04-23.
+This ux researcher position at VML was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Elekta](https://scoutify.ai/companies/elekta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Crawley, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Crawley/Lead-Service-Design-Engineer_R2026-0024) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Crawley/Lead-Service-Design-Engineer_R2026-0025-1) |
 
 ## About This Role
 
-This engineering manager position at Elekta was posted on 2026-04-15.
+This engineering manager position at Elekta was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

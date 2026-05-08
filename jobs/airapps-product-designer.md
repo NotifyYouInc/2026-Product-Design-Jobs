@@ -6,7 +6,7 @@
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Designer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/b21d399e-e65e-4764-b078-989e9053e8f7) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/03c0dd96-6be3-46a6-ab7a-8219d847cdf0) |
 
 ## About This Role
 

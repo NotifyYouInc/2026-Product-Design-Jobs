@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Betzdorf, Rheinland-Pfalz, Germany |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Betzdorf-Rhineland-Palatinate-Germany/Design-Engineer-II_R26_01262) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Design-Engineer-II_R26_01980) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Regal Rexnord was posted on 2026-04-27.
+This electrical / hardware engineer position at Regal Rexnord was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lerma, Campeche, Mexico |
+| Location | Morinda, Punjab, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Lerma/Design-Engineer_R_00084266-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Morinda/Design-Engineer_R_00097904) |
 
 ## About This Role
 
-This engineering manager position at Freudenberg Group was posted on 2026-04-28.
+This engineering manager position at Freudenberg Group was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
