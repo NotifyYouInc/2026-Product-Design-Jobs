@@ -1,16 +1,16 @@
-# Electrical Design Engineer at Caterpillar
+# Analog/Mixed Signal Design Engineer at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Electrical-Design-Engineer_R0000367207) |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-Mixed-Signal-Design-Engineer_R030765-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-01.
+This electrical / hardware engineer position at Ciena was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

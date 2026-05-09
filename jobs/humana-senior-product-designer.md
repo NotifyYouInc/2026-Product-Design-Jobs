@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Senior Product Designer at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Designer_R-411445) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Humana was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

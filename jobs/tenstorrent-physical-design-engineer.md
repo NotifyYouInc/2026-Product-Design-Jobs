@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Physical Design Engineer at Tenstorrent
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
+| Company | [Tenstorrent](https://scoutify.ai/companies/tenstorrent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tenstorrent/jobs/5126178007) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This semiconductor / chip design position at Tenstorrent was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

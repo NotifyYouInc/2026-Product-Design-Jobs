@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Staff Product Designer, Borrow at SoFi
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [SoFi](https://scoutify.ai/companies/sofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://sofi.com/careers/job/7594190003?gh_jid=7594190003) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at SoFi was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

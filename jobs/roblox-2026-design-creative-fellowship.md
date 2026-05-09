@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# [2026] Design & Creative Fellowship at Roblox
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://careers.roblox.com/jobs/7779304?gh_jid=7779304) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Roblox was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rehiko](https://scoutify.ai/companies/rehlko?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Liverpool, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/Liverpool/Electrical-Design-Engineer_R03027-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/Liverpool/Electrical-Design-Engineer_R03666) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Rehiko was posted on 2026-02-18.
+This electrical / hardware engineer position at Rehiko was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

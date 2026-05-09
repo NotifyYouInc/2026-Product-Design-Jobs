@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# User Experience Designer Lead Consultant at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | North Carolina, US |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---NC-Remote/User-Experience-Designer-Lead-Consultant_R29612-1) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Allstate was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

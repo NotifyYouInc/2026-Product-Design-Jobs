@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Product Designer at Peek
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Peek](https://scoutify.ai/companies/peek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/peek/7df171ea-18a6-401c-a2e5-db9323e35ed3) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Peek was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

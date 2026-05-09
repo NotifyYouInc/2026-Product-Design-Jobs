@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Staff Product Designer at Workwave
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Workwave](https://scoutify.ai/companies/workwave?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New Jersey, US |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://jobs.lever.co/workwave/63a656c6-763c-48f5-a44d-d2f96ffd7936) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Workwave was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

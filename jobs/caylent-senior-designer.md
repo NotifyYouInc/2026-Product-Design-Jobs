@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caylent](https://scoutify.ai/companies/caylent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mexico |
+| Location | Argentina |
 | Category | Product Designer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/5983921004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/5983919004) |
 
 ## About This Role
 

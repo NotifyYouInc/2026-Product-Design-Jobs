@@ -1,16 +1,16 @@
-# Design Manager - Critical Facilities at Gensler
+# Design Manager/Project Manager - Sports at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Morristown, Tennessee, United States |
-| Category | Engineering Manager |
+| Location | Dallas, Texas, United States |
+| Category | Project Manager |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Morristown-NJ-US/Design-Manager---Critical-Facilities_R-17627) |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Dallas-TX-US/Design-Manager-Project-Manager---Sports_R-17625) |
 
 ## About This Role
 
-This engineering manager position at Gensler was posted on 2026-05-02.
+This project manager position at Gensler was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

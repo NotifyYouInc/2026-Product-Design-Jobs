@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# UX Designer (Contract) at Red Cell Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Red Cell Partners](https://scoutify.ai/companies/red-cell-partners?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/redcellpartners/jobs/5095257007) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This ux researcher position at Red Cell Partners was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

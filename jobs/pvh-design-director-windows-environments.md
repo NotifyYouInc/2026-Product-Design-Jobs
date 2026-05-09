@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Design Director, Windows & Environments at PVH
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/New-York-NY-Calvin-Klein-Office/Design-Director--Windows---Environments_R58967) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at PVH was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

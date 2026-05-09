@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lexington, Kentucky, United States |
+| Location | Waltham, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5105362007?gh_jid=5105362007) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5126791007?gh_jid=5126791007) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Anduril was posted on 2026-04-13.
+This electrical / hardware engineer position at Anduril was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

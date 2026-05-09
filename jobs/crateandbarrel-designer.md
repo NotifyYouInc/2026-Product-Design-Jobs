@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Deer Park, Texas, United States |
+| Location | California, US |
 | Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Deer-Park/Designer_R24337) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Del-Amo-521/Designer_R24371) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-04-28.
+This product designer position at Crateandbarrel was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

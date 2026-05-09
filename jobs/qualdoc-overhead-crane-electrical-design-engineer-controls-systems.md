@@ -1,16 +1,16 @@
-# Electrical Design Engineer at Caterpillar
+# Overhead Crane Electrical Design Engineer (Controls & Systems) at Qualdoc
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ashland, California, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Electrical-Design-Engineer_R0000367207) |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/122caf15-7deb-472c-8cc4-95fcd542f3ff) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-01.
+This electrical / hardware engineer position at Qualdoc was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

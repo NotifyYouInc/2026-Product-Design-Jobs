@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Sr. Product Designer, Growth at Life360
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Life360](https://scoutify.ai/companies/life360?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/life360/jobs/8533430002) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Life360 was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

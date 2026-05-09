@@ -1,16 +1,16 @@
-# Electrical Design Engineer at Caterpillar
+# Electrical Design Engineer – Custom Power Systems at Rehiko
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Company | [Rehiko](https://scoutify.ai/companies/rehlko?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sheboygan, Wisconsin, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Electrical-Design-Engineer_R0000367207) |
+| Apply | [View on company site](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Electrical-Design-Engineer---Custom-Power-Systems_R03596) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-01.
+This electrical / hardware engineer position at Rehiko was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

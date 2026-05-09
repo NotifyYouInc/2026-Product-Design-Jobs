@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Senior UX Design Engineer I/II at Rocket Lab
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
+| Company | [Rocket Lab](https://scoutify.ai/companies/rocketlab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Littleton, Colorado, United States |
+| Category | UX Researcher |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rocketlab/jobs/7715159003) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This ux researcher position at Rocket Lab was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

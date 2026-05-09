@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Design Engineer at Integrate
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
+| Company | [Integrate](https://scoutify.ai/companies/integrate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
+| Category | Frontend Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://jobs.lever.co/integrate/5e21c3cb-f4a4-47e7-b0a5-26b62aaeea60) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This frontend engineer position at Integrate was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

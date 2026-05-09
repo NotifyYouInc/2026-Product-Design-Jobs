@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Service Designer at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
+| Category | UX Researcher |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8526261002?gh_jid=8526261002) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This ux researcher position at VML was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

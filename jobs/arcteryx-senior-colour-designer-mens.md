@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Senior Colour Designer – Men’s at ARC'TERYX
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [ARC'TERYX](https://scoutify.ai/companies/arcteryx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | North Vancouver, British Columbia, Canada |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://jobs.lever.co/arcteryx.com/86e74c0a-1be9-4f73-9558-8e4c49eb9408) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at ARC'TERYX was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mentor, Ohio, United States |
+| Location | Troy, Michigan, United States |
 | Category | Product Designer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Mentor-Ohio/Custom-Packaging-Design-Engineer_R13485) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Troy-Michigan/Custom-Packaging-Design-Engineer_R13775) |
 
 ## About This Role
 
-This product designer position at Menasha Corporation was posted on 2026-04-10.
+This product designer position at Menasha Corporation was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

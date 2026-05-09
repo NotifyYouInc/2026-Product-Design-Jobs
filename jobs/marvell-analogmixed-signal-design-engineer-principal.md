@@ -1,16 +1,16 @@
-# Physical Design Engineer II (Silicon Engineering) at SpaceX
+# Analog/Mixed-Signal Design Engineer, Principal at Marvell
 
 | Field | Details |
 |-------|---------|
-| Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8533679002?gh_jid=8533679002) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US-OR---Hillsboro/Analog-Mixed-Signal-Design-Engineer--Principal_2601542) |
 
 ## About This Role
 
-This semiconductor / chip design position at SpaceX was posted on 2026-05-01.
+This semiconductor / chip design position at Marvell was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

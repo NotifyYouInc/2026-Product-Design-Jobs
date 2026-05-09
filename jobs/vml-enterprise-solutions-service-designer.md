@@ -1,16 +1,16 @@
-# Lead Service Designer at Utility Warehouse
+# Service Designer at VML Enterprise Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000124132479-lead-service-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8526260002) |
 
 ## About This Role
 
-This product designer position at Utility Warehouse was posted on 2026-05-01.
+This ux researcher position at VML Enterprise Solutions was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

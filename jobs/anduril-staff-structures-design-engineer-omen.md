@@ -1,16 +1,16 @@
-# Electrical Design Engineer at Caterpillar
+# Staff Structures Design Engineer, Omen at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Costa Mesa, California, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Electrical-Design-Engineer_R0000367207) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5087619007?gh_jid=5087619007) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-01.
+This electrical / hardware engineer position at Anduril was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

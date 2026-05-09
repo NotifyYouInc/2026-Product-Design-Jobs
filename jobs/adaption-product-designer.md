@@ -1,16 +1,16 @@
-# Senior Product Designer at Roo
+# Product Designer at Adaption
 
 | Field | Details |
 |-------|---------|
-| Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Adaption](https://scoutify.ai/companies/adaption?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5207953008) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/adaption/fd436b36-8d37-417d-bd64-bc71294b518e) |
 
 ## About This Role
 
-This product designer position at Roo was posted on 2026-05-01.
+This product designer position at Adaption was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
