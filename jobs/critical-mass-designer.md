@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Critical Mass](https://scoutify.ai/companies/critical-mass?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | San José, San José, Costa Rica |
 | Category | Product Designer |
 | Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7822502) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7848240) |
 
 ## About This Role
 

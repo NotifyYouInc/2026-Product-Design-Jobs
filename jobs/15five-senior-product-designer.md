@@ -1,16 +1,16 @@
-# Head of Design at Aurora Solar
+# Senior Product Designer at 15Five
 
 | Field | Details |
 |-------|---------|
-| Company | [Aurora Solar](https://scoutify.ai/companies/aurora-solar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [15Five](https://scoutify.ai/companies/15five?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aurorasolar/034f7649-4d19-4c6a-90ce-f7d265c8284a) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.lever.co/15five/d70e614d-fff6-4e2f-ac59-7ed182a1b6f2) |
 
 ## About This Role
 
-This product designer position at Aurora Solar was posted on 2026-04-28.
+This product designer position at 15Five was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
