@@ -1,4 +1,4 @@
-# Staff Analog Design Engineer at Marvell
+# Analog IC Design Engineer, Principal Engineer at Marvell
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Staff-Analog-Design-Engineer_2601588-1) |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Analog-IC-Design-Engineer--Principal-Engineer_2601677) |
 
 ## About This Role
 

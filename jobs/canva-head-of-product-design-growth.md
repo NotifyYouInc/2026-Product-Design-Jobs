@@ -1,16 +1,16 @@
-# Technical Design Manager - Bridges, Structures + Ports at AECOM
+# Head of Product Design - Growth at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Engineering Manager |
+| Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124562612-technical-design-manager-bridges-structures-ports) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001045483-head-of-product-design-growth) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-05.
+This product manager position at Canva was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

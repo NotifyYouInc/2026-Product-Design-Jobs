@@ -1,16 +1,16 @@
-# Staff Analog Design Engineer at Marvell
+# E-core CPU Physical Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
-| Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Malaysia |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Staff-Analog-Design-Engineer_2601588-1) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/E-core-CPU-Physical-Design-Engineer_JR0283706) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-05.
+This semiconductor / chip design position at Intel was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
