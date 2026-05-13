@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012866666-senior-designer-asset-management) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990012969406-senior-designer-asset-management) |
 
 ## About This Role
 
-This marketing position at HelloKindred was posted on 2026-04-29.
+This marketing position at HelloKindred was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

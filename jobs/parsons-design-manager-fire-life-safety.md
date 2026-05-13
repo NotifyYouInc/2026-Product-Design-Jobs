@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh-Qiddiya/Design-Manager---Fire--Life---Safety_R179908-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh-Qiddiya/Design-Manager---Fire--Life---Safety_R180145-2) |
 
 ## About This Role
 
-This engineering manager position at Parsons was posted on 2026-04-29.
+This engineering manager position at Parsons was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

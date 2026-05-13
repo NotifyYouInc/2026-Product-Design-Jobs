@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/81769723544380102-senior-ux-designer-google-pay?sort_by=date&page=1) |
+| Category | UX Researcher |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbtLeYIk0AVW7sMz-KlFowlNHp5OHt8Pv0GXKX_IM6EKEjsACxwdTFojtuI-I4AaCsMD6LkuV1Prf-br_OGJbDYmVIbcVeZElUvxwCyo6DvILoHpmif4GGZ9Wd_yFw%3D%3D_V2&loc=IN&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-25.
+This ux researcher position at Google was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

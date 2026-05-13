@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/1a0e307f-7f02-4971-820c-a244ad909617) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/5ea8d56f-09b5-4113-9929-a3ef42d010ef) |
 
 ## About This Role
 
-This product designer position at Sierra was posted on 2026-02-10.
+This product designer position at Sierra was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

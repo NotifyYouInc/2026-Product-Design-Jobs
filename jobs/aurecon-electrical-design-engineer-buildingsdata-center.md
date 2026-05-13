@@ -5,12 +5,12 @@
 | Company | [Aurecon](https://scoutify.ai/companies/aurecon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Bangkok/Electrical-Design-Engineer--Buildings-Data-Center-_R31606) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Bangkok/Electrical-Design-Engineer--Buildings-Data-Center-_R31720-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aurecon was posted on 2026-04-14.
+This electrical / hardware engineer position at Aurecon was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

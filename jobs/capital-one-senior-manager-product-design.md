@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Plano, Texas, United States |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Manager--Product-Design_R236891) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Product-Design_R241823-1) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-02-26.
+This product designer position at Capital One was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

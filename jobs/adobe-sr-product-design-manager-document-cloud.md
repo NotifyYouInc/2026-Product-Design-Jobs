@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Sr-Product-Design-Manager--Document-Cloud_R166796) |
+| Location | San Francisco, California, United States |
+| Category | Product Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Design-Manager--Document-Cloud_R168313-1) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-03-18.
+This product manager position at Adobe was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

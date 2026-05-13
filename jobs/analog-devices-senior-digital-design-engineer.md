@@ -1,16 +1,16 @@
-# Senior Digital Design engineer at Analog Devices
+# Senior Digital Design Engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Karnataka, IN |
+| Location | Limerick, Munster, Ireland |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Aveda-Meta/Senior-Digital-Design-engineer_R261687) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-Digital-Design-Engineer_R262334) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

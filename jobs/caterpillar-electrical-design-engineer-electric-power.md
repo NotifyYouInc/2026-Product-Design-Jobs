@@ -1,16 +1,16 @@
-# Electrical Design Engineer-Electric Power at Caterpillar
+# Electrical Design Engineer - Electric Power at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Griffin, Georgia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Electrical-Design-Engineer-Electric-Power_R0000353386) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Griffin-Georgia/Electrical-Design-Engineer---Electric-Power_R0000367352-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-02-26.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Midrand, Gauteng, South Africa |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Product-Designer_ATCI-5444011-S2011615-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Product-Designer_14043127) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-29.
+This product designer position at Accenture was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

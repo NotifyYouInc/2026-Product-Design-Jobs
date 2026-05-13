@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/955432583936869) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1291562322474121) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-04-24.
+This product designer position at Meta was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

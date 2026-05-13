@@ -1,0 +1,22 @@
+# Senior Product Designer at Zillow
+
+| Field | Details |
+|-------|---------|
+| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Product Designer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Mexico-City/Senior-Product-Designer_P750137-1) |
+
+## About This Role
+
+This product designer position at Zillow was posted on 2026-05-05.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

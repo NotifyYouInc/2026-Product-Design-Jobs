@@ -5,12 +5,12 @@
 | Company | [Basic-Fit](https://scoutify.ai/companies/basic-fit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hoofddorp, North Holland, The Netherlands |
 | Category | UX Researcher |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://basicfit.wd103.myworkdayjobs.com/basicfit_career_site_nl/job/Hoofddorp/UX-Designer_R48650-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://basicfit.wd103.myworkdayjobs.com/basicfit_career_site_nl/job/Hoofddorp/UX-Designer_R50948) |
 
 ## About This Role
 
-This ux researcher position at Basic-Fit was posted on 2026-02-18.
+This ux researcher position at Basic-Fit was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
