@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Memory-Mask-Design-Engineer_JR2013705) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Memory-Mask-Design-Engineer_JR2016225) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-02-23.
+This semiconductor / chip design position at Nvidia was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

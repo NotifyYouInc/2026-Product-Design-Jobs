@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | UX Researcher |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94747) |
+| Category | Product Designer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112435) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-02-20.
+This product designer position at IBM was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Newbury/Staff-Mixed-Signal-Design-Engineer_R260355) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Mixed-Signal-Design-Engineer_R260403-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-16.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Philippines |
+| Location | Shenzhen, Guangdong, China |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Philippines---Technology-Campus/Lead-Design-Engineer_JR36076) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/China---Shenzhen-Office/Lead-Design-Engineer_JR34977) |
 
 ## About This Role
 
-This engineering manager position at Dyson was posted on 2026-04-17.
+This engineering manager position at Dyson was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

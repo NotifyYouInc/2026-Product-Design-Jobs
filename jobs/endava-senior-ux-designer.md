@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | UX Researcher |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000123988549-senior-ux-designer) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124942614-senior-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Endava was posted on 2026-04-30.
+This ux researcher position at Endava was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

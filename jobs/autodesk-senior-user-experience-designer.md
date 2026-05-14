@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Pune, Maharashtra, India |
 | Category | UX Researcher |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Senior-User-Experience-Designer_26WD96970) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-User-Experience-Designer_26WD97827-1) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-04-14.
+This ux researcher position at Autodesk was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

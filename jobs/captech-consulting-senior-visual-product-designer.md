@@ -5,12 +5,12 @@
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000123261799-senior-visual-product-designer) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000124905135-senior-visual-product-designer) |
 
 ## About This Role
 
-This product designer position at CapTech Consulting was posted on 2026-04-27.
+This product designer position at CapTech Consulting was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

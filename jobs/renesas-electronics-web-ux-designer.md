@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Belgrade, Central Serbia, Serbia |
 | Category | UX Researcher |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000119673518-web-ux-designer) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000124957149-web-ux-designer) |
 
 ## About This Role
 
-This ux researcher position at Renesas Electronics was posted on 2026-04-09.
+This ux researcher position at Renesas Electronics was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

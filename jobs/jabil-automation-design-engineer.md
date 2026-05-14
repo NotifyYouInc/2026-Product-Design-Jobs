@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Automation-Design-Engineer_J2448238) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Automation-Design-Engineer_J2446999) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-04-29.
+This industrial automation position at Jabil was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

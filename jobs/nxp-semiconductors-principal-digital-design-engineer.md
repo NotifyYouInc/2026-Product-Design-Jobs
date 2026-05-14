@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Catania, Sicily, Italy |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Glasgow/Principal-Digital-Design-Engineer_R-10061634-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Catania/Principal-Digital-Design-Engineer_R-10063123) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-02-26.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

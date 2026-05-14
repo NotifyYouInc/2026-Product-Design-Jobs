@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Engineering Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121721181-design-manager-transportation) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000125027659-design-manager-transportation) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-20.
+This engineering manager position at AECOM was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

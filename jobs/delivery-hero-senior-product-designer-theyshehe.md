@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000122710029-senior-product-designer-theyshehe) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124899404-senior-product-designer-theyshehe) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-04-24.
+This product designer position at Delivery Hero was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
