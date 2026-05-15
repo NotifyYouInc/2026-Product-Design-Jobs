@@ -5,12 +5,12 @@
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ashland, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/122caf15-7deb-472c-8cc4-95fcd542f3ff) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/6921336d-eec5-41be-8b5a-abc6a268a246) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Qualdoc was posted on 2026-05-01.
+This electrical / hardware engineer position at Qualdoc was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

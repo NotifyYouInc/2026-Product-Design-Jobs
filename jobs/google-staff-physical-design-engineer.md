@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcyiha6_q13fPn-PWIi5Sp6SKn4gWaTX8LCakeltLYETEjsACxwdTEItDruED5GB5ZkJSkR6zmR0k7EOc6c8Xoq1AIO48iXbkZq7SWPA51bVte5BoYGRI82p5BOkvQ%3D%3D_V2&loc=US&title=Staff+Physical+Design+Engineer) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfyoQwosOWsWuRsi5HEoLzXg78KABRhqUPgcH1HamaKuEjsACxwdTNqdhLiIF7yqmmKkN211HUjdNHmxfEluE2raacYfV10tIm80TipX79V9bMEYSeIyPNPwGKPe7A%3D%3D_V2&loc=US&title=Staff+Physical+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-04-13.
+This semiconductor / chip design position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00177368) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineer_R-00181803) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Leidos was posted on 2026-03-03.
+This electrical / hardware engineer position at Leidos was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

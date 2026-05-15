@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pennsylvania, US |
 | Category | Industrial Automation |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Lead-Automation-Controls-Design-Engineer_R5017869-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Findlay-Township/Lead-Automation-Controls-Design-Engineer_R5041004-2) |
 
 ## About This Role
 
-This industrial automation position at GE Vernova was posted on 2026-02-17.
+This industrial automation position at GE Vernova was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

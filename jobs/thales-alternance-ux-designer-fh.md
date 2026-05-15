@@ -1,16 +1,16 @@
-# ALTERNANCE - UX Designer - F/H at Thales
+# ALTERNANCE - UX DESIGNER F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | France |
+| Location | La Ciotat, Provence-Alpes-Côte d'Azur, France |
 | Category | UX Researcher |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gmenos/ALTERNANCE---UX-Designer---F-H_R0325452-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Ciotat/ALTERNANCE---UX-DESIGNER-F-H_R0327471-1) |
 
 ## About This Role
 
-This ux researcher position at Thales was posted on 2026-04-15.
+This ux researcher position at Thales was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

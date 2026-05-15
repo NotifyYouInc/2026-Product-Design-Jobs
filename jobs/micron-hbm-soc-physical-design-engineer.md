@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/HBM-SoC-Physical-Design-Engineer_JR96101) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/HBM-SoC-Physical-Design-Engineer_JR100904) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-25.
+This semiconductor / chip design position at Micron was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

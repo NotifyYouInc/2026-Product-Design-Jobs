@@ -1,16 +1,16 @@
-# Senior Product Designer - Mobile at Ōura
+# Senior Product Designer, Mobile at Ōura
 
 | Field | Details |
 |-------|---------|
 | Company | [Ōura](https://scoutify.ai/companies/ura?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4227724009) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4242570009) |
 
 ## About This Role
 
-This product designer position at Ōura was posted on 2026-04-21.
+This product designer position at Ōura was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Francisco, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/UX-Designer_3159812-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/UX-Designer_3163239) |
 
 ## About This Role
 
-This ux researcher position at Hewlett Packard (HP) was posted on 2026-02-26.
+This ux researcher position at Hewlett Packard (HP) was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

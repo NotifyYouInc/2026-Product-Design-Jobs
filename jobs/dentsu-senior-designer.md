@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Product Designer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Senior-Designer_R1121122) |
+| Location | London, England, United Kingdom |
+| Category | Marketing |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London/Senior-Designer_R1122089) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-04-22.
+This marketing position at Dentsu was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

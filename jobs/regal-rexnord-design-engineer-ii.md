@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Columbia City, Washington, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Design-Engineer-II_R26_01980) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Columbia-City-Indiana-United-States/Design-Engineer-II_R26_02048) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Regal Rexnord was posted on 2026-04-28.
+This electrical / hardware engineer position at Regal Rexnord was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

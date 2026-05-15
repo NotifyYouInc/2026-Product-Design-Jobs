@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/SOI-Switch-Design-Engineer_R025048) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/SOI-Switch-Design-Engineer_R026005) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-03-19.
+This semiconductor / chip design position at Broadcom was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

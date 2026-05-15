@@ -1,16 +1,16 @@
-# Digital designer UX/UI  at Sopra Steria
+# Digital designer UX/UI at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Location | Oslo, Oslo, Norway |
 | Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117387857-digital-designer-uxui) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125061936-digital-designer-uxui) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-27.
+This product designer position at Sopra Steria was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

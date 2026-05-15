@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Design-Engineer-II_R62882) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Test-Design-Engineer-II_R64213) |
 
 ## About This Role
 
-This engineering manager position at Blue Origin was posted on 2026-04-17.
+This engineering manager position at Blue Origin was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer Pleno - Campinas/SP   at Agibank
+# Product Designer Pleno - Campinas/SP at Agibank
 
 | Field | Details |
 |-------|---------|
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5101354008) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5205163008) |
 
 ## About This Role
 
-This product designer position at Agibank was posted on 2026-02-11.
+This product designer position at Agibank was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

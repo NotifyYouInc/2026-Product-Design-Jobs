@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Schenectady, New York, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Schenectady/Lead-Electrical-Design-Engineer_R5034369-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Schenectady/Lead-Electrical-Design-Engineer_R5041341-3) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-03-06.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

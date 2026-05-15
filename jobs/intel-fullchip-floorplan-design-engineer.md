@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Fullchip-Floorplan-Design-Engineer_JR0283104) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Fullchip-Floorplan-Design-Engineer_JR0283727) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-18.
+This semiconductor / chip design position at Intel was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
