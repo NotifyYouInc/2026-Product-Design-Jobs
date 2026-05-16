@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Columbus, Ohio, United States |
 | Category | UX Researcher |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115322207-ux-architect) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000125397159-ux-architect) |
 
 ## About This Role
 
-This ux researcher position at CapTech Consulting was posted on 2026-03-17.
+This ux researcher position at CapTech Consulting was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

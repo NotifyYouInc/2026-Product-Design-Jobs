@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/113132328506532550-senior-soc-and-ip-design-engineer-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckbu7YZS30Bqs5gb1gRVOTTpJQKpG9TZG6OFoqcOgANfkEjsACxwdTJSo4pLsotlkc1ie6vJkoB3BGJ163m3d2JYNAKZmubKTUHs0IlGsaApwsQ8NqFgCxTHDqqSesA%3D%3D_V2&loc=IL&title=Senior+SoC+and+IP+Design+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-03-04.
+This semiconductor / chip design position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

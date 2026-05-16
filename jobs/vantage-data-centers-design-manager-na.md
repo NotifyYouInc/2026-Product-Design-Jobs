@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
-| Category | Operations |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Port-Washington-Wisconsin/Design-Manager--NA_R20310) |
+| Location | Texas, US |
+| Category | Engineering Manager |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Remote---TX/Design-Manager--NA_R22982) |
 
 ## About This Role
 
-This operations position at Vantage Data Centers was posted on 2026-02-02.
+This engineering manager position at Vantage Data Centers was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

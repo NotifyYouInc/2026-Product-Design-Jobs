@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Coral Gables, Florida, United States |
+| Location | Palo Alto, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/CB2-Coral-Gables/Designer_R24436-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Palo-Alto/Designer_R24478) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-05.
+This product designer position at Crateandbarrel was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

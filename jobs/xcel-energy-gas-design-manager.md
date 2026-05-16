@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Waite Park, Minnesota, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54701/Gas-Design-Manager_JR113770-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Waite-Park-MN-56387/Gas-Design-Manager_JR114061-1) |
 
 ## About This Role
 
-This engineering manager position at Xcel Energy was posted on 2026-05-01.
+This engineering manager position at Xcel Energy was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

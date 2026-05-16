@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smartly](https://scoutify.ai/companies/smartly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartlyio/jobs/5712145004) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartlyio/jobs/5990408004) |
 
 ## About This Role
 
-This marketing position at Smartly was posted on 2026-05-05.
+This marketing position at Smartly was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

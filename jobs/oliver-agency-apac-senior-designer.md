@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OLIVER Agency - APAC](https://scoutify.ai/companies/oliver-agency---apac?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Mumbai, Maharashtra, India |
 | Category | Marketing |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oliverseapac/jobs/7811687) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oliverseapac/jobs/7908226) |
 
 ## About This Role
 
-This marketing position at OLIVER Agency - APAC was posted on 2026-04-13.
+This marketing position at OLIVER Agency - APAC was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

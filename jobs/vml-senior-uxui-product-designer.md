@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Poznań, Greater Poland, Poland |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8507716002?gh_jid=8507716002) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8540557002?gh_jid=8540557002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-04-21.
+This product designer position at VML was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

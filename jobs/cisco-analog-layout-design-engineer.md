@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Yerevan, Yerevan, Armenia |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Armenia/Analog-Layout-Design-Engineer_2006333) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Armenia/Analog-Layout-Design-Engineer_2012586) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cisco was posted on 2026-02-19.
+This semiconductor / chip design position at Cisco was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

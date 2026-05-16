@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Montgomeryville, Pennsylvania, United States |
+| Location | Wichita, Kansas, United States |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Montgomeryville-PA/Interior-Designer_JR132576) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Witchita-KS/Interior-Designer_JR132706) |
 
 ## About This Role
 
-This product designer position at La-Z-Boy was posted on 2026-04-27.
+This product designer position at La-Z-Boy was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Project Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Antonio-TX-US/Design-Manager-Project-Manager_R-17367) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Nashville-TN-US/Design-Manager-Project-Manager_R-17686) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-01.
+This project manager position at Gensler was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
