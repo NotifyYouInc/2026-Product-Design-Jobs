@@ -1,12 +1,12 @@
-# SoC Physical Design Engineer at Intel
+# Standard Cell Design Engineer at Intel
 
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Malaysia |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/SoC-Physical-Design-Engineer_JR0283820) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Standard-Cell-Design-Engineer_JR0283854) |
 
 ## About This Role
 

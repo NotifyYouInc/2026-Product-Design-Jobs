@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Takasaki, Gunma, Japan |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118370413-principal-medium-voltage-power-mosfet-design-engineer) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125745529-principal-medium-voltage-power-mosfet-design-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Renesas Electronics was posted on 2026-04-02.
+This semiconductor / chip design position at Renesas Electronics was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

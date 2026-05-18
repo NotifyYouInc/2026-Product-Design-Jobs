@@ -1,16 +1,16 @@
-# Senior Product Designer at Wells Fargo
+# HVDC System Design Engineer at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Senior-Product-Designer_R-536876-1) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/HVDC-System-Design-Engineer_R0100194) |
 
 ## About This Role
 
-This product designer position at Wells Fargo was posted on 2026-05-11.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Interior Designer at Egis
+# Senior Service Designer at Qantas Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000125698569-interior-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001059747-senior-service-designer) |
 
 ## About This Role
 
-This product designer position at Egis was posted on 2026-05-11.
+This product designer position at Qantas Group was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

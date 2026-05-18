@@ -1,4 +1,4 @@
-# Interior Designer at Egis
+# Junior Designer at Egis
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hong Kong, Hong Kong |
 | Category | Product Designer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000125698569-interior-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000125672989-junior-designer) |
 
 ## About This Role
 
