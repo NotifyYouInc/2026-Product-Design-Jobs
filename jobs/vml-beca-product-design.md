@@ -5,12 +5,12 @@
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8476652002?gh_jid=8476652002) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8544214002?gh_jid=8544214002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-04-23.
+This product designer position at VML was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

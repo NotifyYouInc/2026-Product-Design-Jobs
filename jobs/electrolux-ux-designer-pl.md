@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Sao-Paulo/UX-Designer-PL_JR76296) |
+| Location | Curitiba, Paraná, Brazil |
+| Category | UX Researcher |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/UX-Designer-PL_JR77822) |
 
 ## About This Role
 
-This product designer position at Electrolux was posted on 2026-03-03.
+This ux researcher position at Electrolux was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

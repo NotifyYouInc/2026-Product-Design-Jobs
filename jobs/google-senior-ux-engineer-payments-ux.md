@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Frontend Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/119110965932237510-senior-ux-engineer-payments-ux?sort_by=date&page=1) |
+| Category | UX Researcher |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZJlOvKucJbiFJSGDN5wckjmr6CJVCP5v7ARopMcqjd7EjsACxwdTGcd_0qk-BEB136bqrAiB6CPE9XFk5poglIJtAECRyljQLXE6TG8KKFGYaKC7BvNfKyaKf9Q2Q%3D%3D_V2&loc=SG&title=Senior+UX+Engineer) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-03-09.
+This ux researcher position at Google was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

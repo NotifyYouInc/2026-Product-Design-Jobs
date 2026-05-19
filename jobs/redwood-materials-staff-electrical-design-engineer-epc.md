@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redwood Materials](https://scoutify.ai/companies/redwood-materials?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Nevada, US |
+| Location | Carson City, Nevada, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5989709004?gh_jid=5989709004) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5992299004?gh_jid=5992299004) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Redwood Materials was posted on 2026-05-06.
+This electrical / hardware engineer position at Redwood Materials was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

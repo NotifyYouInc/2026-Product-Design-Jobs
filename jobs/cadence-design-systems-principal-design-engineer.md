@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Semiconductor / Chip Design |
+| Location | Austin, Texas, United States |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Design-Engineer_R54525) |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Principal-Design-Engineer_R54634) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-07.
+This embedded / firmware engineer position at Cadence Design Systems was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

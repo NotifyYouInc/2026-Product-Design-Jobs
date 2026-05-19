@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gyeonggi-do, KR |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/KOR---Gyeonggi-do---Hwaseong/Design-Engineer_R00287173) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Engineering Manager |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/KOR---Seoul---Seoul/Design-Engineer_R00287172-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ecolab was posted on 2026-04-21.
+This engineering manager position at Ecolab was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Oslo, Oslo, Norway |
 | Category | UX Researcher |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-UX-Designer_26WD96090-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Principal-UX-Designer_26WD97854-1) |
 
 ## About This Role
 
-This ux researcher position at Autodesk was posted on 2026-03-12.
+This ux researcher position at Autodesk was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silvus Technologies](https://scoutify.ai/companies/silvus-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Irvine, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/silvus/jobs/4947539008) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/silvus/jobs/4955485008) |
 
 ## About This Role
 
-This semiconductor / chip design position at Silvus Technologies was posted on 2026-02-10.
+This semiconductor / chip design position at Silvus Technologies was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

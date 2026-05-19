@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/SF---2-Folsom/Assistant-Designer--Performance_R196661) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/NY-55-Thomas-St/Assistant-Designer_R211616) |
 
 ## About This Role
 
-This product designer position at Gap Inc. was posted on 2026-04-02.
+This product designer position at Gap Inc. was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

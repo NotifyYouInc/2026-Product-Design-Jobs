@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Design-Engineer_JR2015682) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Circuit-Design-Engineer_JR2017814) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-17.
+This semiconductor / chip design position at Nvidia was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lynk](https://scoutify.ai/companies/lynk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2025-07-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lynk/e323e7ea-0b5c-4bfb-bf28-d90f98cb821a) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lynk/7bd90cc0-75ba-48f9-8637-14d069de6939) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Lynk was posted on 2025-07-11.
+This embedded / firmware engineer position at Lynk was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

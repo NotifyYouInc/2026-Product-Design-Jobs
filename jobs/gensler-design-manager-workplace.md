@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Francisco, California, United States |
 | Category | Project Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Bangalore-India/Design-Manager---Workplace_R-17544) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Francisco-CA-US/Design-Manager---Workplace_R-17705) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-28.
+This project manager position at Gensler was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

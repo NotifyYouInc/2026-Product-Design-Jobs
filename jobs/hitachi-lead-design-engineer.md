@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gauteng, ZA |
+| Location | 2 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Modderfontein-Gauteng-South-Africa/Lead-Design-Engineer_R0067529) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Faridabad-Haryana-India/Lead-Design-Engineer_R0126951) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-02-17.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
