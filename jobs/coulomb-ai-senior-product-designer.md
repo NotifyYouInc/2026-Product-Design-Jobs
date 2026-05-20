@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coulomb AI](https://scoutify.ai/companies/coulomb-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | UX Researcher |
-| Posted | 2026-02-12 |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Designer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/coulomb-ai/jobs/vF02oeX-senior-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Coulomb AI was posted on 2026-02-12.
+This product designer position at Coulomb AI was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2025-12-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/d527a336-24e3-46ef-8d05-1da557c7bff4) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00) |
 
 ## About This Role
 
-This product designer position at Harvey was posted on 2025-12-22.
+This product designer position at Harvey was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

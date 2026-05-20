@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control---Protection-Design-Engineer---66-kV-_R0125453) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control---Protection-Design-Engineer---66-kV-_R0129388) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-17.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Cable-Harness-Design-Engineer-III---New-Glenn-Stage-2--Fixed-Term-_R59583) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics-Cable-Harness-Design-Engineer-III---New-Glenn-Stage-2--Fixed-Term-_R64676-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Blue Origin was posted on 2026-03-24.
+This electrical / hardware engineer position at Blue Origin was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

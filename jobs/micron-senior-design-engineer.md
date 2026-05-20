@@ -6,7 +6,7 @@
 | Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR100099) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Senior-Design-Engineer_JR100100-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Design Manager - Building Engineering at AECOM
+# Design Manager | Building Engineering at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Project Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115362077-design-manager-building-engineering) |
+| Location | Auckland, Auckland, New Zealand |
+| Category | Engineering Manager |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126221510-design-manager-building-engineering) |
 
 ## About This Role
 
-This project manager position at AECOM was posted on 2026-03-18.
+This engineering manager position at AECOM was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

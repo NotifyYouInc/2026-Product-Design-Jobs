@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Mumbai-India/Design-Manager_R-17415) |
+| Location | Baltimore, Maryland, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Baltimore-MD-US/Design-Manager_R-17715) |
 
 ## About This Role
 
-This project manager position at Gensler was posted on 2026-04-14.
+This engineering manager position at Gensler was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

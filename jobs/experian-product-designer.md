@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120818997-product-designer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126163199-product-designer) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-04-14.
+This product designer position at Experian was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

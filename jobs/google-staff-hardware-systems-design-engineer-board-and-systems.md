@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128951351798309574-staff-hardware-systems-design-engineer-board-and-systems?sort_by=date&page=1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQdCxEND7Sineb57dEexxyiQtlJoFhhhy5XB8yhLGryyEjsACxwdTPNTQdsqcwj68VQlA7sYxMp7oJkuSnlLq9CamZjuXS-cqw-oU6ZPEd_j-tmjmi5jnFM_4DTeWg%3D%3D_V2&loc=US&title=Staff+Hardware+Systems+Design+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-03-25.
+This electrical / hardware engineer position at Google was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

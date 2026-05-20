@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Senior-RFIC-Design-Engineer_R261865) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-RFIC-Design-Engineer_R261891) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-24.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

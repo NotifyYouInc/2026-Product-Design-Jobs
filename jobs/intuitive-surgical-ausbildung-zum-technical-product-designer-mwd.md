@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Germany |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000107682275-ausbildung-zum-technical-product-designer-mwd) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000126024279-ausbildung-zum-technical-product-designer-mwd) |
 
 ## About This Role
 
-This product designer position at Intuitive Surgical was posted on 2026-02-06.
+This product designer position at Intuitive Surgical was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0281763) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/RTL-Design-Engineer_JR0283979) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-24.
+This semiconductor / chip design position at Intel was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solve Intelligence](https://scoutify.ai/companies/solve-intelligence?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
-| Category | Product Designer |
-| Posted | 2026-02-22 |
+| Location | London, England, United Kingdom |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/solve-intelligence/jobs/iqdSLOh-design-engineer) |
 
 ## About This Role
 
-This product designer position at Solve Intelligence was posted on 2026-02-22.
+This electrical / hardware engineer position at Solve Intelligence was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

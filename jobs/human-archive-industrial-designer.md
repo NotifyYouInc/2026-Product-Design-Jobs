@@ -5,12 +5,12 @@
 | Company | [Human Archive](https://scoutify.ai/companies/human-archive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-26 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/human-archive/jobs/Lb6nrM9-industrial-designer) |
 
 ## About This Role
 
-This product designer position at Human Archive was posted on 2026-03-26.
+This product designer position at Human Archive was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

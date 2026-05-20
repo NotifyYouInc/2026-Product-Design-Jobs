@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Landeed](https://scoutify.ai/companies/landeed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
-| Posted | 2026-02-22 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/landeed/jobs/kRhGqU1-ui-ux-lead) |
 
 ## About This Role
 
-This product designer position at Landeed was posted on 2026-02-22.
+This product designer position at Landeed was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Houston, Texas, United States |
 | Category | Engineering Manager |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Advanced-Mission-Design-Engineer_R0161015) |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Advanced-Mission-Design-Engineer_R0161053-1) |
 
 ## About This Role
 

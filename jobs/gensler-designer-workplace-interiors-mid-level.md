@@ -1,16 +1,16 @@
-# Designer – Workplace Interiors – Mid Level at Gensler
+# Designer - Workplace Interiors - Mid Level at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Washington-DC-US/Designer---Workplace-Interiors---Mid-Level_R-17454) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Jose-CA-US/Designer---Workplace-Interiors---Mid-Level_R-17708) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-04-14.
+This product designer position at Gensler was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

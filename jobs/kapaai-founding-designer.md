@@ -5,12 +5,12 @@
 | Company | [kapa.ai](https://scoutify.ai/companies/kapa-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austria |
 | Category | Product Designer |
-| Posted | 2026-02-22 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/kapa-ai/jobs/lPYIksu-founding-designer) |
 
 ## About This Role
 
-This product designer position at kapa.ai was posted on 2026-02-22.
+This product designer position at kapa.ai was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

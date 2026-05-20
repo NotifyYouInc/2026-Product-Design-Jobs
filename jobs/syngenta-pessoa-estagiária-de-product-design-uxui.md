@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | UX Researcher |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000119206457-pessoa-estagiaria-de-product-design-uxui) |
+| Category | Product Designer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126175400-pessoa-estagiaria-de-product-design-uxui) |
 
 ## About This Role
 
-This ux researcher position at Syngenta was posted on 2026-04-07.
+This product designer position at Syngenta was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

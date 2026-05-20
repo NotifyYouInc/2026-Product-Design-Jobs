@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Goleta, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Analog-Design-Engineer_REQ33887) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Goleta-CA/Analog-Design-Engineer_REQ34534) |
 
 ## About This Role
 
-This semiconductor / chip design position at Teledyne was posted on 2026-04-10.
+This semiconductor / chip design position at Teledyne was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh-Qiddiya/Design-Manager_R172623-1) |
+| Category | Engineering Manager |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/SA---Riyadh/Design-Manager_R176865-1) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-25.
+This engineering manager position at Parsons was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

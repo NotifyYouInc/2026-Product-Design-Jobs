@@ -5,12 +5,12 @@
 | Company | [Deep24](https://scoutify.ai/companies/deep24?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/deep24/jobs/C5hvWWw-founding-designer) |
 
 ## About This Role
 
-This product designer position at Deep24 was posted on 2026-03-03.
+This product designer position at Deep24 was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

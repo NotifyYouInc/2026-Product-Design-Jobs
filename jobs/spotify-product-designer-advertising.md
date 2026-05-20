@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/a6bee751-d090-4f8d-92f6-ae1550bcfe02) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/fc779380-7e9c-48be-a730-e789fed1879e) |
 
 ## About This Role
 
-This product designer position at Spotify was posted on 2026-03-10.
+This product designer position at Spotify was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

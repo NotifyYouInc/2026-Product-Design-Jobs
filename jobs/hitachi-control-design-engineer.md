@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Industrial Automation |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control-Design-Engineer_R0115307) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Control-Design-Engineer_R0112157) |
 
 ## About This Role
 
-This industrial automation position at Hitachi was posted on 2026-03-12.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
