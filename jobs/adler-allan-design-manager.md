@@ -5,12 +5,12 @@
 | Company | [Adler & Allan](https://scoutify.ai/companies/adlerallan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Warrington, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000124627955-design-manager) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000126292155-design-manager) |
 
 ## About This Role
 
-This engineering manager position at Adler & Allan was posted on 2026-05-05.
+This engineering manager position at Adler & Allan was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

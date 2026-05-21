@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Splash Inc.](https://scoutify.ai/companies/splash-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | El Segundo, California, United States |
 | Category | Marketing |
-| Posted | 2026-02-24 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/splash-inc/jobs/GiUfE6R-graphic-web-designer-mid-level) |
 
 ## About This Role
 
-This marketing position at Splash Inc. was posted on 2026-02-24.
+This marketing position at Splash Inc. was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

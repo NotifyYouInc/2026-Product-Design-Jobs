@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wordware](https://scoutify.ai/companies/wordware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-05 |
+| Category | Product Designer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/wordware/jobs/UUD4iPu-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Wordware was posted on 2026-04-05.
+This product designer position at Wordware was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

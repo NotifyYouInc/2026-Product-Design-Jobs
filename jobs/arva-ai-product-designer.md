@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arva AI](https://scoutify.ai/companies/arva-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-02-21 |
+| Category | Product Designer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/arva-ai/jobs/z9wcUnx-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Arva AI was posted on 2026-02-21.
+This product designer position at Arva AI was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

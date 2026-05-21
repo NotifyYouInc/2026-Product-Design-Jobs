@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Universal City, California, United States |
 | Category | Graphic / Brand Design |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000122557689-art-director) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000126362529-art-director) |
 
 ## About This Role
 
-This graphic / brand design position at NBCUniversal was posted on 2026-04-23.
+This graphic / brand design position at NBCUniversal was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

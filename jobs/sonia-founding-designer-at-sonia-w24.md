@@ -5,12 +5,12 @@
 | Company | [Sonia](https://scoutify.ai/companies/sonia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/sonia/jobs/qTPqAFI-founding-designer-at-sonia-w24) |
 
 ## About This Role
 
-This product designer position at Sonia was posted on 2026-03-03.
+This product designer position at Sonia was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

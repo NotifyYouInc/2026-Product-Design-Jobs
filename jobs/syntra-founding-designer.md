@@ -5,12 +5,12 @@
 | Company | [Syntra](https://scoutify.ai/companies/syntra?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-02-26 |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/syntra/jobs/IHaN0N6-founding-designer) |
 
 ## About This Role
 
-This product designer position at Syntra was posted on 2026-02-26.
+This product designer position at Syntra was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

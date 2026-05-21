@@ -5,12 +5,12 @@
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Standard-Cell-Design-Engineer_JR-2501456) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/IND---Karnataka---Bengaluru---North/Standard-Cell-Design-Engineer_JR-2601575) |
 
 ## About This Role
 
-This semiconductor / chip design position at GlobalFoundries was posted on 2026-03-20.
+This semiconductor / chip design position at GlobalFoundries was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

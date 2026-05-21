@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123115829-mech-design-engineer-specialist-machine-building-station-design-industrial-conveyors) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126457999-mech-design-engineer-specialist-machine-building-station-design-industrial-conveyors) |
 
 ## About This Role
 
-This industrial automation position at Robert Bosch was posted on 2026-04-27.
+This industrial automation position at Robert Bosch was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

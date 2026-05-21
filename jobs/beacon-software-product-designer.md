@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beacon Software](https://scoutify.ai/companies/beacon-software?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2025-11-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/beaconsoftware/jobs/4974586008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/beaconsoftware/jobs/4675779008) |
 
 ## About This Role
 

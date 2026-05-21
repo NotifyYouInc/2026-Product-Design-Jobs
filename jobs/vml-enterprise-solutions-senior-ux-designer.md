@@ -5,12 +5,12 @@
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8526393002) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8545302002) |
 
 ## About This Role
 
-This ux researcher position at VML Enterprise Solutions was posted on 2026-04-30.
+This ux researcher position at VML Enterprise Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123385569-principal-designer-bimcad-highways) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000126287272-principal-designer-bimcad-highways) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-28.
+This engineering manager position at AECOM was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

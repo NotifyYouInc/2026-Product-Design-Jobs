@@ -5,12 +5,12 @@
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Design-Engineer---Physical-Design_R54212) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Design-Engineer---Physical-Design_R54722) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-03.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

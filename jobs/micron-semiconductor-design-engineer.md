@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Richardson, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Semiconductor-Design-Engineer_JR101170-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Semiconductor-Design-Engineer_JR101314) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-05-08.
+This semiconductor / chip design position at Micron was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

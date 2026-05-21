@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Digital-Senior-Design-Engineer_R030555) |
+| Location | Ottawa, Ontario, Canada |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Digital-Senior-Design-Engineer_R030693) |
 
 ## About This Role
 
-This semiconductor / chip design position at Ciena was posted on 2026-03-30.
+This electrical / hardware engineer position at Ciena was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
