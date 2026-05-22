@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/10b0dc80-1d01-43e2-9f7a-5446420318a7) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.lever.co/waremalcomb/3896f1e6-78ca-4b31-b8e3-4f33f16d02e3) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-04-29.
+This product designer position at Waremalcomb was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

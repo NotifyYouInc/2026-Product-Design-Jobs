@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Lead-Physical-Design-Engineer_R-10062169) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Hyderabad/Lead-Physical-Design-Engineer_R-10063208) |
 
 ## About This Role
 
-This semiconductor / chip design position at NXP Semiconductors was posted on 2026-03-27.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

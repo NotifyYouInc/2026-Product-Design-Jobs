@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Fulltime-Raytheon-2026---Power---Analog-Design-Engineer-I_01836162) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Fulltime-Raytheon-2026---Power---Analog-Design-Engineer-I_01844362) |
 
 ## About This Role
 
-This semiconductor / chip design position at RTX was posted on 2026-04-07.
+This semiconductor / chip design position at RTX was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

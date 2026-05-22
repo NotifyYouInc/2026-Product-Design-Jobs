@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/User-Experience-Designer_ATCI-5510652-S2019966-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/User-Experience-Designer_ATCI-5547133-S2020570) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-30.
+This product designer position at Accenture was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

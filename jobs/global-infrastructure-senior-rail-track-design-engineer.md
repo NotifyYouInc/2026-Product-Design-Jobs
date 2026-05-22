@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Infrastructure](https://scoutify.ai/companies/gi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Coral Gables, Florida, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Senior-Rail-Track-Design-Engineer_5380) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--FL--Coral-Gables---355-Alhambra-Circle/Senior-Rail-Track-Design-Engineer_5638) |
 
 ## About This Role
 
-This engineering manager position at Global Infrastructure was posted on 2026-04-14.
+This engineering manager position at Global Infrastructure was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

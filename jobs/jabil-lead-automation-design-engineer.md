@@ -1,16 +1,16 @@
-# Lead Automation Design Engineer     at Jabil
+# Lead Automation Design Engineer at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Chihuahua, Chihuahua, Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Lead-Automation-Design-Engineer----_J2448638) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Lead-Automation-Design-Engineer_J2449390-1) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-11.
+This industrial automation position at Jabil was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

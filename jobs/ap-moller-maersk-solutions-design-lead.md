@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Solutions-Design-Lead_R172116) |
+| Category | Business Analyst |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Solutions-Design-Lead_R181279) |
 
 ## About This Role
 
-This operations position at A.P. Moller - Maersk was posted on 2026-02-05.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

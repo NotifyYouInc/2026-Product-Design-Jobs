@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/London-London-UK/Design-Engineer_WD30264579) |
+| Location | Pune, Maharashtra, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Design-Engineer_WD30265350-1) |
 
 ## About This Role
 
-This security engineer position at Johnson Controls was posted on 2026-04-16.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

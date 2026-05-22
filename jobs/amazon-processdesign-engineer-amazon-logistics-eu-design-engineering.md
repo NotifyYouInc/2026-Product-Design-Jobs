@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3201932/process-design-engineer-amazon-logistics-eu-design-engineering) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Industrial Automation |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10419510/process-design-engineer-amazon-logistics-eu-design-engineering) |
 
 ## About This Role
 
-This operations position at Amazon was posted on 2026-03-11.
+This industrial automation position at Amazon was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

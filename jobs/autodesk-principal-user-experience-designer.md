@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-User-Experience-Designer_26WD96290-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Principal-User-Experience-Designer_26WD98341) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-04-03.
+This product designer position at Autodesk was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

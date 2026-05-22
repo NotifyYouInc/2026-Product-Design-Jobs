@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Philippines |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Senior-Designer--Layout_R261977-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Senior-Designer--Layout_R262511) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-04-13.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

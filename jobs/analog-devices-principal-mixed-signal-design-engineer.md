@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Mixed-Signal-Design-Engineer_R262196) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Mixed-Signal-Design-Engineer_R262197) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-12.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

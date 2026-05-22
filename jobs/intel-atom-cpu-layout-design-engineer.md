@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Atom-CPU-Layout-Design-Engineer_JR0281147) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Atom-CPU-Layout-Design-Engineer_JR0283995) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-02-19.
+This semiconductor / chip design position at Intel was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

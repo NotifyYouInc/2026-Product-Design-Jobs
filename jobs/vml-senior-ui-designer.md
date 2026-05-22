@@ -5,12 +5,12 @@
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8526382002?gh_jid=8526382002) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8545308002?gh_jid=8545308002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-05-06.
+This product designer position at VML was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

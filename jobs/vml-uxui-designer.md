@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8469111002?gh_jid=8469111002) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | UX Researcher |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8541761002?gh_jid=8541761002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-04-23.
+This ux researcher position at VML was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

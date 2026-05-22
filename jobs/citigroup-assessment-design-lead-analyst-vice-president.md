@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Assessment---Design-Lead-Analyst--Vice-President-_26958788) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Assessment---Design-Lead-Analyst--Vice-President-_26963639) |
 
 ## About This Role
 
-This compliance & risk management position at Citigroup was posted on 2026-04-29.
+This compliance & risk management position at Citigroup was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

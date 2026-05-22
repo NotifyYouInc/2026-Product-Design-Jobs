@@ -5,12 +5,12 @@
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36152) |
 
 ## About This Role
 
-This product designer position at Allegion was posted on 2026-05-06.
+This product designer position at Allegion was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

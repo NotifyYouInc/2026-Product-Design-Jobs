@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Floorplan-Design-Engineer_JR2015001) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Floorplan-Design-Engineer_JR2018039) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-04-01.
+This semiconductor / chip design position at Nvidia was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
