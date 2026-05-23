@@ -5,12 +5,12 @@
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000125287335-product-designer) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000126729709-product-designer) |
 
 ## About This Role
 
-This product designer position at Gousto was posted on 2026-05-08.
+This product designer position at Gousto was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

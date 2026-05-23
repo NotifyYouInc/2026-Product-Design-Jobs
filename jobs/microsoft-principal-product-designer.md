@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556754944) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556866834) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-05-07.
+This product designer position at Microsoft was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

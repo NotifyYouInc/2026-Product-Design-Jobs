@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Physical-Design-Engineer_JR0283517) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Physical-Design-Engineer_JR0284067) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-12.
+This semiconductor / chip design position at Intel was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Palo-Alto/Designer_R24478) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Green-Hills/Designer_R24575) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-07.
+This product designer position at Crateandbarrel was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

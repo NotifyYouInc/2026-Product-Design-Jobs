@@ -1,16 +1,16 @@
-# Principal Mixed Signal Design Engineer at Analog Devices
+# Principal Mixed-Signal Design Engineer at Analog Devices
 
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | 4 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Mixed-Signal-Design-Engineer_R262197) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Germany-Munich-Otl-Aicher-Strasse/Principal-Mixed-Signal-Design-Engineer_R260358) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-13.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

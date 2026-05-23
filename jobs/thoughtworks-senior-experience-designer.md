@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | UX Researcher |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7584649?gh_jid=7584649) |
+| Category | Product Designer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7925996?gh_jid=7925996) |
 
 ## About This Role
 
-This ux researcher position at Thoughtworks was posted on 2026-04-01.
+This product designer position at Thoughtworks was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

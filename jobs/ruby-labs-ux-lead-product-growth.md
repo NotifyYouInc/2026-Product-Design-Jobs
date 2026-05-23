@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Ukraine |
+| Location | Not specified |
 | Category | Growth Marketing |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/9344b991-a4bd-49d7-ac19-a84cd9e2efd1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/b5104359-c5b6-4e23-8522-3288c4a9a5e5) |
 
 ## About This Role
 
-This growth marketing position at Ruby Labs was posted on 2026-05-05.
+This growth marketing position at Ruby Labs was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
