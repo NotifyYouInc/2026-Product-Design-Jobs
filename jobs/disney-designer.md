@@ -1,16 +1,16 @@
-# Product Designer - 3 at Careers at Tide
+# Designer at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Product Designer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7731830003) |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Beijing-China/Designer_10151130) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-05-18.
+This product designer position at Disney was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

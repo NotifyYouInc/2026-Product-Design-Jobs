@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/SSIR-Goldstone-Bangalore-India/IP-RTL-Design-Engineer_R115142) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/SSIR-Goldstone-Bangalore-India/IP-RTL-Design-Engineer_R117218) |
 
 ## About This Role
 
-This semiconductor / chip design position at Samsung was posted on 2026-03-05.
+This semiconductor / chip design position at Samsung was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

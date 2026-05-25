@@ -1,16 +1,16 @@
-# Product Designer - 3 at Careers at Tide
+# Visual Design Intern at Claim Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Company | [Claim Health](https://scoutify.ai/companies/yc-claim-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7731830003) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/claim-health/jobs/H4eCBA9-visual-design-intern) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-05-18.
+This product designer position at Claim Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

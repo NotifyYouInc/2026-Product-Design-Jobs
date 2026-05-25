@@ -1,16 +1,16 @@
-# Product Design Engineer at Snapchat
+# Senior Mechanical/Design Engineer at Faro
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taiwan |
+| Company | [Faro](https://scoutify.ai/companies/faro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Taipei-City-Taiwan/Product-Design-Engineer_R0045464-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://faro.wd1.myworkdayjobs.com/faro/job/Exton-PA/Senior-Mechanical-Design-Engineer_R7976) |
 
 ## About This Role
 
-This engineering manager position at Snapchat was posted on 2026-05-18.
+This engineering manager position at Faro was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
