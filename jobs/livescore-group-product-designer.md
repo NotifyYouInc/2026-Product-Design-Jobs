@@ -2,7 +2,7 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [LiveScore Group ](https://scoutify.ai/companies/livescore-group-?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [LiveScore Group ](https://scoutify.ai/companies/livescore-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-05-14 |

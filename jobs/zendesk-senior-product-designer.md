@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Senior-Product-Designer_R32463) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Designer_R34775) |
 
 ## About This Role
 
-This product designer position at Zendesk was posted on 2026-02-17.
+This product designer position at Zendesk was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

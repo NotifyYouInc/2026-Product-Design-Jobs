@@ -1,16 +1,16 @@
-# Senior Visual Designer (Web) at plaid
+# Senior Visual Designer (Web) at Plaid
 
 | Field | Details |
 |-------|---------|
-| Company | [plaid](https://scoutify.ai/companies/plaid-plaid?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/7ff3e1fe-1f85-43d5-b50f-70ab22e72ccd) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/7e1b357c-6251-47ee-b8e7-16dde5c41f5f) |
 
 ## About This Role
 
-This product designer position at plaid was posted on 2026-04-08.
+This product designer position at Plaid was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

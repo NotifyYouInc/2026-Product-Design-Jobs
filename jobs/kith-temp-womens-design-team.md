@@ -2,7 +2,7 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Kith](https://scoutify.ai/companies/kith-kith_external_c?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Kith](https://scoutify.ai/companies/kith-external-c?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-05-14 |

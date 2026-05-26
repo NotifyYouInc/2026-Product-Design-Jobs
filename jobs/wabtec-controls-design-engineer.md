@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013034576-controls-design-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013174446-controls-design-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Wabtec was posted on 2026-05-08.
+This embedded / firmware engineer position at Wabtec was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mount Vernon, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-MO-Mount-Vernon/Design-Engineer_REQ-12837-1) |
+| Location | Dungannon, Northern Ireland, United Kingdom |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Dungannon-Farlough/Design-Engineer_REQ-12748-3) |
 
 ## About This Role
 
-This engineering manager position at Terex was posted on 2026-05-13.
+This electrical / hardware engineer position at Terex was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

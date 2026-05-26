@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Project Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Paris-Office-PAO/Senior-Design-Manager_JR-158997) |
+| Location | London, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/London/Senior-Design-Manager_JR-160987) |
 
 ## About This Role
 
-This project manager position at Equinix was posted on 2026-03-09.
+This engineering manager position at Equinix was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

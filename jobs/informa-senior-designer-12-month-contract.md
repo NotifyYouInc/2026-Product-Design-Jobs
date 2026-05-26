@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000126271129-senior-designer-12-month-contract) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000126467579-senior-designer-12-month-contract) |
 
 ## About This Role
 
-This marketing position at Informa was posted on 2026-05-13.
+This marketing position at Informa was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# User Experience Design Associate Advisor - HIH - Evernorth at Cigna
+# User Experience Design Associate Advisor - HiH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | UX Researcher |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/User-Experience-Design-Associate-Advisor---HIH---Evernorth_26001379) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/User-Experience-Design-Associate-Advisor---HiH---Evernorth_26005032) |
 
 ## About This Role
 
-This ux researcher position at Cigna was posted on 2026-04-01.
+This ux researcher position at Cigna was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

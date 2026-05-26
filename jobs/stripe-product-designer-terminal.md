@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7894884) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7925550) |
 
 ## About This Role
 
-This product designer position at Stripe was posted on 2026-05-05.
+This product designer position at Stripe was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

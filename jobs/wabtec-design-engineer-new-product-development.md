@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Oak Creek, Wisconsin, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012511816-design-engineer-new-product-development) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013184876-design-engineer-new-product-development) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-04-08.
+This electrical / hardware engineer position at Wabtec was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
