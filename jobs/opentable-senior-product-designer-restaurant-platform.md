@@ -1,16 +1,16 @@
-# Senior Product Designer - Restaurant Platform at OpenTable
+# Senior Product Designer, Restaurant Platform at OpenTable
 
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8491629002) |
+| Location | London, England, United Kingdom |
+| Category | Product Designer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8556202002) |
 
 ## About This Role
 
-This ux researcher position at OpenTable was posted on 2026-04-02.
+This product designer position at OpenTable was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

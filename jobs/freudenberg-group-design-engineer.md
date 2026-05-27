@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Morinda, Punjab, India |
-| Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Morinda/Design-Engineer_R_00097904) |
+| Location | Foshan, Guangdong, China |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Foshan/Design-Engineer_R_00101623) |
 
 ## About This Role
 
-This engineering manager position at Freudenberg Group was posted on 2026-04-30.
+This electrical / hardware engineer position at Freudenberg Group was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Technical Designer – Junior  at Gensler
+# Technical Designer - Junior at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Oakland, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Phoenix-AZ-US/Technical-Designer---Junior-_R-17658) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Oakland-CA-US/Technical-Designer---Junior_R-17765) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-05-06.
+This product designer position at Gensler was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

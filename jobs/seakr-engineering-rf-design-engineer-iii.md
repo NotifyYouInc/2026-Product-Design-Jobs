@@ -5,12 +5,12 @@
 | Company | [SEAKR Engineering](https://scoutify.ai/companies/seakrengineering?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Centennial, Colorado, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000122477252-rf-design-engineer-iii) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEAKREngineering/744000127287880-rf-design-engineer-iii) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SEAKR Engineering was posted on 2026-04-23.
+This electrical / hardware engineer position at SEAKR Engineering was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

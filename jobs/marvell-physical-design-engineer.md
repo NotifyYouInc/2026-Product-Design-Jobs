@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Physical-Design-Engineer_2502048-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Physical-Design-Engineer_2601823) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-02-25.
+This semiconductor / chip design position at Marvell was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

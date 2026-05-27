@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000125819256-principal-design-engineer-port-solutions-electrics) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000127169659-principal-design-engineer-port-solutions-electrics) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Konecranes was posted on 2026-05-11.
+This electrical / hardware engineer position at Konecranes was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

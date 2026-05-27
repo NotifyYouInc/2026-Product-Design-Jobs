@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Bielsko-Biala, Silesia, Poland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Design-Engineer_JR00027040) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bielsko-Biala-Silesian-Poland/Design-Engineer_JR00034370) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-03-15.
+This electrical / hardware engineer position at ABB was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

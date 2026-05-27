@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Folsom, California, United States |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Member-of-Technical-Staff--AI-Optimized-Memory-Digital-Design-Engineer---Microarchitect_JR94197) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Member-of-Technical-Staff--AI-Optimized-Memory-Digital-Design-Engineer---Microarchitect_JR93950) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-03-20.
+This semiconductor / chip design position at Micron was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

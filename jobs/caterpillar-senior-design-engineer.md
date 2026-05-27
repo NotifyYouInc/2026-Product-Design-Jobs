@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | East Peoria, Illinois, United States |
 | Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Senior-Design-Engineer_R0000365390) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Senior-Design-Engineer_R0000352786-1) |
 
 ## About This Role
 

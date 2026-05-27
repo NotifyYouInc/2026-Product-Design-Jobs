@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Silicon-Design-Engineer_R02317) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/FPGA-Silicon-Design-Engineer_R02534) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-04-15.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

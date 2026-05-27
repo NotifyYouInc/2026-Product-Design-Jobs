@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom-Edinburgh-West-Port/Analog-Mixed-Signal-Design-Engineer_R025746) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/United-Kingdom--Edinburgh--Exchange-Tower/Analog-Mixed-Signal-Design-Engineer_R026075) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-04-15.
+This semiconductor / chip design position at Broadcom was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shenzhen, Guangdong, China |
-| Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4665739006) |
+| Location | London, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4681865006) |
 
 ## About This Role
 
-This product designer position at SharkNinja was posted on 2026-03-27.
+This engineering manager position at SharkNinja was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

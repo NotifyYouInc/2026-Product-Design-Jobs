@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/50f9b6e6-1a66-4727-b532-9289a7caf8a9) |
+| Location | New York City, New York, United States |
+| Category | UX Researcher |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/d0ccb5bc-a558-439f-b8b6-2ba865bfabf9) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-04-30.
+This ux researcher position at Bjak was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

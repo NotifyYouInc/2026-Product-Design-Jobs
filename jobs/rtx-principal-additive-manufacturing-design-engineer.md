@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | East Hartford, Connecticut, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Principal-Additive-Manufacturing-Design-Engineer_01839980) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-H--411-Silver-Ln--RTRC-H/Principal-Additive-Manufacturing-Design-Engineer_01846217) |
 
 ## About This Role
 
-This engineering manager position at RTX was posted on 2026-04-22.
+This engineering manager position at RTX was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

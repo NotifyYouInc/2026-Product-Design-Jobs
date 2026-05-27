@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Neu-Isenburg, Hesse, Germany |
 | Category | Product Designer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Flight-Deck-for-Boeing-Commercial-Airplanes--m-f-d-_JR2026503965-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Flight-Deck-for-Boeing-Commercial-Airplanes--m-f-d-_JR2026509799-1) |
 
 ## About This Role
 
-This product designer position at Boeing was posted on 2026-04-03.
+This product designer position at Boeing was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
