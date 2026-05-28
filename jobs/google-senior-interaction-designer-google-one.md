@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92948491549975238-senior-interaction-designer-google-one?sort_by=date&page=1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcuefABHzw_DYKmG6pU5xFAqLSsb7fmpuKrBoDpyLiM9EjsACxwdTBXdVRFbtFujwSzW5sPUZGwm-udXuQJ90nqPxnxJCujyCyjBPeNH07vDvxvzqVcH6Y9kw58cIg%3D%3D_V2&loc=IN&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-02.
+This product designer position at Google was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

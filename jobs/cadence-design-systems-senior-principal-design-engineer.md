@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HYDERABAD-04/Senior-Principal-Design-Engineer_R50856) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Senior-Principal-Design-Engineer_R54727) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-04-15.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

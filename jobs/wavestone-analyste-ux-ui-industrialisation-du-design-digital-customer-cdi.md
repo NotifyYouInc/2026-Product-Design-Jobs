@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | UX Researcher |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000114016158-analyste-ux-ui-industrialisation-du-design-digital-customer-cdi) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000127368925-analyste-ux-ui-industrialisation-du-design-digital-customer-cdi) |
 
 ## About This Role
 
-This ux researcher position at Wavestone was posted on 2026-03-11.
+This ux researcher position at Wavestone was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

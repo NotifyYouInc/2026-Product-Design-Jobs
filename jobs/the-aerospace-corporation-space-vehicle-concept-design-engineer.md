@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Engineering Manager |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/Space-Vehicle-Concept-Design-Engineer_R015397) |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Space-Vehicle-Concept-Design-Engineer_R015396) |
 
 ## About This Role
 

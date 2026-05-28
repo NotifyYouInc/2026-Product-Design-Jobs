@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Engineering Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000126317189-junior-design-engineer-biw) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000127399421-junior-design-engineer-biw) |
 
 ## About This Role
 
-This engineering manager position at SEGULA Technologies was posted on 2026-05-13.
+This engineering manager position at SEGULA Technologies was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

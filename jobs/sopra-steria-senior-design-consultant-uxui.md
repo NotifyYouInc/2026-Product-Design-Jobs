@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Rome, Lazio, Italy |
-| Category | Product Designer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112963547-senior-design-consultant-uxui) |
+| Location | Italy |
+| Category | UX Researcher |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127380449-senior-design-consultant-uxui) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-03-05.
+This ux researcher position at Sopra Steria was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

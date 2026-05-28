@@ -1,16 +1,16 @@
-# Sentinel - Lab Design Manager 2 - 11914-2 at Northrop Grumman
+# Sentinel - Lab Design Manager 2 (11914-2) at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Lab-Design-Manager-2---11914-2_R10232943) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Lab-Design-Manager-2--11914-2-_R10233230) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-05-14.
+This engineering manager position at Northrop Grumman was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

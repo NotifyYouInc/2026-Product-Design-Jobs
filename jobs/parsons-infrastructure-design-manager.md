@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Project Manager |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Dubai/Infrastructure-Design-Manager_R177349-1) |
+| Location | Not specified |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Remote-Any-Location/Infrastructure-Design-Manager_R180660) |
 
 ## About This Role
 
-This project manager position at Parsons was posted on 2026-02-22.
+This engineering manager position at Parsons was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

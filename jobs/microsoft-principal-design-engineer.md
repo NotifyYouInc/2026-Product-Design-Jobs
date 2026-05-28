@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Frontend Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858428) |
+| Location | 2 locations |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867404) |
 
 ## About This Role
 
-This frontend engineer position at Microsoft was posted on 2026-04-16.
+This semiconductor / chip design position at Microsoft was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

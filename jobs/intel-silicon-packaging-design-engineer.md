@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0283552) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0283986) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-04-30.
+This semiconductor / chip design position at Intel was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

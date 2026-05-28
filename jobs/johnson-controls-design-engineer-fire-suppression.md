@@ -1,16 +1,16 @@
-# Design Engineer – Fire Suppression at Johnson Controls
+# Design Engineer- Fire Suppression at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Birmingham, England, United Kingdom |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Birmingham-Midlands-United-Kingdom/Design-Engineer---Fire-Suppression_WD30263071) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/Design-Engineer--Fire-Suppression_WD30268566-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-02-25.
+This engineering manager position at Johnson Controls was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

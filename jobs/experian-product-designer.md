@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126163199-product-designer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127522024-product-designer) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-05-12.
+This product designer position at Experian was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
