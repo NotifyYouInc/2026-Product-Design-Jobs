@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | West Hollywood, Florida, United States |
 | Category | Product Designer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Green-Hills/Designer_R24575) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/CB2-West-Hollywood/Designer_R24680) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-15.
+This product designer position at Crateandbarrel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

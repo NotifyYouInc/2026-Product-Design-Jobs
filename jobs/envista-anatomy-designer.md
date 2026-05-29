@@ -5,12 +5,12 @@
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Product Designer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/China--Jiangsu-Sheng--Suzhou/Anatomy-Designer_R5025926) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/China--Jiangsu-Sheng--Suzhou/Anatomy-Designer_R5026423) |
 
 ## About This Role
 
-This product designer position at Envista was posted on 2026-03-27.
+This product designer position at Envista was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Location | Mexico |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/UX-Designer_R-01351229) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Mexico/UX-Designer_R-01353896) |
 
 ## About This Role
 
-This product designer position at Thermo Fisher Scientific was posted on 2026-05-05.
+This product designer position at Thermo Fisher Scientific was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

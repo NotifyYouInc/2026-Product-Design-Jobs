@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
-| Category | Business Analyst |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Assessment---Design-Lead-Analyst_26932913) |
+| Location | Tampa, Florida, United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Assessment---Design-Lead-Analyst_26946676) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-01-29.
+This compliance & risk management position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

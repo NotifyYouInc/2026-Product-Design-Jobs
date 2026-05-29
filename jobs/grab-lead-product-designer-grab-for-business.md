@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108107393-lead-product-designer-grab-for-business) |
+| Category | UX Researcher |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000127634234-lead-product-designer-grab-for-business) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-02-09.
+This ux researcher position at Grab was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

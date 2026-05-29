@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Texas, US |
+| Location | Redmond, Washington, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8461485002?gh_jid=8461485002) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8560208002?gh_jid=8560208002) |
 
 ## About This Role
 
-This semiconductor / chip design position at SpaceX was posted on 2026-03-13.
+This semiconductor / chip design position at SpaceX was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

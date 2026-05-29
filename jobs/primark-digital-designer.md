@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Reading, England, United Kingdom |
 | Category | Marketing |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000126370399-digital-designer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000127649840-digital-designer) |
 
 ## About This Role
 
-This marketing position at Primark was posted on 2026-05-13.
+This marketing position at Primark was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Electrical Design Engineer at Hitachi
+# Electrical Design Engineer. at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bắc Ninh, Bac Ninh, Vietnam |
+| Location | Gujarat, IN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bac-Ninh-Bc-Ninh-Vietnam/Electrical-Design-Engineer_R0124405) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Electrical-Design-Engineer_R0123338) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-05-08.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

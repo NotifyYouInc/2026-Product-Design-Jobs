@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/6911876) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/6758088) |
 
 ## About This Role
 
-This product designer position at Monzo was posted on 2026-03-17.
+This product designer position at Monzo was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
