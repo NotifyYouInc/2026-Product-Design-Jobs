@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Product-Designer_R-00274823-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Product-Designer_R-00279055-1) |
 
 ## About This Role
 
-This product designer position at NatWest Group was posted on 2026-05-12.
+This product designer position at NatWest Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

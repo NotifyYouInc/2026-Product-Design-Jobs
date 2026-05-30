@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-IA-Cedar-Rapids/Graduate-Design-Engineer_REQ-12710-1) |
+| Location | Carrickmacross, Ulster, Ireland |
+| Category | Engineering Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/IE-Carrickmacross/Graduate-Design-Engineer_REQ-12954) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Terex was posted on 2026-04-30.
+This engineering manager position at Terex was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

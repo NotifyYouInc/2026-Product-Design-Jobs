@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bielsko-Biala, Silesia, Poland |
+| Location | Uster, Zurich, Switzerland |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bielsko-Biala-Silesian-Poland/Design-Engineer_JR00034370) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Uster-Zurich-Switzerland/Design-Engineer_JR00034819) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-05-19.
+This electrical / hardware engineer position at ABB was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

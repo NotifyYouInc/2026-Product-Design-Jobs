@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/IP-RTL-Design-Engineer_2600329-1) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/IP-RTL-Design-Engineer_2600334) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-05-09.
+This semiconductor / chip design position at Marvell was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

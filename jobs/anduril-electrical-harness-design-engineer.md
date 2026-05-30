@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5126791007?gh_jid=5126791007) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5145248007?gh_jid=5145248007) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Anduril was posted on 2026-05-01.
+This electrical / hardware engineer position at Anduril was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

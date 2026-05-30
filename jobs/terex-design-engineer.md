@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Terex](https://scoutify.ai/companies/terex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dungannon, Northern Ireland, United Kingdom |
+| Location | Newton, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/UK-Dungannon-Farlough/Design-Engineer_REQ-12748-3) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-NH-Newton/Design-Engineer_REQ-12919-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Terex was posted on 2026-05-18.
+This electrical / hardware engineer position at Terex was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

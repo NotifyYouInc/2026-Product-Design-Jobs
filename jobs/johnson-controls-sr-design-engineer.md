@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Sr-Design-Engineer_WD30264794) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Sr-Design-Engineer_WD30269967) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-03-31.
+This electrical / hardware engineer position at Johnson Controls was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

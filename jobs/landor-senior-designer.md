@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Marketing |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/7851419) |
+| Category | Product Designer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/7171537) |
 
 ## About This Role
 
-This marketing position at Landor was posted on 2026-04-28.
+This product designer position at Landor was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Guadalupe, Nuevo León, Mexico |
-| Category | Industrial Automation |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Controls-Design-Engineer-Professional_JR-0089321-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Guadalupe-Mexico/Controls-Design-Engineer-Professional_JR-0091078-1) |
 
 ## About This Role
 
-This industrial automation position at KION Group was posted on 2026-04-14.
+This electrical / hardware engineer position at KION Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

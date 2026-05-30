@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bavaria, DE |
+| Location | Germany |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110105811-vie-aerospace-electrical-design-engineer-all-gender) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127842476-vie-aerospace-electrical-design-engineer-all-gender) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN was posted on 2026-02-19.
+This electrical / hardware engineer position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

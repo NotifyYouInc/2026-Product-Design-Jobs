@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8530664002) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8531111002) |
 
 ## About This Role
 
-This product designer position at AlphaSense was posted on 2026-04-29.
+This product designer position at AlphaSense was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

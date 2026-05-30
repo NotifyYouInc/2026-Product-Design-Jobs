@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Design-Engineer_JR97486) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Design-Engineer_JR102236) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-07.
+This semiconductor / chip design position at Micron was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
