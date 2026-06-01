@@ -1,16 +1,16 @@
-# Principal Design Engineer at Cadence Design Systems
+# Senior Principal Digital Design Engineer at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Principal-Design-Engineer_R54568-1) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Senior-Principal-Digital-Design-Engineer_R-10063226) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-25.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

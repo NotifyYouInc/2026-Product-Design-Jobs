@@ -1,16 +1,16 @@
-# Product Designer - Base44 at Wix.com
+# Product Designer, Design Systems at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000128029629-product-designer-base44) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Designer-Design-Systems/18328) |
 
 ## About This Role
 
-This product designer position at Wix.com was posted on 2026-05-24.
+This product designer position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

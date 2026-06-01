@@ -1,16 +1,16 @@
-# Senior Product Designer, AI  at Sigma Computing
+# Product Design Intern at Trimble
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Product Designer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747569003) |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Product-Design-Intern_R55869-1) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-05-25.
+This product designer position at Trimble was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

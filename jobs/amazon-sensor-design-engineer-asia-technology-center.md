@@ -1,16 +1,16 @@
-# Senior SOC Design Engineer at Nvidia
+# Sensor Design Engineer, Asia Technology Center at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Semiconductor / Chip Design |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-SOC-Design-Engineer_JR2018606) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429183/sensor-design-engineer-asia-technology-center) |
 
 ## About This Role
 
-This semiconductor / chip design position at Nvidia was posted on 2026-05-25.
+This electrical / hardware engineer position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
