@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HYDERABAD/Design-Engineer-II_R54123) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Senior-Principal-Design-Engineer_R50333) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-19.
+This electrical / hardware engineer position at Cadence Design Systems was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

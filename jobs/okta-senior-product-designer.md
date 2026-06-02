@@ -1,16 +1,16 @@
-# Senior  Product Designer at Okta
+# Senior Product Designer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/6923203?gh_jid=6923203) |
+| Category | UX Researcher |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7954577?gh_jid=7954577) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-04-28.
+This ux researcher position at Okta was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

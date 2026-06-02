@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Portland, Oregon, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Istanbul/Design-Engineer_R0036496) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Portland/Design-Engineer_R0037236) |
 
 ## About This Role
 
-This engineering manager position at The Weir Group was posted on 2026-04-08.
+This engineering manager position at The Weir Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gujarat, IN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Electrical-Design-Engineer---Power-Transformer_R0107383) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Maneja-Gujarat-India/Electrical-Design-Engineer---Power-Transformer_R0128567) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hitachi was posted on 2026-04-22.
+This electrical / hardware engineer position at Hitachi was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

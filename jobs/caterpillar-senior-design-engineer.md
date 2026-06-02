@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | East Peoria, Illinois, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Senior-Design-Engineer_R0000352786-1) |
+| Location | Monterrey, Nuevo León, Mexico |
+| Category | Engineering Manager |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Monterrey-Nuevo-Len/Senior-Design-Engineer_R0000371974) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-05-14.
+This engineering manager position at Caterpillar was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

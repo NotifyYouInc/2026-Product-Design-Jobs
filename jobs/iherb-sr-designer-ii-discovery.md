@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [iHerb](https://scoutify.ai/companies/iherb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Pasadena, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/iherb/jobs/7740852003) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/iherb/jobs/7742362003) |
 
 ## About This Role
 
-This product designer position at iHerb was posted on 2026-05-20.
+This product designer position at iHerb was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

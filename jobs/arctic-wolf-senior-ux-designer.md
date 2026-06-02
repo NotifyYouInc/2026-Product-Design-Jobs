@@ -5,12 +5,12 @@
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-UX-Designer_R26_215) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-UX-Designer_R26_542) |
 
 ## About This Role
 
-This ux researcher position at Arctic Wolf was posted on 2026-02-25.
+This ux researcher position at Arctic Wolf was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

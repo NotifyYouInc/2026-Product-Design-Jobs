@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | UX Researcher |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXbIZ5i4B5Vn-zTmArS3hSyJ4PhCOaim1B_asEMeFxVTEjsACxwdTDCniNkoAyt_Y2-eX4kMASXotRmrJqR1Ntmwf3xlSMUMTZH7M-ZOY6TbWIMGe2DbELRe5g06Vw%3D%3D_V2&loc=US&title=Staff+UX+Designer) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSyWRzuf9NMehQ0G1uplLwAo71sDMazYt080ZYIy662LEjsACxwdTHoG0-9MD98K6Zr2pkhoefe7WmnJr3G_1O9TdWl4XmV6f6JE4IStloNcTaMOXNIg7Dt4uhF7mQ%3D%3D_V2&loc=US&title=Staff+UX+Designer) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-05-08.
+This ux researcher position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
