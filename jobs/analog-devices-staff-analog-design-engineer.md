@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kallang, Singapore |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Singapore-Kallang/Staff-Analog-Design-Engineer_R262342) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Turkey-Istanbul-Bilisim-Vadisi/Staff-Analog-Design-Engineer_R262250) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-13.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

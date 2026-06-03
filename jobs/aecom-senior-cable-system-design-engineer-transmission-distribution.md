@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127729989-senior-cable-system-design-engineer-transmission-distribution) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127856929-senior-cable-system-design-engineer-transmission-distribution) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AECOM was posted on 2026-05-21.
+This electrical / hardware engineer position at AECOM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

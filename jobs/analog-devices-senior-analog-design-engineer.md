@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Assago, Lombardy, Italy |
+| Location | Limerick, Munster, Ireland |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Italy-Milan-Assago/Senior-Analog-Design-Engineer_R262490) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Senior-Analog-Design-Engineer_R261582) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-05-21.
+This semiconductor / chip design position at Analog Devices was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

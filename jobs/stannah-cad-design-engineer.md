@@ -5,12 +5,12 @@
 | Company | [Stannah](https://scoutify.ai/companies/stannah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Andover, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000127635480-cad-design-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Stannah1/744000127828160-cad-design-engineer) |
 
 ## About This Role
 
-This engineering manager position at Stannah was posted on 2026-05-21.
+This engineering manager position at Stannah was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

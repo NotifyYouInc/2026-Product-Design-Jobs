@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8556202002) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8564313002) |
 
 ## About This Role
 
-This product designer position at OpenTable was posted on 2026-05-19.
+This product designer position at OpenTable was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

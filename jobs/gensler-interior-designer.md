@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Designer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Chicago-IL-US/Interior-Designer_R-17775) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Charlotte-NC-US/Interior-Designer_R-17790) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-05-21.
+This product designer position at Gensler was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

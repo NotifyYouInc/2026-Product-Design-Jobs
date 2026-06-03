@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chihuahua, Chihuahua, Mexico |
+| Location | Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Sr-Automation-Design-Engineer_J2449225) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Sr-Automation-Design-Engineer_J2450435) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-15.
+This industrial automation position at Jabil was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

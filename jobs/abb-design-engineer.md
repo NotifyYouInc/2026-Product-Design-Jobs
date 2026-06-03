@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Uster, Zurich, Switzerland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Uster-Zurich-Switzerland/Design-Engineer_JR00034819) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Design-Engineer_JR00035362) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ABB was posted on 2026-05-21.
+This electrical / hardware engineer position at ABB was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

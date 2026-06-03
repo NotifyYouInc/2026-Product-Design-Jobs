@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Umdasch](https://scoutify.ai/companies/umdasch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000127578289-accessories-designer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UmdaschGroup/744000127861809-accessories-designer) |
 
 ## About This Role
 
-This product designer position at Umdasch was posted on 2026-05-21.
+This product designer position at Umdasch was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

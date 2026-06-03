@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Santiago/Designer_R1120920) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Gurugram/Designer_R1120793) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-04-20.
+This product designer position at Dentsu was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

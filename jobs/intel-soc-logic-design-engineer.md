@@ -5,12 +5,12 @@
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0283109-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0284281-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-08.
+This semiconductor / chip design position at Intel was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
