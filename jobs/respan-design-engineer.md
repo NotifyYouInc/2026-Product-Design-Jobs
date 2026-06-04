@@ -1,0 +1,22 @@
+# Design Engineer at Respan
+
+| Field | Details |
+|-------|---------|
+| Company | [Respan](https://scoutify.ai/companies/yc-respan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Alameda, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/respan/jobs/T1Dt9Ny-design-engineer) |
+
+## About This Role
+
+This engineering manager position at Respan was posted on 2026-05-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

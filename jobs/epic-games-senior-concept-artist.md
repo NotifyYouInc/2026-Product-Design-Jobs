@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6003285004?gh_jid=6003285004) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6004827004?gh_jid=6004827004) |
 
 ## About This Role
 

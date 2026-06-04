@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Germany |
 | Category | Marketing |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000127162602-junior-visual-designer-mfx) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000128706404-junior-visual-designer-mfx) |
 
 ## About This Role
 
-This marketing position at Scalable Capital was posted on 2026-05-19.
+This marketing position at Scalable Capital was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

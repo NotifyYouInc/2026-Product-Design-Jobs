@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Jose, California, United States |
+| Location | Las Vegas, Nevada, United States |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/San-Jose-CA-US/Designer---Interiors---Junior_R-17707) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Las-Vegas-NV-US/Designer---Interiors---Junior_R-16909) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-05-12.
+This product designer position at Gensler was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

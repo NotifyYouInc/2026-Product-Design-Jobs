@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/IC-Design-Engineer_R025884) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/IC-Design-Engineer_R026048-4) |
 
 ## About This Role
 
-This semiconductor / chip design position at Broadcom was posted on 2026-04-28.
+This semiconductor / chip design position at Broadcom was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

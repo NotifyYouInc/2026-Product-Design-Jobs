@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5084955007?gh_jid=5084955007) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5147365007?gh_jid=5147365007) |
 
 ## About This Role
 
-This product designer position at Anduril was posted on 2026-05-05.
+This product designer position at Anduril was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

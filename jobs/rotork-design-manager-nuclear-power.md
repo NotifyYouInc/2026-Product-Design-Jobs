@@ -6,7 +6,7 @@
 | Location | Bath, England, United Kingdom |
 | Category | Engineering Manager |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000127936779-design-manager-nuclear-power) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000127954799-design-manager-nuclear-power) |
 
 ## About This Role
 

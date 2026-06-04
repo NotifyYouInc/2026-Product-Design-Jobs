@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Queens, New York, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013246191-assistant-design-engineer-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013321461-assistant-design-engineer-1) |
 
 ## About This Role
 
-This engineering manager position at City of New York was posted on 2026-05-21.
+This engineering manager position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127723404-principal-product-designer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000128734831-principal-product-designer) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-05-21.
+This product designer position at WISE was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

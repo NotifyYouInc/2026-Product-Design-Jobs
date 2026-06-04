@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | UX Researcher |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Designer--Senior-Associate-Level_R237746-1) |
+| Location | 4 locations |
+| Category | Product Designer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Designer--Senior-Associate-Level_R243315-1) |
 
 ## About This Role
 
-This ux researcher position at Capital One was posted on 2026-03-11.
+This product designer position at Capital One was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

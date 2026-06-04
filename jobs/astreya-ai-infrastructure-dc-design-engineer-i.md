@@ -5,12 +5,12 @@
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | California, US |
 | Category | Data Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Engineer-I_R0015709) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Engineer-I_R0015767) |
 
 ## About This Role
 
-This data engineer position at Astreya was posted on 2026-05-22.
+This data engineer position at Astreya was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

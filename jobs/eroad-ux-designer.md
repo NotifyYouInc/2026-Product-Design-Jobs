@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EROAD](https://scoutify.ai/companies/eroad?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | UX Researcher |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://eroadgroup.wd3.myworkdayjobs.com/eroad/job/Auckland-Albany-HQ-NZ/UX-Designer_JR101140) |
+| Category | Product Designer |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://eroadgroup.wd3.myworkdayjobs.com/eroad/job/Auckland-Albany-HQ-NZ/UX-Designer_JR101286) |
 
 ## About This Role
 
-This ux researcher position at EROAD was posted on 2026-02-19.
+This product designer position at EROAD was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

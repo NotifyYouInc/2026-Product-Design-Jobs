@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | UX Researcher |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000126319539-senior-uxui-designer-app-webb-nordic-team) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000128706089-senior-uxui-designer-app-webb-nordic-team) |
 
 ## About This Role
 
-This ux researcher position at Vattenfall was posted on 2026-05-13.
+This ux researcher position at Vattenfall was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

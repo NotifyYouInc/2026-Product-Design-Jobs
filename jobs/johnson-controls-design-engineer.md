@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Design-Engineer_WD30265350-1) |
+| Category | Engineering Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Design-Engineer_WD30265337-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Johnson Controls was posted on 2026-05-14.
+This engineering manager position at Johnson Controls was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

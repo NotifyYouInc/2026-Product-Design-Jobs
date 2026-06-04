@@ -1,16 +1,16 @@
-# Sr. Principal Design Engineer at Cadence Design Systems
+# Sr Principal Design Engineer at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | San Jose, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HYDERABAD/Sr-Principal-Design-Engineer_R54771-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Sr-Principal-Design-Engineer_R54907) |
 
 ## About This Role
 
-This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-21.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-UX-UI-Designer_R0000358618-1) |
+| Location | 4 locations |
+| Category | UX Researcher |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-UX-UI-Designer_R0000372977) |
 
 ## About This Role
 
-This product designer position at Caterpillar was posted on 2026-03-24.
+This ux researcher position at Caterpillar was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

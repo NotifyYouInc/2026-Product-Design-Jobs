@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000430085) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Designer_R0000433209) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-02-17.
+This ux researcher position at Target was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
