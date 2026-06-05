@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Marketing |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/7870007) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/7963249) |
 
 ## About This Role
 
-This marketing position at Brandtech+ was posted on 2026-04-30.
+This marketing position at Brandtech+ was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

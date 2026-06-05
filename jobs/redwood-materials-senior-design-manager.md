@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redwood Materials](https://scoutify.ai/companies/redwood-materials?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Reno, Nevada, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5999196004?gh_jid=5999196004) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/6000295004?gh_jid=6000295004) |
 
 ## About This Role
 
-This engineering manager position at Redwood Materials was posted on 2026-05-19.
+This engineering manager position at Redwood Materials was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

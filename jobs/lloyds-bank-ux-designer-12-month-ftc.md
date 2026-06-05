@@ -5,12 +5,12 @@
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/UX-Designer--12-Month-FTC-_155255-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/UX-Designer--12-Month-FTC-_157900-1) |
 
 ## About This Role
 
-This ux researcher position at Lloyds Bank was posted on 2026-04-16.
+This ux researcher position at Lloyds Bank was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

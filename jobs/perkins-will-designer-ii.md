@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=268c99ac-3c16-48f3-b446-f7703884bd4e) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=0d927b4c-d462-4c6a-804d-ccdd7dca2eba) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-05-19.
+This product designer position at Perkins & Will was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

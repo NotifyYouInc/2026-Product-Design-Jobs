@@ -5,12 +5,12 @@
 | Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--CHN--Shanghai--688-Henderson-Office/Designer--TNF-_R-20260108-0006) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--CHN--Shanghai--688-Henderson-Office/Designer--TNF-_R-20260520-0010-1) |
 
 ## About This Role
 
-This product designer position at VF was posted on 2026-03-04.
+This product designer position at VF was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

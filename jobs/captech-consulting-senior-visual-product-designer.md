@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Product Designer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000125398749-senior-visual-product-designer) |
+| Location | Omaha, Nebraska, United States |
+| Category | UX Researcher |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000128991779-senior-visual-product-designer) |
 
 ## About This Role
 
-This product designer position at CapTech Consulting was posted on 2026-05-08.
+This ux researcher position at CapTech Consulting was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

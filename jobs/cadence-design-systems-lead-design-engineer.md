@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Lead-Design-Engineer_R54834) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BANGALORE/Lead-Design-Engineer_R53756) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Cadence Design Systems was posted on 2026-05-19.
+This semiconductor / chip design position at Cadence Design Systems was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

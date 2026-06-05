@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Mixed-Signal-Logic-Design-Engineer_JR0283650) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Mixed-Signal-Logic-Design-Engineer_JR0283647) |
 
 ## About This Role
 
-This semiconductor / chip design position at Intel was posted on 2026-05-11.
+This semiconductor / chip design position at Intel was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Folsom, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Memory-Design-Engineer--Pathfinding_JR97952-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Principal-Memory-Design-Engineer--Pathfinding_JR102244) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-04-13.
+This semiconductor / chip design position at Micron was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
