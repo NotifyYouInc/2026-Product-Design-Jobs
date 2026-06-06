@@ -1,16 +1,16 @@
-# Designer at Crateandbarrel
+# Director of Product Design at Baselane
 
 | Field | Details |
 |-------|---------|
-| Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Baselane](https://scoutify.ai/companies/baselane?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Green-Hills/Designer_R24746) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.lever.co/baselane/4a128095-d2fd-49a9-935c-e672a5ea7102) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-29.
+This product designer position at Baselane was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

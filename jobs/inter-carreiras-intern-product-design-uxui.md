@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# INTERN | PRODUCT DESIGN (UX/UI)  at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4694555005?gh_jid=4694555005) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Inter Carreiras was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

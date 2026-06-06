@@ -1,16 +1,16 @@
-# Designer I, Interior Architecture & Design at Waremalcomb
+# Concepteur Numérique (H/F) STAGE at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Concepteur-Numrique--H-F--STAGE_JR129467) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at Richemont was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Designer at Crateandbarrel
+# Senior Product Designer at Siro
 
 | Field | Details |
 |-------|---------|
-| Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Siro](https://scoutify.ai/companies/siro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Green-Hills/Designer_R24746) |
+| Posted | 2025-10-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/siro/e51c0400-b5c5-4425-9e4e-75e42cefedea) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-29.
+This product designer position at Siro was posted on 2025-10-20.
 
 ## Get Real-Time Alerts
 

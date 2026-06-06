@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Senior Product Designer, Tracking Experience at Yazio
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | UX Researcher |
+| Company | [Yazio](https://scoutify.ai/companies/yazio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
+| Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/yazio/4cf41fd3-d172-4d1b-a242-b4024374d8f3) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at Yazio was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

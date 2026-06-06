@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# UI/UX Designer (m/f/d) at AutoProff
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [AutoProff](https://scoutify.ai/companies/autoproff?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vejle, South Denmark, Denmark |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/autoproff/jobs/7753088003) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at AutoProff was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8528620002) |
+| Location | Faro, Faro, Portugal |
+| Category | UX Researcher |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8568530002) |
 
 ## About This Role
 
-This product designer position at VML Enterprise Solutions was posted on 2026-04-30.
+This ux researcher position at VML Enterprise Solutions was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

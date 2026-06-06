@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Senior Brand & Visual Designer (f/m/d) at Focused
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | UX Researcher |
+| Company | [Focused](https://scoutify.ai/companies/focused?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Darmstadt, Hesse, Germany |
+| Category | Marketing |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/focused/1eb5c5c2-fcd5-4b84-ae57-a691ee4b4c2f) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This marketing position at Focused was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

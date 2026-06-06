@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Agentic Experience Designer at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Alpharetta, Georgia, United States |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Agentic-Experience-Designer_R-10394613-1) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Fiserv was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

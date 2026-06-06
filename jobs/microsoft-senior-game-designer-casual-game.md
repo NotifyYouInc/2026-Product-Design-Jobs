@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Senior Game Designer, Casual Game at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868724) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at Microsoft was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Strategic HR Client Job Openings](https://scoutify.ai/companies/strategic-hr-client-job-openings?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Falls Church, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/strategichr/jobs/7719636003) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/strategichr/jobs/7753624003) |
 
 ## About This Role
 
-This product designer position at Strategic HR Client Job Openings was posted on 2026-04-29.
+This product designer position at Strategic HR Client Job Openings was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menominee, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Menominee-Michigan/Design-Engineer_R0000368050) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Design-Engineer_R0000369565) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar Inc. was posted on 2026-05-19.
+This engineering manager position at Caterpillar Inc. was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

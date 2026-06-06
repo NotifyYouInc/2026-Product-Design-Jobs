@@ -1,16 +1,16 @@
-# Designer I, Interior Architecture & Design at Waremalcomb
+# Product Design Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129250991-product-design-engineer) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at Robert Bosch was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

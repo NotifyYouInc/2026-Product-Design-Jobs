@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Product Designer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-User-Experience-Design_R-229077) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | UX Researcher |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Portugal---Lisbon/Sr-Associate-User-Experience-Design_R-235082) |
 
 ## About This Role
 
-This product designer position at Amgen was posted on 2026-02-19.
+This ux researcher position at Amgen was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Analista de Design III at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129184217-analista-de-design-iii) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Experian was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

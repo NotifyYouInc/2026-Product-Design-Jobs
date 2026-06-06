@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Sr. Product Designer at SpyCloud
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | UX Researcher |
+| Company | [SpyCloud](https://scoutify.ai/companies/spycloud?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
+| Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/spycloud/jobs/7751870003) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at SpyCloud was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

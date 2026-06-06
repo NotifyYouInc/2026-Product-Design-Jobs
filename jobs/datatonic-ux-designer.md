@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# UX Designer at Datatonic
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Datatonic](https://scoutify.ai/companies/datatonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/datatonic/645f1db0-7de7-4878-b618-978aeecb4133) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Datatonic was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

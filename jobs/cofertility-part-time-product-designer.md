@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Part-Time Product Designer at Cofertility
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Cofertility](https://scoutify.ai/companies/cofertility?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | UX Researcher |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Category | Product Designer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cofertility/jobs/4247084009) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at Cofertility was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

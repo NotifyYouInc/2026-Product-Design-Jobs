@@ -1,16 +1,16 @@
-# Designer I, Interior Architecture & Design at Waremalcomb
+# Senior Lead Educational Program Designer at WGU
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Lead-Educational-Program-Designer_JR-025278) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at WGU was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

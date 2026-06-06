@@ -1,16 +1,16 @@
-# Designer I, Interior Architecture & Design at Waremalcomb
+# Senior Designer, Men's Denim at Gap Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/SF---2-Folsom/Senior-Designer--Men-s-Denim_R212257) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at Gap Inc. was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Designer I, Interior Architecture & Design at Waremalcomb
+# Designer, Home & Seasonal at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Universal City, California, United States |
 | Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129256540-designer-home-seasonal) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at NBCUniversal was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

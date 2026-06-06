@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Senior UX/ UI Designer - Trading Application (Sun-Thu work schedule) (She/He/They)  at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7946406) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Capco was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

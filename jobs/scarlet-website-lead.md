@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Website Lead at Scarlet
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | UX Researcher |
+| Company | [Scarlet](https://scoutify.ai/companies/scarlet?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scarlet/9855dc5d-042e-492b-a22a-7a9990f3d3e6) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at Scarlet was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

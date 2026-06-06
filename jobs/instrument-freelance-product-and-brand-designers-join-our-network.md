@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Freelance Product and Brand Designers – Join Our Network at Instrument
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Instrument](https://scoutify.ai/companies/instrument?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | UX Researcher |
+| Category | Marketing |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.lever.co/instrument/3f68f48d-8a24-4a7d-9825-2a6091d814f5) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This marketing position at Instrument was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

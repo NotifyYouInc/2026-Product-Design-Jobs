@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Head of Design, Yahoo Mail at Yahoo
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | UX Researcher |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Head-of-Design--Yahoo-Mail_JR0027115) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at Yahoo was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

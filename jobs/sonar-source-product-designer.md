@@ -1,16 +1,16 @@
-# UX Designer at IBM
+# Product Designer at Sonar Source
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | UX Researcher |
+| Company | [Sonar Source](https://scoutify.ai/companies/sonar-source?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Switzerland |
+| Category | Product Designer |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Apply | [View on company site](https://jobs.lever.co/sonarsource/38187073-6976-4791-9bfd-c946fd67faf0) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This product designer position at Sonar Source was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

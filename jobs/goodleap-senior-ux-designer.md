@@ -5,12 +5,12 @@
 | Company | [GoodLeap](https://scoutify.ai/companies/goodleap?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.lever.co/goodleap/b4167e31-3ec0-418c-a27a-48f3a2798296) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/goodleap/5a7aab60-2a87-4d35-882b-4fa29c769bd4) |
 
 ## About This Role
 
-This ux researcher position at GoodLeap was posted on 2026-04-11.
+This ux researcher position at GoodLeap was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
