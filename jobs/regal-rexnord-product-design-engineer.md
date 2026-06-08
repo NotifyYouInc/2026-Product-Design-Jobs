@@ -1,16 +1,16 @@
-# Junior Retail Designer at H&M Group
+# product design engineer at Regal Rexnord
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Jiangsu, CN |
 | Category | Product Designer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129406731-junior-retail-designer) |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Changzhou-City-Jiangsu-China/product-design-engineer_R26_02405) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-01.
+This product designer position at Regal Rexnord was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

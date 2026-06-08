@@ -1,16 +1,16 @@
-# Junior Retail Designer at H&M Group
+# Associate Designer at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129406731-junior-retail-designer) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dubai-ARE/Associate-Designer_REQ508621) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-01.
+This product designer position at JLL was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

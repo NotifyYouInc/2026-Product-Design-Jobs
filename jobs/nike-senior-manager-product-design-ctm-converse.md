@@ -1,16 +1,16 @@
-# Junior Retail Designer at H&M Group
+# Senior Manager, Product Design CTM - Converse at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129406731-junior-retail-designer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Senior-Manager--Product-Design-CTM---Converse_R-84998) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-01.
+This product designer position at Nike was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

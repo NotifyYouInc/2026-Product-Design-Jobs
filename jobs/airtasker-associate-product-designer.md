@@ -1,16 +1,16 @@
-# Junior Retail Designer at H&M Group
+# Associate Product Designer at Airtasker
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Airtasker](https://scoutify.ai/companies/airtasker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129406731-junior-retail-designer) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airtasker/682a1694-f66b-455b-b1cb-5aec62ccac44) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-01.
+This product designer position at Airtasker was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Junior Retail Designer at H&M Group
+# Intern: Design at Hush
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Hush](https://scoutify.ai/companies/hush?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129406731-junior-retail-designer) |
+| Posted | 2019-10-16 |
+| Apply | [View on company site](https://jobs.lever.co/hush/6ca815d9-3477-4f62-82ab-6d2831b1bf0f) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-01.
+This product designer position at Hush was posted on 2019-10-16.
 
 ## Get Real-Time Alerts
 
