@@ -5,12 +5,12 @@
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 4 locations |
 | Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBristolThe-Hub/Design-Manager---Water_R-156335) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBPeterboroughWestern-House/Design-Manager---Water_R-156530) |
 
 ## About This Role
 
-This engineering manager position at SNC-Lavalin was posted on 2026-05-27.
+This engineering manager position at SNC-Lavalin was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

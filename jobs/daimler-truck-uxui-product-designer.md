@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Product Designer |
-| Posted | 2026-01-30 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/UX-UI-Product-Designer_DT-16629) |
+| Category | UX Researcher |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/UX-UI-Product-Designer_DT-18102) |
 
 ## About This Role
 
-This product designer position at Daimler Truck was posted on 2026-01-30.
+This ux researcher position at Daimler Truck was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

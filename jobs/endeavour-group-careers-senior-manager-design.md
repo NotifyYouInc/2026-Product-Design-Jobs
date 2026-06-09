@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000121350687-senior-manager-design) |
+| Category | UX Researcher |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000129645729-senior-manager-design) |
 
 ## About This Role
 
-This product designer position at Endeavour Group Careers was posted on 2026-04-17.
+This ux researcher position at Endeavour Group Careers was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

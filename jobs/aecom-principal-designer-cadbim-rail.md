@@ -1,16 +1,16 @@
-# Principal Designer - CAD/BIM - Rail  at AECOM
+# Principal Designer - CAD/BIM - Rail at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127355759-principal-designer-cadbim-rail) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000129650375-principal-designer-cadbim-rail) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-20.
+This engineering manager position at AECOM was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

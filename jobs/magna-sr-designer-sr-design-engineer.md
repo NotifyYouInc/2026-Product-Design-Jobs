@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Pune-IN/Sr-Designer--Sr-Design-Engineer-_R00240471) |
+| Category | Product Designer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Pune-IN/Sr-Designer--Sr-Design-Engineer-_R00244919) |
 
 ## About This Role
 
-This engineering manager position at Magna was posted on 2026-05-06.
+This product designer position at Magna was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

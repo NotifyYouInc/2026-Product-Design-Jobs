@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McDonough, Georgia, United States |
+| Location | Buford, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/489-McDonough-GA/Design-Lead_JR130684) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/487-Mall-of-Georgia-GA/Design-Lead_JR132974) |
 
 ## About This Role
 
-This product designer position at La-Z-Boy was posted on 2026-03-05.
+This product designer position at La-Z-Boy was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

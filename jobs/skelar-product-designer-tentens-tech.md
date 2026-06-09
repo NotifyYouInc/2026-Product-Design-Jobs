@@ -1,16 +1,16 @@
-# Product Designer - TENTENS Tech at SKELAR
+# Product designer - TENTENS Tech at SKELAR
 
 | Field | Details |
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/3cafd2b6-39e7-4a50-baff-7648f5a44773) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/21fd9d45-b774-4695-9e2e-d00d40ea62b5) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-02-19.
+This product designer position at SKELAR was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

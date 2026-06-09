@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Wuxi, Jiangsu, China |
 | Category | Engineering Manager |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Design-Engineer_R0000369565) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Design-Engineer_R0000372512) |
 
 ## About This Role
 

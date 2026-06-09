@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Wuxi, Jiangsu, China |
+| Location | Malaysia |
 | Category | Industrial Automation |
 | Posted | 2026-05-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Wuxi/Automation-Design-Engineer_J2451743-1) |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Automation-Design-Engineer_J2450436) |
 
 ## About This Role
 
