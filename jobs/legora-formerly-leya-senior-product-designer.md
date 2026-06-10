@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/9050f5f5-259d-4679-856c-6b3102e2c88f) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/89073502-e8e3-49d9-ba4b-5642ef1a933d) |
 
 ## About This Role
 
-This product designer position at Legora (formerly Leya) was posted on 2026-05-27.
+This product designer position at Legora (formerly Leya) was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

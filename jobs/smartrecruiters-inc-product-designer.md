@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartRecruiters Inc](https://scoutify.ai/companies/smartrecruiters-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Poland |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000121689557-product-designer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000129815717-product-designer) |
 
 ## About This Role
 
-This product designer position at SmartRecruiters Inc was posted on 2026-04-20.
+This product designer position at SmartRecruiters Inc was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

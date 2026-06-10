@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United Kingdom |
+| Location | Seoul, Seoul, South Korea |
 | Category | UX Researcher |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/1546b14d-6bd3-4bb2-acd2-a36a11856b1e) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fb5e0e63-1a24-4fa0-b16e-a668fde5ba88) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-05-21.
+This ux researcher position at Bjak was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

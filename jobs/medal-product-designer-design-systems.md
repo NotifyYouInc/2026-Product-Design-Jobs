@@ -5,12 +5,12 @@
 | Company | [Medal](https://scoutify.ai/companies/medal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/medal/5a8b2aba-b513-4758-bb38-d709264d20f5) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/medal/8c9595d6-71e1-4bdd-b246-3d1d330cb6ca) |
 
 ## About This Role
 
-This product designer position at Medal was posted on 2026-05-14.
+This product designer position at Medal was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Motion / Video Production |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c8a45923-af0f-4570-a53d-7edac286a02d) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/719f88bf-7c6d-4b6e-9058-18d8e15af377) |
 
 ## About This Role
 
-This motion / video production position at Bjak was posted on 2026-05-19.
+This motion / video production position at Bjak was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

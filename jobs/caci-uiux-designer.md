@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | UX Researcher |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/UI-UX-Designer_324604) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/UI-UX-Designer_327157) |
 
 ## About This Role
 
-This ux researcher position at CACI was posted on 2026-05-20.
+This ux researcher position at CACI was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

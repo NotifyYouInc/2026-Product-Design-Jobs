@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | UX Researcher |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Atlanta-Georgia/Lead-UX-Designer_R-108186) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Austin-Texas/Lead-UX-Designer_R-111585) |
 
 ## About This Role
 
-This ux researcher position at AT&T was posted on 2026-05-21.
+This ux researcher position at AT&T was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rent the Runway](https://scoutify.ai/companies/rent-the-runway?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/renttherunway/jobs/7847151) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/renttherunway/jobs/7976440) |
 
 ## About This Role
 
-This product designer position at Rent the Runway was posted on 2026-04-27.
+This product designer position at Rent the Runway was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

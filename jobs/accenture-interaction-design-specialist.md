@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | UX Researcher |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Interaction-Design-Specialist_14389752) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Interaction-Design-Specialist_14399057) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-05-19.
+This ux researcher position at Accenture was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Valencia, Valencia, Spain |
+| Location | 3 locations |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Principal-Designer--Layout_R260740) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Principal-Designer--Layout_R262393) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-02-24.
+This semiconductor / chip design position at Analog Devices was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

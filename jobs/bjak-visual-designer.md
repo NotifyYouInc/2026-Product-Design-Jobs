@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a7c3de0b-6513-49d7-aba8-4c0a15bcae3c) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5211e846-4515-4dce-b730-342b6267d76a) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-05-19.
+This product designer position at Bjak was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
