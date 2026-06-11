@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8545285002?gh_jid=8545285002) |
+| Location | 3 locations |
+| Category | UX Researcher |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8568330002?gh_jid=8568330002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-05-20.
+This ux researcher position at VML was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

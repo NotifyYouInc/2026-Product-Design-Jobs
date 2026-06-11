@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/108510334884422342-senior-ux-designer-spatial-experiences-google-hardware?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQVG_oZ2HyWf7XU-ma4YXIiPNTrtAndtfAFt3Zfjz9KlEjsACxwdTBYDThtun-jB9DJHaZNPYyGmQ7jJ4bbtCpUR8yizNLJ5zYppVsp3zbT1XJkK2iUCyjdG_3qanw%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-04.
+This electrical / hardware engineer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Systems Product definition intern at GE Aerospace
+# Systems Product Definition intern at GE Aerospace
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Product Designer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Systems-Product-definition-intern_R5033583-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Systems-Product-Definition-intern_R5035260-1) |
 
 ## About This Role
 
-This product designer position at GE Aerospace was posted on 2026-04-30.
+This product designer position at GE Aerospace was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

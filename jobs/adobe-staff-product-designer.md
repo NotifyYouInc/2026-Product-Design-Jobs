@@ -1,16 +1,16 @@
-# Staff Product Designer, at Adobe
+# Staff Product Designer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Staff-Product-Designer-_R167807) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Staff-Product-Designer_R169358) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-04-17.
+This product designer position at Adobe was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

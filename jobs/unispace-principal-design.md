@@ -1,16 +1,16 @@
-# Principal Design at Unispace
+# Principal, Design  at Unispace
 
 | Field | Details |
 |-------|---------|
 | Company | [Unispace](https://scoutify.ai/companies/unispace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/5989669004) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6013054004) |
 
 ## About This Role
 
-This product designer position at Unispace was posted on 2026-05-11.
+This product designer position at Unispace was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

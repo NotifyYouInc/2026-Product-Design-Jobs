@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXhIjgy9nncjZibxDKolBYbVLw_nA7qCqd8LRB6tJ7VNEjoAvkGZm5FZCGKChLjhJH-j5tBk0OsD5MNT7FDNmC8O_5PE2xchNmws8P2zrUFU6qVmJvTwrai6SBtH_V2&loc=US&title=Staff+Interaction+Designer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY7u8sIwi6gwYxT4OkEPPZh2HjXp28TlypgcResLqT7_EjoACxwdTBcmLp9LTP8IC3ArVdJQSMAAHOZXP9W2ZIuUQKaiuc_ZnAGVII4eY1ndMGDXRINDObKdBhak_V2&loc=US&title=Staff+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-04-22.
+This product designer position at Google was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
