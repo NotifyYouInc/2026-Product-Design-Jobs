@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Product Designer (Social) - TikTok at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7647489259548805381/detail) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at TikTok was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Product Designer at Coderabbit
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/9f09f276-c457-435d-90e5-6ff01053ce49) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at Coderabbit was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

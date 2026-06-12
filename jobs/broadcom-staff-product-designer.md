@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Staff Product Designer at Broadcom
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Staff-Product-Designer_R026125) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This product designer position at Broadcom was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

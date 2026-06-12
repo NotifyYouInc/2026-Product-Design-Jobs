@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Staff/Principal Product Designer at Amberelectric
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Company | [Amberelectric](https://scoutify.ai/companies/amberelectric?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://jobs.lever.co/amberelectric/231ccb7e-b488-45a3-b4f7-7640fe0a7378) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This product designer position at Amberelectric was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

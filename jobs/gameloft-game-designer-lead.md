@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Game Designer Lead at Gameloft
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Yogyakarta, Yogyakarta, Indonesia |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130141480-game-designer-lead) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at Gameloft was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

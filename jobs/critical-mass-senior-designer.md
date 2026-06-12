@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Critical Mass](https://scoutify.ai/companies/critical-mass?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Calgary, Alberta, Canada |
-| Category | Marketing |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7947036) |
+| Location | 2 locations |
+| Category | Product Designer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/criticalmass/jobs/7946910) |
 
 ## About This Role
 
-This marketing position at Critical Mass was posted on 2026-05-29.
+This product designer position at Critical Mass was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

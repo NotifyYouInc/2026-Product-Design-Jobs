@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Retail Design Manager at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Shanghai/Retail-Design-Manager_0000035339) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at LEGO was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

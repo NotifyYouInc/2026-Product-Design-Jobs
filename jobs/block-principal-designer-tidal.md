@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Designer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5009186008?gh_jid=5009186008) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5009189008?gh_jid=5009189008) |
 
 ## About This Role
 
-This product designer position at Block was posted on 2026-05-22.
+This product designer position at Block was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

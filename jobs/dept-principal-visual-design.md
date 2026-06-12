@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Principal, Visual Design  at DEPT®
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7983372) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at DEPT® was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

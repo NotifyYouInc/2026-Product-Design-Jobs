@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Senior Manager, Product Design at Xometry
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Product Designer |
+| Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Waltham, Massachusetts, United States |
+| Category | UX Researcher |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5155996007) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This ux researcher position at Xometry was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

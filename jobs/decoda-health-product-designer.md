@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Product Designer at Decoda Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Decoda Health](https://scoutify.ai/companies/decoda-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/decoda-health/jobs/vfUqiOX-product-designer) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at Decoda Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Brand Designer at Venn
+# Principal Associate, Design Operations at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Marketing |
+| Category | Program Manager |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/4becc039-bdd1-4ac5-a007-0b7d10a29561) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Principal-Associate--Design-Operations_R243319-1) |
 
 ## About This Role
 
-This marketing position at Venn was posted on 2026-06-04.
+This program manager position at Capital One was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

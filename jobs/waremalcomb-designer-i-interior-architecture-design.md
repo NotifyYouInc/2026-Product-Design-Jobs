@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Diego, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/df66fb61-7296-4c45-b8a6-2037e0fbe8e7) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.lever.co/waremalcomb/b757f05b-8868-4af8-b10b-cb3f2a40c165) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-29.
+This product designer position at Waremalcomb was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

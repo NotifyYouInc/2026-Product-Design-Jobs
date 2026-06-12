@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Broadway, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Green-Hills/Designer_R24746) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Broadway/Designer_R24788) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-05-29.
+This product designer position at Crateandbarrel was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

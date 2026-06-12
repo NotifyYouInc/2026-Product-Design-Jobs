@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Game Designer Lead at Gameloft Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Yogyakarta, Yogyakarta, Indonesia |
 | Category | Product Designer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000130141480-game-designer-lead) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This product designer position at Gameloft Montreal was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

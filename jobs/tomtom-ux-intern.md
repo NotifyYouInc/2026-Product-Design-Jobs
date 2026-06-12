@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# UX Intern at TomTom
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Product Designer |
+| Company | [TomTom](https://scoutify.ai/companies/tomtom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | UX Researcher |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://jobs.eu.lever.co/tomtom/c2815c0a-5f92-40bb-8bd6-30b4f804f130) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This ux researcher position at TomTom was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

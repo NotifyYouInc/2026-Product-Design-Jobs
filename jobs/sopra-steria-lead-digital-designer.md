@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Lead Digital Designer  at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stavanger, Rogaland, Norway |
 | Category | Product Designer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130166639-lead-digital-designer) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This product designer position at Sopra Steria was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

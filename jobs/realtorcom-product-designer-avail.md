@@ -1,16 +1,16 @@
-# Senior Product Designer at Robinhood
+# Product Designer, Avail at Realtor.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7960697?t=gh_src=&gh_jid=7960697) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7763792003?gh_jid=7763792003) |
 
 ## About This Role
 
-This product designer position at Robinhood was posted on 2026-06-02.
+This product designer position at Realtor.com was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

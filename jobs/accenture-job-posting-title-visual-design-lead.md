@@ -1,16 +1,16 @@
-# UI Artist at Gameloft
+# Job Posting Title Visual Design Lead at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Belen, Loreto, Peru |
 | Category | Product Designer |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000130193119-ui-artist) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Job-Posting-Title-Visual-Design-Lead_R00334287) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-06-04.
+This product designer position at Accenture was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

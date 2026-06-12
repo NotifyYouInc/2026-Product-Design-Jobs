@@ -1,16 +1,16 @@
-# UI/UX Designer (Associate) at Robert Bosch
+# Product Design Lead at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130196069-uiux-designer-associate) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Design-Lead_JR-0000112257) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-06-04.
+This ux researcher position at Barclays was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
