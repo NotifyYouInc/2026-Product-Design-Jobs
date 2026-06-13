@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Broadway, Virginia, United States |
+| Location | Cherry Hill, New Jersey, United States |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Broadway/Designer_R24788) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Cherry-Hill/Designer_R24787) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-06-01.
+This product designer position at Crateandbarrel was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

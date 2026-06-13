@@ -1,16 +1,16 @@
-# Retail Designer at H&M Group
+# Architectural Designer II at Waremalcomb
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Oak Brook, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129655829-retail-designer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/waremalcomb/d03e6631-08fd-40c2-972c-c5d671884029) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-02.
+This product designer position at Waremalcomb was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

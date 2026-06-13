@@ -1,16 +1,16 @@
-# Product Designer - Média H/F  at Nexton
+# Contract User Experience Designer at Echodyne Corp
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Echodyne Corp](https://scoutify.ai/companies/echodyne-corp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kirkland, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130519839-product-designer-media-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/echodynecorp/jobs/4685903006) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This product designer position at Echodyne Corp was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

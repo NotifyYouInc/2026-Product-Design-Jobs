@@ -1,16 +1,16 @@
-# Product Designer at Emergent
+# Shopify Designer at Scale Army
 
 | Field | Details |
 |-------|---------|
-| Company | [Emergent](https://scoutify.ai/companies/emergent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Egypt |
+| Category | Marketing |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/emergent/jobs/8Rw8WMD-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/33c122f7-4995-4da2-bf1d-f96b8f2520e1) |
 
 ## About This Role
 
-This product designer position at Emergent was posted on 2026-06-06.
+This marketing position at Scale Army was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

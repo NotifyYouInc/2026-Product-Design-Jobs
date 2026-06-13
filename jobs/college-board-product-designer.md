@@ -1,16 +1,16 @@
-# Retail Designer at H&M Group
+# Product Designer at College Board
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [College Board](https://scoutify.ai/companies/college-board?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129655829-retail-designer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://collegeboard.wd1.myworkdayjobs.com/careers/job/Remote---USA/Product-Designer_REQ002725-1) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-02.
+This product designer position at College Board was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

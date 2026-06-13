@@ -1,16 +1,16 @@
-# Retail Designer at H&M Group
+# Product Designer, Experience at Numeric
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Numeric](https://scoutify.ai/companies/numeric?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129655829-retail-designer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/numeric/70c9ec5a-7393-4be1-8d47-27e407485e32) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-02.
+This product designer position at Numeric was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

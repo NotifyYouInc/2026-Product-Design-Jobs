@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# UX Designer - Credit Cards (12 Month FTC) at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/UX-Designer---Credit-Cards--12-Month-FTC-_158278-1) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at Lloyds Bank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Brand/Visual Designer at Mercor
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Marketing |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130386260-product-designer-hf) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/1016f448-d1b5-41a0-8671-f0903550190b) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This marketing position at Mercor was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

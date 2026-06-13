@@ -1,16 +1,16 @@
-# Retail Designer at H&M Group
+# Senior Designer - Womenswear (softs) at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129655829-retail-designer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000130562306-senior-designer-womenswear-softs) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-02.
+This product designer position at H&M Group was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

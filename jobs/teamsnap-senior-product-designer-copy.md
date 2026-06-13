@@ -1,16 +1,16 @@
-# Retail Designer at H&M Group
+# Senior Product Designer (copy) at Teamsnap
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Teamsnap](https://scoutify.ai/companies/teamsnap?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000129655829-retail-designer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/teamsnap/ca40b841-cace-4c79-a032-bcb51b41004d) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-02.
+This product designer position at Teamsnap was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

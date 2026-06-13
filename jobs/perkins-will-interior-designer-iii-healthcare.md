@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Houston, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=1c925450-b659-4b80-8031-c2433406a0af) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=956670ca-7b22-48a2-9831-e34c5e30a501) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-04-24.
+This product designer position at Perkins & Will was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

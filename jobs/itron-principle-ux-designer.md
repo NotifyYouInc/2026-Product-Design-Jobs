@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# Principle UX Designer at Itron
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Liberty Lake, Washington, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Principle-UX-Designer_JR102558) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at Itron was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

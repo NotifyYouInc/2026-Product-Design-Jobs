@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# UX Designer - AI at Meridianlink
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Meridianlink](https://scoutify.ai/companies/meridianlink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/meridianlink/17b3e1cf-f668-4409-8b2d-f9a9d5d1bb36) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at Meridianlink was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

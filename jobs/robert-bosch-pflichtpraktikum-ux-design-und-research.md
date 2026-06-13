@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# Pflichtpraktikum UX Design und Research at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Abstatt, Baden-Wurttemberg, Germany |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130401210-pflichtpraktikum-ux-design-und-research) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at Robert Bosch was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | Product Designer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.akqa.com/jobs/7560048/?gh_jid=7560048) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.akqa.com/jobs/7984454/?gh_jid=7984454) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-04-24.
+This product designer position at AKQA was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

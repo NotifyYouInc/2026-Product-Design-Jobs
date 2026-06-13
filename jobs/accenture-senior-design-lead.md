@@ -1,16 +1,16 @@
-# Product Designer - Média H/F  at Nexton
+# Senior Design Lead at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130519839-product-designer-media-hf) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brooklyn-231-Front-St-Song/Senior-Design-Lead_R00334614) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This product designer position at Accenture was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

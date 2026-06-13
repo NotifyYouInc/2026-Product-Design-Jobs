@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# Bilingual UX Designer (100% remote) at TELUS
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Bilingual-UX-Designer--100--remote-_R-21984) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at TELUS was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

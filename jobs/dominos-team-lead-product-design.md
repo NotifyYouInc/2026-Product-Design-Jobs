@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | UX Researcher |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000127791940-team-lead-product-design) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000130610077-team-lead-product-design) |
 
 ## About This Role
 
-This ux researcher position at Domino's was posted on 2026-05-22.
+This ux researcher position at Domino's was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

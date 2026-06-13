@@ -1,16 +1,16 @@
-# Product Designer - Média H/F  at Nexton
+# Stage - Point of Sale Architect Assistant - Parfums Beauté Europe - Septembre 2026 - H/F/X at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130519839-product-designer-media-hf) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Point-of-Sale-Architect-Assistant---Parfums-Beaut-Europe---Mars-2026---H-F-X_JOBREQ00110604) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This product designer position at Chanel was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

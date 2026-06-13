@@ -1,16 +1,16 @@
-# Senior 3D Artist - Monopoly GO! at Scopely
+# Senior 3D Artist - MONOPOLY GO! at Scopely
 
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Motion / Video Production |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/4978435008?gh_jid=4978435008) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5227659008?gh_jid=5227659008) |
 
 ## About This Role
 
-This motion / video production position at Scopely was posted on 2026-06-01.
+This motion / video production position at Scopely was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

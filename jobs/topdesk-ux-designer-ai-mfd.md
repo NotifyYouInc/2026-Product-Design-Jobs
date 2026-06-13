@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# UX Designer (AI) (m/f/d) at TOPdesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kaiserslautern, Rheinland-Pfalz, Germany |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000130372249-ux-designer-ai-mfd) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at TOPdesk was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

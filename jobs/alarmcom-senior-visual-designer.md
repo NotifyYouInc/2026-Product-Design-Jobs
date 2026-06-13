@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Senior Visual Designer at Alarm.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tysons, Virginia, United States |
+| Category | Marketing |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130386260-product-designer-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8542845002) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This marketing position at Alarm.com was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer - Média H/F  at Nexton
+# Designer at AFL
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico |
 | Category | Product Designer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130519839-product-designer-media-hf) |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=3b65279e-8a41-4609-919c-5973a99d4479) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This product designer position at AFL was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

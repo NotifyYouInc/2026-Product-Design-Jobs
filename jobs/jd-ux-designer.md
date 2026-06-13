@@ -1,16 +1,16 @@
-# UX Designer at Guidehouse
+# UX Designer at Jd
 
 | Field | Details |
 |-------|---------|
-| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
+| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/UX-Designer_40249-1) |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/GBR-London/UX-Designer_JR010911M-1) |
 
 ## About This Role
 
-This ux researcher position at Guidehouse was posted on 2026-06-05.
+This ux researcher position at Jd was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

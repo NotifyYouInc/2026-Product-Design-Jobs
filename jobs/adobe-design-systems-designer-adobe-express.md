@@ -1,16 +1,16 @@
-# Product Designer - Média H/F  at Nexton
+# Design Systems Designer, Adobe Express at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Spain |
 | Category | Product Designer |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130519839-product-designer-media-hf) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Spain/Design-Systems-Designer--Adobe-Express_R169592) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-06-05.
+This product designer position at Adobe was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
