@@ -1,16 +1,16 @@
-# Senior Designer at OLIVER Agency - APAC
+# Senior Designer  at OLIVER Agency - APAC
 
 | Field | Details |
 |-------|---------|
-| Company | [OLIVER Agency - APAC](https://scoutify.ai/companies/oliver-agency---apac?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [OLIVER Agency - APAC](https://scoutify.ai/companies/oliver-agency-apac?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oliverseapac/jobs/7908226) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oliverseapac/jobs/7978829) |
 
 ## About This Role
 
-This marketing position at OLIVER Agency - APAC was posted on 2026-05-08.
+This marketing position at OLIVER Agency - APAC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
