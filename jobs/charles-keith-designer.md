@@ -5,12 +5,12 @@
 | Company | [Charles & Keith](https://scoutify.ai/companies/charles-keith?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/DESIGNER_JR101584) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/DESIGNER_JR101224) |
 
 ## About This Role
 
-This product designer position at Charles & Keith was posted on 2026-06-02.
+This product designer position at Charles & Keith was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

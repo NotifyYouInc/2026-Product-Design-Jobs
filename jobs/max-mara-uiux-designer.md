@@ -5,12 +5,12 @@
 | Company | [Max Mara](https://scoutify.ai/companies/maxmara?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Italy |
 | Category | UX Researcher |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000127177279-uiux-designer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000130728454-uiux-designer) |
 
 ## About This Role
 
-This ux researcher position at Max Mara was posted on 2026-05-19.
+This ux researcher position at Max Mara was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

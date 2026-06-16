@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Maryland Heights, Missouri, United States |
+| Location | Saint Louis, Michigan, United States |
 | Category | Project Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Maryland-Heights-Missouri-USA/Sr-Project-Design-Manager_R316101) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Sr-Project-Design-Manager_R323603) |
 
 ## About This Role
 
-This project manager position at Cushman & Wakefield was posted on 2026-04-27.
+This project manager position at Cushman & Wakefield was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Austin, Texas, United States |
 | Category | UX Researcher |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116625) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118560) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-05-29.
+This ux researcher position at IBM was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

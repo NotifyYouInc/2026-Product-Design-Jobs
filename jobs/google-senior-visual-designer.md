@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVfQNi9u4xS3MwyoYmUkJ-7BH1DgxuCgSxRAsovMcN-kEjsACxwdTFHwr_ExDOZn0-06evVRGhOxmlQmhZKu_nwwu1yOH76LR0UlSFITSjvEPM-Zv4GAJ_VlKPX9uw%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWmWSoi34WIuVqePzXOZV0oXNz0K7LOf4sgJ0p32nVXkEjsACxwdTBXDYHPLVdCk7a4-WRF_RRNAihQGyJ2hEZshqVJmztk4mD835rnMrHbXtLGqY63QthCtn1YGpA%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-05-05.
+This product designer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

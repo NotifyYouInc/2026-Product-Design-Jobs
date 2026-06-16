@@ -1,16 +1,16 @@
-# Junior Game Designer  at Gameloft Montreal
+# Junior Game Designer at Gameloft Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Designer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000126317792-junior-game-designer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000131062058-junior-game-designer) |
 
 ## About This Role
 
-This product designer position at Gameloft Montreal was posted on 2026-05-13.
+This product designer position at Gameloft Montreal was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

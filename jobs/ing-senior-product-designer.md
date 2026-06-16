@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Senior-Product-Designer_REQ-10110889-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/Senior-Product-Designer_REQ-10112996-1) |
 
 ## About This Role
 
-This product designer position at ING was posted on 2026-03-11.
+This product designer position at ING was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

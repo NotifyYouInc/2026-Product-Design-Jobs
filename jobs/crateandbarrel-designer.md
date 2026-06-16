@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cherry Hill, New Jersey, United States |
+| Location | Oakbrook, Kentucky, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Cherry-Hill/Designer_R24787) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Oakbrook/Designer_R24817) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-06-02.
+This product designer position at Crateandbarrel was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

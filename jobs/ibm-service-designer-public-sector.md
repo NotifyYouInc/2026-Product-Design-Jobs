@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117206) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119625) |
 
 ## About This Role
 
-This ux researcher position at IBM was posted on 2026-06-01.
+This ux researcher position at IBM was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

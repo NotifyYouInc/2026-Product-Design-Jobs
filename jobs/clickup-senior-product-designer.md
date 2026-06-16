@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickUp](https://scoutify.ai/companies/clickup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/58dbdf8d-045c-478e-9c6f-56dce9b8f90e) |
+| Category | UX Researcher |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/0b715fff-f8c2-4e87-880d-d390bb0cbc40) |
 
 ## About This Role
 
-This product designer position at ClickUp was posted on 2026-04-30.
+This ux researcher position at ClickUp was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mountain View, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTmbxZCnTmu-dkBo3ld0ZjD6XQkDltkt_0zrlpZlan9HEjsACxwdTGuFESFMwqgTQufqGEGi16RSnALEtvj5GsjrspAlTLogHwJ53t41e1Z9UwzoKZezYcfCzK3S8g%3D%3D_V2&loc=US&title=UX+Designer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcF_Lh0MGx5Nx1f5PfKsds5mQZoyL9IkB3PrU9QaFOcnEjsACxwdTIVaqKXVE2I3UGYGyI1Vg3_tdKMgVFBca2BP-4ptd-B0-p8T5bCD6Gn4hNUMo_5jpG52j0zgqQ%3D%3D_V2&loc=US&title=UX+Designer) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-05-12.
+This ux researcher position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
