@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | UX Researcher |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000122069907-lead-ux-designer-hf) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000131168367-lead-ux-designer-hf) |
 
 ## About This Role
 
-This ux researcher position at Nexton was posted on 2026-04-21.
+This ux researcher position at Nexton was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

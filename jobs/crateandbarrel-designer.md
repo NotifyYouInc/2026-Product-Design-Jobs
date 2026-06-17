@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Oakbrook, Kentucky, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-06-03 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Oakbrook/Designer_R24817) |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/CB2-Queen-West/Designer_R24825) |
 
 ## About This Role
 

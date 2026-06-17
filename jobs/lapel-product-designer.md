@@ -1,16 +1,16 @@
-# Product Designer at Lapel
+# Product Designer  at Lapel
 
 | Field | Details |
 |-------|---------|
 | Company | [Lapel](https://scoutify.ai/companies/lapel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/lapel/63fe2b78-0615-43f6-8739-644e5ea15856) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lapel/3f695df4-43be-486f-894f-8faed293648d) |
 
 ## About This Role
 
-This product designer position at Lapel was posted on 2026-05-28.
+This product designer position at Lapel was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

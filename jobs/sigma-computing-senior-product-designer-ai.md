@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747569003) |
+| Category | AI / ML Research |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767897003) |
 
 ## About This Role
 
-This product designer position at Sigma Computing was posted on 2026-05-25.
+This ai / ml research position at Sigma Computing was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 3 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaO0tRO-QTMmc5eHMghfiJchAUYLnZCpjjqyUAlLZcowEjsACxwdTDU6Tl-xKvMTm_m7k1miKvJmr2rFo_P3aeXAu01r30z-JJbVrLsOPKy4d_0qgGk2aqRER0cW7w%3D%3D_V2&loc=US&title=UX+Engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcEfVAehuJdZTQNTC0JTS7Zc0qxepUkCGKJdwFbdgc2xEjsACxwdTEA2dM_kFuVzYgk16n99q7FIFzkRsexg-S1KxZEn43DhtGW0e8SG4HzyOT6zrQt5KRjq_IHRvQ%3D%3D_V2&loc=US&title=UX+Engineer) |
 
 ## About This Role
 
-This frontend engineer position at Google was posted on 2026-04-29.
+This frontend engineer position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

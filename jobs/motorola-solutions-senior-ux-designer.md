@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | UX Researcher |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland-ZEI15/Senior-UX-Designer_R64006) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-UX-Designer_R65419) |
 
 ## About This Role
 
-This ux researcher position at Motorola Solutions was posted on 2026-04-17.
+This ux researcher position at Motorola Solutions was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

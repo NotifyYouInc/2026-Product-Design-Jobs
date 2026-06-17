@@ -1,0 +1,22 @@
+# 3D Game Artist- Puzzle Games at Voodoo
+
+| Field | Details |
+|-------|---------|
+| Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Motion / Video Production |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/a69ed674-2a94-4b88-9d1f-091d82b6a176) |
+
+## About This Role
+
+This motion / video production position at Voodoo was posted on 2026-06-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

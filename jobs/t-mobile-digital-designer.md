@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | Product Designer |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Digital-Designer_REQ344250-1) |
+| Location | Irvine, California, United States |
+| Category | Marketing |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Irvine-California/Digital-Designer_REQ354601-1) |
 
 ## About This Role
 
-This product designer position at T-Mobile was posted on 2026-03-28.
+This marketing position at T-Mobile was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
