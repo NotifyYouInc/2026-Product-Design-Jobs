@@ -5,12 +5,12 @@
 | Company | [krg technology inc](https://scoutify.ai/companies/krg-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Product Designer |
-| Posted | 2017-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/107960281-ui-designer) |
+| Posted | 2016-11-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/krgtechnologyinc/103051114-ui-designer) |
 
 ## About This Role
 
-This product designer position at krg technology inc was posted on 2017-02-09.
+This product designer position at krg technology inc was posted on 2016-11-29.
 
 ## Get Real-Time Alerts
 

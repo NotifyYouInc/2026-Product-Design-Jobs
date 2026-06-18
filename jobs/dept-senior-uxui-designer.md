@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Senior UX/UI Designer at DEPT®
 
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Skopje, Grad Skopje, North Macedonia |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7998044) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-05-07.
+This product designer position at DEPT® was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

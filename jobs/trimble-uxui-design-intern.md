@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Christchurch, Canterbury, New Zealand |
-| Category | Product Designer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/UX-UI-Design-Intern_R55763) |
+| Category | UX Researcher |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/UX-UI-Design-Intern_R56041) |
 
 ## About This Role
 
-This product designer position at Trimble was posted on 2026-05-10.
+This ux researcher position at Trimble was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

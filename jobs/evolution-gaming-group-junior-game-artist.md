@@ -5,12 +5,12 @@
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Medellín, Antioquia, Colombia |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000129529191-junior-game-artist) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000131451878-junior-game-artist) |
 
 ## About This Role
 
-This product designer position at Evolution Gaming Group was posted on 2026-06-01.
+This product designer position at Evolution Gaming Group was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

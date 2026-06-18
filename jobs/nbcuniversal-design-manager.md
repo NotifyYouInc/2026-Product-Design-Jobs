@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Windsor, Victoria, Australia |
-| Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000127305559-design-manager) |
+| Category | Product Designer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000131546874-design-manager) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-05-19.
+This product designer position at NBCUniversal was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | UX Writer & Content Designer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127971099-product-designer-senior) |
+| Category | Product Designer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131449204-product-designer-senior) |
 
 ## About This Role
 
-This ux writer & content designer position at Experian was posted on 2026-05-22.
+This product designer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

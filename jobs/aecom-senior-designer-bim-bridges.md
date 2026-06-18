@@ -1,16 +1,16 @@
-# Senior Designer - BIM (Bridges)  at AECOM
+# Senior Designer - BIM Bridges  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000127355859-senior-designer-bim-bridges) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131587289-senior-designer-bim-bridges) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-20.
+This engineering manager position at AECOM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

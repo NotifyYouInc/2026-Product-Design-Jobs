@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | UX Researcher |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Experience-Designer_2026-0006408) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Experience-Designer_2026-0016231) |
 
 ## About This Role
 
-This ux researcher position at U.S. Bank was posted on 2026-03-16.
+This ux researcher position at U.S. Bank was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

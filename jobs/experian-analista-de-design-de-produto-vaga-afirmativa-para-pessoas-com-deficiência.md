@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | UX Researcher |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111430575-analista-de-design-de-produto-vaga-afirmativa-para-pessoas-com-deficiencia) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131538289-analista-de-design-de-produto-vaga-afirmativa-para-pessoas-com-deficiencia) |
 
 ## About This Role
 
-This ux researcher position at Experian was posted on 2026-02-25.
+This ux researcher position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

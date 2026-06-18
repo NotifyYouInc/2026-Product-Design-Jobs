@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckafCL7PfqKElLm2e058r1m4fcJfOeomr-c4-0sM-KLzfEjsACxwdTLFRcOlrUDyqzA-pni_YE-6r1PBtGnoZBfEdtGNNAwZmsX6ONmXoOvNWT65I8D0NuKt0E1TBNQ%3D%3D_V2&loc=US&title=Design+Manager) |
+| Category | UX Researcher |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb6cHsUubbQ0hG5NBPvP-72ralYtFvDWKuO4SQCrDyL0EjsACxwdTNVW-Ra8sOVQB_JQXrTGzrzrCrgZadku2BaPeDRWPsn35YKRrp_Y3FsepBIeJ1f7cTHUdrUATA%3D%3D_V2&loc=US&title=Design+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-04-29.
+This ux researcher position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

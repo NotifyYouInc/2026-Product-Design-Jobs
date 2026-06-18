@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Spain |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Designer--Spectrum-Design-System_R169225-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-Spain/Sr-Product-Designer--Spectrum-Design-System_R169335) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-06-03.
+This product designer position at Adobe was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
