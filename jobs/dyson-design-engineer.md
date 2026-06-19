@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Philippines |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Philippines---Technology-Campus/Design-Engineer_JR36074) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Design-Engineer_JR36893) |
 
 ## About This Role
 
-This product designer position at Dyson was posted on 2026-04-17.
+This product designer position at Dyson was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

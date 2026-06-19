@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Principal-Product-Designer_R0117939) |
+| Category | UX Researcher |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Principal-Product-Designer_R0118378-1) |
 
 ## About This Role
 
-This product designer position at LSEG was posted on 2026-04-17.
+This ux researcher position at LSEG was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

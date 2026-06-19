@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000122498161-junior-interior-designer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131748709-junior-interior-designer) |
 
 ## About This Role
 
-This product designer position at AECOM was posted on 2026-04-23.
+This product designer position at AECOM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

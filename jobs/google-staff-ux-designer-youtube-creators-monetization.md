@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | UX Researcher |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ2WnhaIH9N5W6NaKibwJeiPCeD9wHz4Lo-O1vJyEqfdEjsACxwdTPVgWfv6XM7_rBKzaTuMbDl6Nz2A-NQbuAx5a0rjZngJK8shsyQMv3XpAwLC7McgqCHpugxWdg%3D%3D_V2&loc=CH&title=Staff+UX+Designer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW0yUnV0Yw8i1cDhZ3uxtPOyjncGhPGoLDgbzSxcUh3IEjsACxwdTMs6RfN1fUMzgTnEqiM5W5Cm3gdR3sPSjBEGeTmfb4-VxKGca5MbNJuVJeAdst8KUShpB58GMA%3D%3D_V2&loc=CH&title=Staff+UX+Designer) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-05-07.
+This ux researcher position at Google was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

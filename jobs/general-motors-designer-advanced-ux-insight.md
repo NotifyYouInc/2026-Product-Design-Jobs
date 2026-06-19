@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Product Designer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Designer--Advanced-UX-Insight_JR-202604754) |
+| Category | UX Researcher |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Designer---Advanced-UX-Insight_JR-202612771) |
 
 ## About This Role
 
-This product designer position at General Motors was posted on 2026-03-19.
+This ux researcher position at General Motors was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

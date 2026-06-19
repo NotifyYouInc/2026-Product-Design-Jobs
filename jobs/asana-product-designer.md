@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/7155785?gh_jid=7155785) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/7952123?gh_jid=7952123) |
 
 ## About This Role
 
-This product designer position at Asana was posted on 2026-03-04.
+This product designer position at Asana was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

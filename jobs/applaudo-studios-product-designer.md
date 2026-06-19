@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000130074087-product-designer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131501841-product-designer) |
 
 ## About This Role
 
-This product designer position at Applaudo Studios was posted on 2026-06-03.
+This product designer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

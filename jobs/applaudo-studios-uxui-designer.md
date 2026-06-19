@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000130098288-uxui-designer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131500641-uxui-designer) |
 
 ## About This Role
 
-This ux researcher position at Applaudo Studios was posted on 2026-06-03.
+This ux researcher position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
