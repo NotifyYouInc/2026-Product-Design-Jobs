@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Womenswear Senior Designer - softs at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000131836259-womenswear-senior-designer-softs) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This product designer position at H&M Group was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

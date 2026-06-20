@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Product Designer – 12 Month FTC   at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Product-Designer---12-Month-FTC--_157706-3) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This product designer position at Lloyds Bank was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

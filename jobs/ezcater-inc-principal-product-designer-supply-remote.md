@@ -1,16 +1,16 @@
-# Accessories Product Design Engineer, Beats at Apple
+# Principal Product Designer, Supply (Remote)  at ezCater, Inc
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [ezCater, Inc](https://scoutify.ai/companies/ezcater-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668207/accessories-product-design-engineer-beats) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ezcaterinc/jobs/5163291007) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-12.
+This product designer position at ezCater, Inc was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Senior Figma Designer  at Blend360
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000131952340-senior-figma-designer) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Blend360 was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

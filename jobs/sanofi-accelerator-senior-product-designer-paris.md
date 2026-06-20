@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Accelerator Senior Product Designer (Paris) at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/Accelerator-Senior-Product-Designer--Paris-_R2859314) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Sanofi was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

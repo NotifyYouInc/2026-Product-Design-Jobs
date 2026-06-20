@@ -1,16 +1,16 @@
-# Sr. Digital Designer, Sports at Versant
+# Senior Visual Designer at DEPT®
 
 | Field | Details |
 |-------|---------|
-| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Marketing |
+| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960835-sr-digital-designer-sports) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8003076) |
 
 ## About This Role
 
-This marketing position at Versant was posted on 2026-06-12.
+This product designer position at DEPT® was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

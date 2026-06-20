@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Senior Product Designer, Mission Autonomy at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5163624007?gh_jid=5163624007) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Anduril was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

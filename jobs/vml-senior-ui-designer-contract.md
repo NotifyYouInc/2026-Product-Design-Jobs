@@ -1,16 +1,16 @@
-# Sr. Digital Designer, Sports at Versant
+# Senior UI Designer (contract) at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Marketing |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Poznań, Greater Poland, Poland |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960835-sr-digital-designer-sports) |
+| Apply | [View on company site](https://www.vml.com/careers/job/8589787002?gh_jid=8589787002) |
 
 ## About This Role
 
-This marketing position at Versant was posted on 2026-06-12.
+This product designer position at VML was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

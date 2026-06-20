@@ -1,16 +1,16 @@
-# Sr. Digital Designer, Sports at Versant
+# Assistant Designer - WW at ASOS
 
 | Field | Details |
 |-------|---------|
-| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Marketing |
+| Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960835-sr-digital-designer-sports) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000131847400-assistant-designer-ww) |
 
 ## About This Role
 
-This marketing position at Versant was posted on 2026-06-12.
+This product designer position at ASOS was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

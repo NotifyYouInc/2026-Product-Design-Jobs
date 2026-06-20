@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# User Experience Design Manager at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/User-Experience-Design-Manager_R-279721) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Mastercard was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

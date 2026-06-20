@@ -1,16 +1,16 @@
-# Accessories Product Design Engineer, Beats at Apple
+# Director, Men’s Design at Faherty Brand
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Faherty Brand](https://scoutify.ai/companies/faherty-brand-fahertybrand?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668207/accessories-product-design-engineer-beats) |
+| Apply | [View on company site](https://fahertybrand.com/pages/faherty-applications?gh_jid=5104065007) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-12.
+This product designer position at Faherty Brand was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

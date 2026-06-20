@@ -1,16 +1,16 @@
-# Accessories Product Design Engineer, Beats at Apple
+# CMF Design Intern at General Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668207/accessories-product-design-engineer-beats) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/CMF-Design-Intern_JR-202613003) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-12.
+This product designer position at General Motors was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

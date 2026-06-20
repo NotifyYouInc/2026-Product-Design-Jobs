@@ -1,16 +1,16 @@
-# Senior Associate, Digital Designer and Storyteller - C&O Associate Insight, Media and START Team (Hybrid) at Capital One
+# Manager (IC), Product Design - Design Systems at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Marketing |
+| Location | 3 locations |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Digital-Designer-and-Storyteller---C-O-Associate-Insight--Media-and-START-Team--Hybrid-_R244144) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--IC---Product-Design---Design-Systems_R244292) |
 
 ## About This Role
 
-This marketing position at Capital One was posted on 2026-06-12.
+This product designer position at Capital One was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

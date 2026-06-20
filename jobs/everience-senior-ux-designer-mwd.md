@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Senior Ux designer (m/w/d) at Everience
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000131845430-senior-ux-designer-mwd) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Everience was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

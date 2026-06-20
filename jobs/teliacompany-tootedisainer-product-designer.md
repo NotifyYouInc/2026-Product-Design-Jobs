@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Tootedisainer (Product Designer) at Teliacompany
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Tallinn/Tootedisainer--Product-Designer-_61980-3) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Teliacompany was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

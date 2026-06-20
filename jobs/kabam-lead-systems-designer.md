@@ -1,16 +1,16 @@
-# Sr. Digital Designer, Sports at Versant
+# Lead Systems Designer at Kabam
 
 | Field | Details |
 |-------|---------|
-| Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Marketing |
+| Company | [Kabam](https://scoutify.ai/companies/kabam?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vancouver, British Columbia, Canada |
+| Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960835-sr-digital-designer-sports) |
+| Apply | [View on company site](https://jobs.lever.co/kabam/82ce3e76-71b9-4365-807c-24eb4139f4b3) |
 
 ## About This Role
 
-This marketing position at Versant was posted on 2026-06-12.
+This product designer position at Kabam was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

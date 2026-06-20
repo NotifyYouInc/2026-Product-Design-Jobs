@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# UX/UI Designer at Agility Robotics
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Agility Robotics](https://scoutify.ai/companies/agility-robotics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Fremont, California, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/81d80fdd-8665-421f-bd0f-d9419d47bc9b) |
+| Apply | [View on company site](https://www.agilityrobotics.com/about/job-post?gh_jid=6017816004) |
 
 ## About This Role
 
-This ux researcher position at Bjak was posted on 2026-06-12.
+This ux researcher position at Agility Robotics was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

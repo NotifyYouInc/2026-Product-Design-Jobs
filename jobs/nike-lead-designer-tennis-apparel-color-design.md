@@ -1,16 +1,16 @@
-# Accessories Product Design Engineer, Beats at Apple
+# Lead Designer, Tennis Apparel Color Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668207/accessories-product-design-engineer-beats) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Tennis-Apparel-Color-Design_R-85683) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-12.
+This product designer position at Nike was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

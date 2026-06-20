@@ -1,16 +1,16 @@
-# Accessories Product Design Engineer, Beats at Apple
+# Designer, Devices Brand Studio at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668207/accessories-product-design-engineer-beats) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433747/designer-devices-brand-studio) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-12.
+This product designer position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Designer II at Perkins & Will
+# Product Design Engineer - Cable at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=5db75faa-c96a-4f18-a4c6-862e78190607) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659917/product-design-engineer-cable) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-06-12.
+This product designer position at Apple was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
