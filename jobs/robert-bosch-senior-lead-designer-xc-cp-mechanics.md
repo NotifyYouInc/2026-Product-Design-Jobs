@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131439631-senior-lead-designer-xc-cp-mechanics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131444869-senior-lead-designer-xc-cp-mechanics) |
 
 ## About This Role
 
