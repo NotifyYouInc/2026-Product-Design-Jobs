@@ -1,16 +1,16 @@
-# Anatomy Designer at Envista
+# Senior Interior Designer at General Motors
 
 | Field | Details |
 |-------|---------|
-| Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/China--Jiangsu-Sheng--Suzhou/Anatomy-Designer_R5026606) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202613019) |
 
 ## About This Role
 
-This product designer position at Envista was posted on 2026-06-15.
+This product designer position at General Motors was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

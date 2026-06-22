@@ -1,16 +1,16 @@
-# Anatomy Designer at Envista
+# Product Designer, Document Cloud at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/China--Jiangsu-Sheng--Suzhou/Anatomy-Designer_R5026606) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Designer--Document-Cloud_R169794-1) |
 
 ## About This Role
 
-This product designer position at Envista was posted on 2026-06-15.
+This product designer position at Adobe was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

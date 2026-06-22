@@ -1,16 +1,16 @@
-# Product Design Engineer - Watch at Apple
+# Senior Designer at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666803/product-design-engineer-watch) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Singapore/Senior-Designer_REQ515064) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-14.
+This product designer position at JLL was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
