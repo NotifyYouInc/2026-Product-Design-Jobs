@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Product Designer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655421/softgoods-product-design-engineer) |
+| Category | Engineering Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668364/softgoods-product-design-engineer) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-04-02.
+This engineering manager position at Apple was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | UX Researcher |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8545303002?gh_jid=8545303002) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8513626002?gh_jid=8513626002) |
 
 ## About This Role
 
-This ux researcher position at VML was posted on 2026-05-13.
+This ux researcher position at VML was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

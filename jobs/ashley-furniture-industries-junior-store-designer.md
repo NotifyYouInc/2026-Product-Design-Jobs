@@ -5,12 +5,12 @@
 | Company | [Ashley Furniture Industries](https://scoutify.ai/companies/ashley-furniture-industries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ash1002af/JobBoard/20c06009-60fe-480c-8ce5-da3e9df145b9/OpportunityDetail?opportunityId=631edc83-7153-4701-9cec-53554bfd55dd) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ash1002af/JobBoard/20c06009-60fe-480c-8ce5-da3e9df145b9/OpportunityDetail?opportunityId=008d555a-85fd-47d2-bb20-396ee3ad985b) |
 
 ## About This Role
 
-This product designer position at Ashley Furniture Industries was posted on 2026-05-27.
+This product designer position at Ashley Furniture Industries was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

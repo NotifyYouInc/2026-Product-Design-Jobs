@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1961167998100364) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2244919269377813) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-03-24.
+This product designer position at Meta was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

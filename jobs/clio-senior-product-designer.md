@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Dublin/Senior-Product-Designer_REQ-4760) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Remote---Canada/Senior-Product-Designer_REQ-4704) |
 
 ## About This Role
 
-This product designer position at Clio was posted on 2026-04-21.
+This product designer position at Clio was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

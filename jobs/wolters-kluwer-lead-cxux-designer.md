@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Hoevelaken/Lead-CX-UX-Designer_R0055221) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/GBR---Kingston/Lead-CX-UX-Designer_R0056573) |
 
 ## About This Role
 
-This ux researcher position at Wolters Kluwer was posted on 2026-03-20.
+This ux researcher position at Wolters Kluwer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

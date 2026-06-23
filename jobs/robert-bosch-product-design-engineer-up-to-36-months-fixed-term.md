@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Blaj, Alba County, Romania |
 | Category | Product Designer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129147129-product-design-engineer-up-to-36-months-fixed-term) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132341580-product-design-engineer-up-to-36-months-fixed-term) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-05-29.
+This product designer position at Robert Bosch was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

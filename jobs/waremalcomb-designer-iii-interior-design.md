@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/1c6d4ebf-946a-42c7-9728-d489a1caef44) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.lever.co/waremalcomb/0a5c66f6-1bc0-44b6-bd40-3dccdedd73c3) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-05-22.
+This product designer position at Waremalcomb was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

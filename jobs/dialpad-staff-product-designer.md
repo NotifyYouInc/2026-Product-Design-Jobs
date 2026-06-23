@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8579368002) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8579365002) |
 
 ## About This Role
 
-This product designer position at Dialpad was posted on 2026-06-08.
+This product designer position at Dialpad was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

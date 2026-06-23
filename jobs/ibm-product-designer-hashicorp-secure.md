@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Markham, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118120) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120502) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-06-01.
+This product designer position at IBM was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

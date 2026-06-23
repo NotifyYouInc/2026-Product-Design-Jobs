@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/e6f3914e-ecd8-46f8-9157-271f315caf5f) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/37ff9a7c-077d-446b-ba68-3d76c408404c) |
 
 ## About This Role
 
-This product designer position at Jerry.ai was posted on 2026-06-08.
+This product designer position at Jerry.ai was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

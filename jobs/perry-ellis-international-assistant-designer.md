@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perry Ellis International](https://scoutify.ai/companies/perry-ellis-international?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Miami, Florida, United States |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/perryellisinternational/jobs/4676930006) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/perryellisinternational/jobs/4689574006) |
 
 ## About This Role
 
-This product designer position at Perry Ellis International was posted on 2026-05-18.
+This product designer position at Perry Ellis International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

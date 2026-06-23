@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Slovenia |
+| Location | Lithuania |
 | Category | Learning & Development |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4699863005) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4706184005) |
 
 ## About This Role
 
-This learning & development position at INFUSE was posted on 2026-05-27.
+This learning & development position at INFUSE was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

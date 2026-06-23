@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Oak Brook, Illinois, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/d03e6631-08fd-40c2-972c-c5d671884029) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.lever.co/waremalcomb/38b2d164-e420-4309-b79d-469e4b4a6c37) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-06-05.
+This product designer position at Waremalcomb was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
