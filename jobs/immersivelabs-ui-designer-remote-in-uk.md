@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# UI Designer - Remote in UK at Immersivelabs
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Immersivelabs](https://scoutify.ai/companies/immersivelabs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/immersivelabs/71cea0ad-990d-4844-811b-2e95c45d7c5d) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Immersivelabs was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

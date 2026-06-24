@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Senior Product Designer II, AI Native at Life360
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Life360](https://scoutify.ai/companies/life360?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/life360/jobs/8593090002) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Life360 was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

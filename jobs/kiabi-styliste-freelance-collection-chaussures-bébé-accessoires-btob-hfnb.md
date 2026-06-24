@@ -5,12 +5,12 @@
 | Company | [Kiabi](https://scoutify.ai/companies/kiabi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Lezennes, Hauts-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KIABI/744000131090715-styliste-freelance-collection-chaussures-bebe-accessoires-btob-hfnb) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KIABI/744000132349969-styliste-freelance-collection-chaussures-bebe-accessoires-btob-hfnb) |
 
 ## About This Role
 
-This product designer position at Kiabi was posted on 2026-06-09.
+This product designer position at Kiabi was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

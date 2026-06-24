@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Product Designer (Mobile) at Granola
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Granola](https://scoutify.ai/companies/granola?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/granola/c78b0dd6-ac8b-4e92-958b-e79e2901da7c) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Granola was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

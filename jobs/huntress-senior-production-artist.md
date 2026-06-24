@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Senior Production Artist at Huntress
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Huntress](https://scoutify.ai/companies/huntress?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/huntress/jobs/7766484003) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Huntress was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

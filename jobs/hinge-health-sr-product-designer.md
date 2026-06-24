@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Sr. Product Designer at hinge-health
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [hinge-health](https://scoutify.ai/companies/hinge-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/4606f37d-3f72-4762-b81a-8dfa0cfb62a2) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at hinge-health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

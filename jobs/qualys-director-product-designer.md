@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Director, Product Designer at Qualys
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | UX Researcher |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Director--Product-Designer_R0004744) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This ux researcher position at Qualys was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

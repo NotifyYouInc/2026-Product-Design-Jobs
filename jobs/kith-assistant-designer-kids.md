@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Assistant Designer, Kids at Kith
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Kith](https://scoutify.ai/companies/kith-external-c?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://kith.wd1.myworkdayjobs.com/kith_external_careers/job/Brooklyn-NY/Assistant-Designer--Kids_R-02397) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Kith was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

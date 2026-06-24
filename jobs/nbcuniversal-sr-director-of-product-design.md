@@ -1,16 +1,16 @@
-# Denim Designer at Li & Fung
+# Sr. Director of Product Design at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [Li & Fung](https://scoutify.ai/companies/li-fung?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://lifung.wd3.myworkdayjobs.com/lifung/job/New-York/Denim-Designer_V98073-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132486885-sr-director-of-product-design) |
 
 ## About This Role
 
-This product designer position at Li & Fung was posted on 2026-06-16.
+This ux researcher position at NBCUniversal was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

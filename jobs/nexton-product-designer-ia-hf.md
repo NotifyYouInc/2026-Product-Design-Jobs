@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Product Designer IA H/F at Nexton
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
+| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | UX Researcher |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000132435615-product-designer-ia-hf) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This ux researcher position at Nexton was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

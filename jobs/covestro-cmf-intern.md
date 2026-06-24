@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# CMF intern at Covestro
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Covestro](https://scoutify.ai/companies/covestro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pudong-Shanghai-China/CMF-intern_JR-2026-01074) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Covestro was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

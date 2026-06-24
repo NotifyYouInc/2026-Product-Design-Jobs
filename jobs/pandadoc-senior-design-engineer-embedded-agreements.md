@@ -1,16 +1,16 @@
-# UI/UX Designer at NCS
+# Senior Design Engineer, Embedded Agreements at PandaDoc
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | UX Researcher |
+| Company | [PandaDoc](https://scoutify.ai/companies/pandadoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Poland |
+| Category | Software Engineer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001160898-uiux-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/8011953) |
 
 ## About This Role
 
-This ux researcher position at NCS was posted on 2026-06-17.
+This software engineer position at PandaDoc was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

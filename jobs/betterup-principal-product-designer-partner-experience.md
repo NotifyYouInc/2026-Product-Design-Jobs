@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Principal Product Designer, Partner Experience at Betterup
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Betterup](https://scoutify.ai/companies/betterup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/betterup/bad7334f-032f-4263-a8db-3bf8b0fcc1a0) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Betterup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

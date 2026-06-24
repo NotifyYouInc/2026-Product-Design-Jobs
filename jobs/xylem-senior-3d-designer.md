@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Senior 3D Designer at Xylem
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Wisconsin, US |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Senior-3D-Designer_R49057-1) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Xylem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

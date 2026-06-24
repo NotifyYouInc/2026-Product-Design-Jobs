@@ -1,16 +1,16 @@
-# UI/UX Designer at NCS
+# UX Design Manager, Amazon Kids at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | UX Researcher |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001160898-uiux-designer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423147/ux-design-manager-amazon-kids) |
 
 ## About This Role
 
-This ux researcher position at NCS was posted on 2026-06-17.
+This ux researcher position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

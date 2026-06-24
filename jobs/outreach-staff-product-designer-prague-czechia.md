@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Staff Product Designer - Prague, Czechia at Outreach
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Outreach](https://scoutify.ai/companies/outreach?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.lever.co/outreach/87262936-efa5-4e32-b898-2c758dc6bbac) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Outreach was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

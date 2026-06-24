@@ -1,16 +1,16 @@
-# UI/UX Designer at NCS
+# Intern UX Design & Validation at Cerence
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ulm, Baden-Wurttemberg, Germany |
 | Category | UX Researcher |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001160898-uiux-designer) |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Ulm/Intern-UX-Design---Validation_R0005974) |
 
 ## About This Role
 
-This ux researcher position at NCS was posted on 2026-06-17.
+This ux researcher position at Cerence was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

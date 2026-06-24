@@ -1,4 +1,4 @@
-# Product Designer - Bravel at SKELAR
+# Senior Product Designer - Dressly at SKELAR
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/daa0317f-c0c6-47ba-93e0-03787bef354e) |
 
 ## About This Role
 

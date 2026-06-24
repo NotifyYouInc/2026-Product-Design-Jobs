@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# UX Design Team Lead at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
+| Category | UX Researcher |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/UX-Design-Team-Lead/20318) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This ux researcher position at Bloomberg was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Toast
+# Senior Product Designer, Business & Transaction Platform at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Designer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7794256) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000132554362-senior-product-designer-business-transaction-platform) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-06-17.
+This product designer position at Grab was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

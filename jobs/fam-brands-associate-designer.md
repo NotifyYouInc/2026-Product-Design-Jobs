@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Associate Designer at FAM Brands
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [FAM Brands](https://scoutify.ai/companies/fam-brands?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beverly Hills, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fambrands/jobs/5265576008) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at FAM Brands was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

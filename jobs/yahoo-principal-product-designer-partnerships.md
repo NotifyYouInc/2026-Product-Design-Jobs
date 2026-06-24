@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Principal Product Designer, Partnerships at Yahoo
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Principal-Product-Designer--Partnerships_JR0027206) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Yahoo was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

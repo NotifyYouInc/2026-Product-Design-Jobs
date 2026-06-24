@@ -1,16 +1,16 @@
-# Product Designer II at Extend
+# Lead Product Designer at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Extend](https://scoutify.ai/companies/extend-343449?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/extend/jobs/6088837004) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-Product-Designer_R-419357-1) |
 
 ## About This Role
 
-This product designer position at Extend was posted on 2026-06-16.
+This ux researcher position at Humana was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

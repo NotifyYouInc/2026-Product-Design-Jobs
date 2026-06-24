@@ -1,16 +1,16 @@
-# Product Designer - Bravel at SKELAR
+# Design Systems Lead at Imprint
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Imprint](https://scoutify.ai/companies/imprint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/f15011cd-8fdb-4909-a10d-514abb97cfa0) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/imprint/0dbaae76-f06e-46a1-8afb-da7e71bd8022) |
 
 ## About This Role
 
-This product designer position at SKELAR was posted on 2026-06-16.
+This product designer position at Imprint was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

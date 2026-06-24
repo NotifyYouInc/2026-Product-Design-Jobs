@@ -1,16 +1,16 @@
-# Senior Product Designer at Toast
+# Lead Designer, PD, Softlines, GC at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-06-17 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7794256) |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Shanghai-China/Lead-Designer--PD--Softlines--GC_10153955) |
 
 ## About This Role
 
-This product designer position at Toast was posted on 2026-06-17.
+This product designer position at Disney was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
