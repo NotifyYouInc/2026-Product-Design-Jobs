@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Designer--Principal-Associate-Level_R232081-2) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Designer--Principal-Associate-Level_R244701-1) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-06-01.
+This product designer position at Capital One was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Product Designer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Design-Lead_R00327701-1) |
+| Location | Brooklyn, New York, United States |
+| Category | UX Researcher |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brooklyn-231-Front-St-Song/Design-Lead_R00301874) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-05-11.
+This ux researcher position at Accenture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

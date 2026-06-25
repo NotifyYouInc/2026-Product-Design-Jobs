@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10404485/design-intern-amazon-university-talent-acquisition) |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Category | Product Designer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438927/design-intern-amazon-university-talent-acquisition) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Amazon was posted on 2026-04-27.
+This product designer position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

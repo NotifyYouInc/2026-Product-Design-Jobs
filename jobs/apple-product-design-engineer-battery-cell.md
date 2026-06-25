@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200649738/product-design-engineer-battery-cell) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200617266/product-design-engineer-battery-cell) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-03-06.
+This electrical / hardware engineer position at Apple was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

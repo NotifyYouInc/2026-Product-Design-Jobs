@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 8 locations |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556853178) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556872811) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-04-29.
+This product designer position at Microsoft was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

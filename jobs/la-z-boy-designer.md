@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cocoa, Florida, United States |
+| Location | Dover, Delaware, United States |
 | Category | Product Designer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/464-Cocoa-FL/Designer_JR132633) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dover-NJ/Designer_JR133251) |
 
 ## About This Role
 
-This product designer position at La-Z-Boy was posted on 2026-05-01.
+This product designer position at La-Z-Boy was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

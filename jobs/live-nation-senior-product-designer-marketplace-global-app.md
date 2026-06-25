@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/London-United-Kingdom/Senior-Product-Designer--Marketplace-Global-App_JR-89440-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/New-York-NY-USA/Senior-Product-Designer--Marketplace-Global-App_JR-91078-1) |
 
 ## About This Role
 
-This product designer position at Live Nation was posted on 2026-04-23.
+This product designer position at Live Nation was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

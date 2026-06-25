@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Denver, Colorado, United States |
 | Category | UX Researcher |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Aurora/UI-UX-Design-Engineer_322549) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/570-DENVER-CO/UI-UX-Design-Engineer_327925) |
 
 ## About This Role
 
-This ux researcher position at CACI was posted on 2026-02-25.
+This ux researcher position at CACI was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

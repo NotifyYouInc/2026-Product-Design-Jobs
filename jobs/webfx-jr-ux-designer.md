@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [webfx](https://scoutify.ai/companies/webfx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Harrisburg, Pennsylvania, United States |
-| Category | UX Researcher |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.lever.co/webfx/d46f3226-6011-4dff-adbe-b8ea6530c962) |
+| Category | Product Designer |
+| Posted | 2023-03-02 |
+| Apply | [View on company site](https://jobs.lever.co/webfx/806630bc-6b42-4e60-bc95-2c53ed2de809) |
 
 ## About This Role
 
-This ux researcher position at webfx was posted on 2026-05-21.
+This product designer position at webfx was posted on 2023-03-02.
 
 ## Get Real-Time Alerts
 

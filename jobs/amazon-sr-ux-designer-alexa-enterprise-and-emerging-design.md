@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416556/sr-ux-designer-alexa-enterprise-and-emerging-design) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452301/sr-ux-designer-alexa-enterprise-and-emerging-design) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-05-11.
+This product designer position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

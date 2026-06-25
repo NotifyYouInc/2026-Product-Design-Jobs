@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Product Designer |
-| Posted | 2024-10-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200519686/product-design-engineer-core-systems) |
+| Category | Engineering Manager |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662717/product-design-engineer-core-systems) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2024-10-15.
+This engineering manager position at Apple was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
