@@ -1,16 +1,16 @@
-# Principal Product Designer at NiCE
+# Principal Product Designer  at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4812075101?gh_jid=4812075101) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4897861101?gh_jid=4897861101) |
 
 ## About This Role
 
-This product designer position at NiCE was posted on 2026-03-18.
+This product designer position at NiCE was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

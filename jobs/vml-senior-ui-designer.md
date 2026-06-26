@@ -1,16 +1,16 @@
-# Senior UI Designer at VML
+# Senior UI Designer  at VML
 
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8568330002?gh_jid=8568330002) |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Category | Product Designer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8585292002?gh_jid=8585292002) |
 
 ## About This Role
 
-This ux researcher position at VML was posted on 2026-06-03.
+This product designer position at VML was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

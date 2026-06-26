@@ -1,16 +1,16 @@
-# UI/UX Designer (Associate) at Robert Bosch
+# UI/UX Designer Associate at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | UX Researcher |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130196069-uiux-designer-associate) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132865099-uiux-designer-associate) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-06-04.
+This ux researcher position at Robert Bosch was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

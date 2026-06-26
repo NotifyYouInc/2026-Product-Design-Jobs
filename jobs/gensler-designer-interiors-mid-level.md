@@ -1,16 +1,16 @@
-# Designer - Interiors - Mid Level at Gensler
+# Designer – Interiors – Mid Level at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Las-Vegas-NV-US/Designer---Interiors---Mid-Level_R-17876) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Los-Angeles-CA-US/Designer---Interiors---Mid-Level_R-17911) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-06-09.
+This product designer position at Gensler was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

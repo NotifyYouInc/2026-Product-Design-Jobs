@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10405628/senior-ux-designer-amazon-delivery-customer-experience) |
+| Category | Product Designer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452067/senior-ux-designer-amazon-delivery-customer-experience) |
 
 ## About This Role
 
-This ux researcher position at Amazon was posted on 2026-04-28.
+This product designer position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

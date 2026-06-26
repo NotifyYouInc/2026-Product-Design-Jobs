@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=26875ca6-3315-489d-aa3e-93f27486ed98) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=80cfc7cc-9ce7-46c4-930c-20e56c4cd976) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-06-11.
+This product designer position at Perkins & Will was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

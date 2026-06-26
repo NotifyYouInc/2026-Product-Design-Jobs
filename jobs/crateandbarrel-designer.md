@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Spring Valley, Nevada, United States |
 | Category | Product Designer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/CB2-Fenway-067/Designer_R24962) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Spring-Valley/Designer_R22413-1) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-06-11.
+This product designer position at Crateandbarrel was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

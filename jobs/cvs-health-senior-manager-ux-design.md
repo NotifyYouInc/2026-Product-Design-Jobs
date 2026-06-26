@@ -1,16 +1,16 @@
-# Senior Manager- UX Design at CVS Health
+# Senior Manager - UX Design at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | UX Researcher |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Manager--UX-Design_R0934353-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Manager---UX-Design_R0943480) |
 
 ## About This Role
 
-This ux researcher position at CVS Health was posted on 2026-06-10.
+This ux researcher position at CVS Health was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

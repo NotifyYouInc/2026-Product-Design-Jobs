@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Senior-Product-Designer_JR-0000103755) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Product-Designer_JR-0000113666) |
 
 ## About This Role
 
-This ux researcher position at Barclays was posted on 2026-03-27.
+This ux researcher position at Barclays was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

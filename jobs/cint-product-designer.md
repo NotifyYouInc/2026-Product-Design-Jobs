@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000127429063-product-designer) |
+| Category | UX Researcher |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000132865509-product-designer) |
 
 ## About This Role
 
-This product designer position at Cint was posted on 2026-05-20.
+This ux researcher position at Cint was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

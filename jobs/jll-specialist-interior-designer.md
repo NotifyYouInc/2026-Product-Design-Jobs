@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Interior-Designer_REQ503588) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Specialist---Interior-Designer_REQ507086) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-04-29.
+This product designer position at JLL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

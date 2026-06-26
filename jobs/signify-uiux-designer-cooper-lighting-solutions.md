@@ -5,12 +5,12 @@
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | UX Researcher |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/UI-UX-Designer---COOPER-LIGHTING-SOLUTIONS_363059) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/UI-UX-Designer---COOPER-LIGHTING-SOLUTIONS_365176-1) |
 
 ## About This Role
 
-This ux researcher position at Signify was posted on 2026-05-07.
+This ux researcher position at Signify was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
