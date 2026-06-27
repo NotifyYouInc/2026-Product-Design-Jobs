@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Stagiair Product Design Interieur & Woondecoratie at wehkamp
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [wehkamp](https://scoutify.ai/companies/wehkamp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Zwolle, Overijssel, The Netherlands |
 | Category | Product Designer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Product-Designer_JR-0000112618) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wehkamp/744000133001029-stagiair-product-design-interieur-woondecoratie) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-19.
+This product designer position at wehkamp was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Rightmove
+# Concepteur de Produits Technologiques Opérationnels at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [Rightmove](https://scoutify.ai/companies/rightmove?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
+| Category | UX Researcher |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4881257101) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8594314002?gh_jid=8594314002) |
 
 ## About This Role
 
-This product designer position at Rightmove was posted on 2026-06-19.
+This ux researcher position at Lyft was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

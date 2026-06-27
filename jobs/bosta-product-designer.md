@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Product Designer at Bosta
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Bosta](https://scoutify.ai/companies/bosta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Product Designer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Product-Designer_JR-0000112618) |
+| Apply | [View on company site](https://jobs.lever.co/Bosta/02a2ffa0-2526-4115-8d98-47550fa50475) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-19.
+This product designer position at Bosta was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

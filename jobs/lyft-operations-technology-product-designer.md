@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Operations Technology Product Designer  at Lyft
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Product-Designer_JR-0000112618) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8594126002?gh_jid=8594126002) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-19.
+This product designer position at Lyft was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Senior Product Designer at Gallup
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Omaha, Nebraska, United States |
 | Category | Product Designer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Product-Designer_JR-0000112618) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4288643009) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-19.
+This product designer position at Gallup was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MaintainX](https://scoutify.ai/companies/maintainx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5146386007) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/maintainx/jobs/5146388007) |
 
 ## About This Role
 
-This product designer position at MaintainX was posted on 2026-05-27.
+This product designer position at MaintainX was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

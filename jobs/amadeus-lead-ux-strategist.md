@@ -1,16 +1,16 @@
-# Senior Product Designer at Rightmove
+# Lead UX Strategist at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Rightmove](https://scoutify.ai/companies/rightmove?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Jeddah, Mecca Region, Saudi Arabia |
+| Category | UX Researcher |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4881257101) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Jeddah/Lead-UX-Strategist_R35475) |
 
 ## About This Role
 
-This product designer position at Rightmove was posted on 2026-06-19.
+This ux researcher position at Amadeus was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

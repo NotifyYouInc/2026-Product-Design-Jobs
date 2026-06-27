@@ -1,16 +1,16 @@
-# Senior Product Designer at Rightmove
+# Product Design Intern at Interac
 
 | Field | Details |
 |-------|---------|
-| Company | [Rightmove](https://scoutify.ai/companies/rightmove?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Company | [Interac](https://scoutify.ai/companies/interac?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | UX Researcher |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4881257101) |
+| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Design-Intern_REQ-2268) |
 
 ## About This Role
 
-This product designer position at Rightmove was posted on 2026-06-19.
+This ux researcher position at Interac was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

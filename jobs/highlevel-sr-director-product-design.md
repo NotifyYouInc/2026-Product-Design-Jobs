@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Sr. Director, Product Design at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Product-Designer_JR-0000112618) |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/1adc3097-fe4c-4be2-b893-e6bf2f78d523) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-19.
+This product designer position at HighLevel was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
