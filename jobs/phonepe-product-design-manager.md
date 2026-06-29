@@ -1,16 +1,16 @@
-# Senior/ Lead Designer - XC-CP Mechanics at Robert Bosch
+# Product Design Manager at PhonePe
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [PhonePe](https://scoutify.ai/companies/phonepe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133254389-senior-lead-designer-xc-cp-mechanics) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/phonepe/jobs/7773322003) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-06-22.
+This ux researcher position at PhonePe was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

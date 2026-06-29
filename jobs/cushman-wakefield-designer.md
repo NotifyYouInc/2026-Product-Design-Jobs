@@ -1,16 +1,16 @@
-# Senior/ Lead Designer - XC-CP Mechanics at Robert Bosch
+# Designer at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133254389-senior-lead-designer-xc-cp-mechanics) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/Designer_R323288) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-06-22.
+This product designer position at Cushman & Wakefield was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
