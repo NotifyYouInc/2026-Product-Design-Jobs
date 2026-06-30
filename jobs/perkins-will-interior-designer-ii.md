@@ -5,12 +5,12 @@
 | Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=215674ec-e82c-41e8-9de7-2029f0a65c5f) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=a94ec597-2955-4772-bbde-9566e8b7a4fc) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-05-27.
+This product designer position at Perkins & Will was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

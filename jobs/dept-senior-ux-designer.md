@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Basel, Basel-City, Switzerland |
 | Category | Product Designer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8003091) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8020366) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-06-12.
+This product designer position at DEPT® was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

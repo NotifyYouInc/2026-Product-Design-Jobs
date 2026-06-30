@@ -5,12 +5,12 @@
 | Company | [Headout LI](https://scoutify.ai/companies/headout-li?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/headoutlinkedin/jobs/4672973006) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/headoutlinkedin/jobs/4690944006) |
 
 ## About This Role
 
-This product designer position at Headout LI was posted on 2026-04-14.
+This product designer position at Headout LI was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

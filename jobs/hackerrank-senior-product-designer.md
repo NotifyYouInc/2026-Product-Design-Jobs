@@ -1,16 +1,16 @@
-# Senior Product Designer  at HackerRank
+# Senior Product Designer at HackerRank
 
 | Field | Details |
 |-------|---------|
 | Company | [HackerRank](https://scoutify.ai/companies/hackerrank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hackerrank/jobs/7633672) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hackerrank/jobs/8018143) |
 
 ## About This Role
 
-This product designer position at HackerRank was posted on 2026-02-24.
+This product designer position at HackerRank was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

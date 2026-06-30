@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Product Designer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Dallas-TX-US/Technical-Designer---Mid-Level_R-17484) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Writer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Bangalore-India/Technical-Designer---Mid-Level_R-17916) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-06-10.
+This technical writer position at Gensler was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

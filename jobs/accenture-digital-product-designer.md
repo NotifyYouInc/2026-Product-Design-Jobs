@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | Midrand, Gauteng, South Africa |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Helsinki/Digital-Product-Designer_R00327466) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Digital-Product-Designer_14497465) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-29.
+This product designer position at Accenture was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

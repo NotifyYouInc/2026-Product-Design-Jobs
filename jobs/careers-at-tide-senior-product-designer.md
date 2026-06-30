@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Serbia |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.tide.co/careers/?gh_jid=6672057003) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-04-29.
+This product designer position at Careers at Tide was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

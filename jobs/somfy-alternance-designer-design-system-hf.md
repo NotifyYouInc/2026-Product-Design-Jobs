@@ -5,12 +5,12 @@
 | Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Product Designer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000120903322-alternance-designer-design-system-hf) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000133350969-alternance-designer-design-system-hf) |
 
 ## About This Role
 
-This product designer position at Somfy was posted on 2026-04-15.
+This product designer position at Somfy was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

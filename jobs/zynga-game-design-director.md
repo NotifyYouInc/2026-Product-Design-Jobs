@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5806957004) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Designer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5719478004) |
 
 ## About This Role
 
-This product manager position at Zynga was posted on 2026-02-18.
+This product designer position at Zynga was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

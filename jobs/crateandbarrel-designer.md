@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Spring Valley, Nevada, United States |
+| Location | Roseville, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Spring-Valley/Designer_R22413-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Roseville-Galleria/Designer_R25023) |
 
 ## About This Role
 
-This product designer position at Crateandbarrel was posted on 2026-06-15.
+This product designer position at Crateandbarrel was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

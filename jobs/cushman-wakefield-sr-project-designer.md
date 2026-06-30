@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 37 locations |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Sr-Project-Designer_R318581) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Sr-Project-Designer_R325367) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-05-05.
+This product designer position at Cushman & Wakefield was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
