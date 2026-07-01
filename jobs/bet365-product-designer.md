@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000127410138-product-designer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000133556189-product-designer) |
 
 ## About This Role
 
-This product designer position at bet365 was posted on 2026-05-20.
+This product designer position at bet365 was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

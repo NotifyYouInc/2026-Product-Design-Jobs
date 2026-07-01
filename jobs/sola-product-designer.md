@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Product Designer at Sola
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Sola](https://scoutify.ai/companies/sola-insurance?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sola-insurance/5f0784d7-583b-4619-8271-842cf7522f69) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Sola was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

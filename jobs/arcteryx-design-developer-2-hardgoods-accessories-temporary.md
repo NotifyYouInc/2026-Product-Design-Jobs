@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Design Developer 2 – Hardgoods & Accessories (Temporary) at ARC'TERYX
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [ARC'TERYX](https://scoutify.ai/companies/arcteryx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | North Vancouver, British Columbia, Canada |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.lever.co/arcteryx.com/136ae3ae-b938-4ab5-b6a7-b4b578897971) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at ARC'TERYX was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

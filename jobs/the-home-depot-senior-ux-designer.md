@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Senior UX Designer at The Home Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-UX-Designer_Req184252-1) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at The Home Depot was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Sr. Designer, Amazon Haul, Amazon Haul at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456653/sr-designer-amazon-haul-amazon-haul) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

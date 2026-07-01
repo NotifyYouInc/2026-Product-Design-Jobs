@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Product Designer at Findarbor
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Findarbor](https://scoutify.ai/companies/findarbor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/findarbor/5efdc47d-3c07-44fb-b25c-f917935c1603) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Findarbor was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

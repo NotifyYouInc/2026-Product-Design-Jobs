@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Visual Designer (12 Month FTC/Secondment) at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Visual-Designer--12-Month-FTC-Secondment-_159089-3) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Lloyds Bank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Product Designer at Aios Medical
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Aios Medical](https://scoutify.ai/companies/yc-aios-medical?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/aios/jobs/gloH6x8-product-designer) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This product designer position at Aios Medical was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

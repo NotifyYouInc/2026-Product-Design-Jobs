@@ -1,16 +1,16 @@
-# Senior Product Designer at City of New York
+# Sr UX Designer, Prime Video, PV UX Design Commerce at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | UX Researcher |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013658006-senior-product-designer) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432745/sr-ux-designer-prime-video-pv-ux-design-commerce) |
 
 ## About This Role
 
-This ux researcher position at City of New York was posted on 2026-06-17.
+This ux researcher position at Amazon was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

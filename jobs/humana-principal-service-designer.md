@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-IL-CHI-METRO/Principal-Service-Designer_R-414342-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Principal-Service-Designer_R-419994) |
 
 ## About This Role
 
-This product designer position at Humana was posted on 2026-05-07.
+This product designer position at Humana was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

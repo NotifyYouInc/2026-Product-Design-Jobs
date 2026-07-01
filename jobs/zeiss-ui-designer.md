@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# UI Designer at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Portugal |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Lisboa/UI-Designer_JR_1050784) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Zeiss was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

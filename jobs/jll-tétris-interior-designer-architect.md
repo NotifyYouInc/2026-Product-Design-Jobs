@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Tétris | Interior Designer / Architect at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bertrange, Luxembourg, Luxembourg |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bertrange-LUX/Ttris---Interior-Designer---Architect_REQ510775) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at JLL was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

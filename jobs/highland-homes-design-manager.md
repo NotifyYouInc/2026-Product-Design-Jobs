@@ -1,16 +1,16 @@
-# Product Design Engineer -  Acoustics at Apple
+# Design Manager at Highland Homes
 
 | Field | Details |
 |-------|---------|
-| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Highland Homes](https://scoutify.ai/companies/recruiting-ultipro-com-oj50508?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669698/product-design-engineer-acoustics) |
+| Apply | [View on company site](https://recruiting.ultipro.com/hig1007/JobBoard/f95ef15e-6a86-2c2d-b18d-2075afc74394/OpportunityDetail?opportunityId=7cb3ef88-03b7-4bf8-82a1-12fda8502220) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-06-23.
+This product designer position at Highland Homes was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

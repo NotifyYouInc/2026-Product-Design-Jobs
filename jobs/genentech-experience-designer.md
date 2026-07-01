@@ -5,12 +5,12 @@
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | South San Francisco, California, United States |
 | Category | UX Researcher |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Experience-Designer_202606-114612) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Experience-Designer_202606-115466-1) |
 
 ## About This Role
 
-This ux researcher position at Genentech was posted on 2026-06-16.
+This ux researcher position at Genentech was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

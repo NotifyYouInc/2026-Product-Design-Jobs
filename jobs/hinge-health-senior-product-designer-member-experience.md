@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Senior Product Designer, Member Experience at hinge-health
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [hinge-health](https://scoutify.ai/companies/hinge-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/1c19b0d4-b2d5-4734-8b09-dab035e862f0) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at hinge-health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

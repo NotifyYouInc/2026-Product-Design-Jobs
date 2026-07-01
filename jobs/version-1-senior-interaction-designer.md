@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Senior Interaction Designer at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 6 locations |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133614819-senior-interaction-designer) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Version 1 was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

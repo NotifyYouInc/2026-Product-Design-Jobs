@@ -1,16 +1,16 @@
-# Staff Product Designer at Okta
+# Senior Product Designer  at MNTN
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [MNTN](https://scoutify.ai/companies/mntn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8023904?gh_jid=8023904) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mntn/jobs/8014839) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-06-23.
+This product designer position at MNTN was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

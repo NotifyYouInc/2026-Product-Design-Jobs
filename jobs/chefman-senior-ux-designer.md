@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Senior UX Designer  at Chefman
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Chefman](https://scoutify.ai/companies/chefman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mahwah, New Jersey, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chefman/jobs/4251431009) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Chefman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

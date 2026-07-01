@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# UX Design Lead at Bringg
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Bringg](https://scoutify.ai/companies/bringg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bringg/jobs/8604252002) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Bringg was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# UI/UX Designer at OneScreen
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [OneScreen](https://scoutify.ai/companies/onescreen?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Islamabad, Islamabad, Pakistan |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OneScreen/744000133687159-uiux-designer) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at OneScreen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

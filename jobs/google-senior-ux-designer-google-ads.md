@@ -1,16 +1,16 @@
-# Senior Interaction Designer, Search Ads at Google
+# Senior UX Designer, Google Ads at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUZJ_bBUfSLZZBI_RDmv7v53IKudZqjXtQSnA3pjbaY9EjsA1Ny_iyRoHZSCYo0T7oFF06LE6wiTuHJJpKNcKWlXMzvnI2KDvCdALKbYbnMbliARSon90F1QOiNnQw%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
+| Location | 2 locations |
+| Category | UX Researcher |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRin-i8OWNcp2afsQReV_v5qFA8-8lJaNo7RZlxqsSxREjsA1Ny_i0dZORBS4fcFsTKyrdVJqWUtKGcXwI-KTP6-nw9oxv4bWit9idOGJBaZBmpNejEV4IQGL3eECw%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-06-24.
+This ux researcher position at Google was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

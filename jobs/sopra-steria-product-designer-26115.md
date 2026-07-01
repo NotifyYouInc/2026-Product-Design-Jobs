@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Product Designer [26115] at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manching, Bavaria, Germany |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133534169-product-designer-26115) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Sopra Steria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

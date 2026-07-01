@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Principal Product Designer (Healthcare & Life Sciences) at UiPath
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/8cff1299-f4b4-41b0-997f-cd54f7c5d78e) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at UiPath was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

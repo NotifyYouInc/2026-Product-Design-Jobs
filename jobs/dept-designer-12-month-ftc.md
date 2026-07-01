@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Designer (12 Month FTC) at DEPT®
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8023106) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at DEPT® was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

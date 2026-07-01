@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# 2D Art Generalist - NFL Universe Football at Voldex
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Voldex](https://scoutify.ai/companies/voldex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voldex/cc490bd5-5e82-4402-a353-a6a1c4a60d0c) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Voldex was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# DA digital / UI designer H/F at Talan
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133542929-da-digital-ui-designer-hf) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Talan was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

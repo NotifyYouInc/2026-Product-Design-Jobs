@@ -1,16 +1,16 @@
-# Staff Product Designer at Okta
+# Visual Product Designer at Gamma
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Gamma](https://scoutify.ai/companies/gamma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8023904?gh_jid=8023904) |
+| Posted | 2025-11-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/gamma/3fe11347-22f8-4ca5-bbc7-11518f8ea802) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-06-23.
+This product designer position at Gamma was posted on 2025-11-09.
 
 ## Get Real-Time Alerts
 

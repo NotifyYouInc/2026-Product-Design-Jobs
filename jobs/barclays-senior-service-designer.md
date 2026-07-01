@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Service-Designer_JR-0000103756) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | UX Researcher |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Service-Designer_JR-0000113778) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-03-26.
+This ux researcher position at Barclays was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

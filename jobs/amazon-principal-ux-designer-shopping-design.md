@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Principal UX Designer, Shopping Design at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10456984/principal-ux-designer-shopping-design) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

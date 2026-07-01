@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# TEMP Designer at Perry Ellis International
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [Perry Ellis International](https://scoutify.ai/companies/perry-ellis-international?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/perryellisinternational/jobs/4690940006) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at Perry Ellis International was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

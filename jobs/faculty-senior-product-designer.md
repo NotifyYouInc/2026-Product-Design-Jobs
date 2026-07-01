@@ -5,12 +5,12 @@
 | Company | [Faculty](https://scoutify.ai/companies/faculty?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/b561a153-b935-4703-a0e1-40b55a8bf236) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/faculty/c119810d-e6f2-405e-a51f-9737529b5083) |
 
 ## About This Role
 
-This product designer position at Faculty was posted on 2026-04-29.
+This product designer position at Faculty was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

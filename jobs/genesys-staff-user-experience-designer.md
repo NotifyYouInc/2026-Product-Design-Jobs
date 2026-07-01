@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Staff User Experience Designer at Genesys
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Galway, Connacht, Ireland |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ireland/Staff-User-Experience-Designer_JR111495-1) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Genesys was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

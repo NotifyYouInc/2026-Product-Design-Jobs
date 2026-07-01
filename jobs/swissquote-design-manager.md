@@ -1,16 +1,16 @@
-# Staff Product Designer at Okta
+# Design Manager at Swissquote
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Swissquote](https://scoutify.ai/companies/swissquote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gland, Vaud, Switzerland |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8023904?gh_jid=8023904) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000133881790-design-manager) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-06-23.
+This product designer position at Swissquote was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Interaction Designer, Search Ads at Google
+# UX Designer, YouTube Live Creator Tools and Monetization at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUZJ_bBUfSLZZBI_RDmv7v53IKudZqjXtQSnA3pjbaY9EjsA1Ny_iyRoHZSCYo0T7oFF06LE6wiTuHJJpKNcKWlXMzvnI2KDvCdALKbYbnMbliARSon90F1QOiNnQw%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
+| Location | San Bruno, California, United States |
+| Category | UX Researcher |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSSoSYtAkhENRySK7OnG4bLgBxoLh1dH6jJnmzIa8PoPEjsA1Ny_iyz5NgVDlhNQi_RhXZnn2pJRemiSyuly_gZqH7BRMYTzbp1Swj6Stfo3Q7iZBk4wYVkv3w2zcA%3D%3D_V2&loc=US&title=UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-06-24.
+This ux researcher position at Google was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

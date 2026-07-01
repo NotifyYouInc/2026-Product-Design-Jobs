@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# UX/UI Designer at Toradex
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Toradex](https://scoutify.ai/companies/toradex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toradex/jobs/7779078003) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Toradex was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

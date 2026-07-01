@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Director, Product Design at Jasper
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Jasper](https://scoutify.ai/companies/jasper-20ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jasper%20ai/97bcb678-25d3-4550-b9e6-c4ec294e432c) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This product designer position at Jasper was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

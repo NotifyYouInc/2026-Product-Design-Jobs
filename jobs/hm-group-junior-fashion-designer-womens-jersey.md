@@ -1,16 +1,16 @@
-# Surface Design Summer Intern at Continental
+# Junior Fashion Designer - Women's Jersey at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auburn Hills, Michigan, United States |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133666269-surface-design-summer-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133633049-junior-fashion-designer-womens-jersey) |
 
 ## About This Role
 
-This product designer position at Continental was posted on 2026-06-23.
+This product designer position at H&M Group was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

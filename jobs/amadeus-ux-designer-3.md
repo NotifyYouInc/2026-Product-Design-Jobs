@@ -1,16 +1,16 @@
-# Staff Product Designer at Okta
+# UX Designer 3 at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8023904?gh_jid=8023904) |
+| Category | UX Researcher |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/UX-Designer-3_R35619-1) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-06-23.
+This ux researcher position at Amadeus was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

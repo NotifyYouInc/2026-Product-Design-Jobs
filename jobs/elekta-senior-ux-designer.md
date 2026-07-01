@@ -1,16 +1,16 @@
-# Group Manager, Product Design at ServiceTitan
+# Senior UX Designer at Elekta
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Elekta](https://scoutify.ai/companies/elekta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Crawley, England, United Kingdom |
 | Category | UX Researcher |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Group-Manager--Product-Design_JR115228-1) |
+| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Crawley/Senior-UX-Designer_R2026-0742) |
 
 ## About This Role
 
-This ux researcher position at ServiceTitan was posted on 2026-06-23.
+This ux researcher position at Elekta was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
