@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Sr. Product Designer II - Design Systems at Instacart
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Alberta, CA |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8026686) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Instacart was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

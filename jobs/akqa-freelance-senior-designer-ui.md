@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Freelance Senior Designer (UI) at AKQA
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Apply | [View on company site](https://www.akqa.com/jobs/8014355/?gh_jid=8014355) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at AKQA was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

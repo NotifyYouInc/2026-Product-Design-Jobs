@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Senior Product Designer – Core Experience at Spotify
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.lever.co/spotify/aff0c167-33a9-42a8-91e1-0b6d8b8e5809) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Spotify was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

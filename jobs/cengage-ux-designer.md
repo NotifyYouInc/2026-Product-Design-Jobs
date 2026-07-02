@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# UX Designer at Cengage
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Cengage](https://scoutify.ai/companies/cengage?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/United-States/UX-Designer_R2026-741) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Cengage was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

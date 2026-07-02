@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/UX-Designer_JR-0000095277) |
+| Location | Pune, Maharashtra, India |
+| Category | Product Designer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/UX-Designer_JR-0000115143) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-23.
+This product designer position at Barclays was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

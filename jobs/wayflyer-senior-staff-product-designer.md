@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Senior / Staff Product Designer at Wayflyer
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Wayflyer](https://scoutify.ai/companies/wayflyer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wayflyer/8379c33a-f708-4965-9acc-f63f10218d25) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Wayflyer was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

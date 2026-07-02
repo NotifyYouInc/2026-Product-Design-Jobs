@@ -1,16 +1,16 @@
-# Senior UX/UI Designer at Solventum
+# UI/UX Designer at Breeze Airways
 
 | Field | Details |
 |-------|---------|
-| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Breeze Airways](https://scoutify.ai/companies/breezeairways?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cottonwood Heights, Utah, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-UX-UI-Designer_R01131524) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7782408003) |
 
 ## About This Role
 
-This ux researcher position at Solventum was posted on 2026-06-24.
+This ux researcher position at Breeze Airways was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

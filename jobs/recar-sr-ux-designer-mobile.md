@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Sr UX Designer, Mobile at Recar
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Recar](https://scoutify.ai/companies/recar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://recar.wd108.myworkdayjobs.com/slatecareers/job/Remote/Sr-UX-Designer--Mobile_JR100775) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Recar was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

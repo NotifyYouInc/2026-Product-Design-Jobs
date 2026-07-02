@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Product Designer at 1Password
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [1Password](https://scoutify.ai/companies/1password?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/1password/92ec0d71-2abd-40a9-b541-1fe2524b385c) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at 1Password was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

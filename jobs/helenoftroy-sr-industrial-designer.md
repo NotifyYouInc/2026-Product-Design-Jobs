@@ -1,16 +1,16 @@
-# Senior Product Designer at Tailscale
+# Sr. Industrial Designer at Helenoftroy
 
 | Field | Details |
 |-------|---------|
-| Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Company | [Helenoftroy](https://scoutify.ai/companies/helenoftroy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4709138005) |
+| Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---New-York-New-York/Sr-Industrial-Designer_R0005971) |
 
 ## About This Role
 
-This product designer position at Tailscale was posted on 2026-06-24.
+This product designer position at Helenoftroy was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

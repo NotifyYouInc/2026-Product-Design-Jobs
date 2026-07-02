@@ -1,16 +1,16 @@
-# Senior Product Designer at Tailscale
+# Product UX Lead at Distro
 
 | Field | Details |
 |-------|---------|
-| Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
-| Category | Product Designer |
+| Company | [Distro](https://scoutify.ai/companies/distro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Philippines |
+| Category | Product Manager |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4709138005) |
+| Apply | [View on company site](https://jobs.lever.co/distro/31758958-5695-4309-a326-e7e3fef6bfc9) |
 
 ## About This Role
 
-This product designer position at Tailscale was posted on 2026-06-24.
+This product manager position at Distro was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

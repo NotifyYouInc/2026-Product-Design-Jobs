@@ -1,16 +1,16 @@
-# Senior UX/UI Designer at Solventum
+# Design Strategist - US Remote at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | North Carolina, US |
 | Category | UX Researcher |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-UX-UI-Designer_R01131524) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Design-Strategist---US-Remote_2015729) |
 
 ## About This Role
 
-This ux researcher position at Solventum was posted on 2026-06-24.
+This ux researcher position at Cisco was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

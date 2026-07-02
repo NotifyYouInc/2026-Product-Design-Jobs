@@ -1,16 +1,16 @@
-# Senior UX/UI Designer at Solventum
+# Lead Researcher at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | UX Researcher |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-UX-UI-Designer_R01131524) |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Lead-Researcher_R65505) |
 
 ## About This Role
 
-This ux researcher position at Solventum was posted on 2026-06-24.
+This ux researcher position at Motorola Solutions was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

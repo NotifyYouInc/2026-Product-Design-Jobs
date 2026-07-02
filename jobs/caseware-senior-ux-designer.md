@@ -1,16 +1,16 @@
-# Senior Product Designer at Cba
+# Senior UX Designer at Caseware
 
 | Field | Details |
 |-------|---------|
-| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Designer_REQ260659-1) |
+| Apply | [View on company site](https://jobs.lever.co/caseware/914505b0-cbc2-4d60-bc37-bee27a9d401c) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-06-25.
+This product designer position at Caseware was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Tailscale
+# Member of Product Staff, Designer/Design Engineer (London) at Metaview
 
 | Field | Details |
 |-------|---------|
-| Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Company | [Metaview](https://scoutify.ai/companies/metaview?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4709138005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/metaview/196fa91b-b547-45e8-ab3f-d42a4aa02337) |
 
 ## About This Role
 
-This product designer position at Tailscale was posted on 2026-06-24.
+This product designer position at Metaview was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

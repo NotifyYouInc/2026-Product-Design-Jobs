@@ -1,16 +1,16 @@
-# Senior UX/UI Designer at Solventum
+# Senior Experience Designer - Singapore (3 months Contract) at Valtech
 
 | Field | Details |
 |-------|---------|
-| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pennsylvania, US |
+| Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore |
 | Category | UX Researcher |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-UX-UI-Designer_R01131524) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4715730101) |
 
 ## About This Role
 
-This ux researcher position at Solventum was posted on 2026-06-24.
+This ux researcher position at Valtech was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

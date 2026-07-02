@@ -1,16 +1,16 @@
-# Senior Product Designer at Tailscale
+# Staff Product Designer at Ambiencehealthcare
 
 | Field | Details |
 |-------|---------|
-| Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Company | [Ambiencehealthcare](https://scoutify.ai/companies/ambiencehealthcare?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4709138005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambiencehealthcare/1def8c60-e448-422e-bc25-02ac950a2a87) |
 
 ## About This Role
 
-This product designer position at Tailscale was posted on 2026-06-24.
+This product designer position at Ambiencehealthcare was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

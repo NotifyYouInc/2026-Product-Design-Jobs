@@ -1,16 +1,16 @@
-# Senior Product Designer at Tailscale
+# Designer Intern at GE Aerospace
 
 | Field | Details |
 |-------|---------|
-| Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Product Designer |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4709138005) |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Queretaro/Designer-Intern_R5036453-1) |
 
 ## About This Role
 
-This product designer position at Tailscale was posted on 2026-06-24.
+This product designer position at GE Aerospace was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
