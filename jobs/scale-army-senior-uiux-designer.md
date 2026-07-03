@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Senior UI/UX Designer at Scale Army
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Scale Army](https://scoutify.ai/companies/scale-army?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Egypt |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scale%20army%20careers/2172279f-8bd5-43d8-9287-6bf28291affe) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at Scale Army was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

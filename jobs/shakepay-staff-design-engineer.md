@@ -1,16 +1,16 @@
-# Senior Design Engineer, Embedded Agreements at PandaDoc
+# Staff Design Engineer at Shakepay
 
 | Field | Details |
 |-------|---------|
-| Company | [PandaDoc](https://scoutify.ai/companies/pandadoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Poland |
+| Company | [Shakepay](https://scoutify.ai/companies/shakepay?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Frontend Engineer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/8028040) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/shakepay/jobs/4709566005) |
 
 ## About This Role
 
-This frontend engineer position at PandaDoc was posted on 2026-06-25.
+This frontend engineer position at Shakepay was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

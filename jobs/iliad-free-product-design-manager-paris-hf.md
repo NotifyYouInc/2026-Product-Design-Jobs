@@ -1,16 +1,16 @@
-# Sr. UX Designer at Thomson Reuters
+# Product Design Manager - Paris - H/F at Iliad-Free
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Sr-UX-Designer_JREQ201487) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000134274800-product-design-manager-paris-hf) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-06-25.
+This product designer position at Iliad-Free was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

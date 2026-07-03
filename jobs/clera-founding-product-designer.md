@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/52721677-80e5-48fb-8046-7a56a72be4e9) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/2616c711-abeb-4aaa-9e17-e9df5fe66f24) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-06-06.
+This product designer position at Clera was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

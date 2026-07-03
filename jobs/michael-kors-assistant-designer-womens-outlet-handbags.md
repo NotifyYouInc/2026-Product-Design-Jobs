@@ -1,16 +1,16 @@
-# Manager, Product Experience Design at Mastercard
+# Assistant Designer, Women’s Outlet Handbags at Michael Kors
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Michael Kors](https://scoutify.ai/companies/michael-kors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Manager--Product-Experience-Design_R-280805) |
+| Apply | [View on company site](https://capri.wd1.myworkdayjobs.com/michael_kors/job/NY-Metro-Area/Assistant-Designer--Women-s-Outlet-Handbags_R_785152) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-06-25.
+This product designer position at Michael Kors was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

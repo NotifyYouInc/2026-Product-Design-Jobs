@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London-30-Fenchurch-Street/UX-Designer_R00333596) |
+| Location | 3 locations |
+| Category | Product Designer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/UX-Designer_R00338597) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-06-03.
+This product designer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

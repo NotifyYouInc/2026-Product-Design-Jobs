@@ -1,16 +1,16 @@
-# Sr. UX Designer at Thomson Reuters
+# Custom Project Designer at Interface
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Interface](https://scoutify.ai/companies/interface?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | LaGrange, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Sr-UX-Designer_JREQ201487) |
+| Apply | [View on company site](https://interface.wd1.myworkdayjobs.com/interface/job/LaGrange-GA/Custom-Project-Designer_R4108) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-06-25.
+This product designer position at Interface was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

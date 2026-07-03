@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | UX Researcher |
 | Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132776539-intern-ux-ops-quick-commerce) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132797599-intern-ux-ops-quick-commerce) |
 
 ## About This Role
 

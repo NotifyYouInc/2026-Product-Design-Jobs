@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Industrial Designer at VML
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8522079002?gh_jid=8522079002) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at VML was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

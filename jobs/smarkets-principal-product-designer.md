@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Principal Product Designer at Smarkets
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Smarkets](https://scoutify.ai/companies/smarkets?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/smarkets/00b6eeb6-4378-481d-ad2e-2d1541638b90) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at Smarkets was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

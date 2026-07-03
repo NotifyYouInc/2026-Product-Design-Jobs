@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | UX Researcher |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751664) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756440) |
 
 ## About This Role
 
-This ux researcher position at JPMorgan Chase was posted on 2026-05-27.
+This ux researcher position at JPMorgan Chase was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

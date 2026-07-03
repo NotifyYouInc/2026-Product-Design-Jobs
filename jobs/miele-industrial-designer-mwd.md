@@ -1,16 +1,16 @@
-# Sr. UX Designer at Thomson Reuters
+# Industrial Designer (m/w/d) at Miele
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Miele](https://scoutify.ai/companies/miele?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gütersloh, North Rhine-Westphalia, Germany |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Sr-UX-Designer_JREQ201487) |
+| Apply | [View on company site](https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Gtersloh/Industrial-Designer--m-w-d-_R3479) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-06-25.
+This product designer position at Miele was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. UX Designer at Thomson Reuters
+# Senior UX Designer, International Emerging Stores (IES) at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Sr-UX-Designer_JREQ201487) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458592/senior-ux-designer-international-emerging-stores-ies) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-06-25.
+This product designer position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

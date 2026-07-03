@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# ED- Senior Product Designer at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/ED--Senior-Product-Designer_JR00008915) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at OCBC was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

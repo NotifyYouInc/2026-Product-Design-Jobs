@@ -1,16 +1,16 @@
-# Sr. UX Designer at Thomson Reuters
+# Application Technical Leader - UX/UI, GISACC at Valeo
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Product Designer |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Sr-UX-Designer_JREQ201487) |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Cairo/Application-Technical-Leader---UX-UI--GISACC_REQ2026077485-1) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-06-25.
+This product designer position at Valeo was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

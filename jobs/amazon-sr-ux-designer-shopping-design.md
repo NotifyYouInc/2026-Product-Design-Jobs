@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Sr. UX Designer, Shopping Design at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434397/sr-ux-designer-shopping-design) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at Amazon was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

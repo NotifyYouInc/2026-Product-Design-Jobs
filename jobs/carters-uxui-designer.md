@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# UX/UI Designer at Carter’s
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Carter’s](https://scoutify.ai/companies/carter-s?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://carters.wd1.myworkdayjobs.com/carterscareers/job/Atlanta-GA/UX-UI-Designer_JR59165) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at Carter’s was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

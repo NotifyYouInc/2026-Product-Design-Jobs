@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Product Designer at Anchanto
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Anchanto](https://scoutify.ai/companies/anchanto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anchanto/jobs/7785494003) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at Anchanto was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

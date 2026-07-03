@@ -1,16 +1,16 @@
-# Sr Product Designer at Disney
+# Manager, Product Design - Streaming Ad Platforms at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Product-Designer_10153819) |
+| Location | 3 locations |
+| Category | Engineering Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Manager--Product-Design---Streaming-Ad-Platforms_10154478) |
 
 ## About This Role
 
-This product designer position at Disney was posted on 2026-06-26.
+This engineering manager position at Disney was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

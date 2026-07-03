@@ -1,16 +1,16 @@
-# Senior Design Engineer, Embedded Agreements at PandaDoc
+# Lead Product Designer - Commodities (copy) at Kpler
 
 | Field | Details |
 |-------|---------|
-| Company | [PandaDoc](https://scoutify.ai/companies/pandadoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Poland |
-| Category | Frontend Engineer |
+| Company | [Kpler](https://scoutify.ai/companies/kpler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hungary |
+| Category | Marketing |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/8028040) |
+| Apply | [View on company site](https://jobs.lever.co/kpler/3187e6fc-f397-44b1-bdcc-96623dd60f8e) |
 
 ## About This Role
 
-This frontend engineer position at PandaDoc was posted on 2026-06-25.
+This marketing position at Kpler was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

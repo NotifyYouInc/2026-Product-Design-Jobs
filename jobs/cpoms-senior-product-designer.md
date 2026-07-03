@@ -1,16 +1,16 @@
-# Founding Product Designer at Almedia
+# Senior Product Designer at CPOMS
 
 | Field | Details |
 |-------|---------|
-| Company | [Almedia](https://scoutify.ai/companies/almedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [CPOMS](https://scoutify.ai/companies/cpomscouk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Skipton, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/almedia/b07bd0b9-db35-4663-a524-6cbbcab0cca9) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpomscouk/jobs/5276908008) |
 
 ## About This Role
 
-This product designer position at Almedia was posted on 2026-06-26.
+This product designer position at CPOMS was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
