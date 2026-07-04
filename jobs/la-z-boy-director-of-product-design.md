@@ -1,16 +1,16 @@
-# Innovation Product Designer at Brown Brothers Harriman
+# Director of Product Design at La-Z-Boy
 
 | Field | Details |
 |-------|---------|
-| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [La-Z-Boy](https://scoutify.ai/companies/lazboy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Monroe, Louisiana, United States |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Designer_71764) |
+| Apply | [View on company site](https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Monroe-MI/Director-of-Product-Design_JR133377) |
 
 ## About This Role
 
-This product designer position at Brown Brothers Harriman was posted on 2026-06-26.
+This product designer position at La-Z-Boy was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

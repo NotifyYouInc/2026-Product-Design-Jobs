@@ -1,16 +1,16 @@
-# Product Designer at Beaconai
+# Senior Product Designer at Koho
 
 | Field | Details |
 |-------|---------|
-| Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Carlos, California, United States |
+| Company | [Koho](https://scoutify.ai/companies/koho?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/koho/3a1ab421-bec8-4933-9176-88751b5bbfb8) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Koho was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Senior Visual Designer at Google
+# Senior UX Design Manager, Sales Intelligence, Google Ads at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcoA3-tHZV0BcitR-hk5wPIAVvzeyFYHVMm4NSh7RyvuEjsA1Ny_i40b9hZGzlpPpxeiTa9qwTT32lKGWuWs9FLlprc9OJ3TfoJtjSD0hHwonnMJ0fUgbBAvIQIbBA%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd3033mEs_B2jIjIAmw26aJOCprrulZNL-WzRM2Fzl4IEjsA1Ny_i_1l2sLxKgVWTG1LWGgu1RjSgZfIPy8yicncRfz0bkOwykAS6WvMVg-q4qh2cYJRwAQBYql4rQ%3D%3D_V2&loc=US&title=Senior+UX+Design+Manager) |
 
 ## About This Role
 

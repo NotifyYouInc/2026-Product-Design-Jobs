@@ -1,16 +1,16 @@
-# Product Designer at Beaconai
+# Senior Product Designer (m/f/d) - FlixTrain Operations Management Platform at Flix
 
 | Field | Details |
 |-------|---------|
-| Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Carlos, California, United States |
+| Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://flix.careers/job/8598466002?gh_jid=8598466002) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Flix was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | UX Researcher |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132797599-intern-ux-ops-quick-commerce) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133617515-intern-ux-ops-quick-commerce) |
 
 ## About This Role
 
-This ux researcher position at Delivery Hero was posted on 2026-06-18.
+This ux researcher position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

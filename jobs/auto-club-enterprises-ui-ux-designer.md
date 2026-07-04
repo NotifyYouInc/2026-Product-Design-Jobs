@@ -1,16 +1,16 @@
-# Innovation Product Designer at Brown Brothers Harriman
+# UI UX Designer at Auto Club Enterprises
 
 | Field | Details |
 |-------|---------|
-| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Designer_71764) |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Los-Angeles-CA/UI-UX-Designer_JR202637472) |
 
 ## About This Role
 
-This product designer position at Brown Brothers Harriman was posted on 2026-06-26.
+This product designer position at Auto Club Enterprises was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

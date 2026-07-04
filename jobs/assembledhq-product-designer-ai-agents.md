@@ -1,16 +1,16 @@
-# Innovation Product Designer at Brown Brothers Harriman
+# Product Designer, AI Agents at Assembledhq
 
 | Field | Details |
 |-------|---------|
-| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Assembledhq](https://scoutify.ai/companies/assembledhq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Designer_71764) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/assembledhq/1e6165e1-4274-4ed6-9410-5ebb05639486) |
 
 ## About This Role
 
-This product designer position at Brown Brothers Harriman was posted on 2026-06-26.
+This product designer position at Assembledhq was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

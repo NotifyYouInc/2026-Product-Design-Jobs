@@ -1,16 +1,16 @@
-# Product Designer at Beaconai
+# Staff UX Designer at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Carlos, California, United States |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Staff-UX-Designer_R1313513) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Danaher was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

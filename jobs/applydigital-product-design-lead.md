@@ -1,16 +1,16 @@
-# Product Designer at Beaconai
+# Product Design Lead at Applydigital
 
 | Field | Details |
 |-------|---------|
-| Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Carlos, California, United States |
+| Company | [Applydigital](https://scoutify.ai/companies/applydigital?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.lever.co/applydigital/2d2f965e-f9dc-42ac-8cd3-3fd7b53993f6) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Applydigital was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

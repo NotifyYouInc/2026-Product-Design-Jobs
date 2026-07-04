@@ -1,16 +1,16 @@
-# Innovation Product Designer at Brown Brothers Harriman
+# Senior UX Designer - League of Legends (12 Month Contract)   at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Designer_71764) |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8028983?gh_jid=8028983) |
 
 ## About This Role
 
-This product designer position at Brown Brothers Harriman was posted on 2026-06-26.
+This product designer position at Riot Games was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

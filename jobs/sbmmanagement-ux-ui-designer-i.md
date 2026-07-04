@@ -1,16 +1,16 @@
-# Product Designer at Beaconai
+# UX UI Designer I at Sbmmanagement
 
 | Field | Details |
 |-------|---------|
-| Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Carlos, California, United States |
+| Company | [Sbmmanagement](https://scoutify.ai/companies/sbmmanagement?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://sbmmanagement.wd108.myworkdayjobs.com/sbm/job/MCCLELLAN-CA/UX-UI-Designer-I_JR105853-1) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Sbmmanagement was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

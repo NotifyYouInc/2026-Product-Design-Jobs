@@ -1,12 +1,12 @@
-# Senior Visual Designer at Google
+# Senior UX Designer, Trust UX at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcoA3-tHZV0BcitR-hk5wPIAVvzeyFYHVMm4NSh7RyvuEjsA1Ny_i40b9hZGzlpPpxeiTa9qwTT32lKGWuWs9FLlprc9OJ3TfoJtjSD0hHwonnMJ0fUgbBAvIQIbBA%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQXjplP1XtdJ3UAHRqT2y565WPbksefzFjdtgwPeAAxZEjsA1Ny_i7Tr9fVRZbc3QYi_aZt3iBaekr0xcfLn0u9QZ-OwCi7YDXwI_hBfYLiP-ciIagw-XMqfjJILGw%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 

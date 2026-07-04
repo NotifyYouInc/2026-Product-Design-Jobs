@@ -1,16 +1,16 @@
-# Innovation Product Designer at Brown Brothers Harriman
+# Designer, Womens, Outerwear & Bottoms at Gap Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-06-26 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Designer_71764) |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/NY-55-Thomas-St/Designer--Womens-Outerwear---Bottoms---Gap_R214178) |
 
 ## About This Role
 
-This product designer position at Brown Brothers Harriman was posted on 2026-06-26.
+This product designer position at Gap Inc. was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
