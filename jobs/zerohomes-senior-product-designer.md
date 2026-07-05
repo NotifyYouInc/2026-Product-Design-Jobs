@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Senior Product Designer at Zerohomes
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Zerohomes](https://scoutify.ai/companies/zerohomes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/9d8c1324-5555-4225-a441-5b11a0fc0a82) |
+| Posted | 2024-12-06 |
+| Apply | [View on company site](https://jobs.lever.co/zerohomes/1fa85e39-9f95-40da-ae1b-60d9b9810934) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-06-27.
+This product designer position at Zerohomes was posted on 2024-12-06.
 
 ## Get Real-Time Alerts
 

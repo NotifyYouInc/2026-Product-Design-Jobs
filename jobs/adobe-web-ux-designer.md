@@ -1,16 +1,16 @@
-# Product Designer (UI/UX) at Bjak
+# Web UX Designer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/9d8c1324-5555-4225-a441-5b11a0fc0a82) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Web-UX-Designer_R170004) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-06-27.
+This product designer position at Adobe was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 
