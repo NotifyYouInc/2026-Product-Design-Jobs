@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/UX-Designer_3163239) |
+| Location | Scotts Valley, California, United States |
+| Category | Product Designer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Scotts-Valley-California-United-States-of-America/UX-Designer_3164681-2) |
 
 ## About This Role
 
-This ux researcher position at Hewlett Packard (HP) was posted on 2026-05-07.
+This product designer position at Hewlett Packard (HP) was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exostar](https://scoutify.ai/companies/recruiting-ultipro-com-oj37299?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Marketing |
+| Category | Graphic / Brand Design |
 | Posted | 2026-06-26 |
 | Apply | [View on company site](https://recruiting.ultipro.com/exo1000exo/JobBoard/a74089e3-a720-eb42-08c6-31c7d206b3ea/OpportunityDetail?opportunityId=bf06931b-efff-4b0c-8dc1-a4d0e50cd665) |
 
 ## About This Role
 
-This marketing position at Exostar was posted on 2026-06-26.
+This graphic / brand design position at Exostar was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

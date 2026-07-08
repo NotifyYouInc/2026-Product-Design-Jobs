@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 6 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133614819-senior-interaction-designer) |
 
 ## About This Role
 
-This ux researcher position at Version 1 was posted on 2026-06-23.
+This product designer position at Version 1 was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

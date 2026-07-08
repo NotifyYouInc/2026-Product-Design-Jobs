@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Budapest-Flexible/Product-Designer--UX-_JR111447-1) |
 
 ## About This Role
 
-This ux researcher position at Genesys was posted on 2026-06-24.
+This product designer position at Genesys was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

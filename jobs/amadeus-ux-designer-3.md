@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/UX-Designer-3_R35619-1) |
 
 ## About This Role
 
-This ux researcher position at Amadeus was posted on 2026-06-24.
+This product designer position at Amadeus was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

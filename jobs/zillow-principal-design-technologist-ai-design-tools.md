@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Frontend Engineer |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Principal-Design-Technologist--AI-Design-Tools_P750541-1) |
 
 ## About This Role
 
-This frontend engineer position at Zillow was posted on 2026-06-24.
+This product designer position at Zillow was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

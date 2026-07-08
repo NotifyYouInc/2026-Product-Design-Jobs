@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132699939-principal-product-designer-latam) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135105074-principal-product-designer-latam) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-06-17.
+This product designer position at WISE was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

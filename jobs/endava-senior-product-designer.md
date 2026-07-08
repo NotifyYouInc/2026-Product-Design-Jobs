@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Romania |
+| Location | Iaşi, Iași County, Romania |
 | Category | Product Designer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000107019827-senior-product-designer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000135247135-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at Endava was posted on 2026-02-03.
+This product designer position at Endava was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

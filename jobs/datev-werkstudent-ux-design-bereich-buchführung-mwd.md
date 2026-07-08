@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DATEV](https://scoutify.ai/companies/datev?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Germany |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://datev.wd3.myworkdayjobs.com/datev_careers/job/Nuremberg/Werkstudent-UX-Design-Bereich-Buchfhrung--m-w-d-_ID15136) |
 
 ## About This Role
 
-This ux researcher position at DATEV was posted on 2026-06-23.
+This product designer position at DATEV was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

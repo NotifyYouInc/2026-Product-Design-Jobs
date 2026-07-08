@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Judi Health](https://scoutify.ai/companies/judi-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capitalrx/jobs/5277392008) |
 
 ## About This Role
 
-This ux researcher position at Judi Health was posted on 2026-06-24.
+This product designer position at Judi Health was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

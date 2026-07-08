@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5991409004) |
 
 ## About This Role
 
-This ux researcher position at Diligent Corporation was posted on 2026-06-24.
+This product designer position at Diligent Corporation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

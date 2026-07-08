@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Easygo Gaming](https://scoutify.ai/companies/easygo-gaming?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/easygo/jobs/5049452007) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/easygo/jobs/5176887007) |
 
 ## About This Role
 
-This product designer position at Easygo Gaming was posted on 2026-02-11.
+This product designer position at Easygo Gaming was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

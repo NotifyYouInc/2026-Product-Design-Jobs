@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneScreen](https://scoutify.ai/companies/onescreen?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Islamabad, Islamabad, Pakistan |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/OneScreen/744000133687159-uiux-designer) |
 
 ## About This Role
 
-This ux researcher position at OneScreen was posted on 2026-06-23.
+This product designer position at OneScreen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

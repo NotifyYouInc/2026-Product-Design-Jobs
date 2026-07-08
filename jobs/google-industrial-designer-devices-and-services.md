@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU-1AXGBV12TzEsxnuV4paWorPlNlLt5AIUROZqTIrNQEjoACxwdTMOLSuaz5CrBWKWjR3MQ4z0Xnt36p5xw702bH-LLZR5ey0n9Vtd5k-M07R9kVzcQi9hCarzg_V2&loc=US&title=Industrial+Designer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVKwcL8dg4md2GvmLwRszPhFImD8c_syJSxGyS1dL5-SEjsA1Ny_izTs1C5rnstI1yaJIlLSj0MwhdDikqO_zltrTT-7e6HRXv9Tr_SlHc4DVfsMkazh6Snqgj7VNA%3D%3D_V2&loc=US&title=Industrial+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-04-16.
+This product designer position at Google was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

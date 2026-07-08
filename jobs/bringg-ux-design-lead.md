@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bringg](https://scoutify.ai/companies/bringg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/bringg/jobs/8604252002) |
 
 ## About This Role
 
-This ux researcher position at Bringg was posted on 2026-06-23.
+This product designer position at Bringg was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

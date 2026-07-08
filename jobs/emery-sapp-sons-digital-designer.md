@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Emery Sapp & Sons](https://scoutify.ai/companies/emery-sapp-sons?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://emerysapp.wd501.myworkdayjobs.com/ess/job/Kansas-City-MO/Digital-Designer_JR3022-1) |
 
 ## About This Role
 
-This ux researcher position at Emery Sapp & Sons was posted on 2026-06-25.
+This product designer position at Emery Sapp & Sons was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

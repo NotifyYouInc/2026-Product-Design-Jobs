@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-22 |
 | Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Croeselaan-18/Senior-Experience-Designer---Business-Lending_JR_00142376) |
 
 ## About This Role
 
-This ux researcher position at Rabobank was posted on 2026-06-22.
+This product designer position at Rabobank was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

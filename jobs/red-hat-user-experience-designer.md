@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Raleigh, North Carolina, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/User-Experience-Designer_R-058093) |
 
 ## About This Role
 
-This ux researcher position at Red Hat was posted on 2026-06-23.
+This product designer position at Red Hat was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

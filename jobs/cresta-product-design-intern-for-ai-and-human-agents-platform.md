@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-22 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/4476000008) |
 
 ## About This Role
 
-This ux researcher position at Cresta was posted on 2026-06-22.
+This product designer position at Cresta was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

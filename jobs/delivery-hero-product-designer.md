@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Indonesia |
 | Category | Product Designer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131600546-product-designer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135172599-product-designer) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-06-11.
+This product designer position at Delivery Hero was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Current-Interns-Only---UX-Designer---Summer-2026_R0000443505) |
 
 ## About This Role
 
-This ux researcher position at Target was posted on 2026-06-24.
+This product designer position at Target was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

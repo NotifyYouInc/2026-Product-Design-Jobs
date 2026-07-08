@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hy-Vee](https://scoutify.ai/companies/hy-vee?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Grimes, Iowa, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-22 |
 | Apply | [View on company site](https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Senior-User-Experience-Designer_R237904) |
 
 ## About This Role
 
-This ux researcher position at Hy-Vee was posted on 2026-06-22.
+This product designer position at Hy-Vee was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

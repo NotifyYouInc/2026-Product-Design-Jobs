@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Santa Clara, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/Designer_R323288) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Santa-Clara---2250-Lawson-Ln/Designer_R325796-1) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-06-22.
+This product designer position at Cushman & Wakefield was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-22 |
 | Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-UX-Designer---AI-Incubation-Lab_R-106363) |
 
 ## About This Role
 
-This ux researcher position at Expedia was posted on 2026-06-22.
+This product designer position at Expedia was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

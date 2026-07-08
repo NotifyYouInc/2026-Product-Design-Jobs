@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130094669-product-design-i) |
+| Category | Product Designer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135121204-product-design-i) |
 
 ## About This Role
 
-This ux researcher position at Experian was posted on 2026-06-03.
+This product designer position at Experian was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

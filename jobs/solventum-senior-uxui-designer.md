@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pennsylvania, US |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Pennsylvania/Senior-UX-UI-Designer_R01131524) |
 
 ## About This Role
 
-This ux researcher position at Solventum was posted on 2026-06-24.
+This product designer position at Solventum was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Enzazaden](https://scoutify.ai/companies/enzazaden?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Enkhuizen, North Holland, The Netherlands |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://enzazaden.wd103.myworkdayjobs.com/enza-careers/job/Enkhuizen-The-Netherlands/Digital-Experience-UI-UX-Designer_JR105349) |
 
 ## About This Role
 
-This ux researcher position at Enzazaden was posted on 2026-06-24.
+This product designer position at Enzazaden was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

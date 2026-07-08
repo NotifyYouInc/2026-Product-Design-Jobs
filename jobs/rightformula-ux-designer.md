@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rightformula](https://scoutify.ai/companies/rightformula?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.lever.co/rightformula/b8c5ca0b-82ae-4b3e-a2e8-76ca0e63fb46) |
+| Category | Product Designer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/rightformula/7618f194-118b-4ea0-a540-97f7400d09b6) |
 
 ## About This Role
 
-This ux researcher position at Rightformula was posted on 2026-04-29.
+This product designer position at Rightformula was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

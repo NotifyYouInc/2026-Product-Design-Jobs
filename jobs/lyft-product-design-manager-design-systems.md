@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8584091002?gh_jid=8584091002) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8609720002?gh_jid=8609720002) |
 
 ## About This Role
 
-This product designer position at Lyft was posted on 2026-06-09.
+This product designer position at Lyft was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

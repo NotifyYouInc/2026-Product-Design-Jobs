@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000123546359-senior-interior-designer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000134864549-senior-interior-designer) |
 
 ## About This Role
 
-This product designer position at AECOM was posted on 2026-04-28.
+This product designer position at AECOM was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

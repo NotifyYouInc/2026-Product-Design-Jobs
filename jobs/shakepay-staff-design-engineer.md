@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Shakepay](https://scoutify.ai/companies/shakepay?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Canada |
-| Category | Frontend Engineer |
+| Category | Product Designer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/shakepay/jobs/4709566005) |
 
 ## About This Role
 
-This frontend engineer position at Shakepay was posted on 2026-06-25.
+This product designer position at Shakepay was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

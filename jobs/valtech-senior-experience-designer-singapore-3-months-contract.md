@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4715730101) |
 
 ## About This Role
 
-This ux researcher position at Valtech was posted on 2026-06-24.
+This product designer position at Valtech was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

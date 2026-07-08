@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Lead-User-Experience-Designer_R0938215) |
 
 ## About This Role
 
-This ux researcher position at CVS Health was posted on 2026-06-23.
+This product designer position at CVS Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

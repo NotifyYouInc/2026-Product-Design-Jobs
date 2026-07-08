@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SciLeads](https://scoutify.ai/companies/scileads?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/scileads/jobs/4906387101) |
 
 ## About This Role
 
-This ux researcher position at SciLeads was posted on 2026-06-24.
+This product designer position at SciLeads was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-Experience-Designer_R65527) |
 
 ## About This Role
 
-This ux researcher position at Motorola Solutions was posted on 2026-06-23.
+This product designer position at Motorola Solutions was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Indonesia |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Jakarta-Selatan-Jakarta-Raya/UI-UX-Designer_JR00125229) |
 
 ## About This Role
 
-This ux researcher position at Sun Life was posted on 2026-06-23.
+This product designer position at Sun Life was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

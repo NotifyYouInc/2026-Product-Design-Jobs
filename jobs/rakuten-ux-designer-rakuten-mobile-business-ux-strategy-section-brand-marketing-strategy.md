@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/UX-Designer--Rakuten-Mobile-business----UX-Strategy-Section--Brand-Marketing-Strategy-Department--Marketing-Division_1034651-149) |
 
 ## About This Role
 
-This ux researcher position at Rakuten was posted on 2026-06-24.
+This product designer position at Rakuten was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

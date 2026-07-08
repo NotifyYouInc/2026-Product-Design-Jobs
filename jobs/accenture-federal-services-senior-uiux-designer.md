@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4691479006?gh_jid=4691479006) |
 
 ## About This Role
 
-This ux researcher position at Accenture Federal Services was posted on 2026-06-23.
+This product designer position at Accenture Federal Services was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

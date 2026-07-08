@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Beirut, Beyrouth, Lebanon |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.akqa.com/jobs/7984454/?gh_jid=7984454) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.akqa.com/jobs/8023708/?gh_jid=8023708) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-06-05.
+This product designer position at AKQA was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

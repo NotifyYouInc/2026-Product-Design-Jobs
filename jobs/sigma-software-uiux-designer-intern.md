@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000130770439-uiux-designer-intern) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000135274976-uiux-designer-intern) |
 
 ## About This Role
 
-This product designer position at Sigma Software was posted on 2026-06-08.
+This product designer position at Sigma Software was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PandaDoc](https://scoutify.ai/companies/pandadoc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Poland |
-| Category | Frontend Engineer |
+| Category | Product Designer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/pandadoc/jobs/8028040) |
 
 ## About This Role
 
-This frontend engineer position at PandaDoc was posted on 2026-06-25.
+This product designer position at PandaDoc was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

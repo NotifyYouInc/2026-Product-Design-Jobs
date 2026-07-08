@@ -5,12 +5,12 @@
 | Company | [Moneyboxapp](https://scoutify.ai/companies/moneyboxapp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/moneyboxapp/3395ad66-3475-42ac-8eca-37d893a23dec) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/moneyboxapp/1fd13cdb-60b2-4243-a12b-966ced636eb8) |
 
 ## About This Role
 
-This product designer position at Moneyboxapp was posted on 2026-04-16.
+This product designer position at Moneyboxapp was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

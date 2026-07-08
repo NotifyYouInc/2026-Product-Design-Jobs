@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRin-i8OWNcp2afsQReV_v5qFA8-8lJaNo7RZlxqsSxREjsA1Ny_i0dZORBS4fcFsTKyrdVJqWUtKGcXwI-KTP6-nw9oxv4bWit9idOGJBaZBmpNejEV4IQGL3eECw%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This ux researcher position at Google was posted on 2026-06-23.
+This product designer position at Google was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

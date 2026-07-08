@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Superside](https://scoutify.ai/companies/superside?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Growth Marketing |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://jobs.lever.co/superside/697a0f17-db52-4c97-b33c-ded9eb3b95fb) |
 
 ## About This Role
 
-This growth marketing position at Superside was posted on 2026-06-23.
+This product designer position at Superside was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

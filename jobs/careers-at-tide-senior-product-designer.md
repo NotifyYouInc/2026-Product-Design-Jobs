@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Serbia |
+| Location | Lithuania |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7788378003) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-06-22.
+This product designer position at Careers at Tide was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

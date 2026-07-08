@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | Engineering Manager |
+| Category | Product Designer |
 | Posted | 2026-06-25 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Manager--Product-Design---Streaming-Ad-Platforms_10154478) |
 
 ## About This Role
 
-This engineering manager position at Disney was posted on 2026-06-25.
+This product designer position at Disney was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

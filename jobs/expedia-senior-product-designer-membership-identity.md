@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Product-Designer---Membership---Identity_R-106617-1) |
 
 ## About This Role
 
-This ux researcher position at Expedia was posted on 2026-06-23.
+This product designer position at Expedia was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

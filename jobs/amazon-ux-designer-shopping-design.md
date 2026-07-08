@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430975/ux-designer-shopping-design) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457067/ux-designer-shopping-design) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-05-26.
+This product designer position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

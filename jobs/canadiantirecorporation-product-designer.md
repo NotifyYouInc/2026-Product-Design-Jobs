@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Oakville, Ontario, Canada |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Oakville-ON/Product-Designer_JR161695) |
 
 ## About This Role
 
-This ux researcher position at Canadiantirecorporation was posted on 2026-06-24.
+This product designer position at Canadiantirecorporation was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

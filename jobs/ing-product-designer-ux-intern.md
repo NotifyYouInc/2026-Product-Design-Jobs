@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-24 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Product-Designer--UX--Intern_REQ-10116388-1) |
 
 ## About This Role
 
-This ux researcher position at ING was posted on 2026-06-24.
+This product designer position at ING was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

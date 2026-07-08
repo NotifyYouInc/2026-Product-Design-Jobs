@@ -5,12 +5,12 @@
 | Company | [PatientPoint](https://scoutify.ai/companies/patientpoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/patientpoint/jobs/4688861005) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/patientpoint/jobs/4710182005) |
 
 ## About This Role
 
-This product designer position at PatientPoint was posted on 2026-04-28.
+This product designer position at PatientPoint was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

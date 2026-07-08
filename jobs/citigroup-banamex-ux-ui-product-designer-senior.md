@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-06-23 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-UX-UI-Product-Designer-Senior_26973578) |
 
 ## About This Role
 
-This ux researcher position at Citigroup was posted on 2026-06-23.
+This product designer position at Citigroup was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
