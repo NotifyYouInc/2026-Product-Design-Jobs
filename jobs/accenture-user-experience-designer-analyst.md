@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# User Experience Designer Analyst at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/978766321819506) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/User-Experience-Designer-Analyst_14484712) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-07-01.
+This product designer position at Accenture was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

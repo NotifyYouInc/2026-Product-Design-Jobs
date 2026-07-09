@@ -1,16 +1,16 @@
-# Designer – Interiors – Mid Level at Gensler
+# UX Designer Contractor at Peter Millar
 
 | Field | Details |
 |-------|---------|
-| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Newport Beach, California, United States |
+| Company | [Peter Millar](https://scoutify.ai/companies/petermillarllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Durham, North Carolina, United States |
 | Category | Product Designer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Newport-Beach-CA-US/Designer---Interiors---Mid-Level_R-18002) |
+| Apply | [View on company site](https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Seasonal-UX-Designer_JR100681) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-07-02.
+This product designer position at Peter Millar was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

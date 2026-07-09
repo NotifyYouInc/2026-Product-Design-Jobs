@@ -1,16 +1,16 @@
-# Senior Product Designer at Fundraise Up
+# Product Designer at Gravitational
 
 | Field | Details |
 |-------|---------|
-| Company | [Fundraise Up](https://scoutify.ai/companies/fundraise-up?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Turkey |
+| Company | [Gravitational](https://scoutify.ai/companies/gravitational?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://fundraiseup.com/careers/4708162005/?gh_jid=4708162005) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/goteleport/cb927a82-3846-4743-bac8-d2fcd622e908) |
 
 ## About This Role
 
-This product designer position at Fundraise Up was posted on 2026-06-22.
+This product designer position at Gravitational was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

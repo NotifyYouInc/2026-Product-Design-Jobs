@@ -1,16 +1,16 @@
-# Product Designer at Meta
+# Sr. Associate, Retail Design & Experience at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Menlo Park, California, United States |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/978766321819506) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/New-York/Sr-Associate--Retail-Design---Experience_Req1589908-1) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-07-01.
+This product designer position at Santander was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

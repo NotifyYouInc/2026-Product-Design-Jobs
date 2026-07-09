@@ -1,16 +1,16 @@
-# Designer – Interiors – Mid Level at Gensler
+# UI/UX Designer at Trimble
 
 | Field | Details |
 |-------|---------|
-| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Newport Beach, California, United States |
+| Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Christchurch, Canterbury, New Zealand |
 | Category | Product Designer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Newport-Beach-CA-US/Designer---Interiors---Mid-Level_R-18002) |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/UI-UX-Designer_R56044) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-07-02.
+This product designer position at Trimble was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

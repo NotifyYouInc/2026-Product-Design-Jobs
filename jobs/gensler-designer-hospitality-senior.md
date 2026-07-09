@@ -1,12 +1,12 @@
-# Designer – Interiors – Mid Level at Gensler
+# Designer - Hospitality - Senior at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Newport-Beach-CA-US/Designer---Interiors---Mid-Level_R-18002) |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Atlanta-GA-US/Designer---Hospitality---Senior_R-17996) |
 
 ## About This Role
 

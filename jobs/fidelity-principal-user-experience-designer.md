@@ -1,16 +1,16 @@
-# Designer – Interiors – Mid Level at Gensler
+# Principal User Experience Designer at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Newport Beach, California, United States |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-07-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Newport-Beach-CA-US/Designer---Interiors---Mid-Level_R-18002) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Dublin-Ireland/Principal-User-Experience-Designer_2131769) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-07-02.
+This product designer position at Fidelity was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
