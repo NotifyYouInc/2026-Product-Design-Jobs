@@ -1,16 +1,16 @@
-# Product Designer – Junior at Gensler
+# Product Designer - Junior at Gensler
 
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Los-Angeles-CA-US/Product-Designer---Junior_R-17840) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Product-Designer---Junior_R-18018) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-06-02.
+This product designer position at Gensler was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Shanghai/Retail-Design-Manager_0000035339) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Shanghai/Retail-Design-Manager_0000036190-1) |
 
 ## About This Role
 
-This product designer position at LEGO was posted on 2026-06-05.
+This product designer position at LEGO was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | UX Researcher |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000125289979-ux-designer-design-system) |
+| Category | Product Designer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000135445059-ux-designer-design-system) |
 
 ## About This Role
 
-This ux researcher position at TOPdesk was posted on 2026-05-08.
+This product designer position at TOPdesk was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

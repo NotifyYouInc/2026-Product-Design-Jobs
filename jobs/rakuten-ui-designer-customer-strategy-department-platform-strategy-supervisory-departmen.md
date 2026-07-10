@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Designer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/UI-Designer---Customer-Strategy-Department--Platform-Strategy-Supervisory-Department--CSD-_1031477-35) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/UI-Designer---Customer-Strategy-Department--Platform-Strategy-Supervisory-Department--CSD-_1034563-1) |
 
 ## About This Role
 
-This product designer position at Rakuten was posted on 2026-02-03.
+This product designer position at Rakuten was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

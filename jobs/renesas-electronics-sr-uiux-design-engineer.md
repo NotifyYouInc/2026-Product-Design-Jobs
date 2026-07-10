@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | UX Researcher |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126515760-sr-uiux-design-engineer) |
+| Category | Product Designer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135651619-sr-uiux-design-engineer) |
 
 ## About This Role
 
-This ux researcher position at Renesas Electronics was posted on 2026-05-14.
+This product designer position at Renesas Electronics was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | UX Researcher |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000132392139-senior-ui-designer) |
+| Category | Product Designer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000135459999-senior-ui-designer) |
 
 ## About This Role
 
-This ux researcher position at Gameloft was posted on 2026-06-16.
+This product designer position at Gameloft was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Experience Design Senior Associate -  Small Business, Business Access & Tools – Access & Security Manager at JPMorgan Chase
+# Experience Design Senior Associate - Small Business, Business Access & Tools – Access & Security Manager at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707020) |
+| Location | Hyderabad, Telangana, India |
+| Category | Product Designer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758625) |
 
 ## About This Role
 
-This ux researcher position at JPMorgan Chase was posted on 2026-04-27.
+This product designer position at JPMorgan Chase was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

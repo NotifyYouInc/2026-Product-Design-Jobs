@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/97929516520743622-senior-interaction-designer?sort_by=date&page=1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVYXvXsfl5_soP80u4wvHPmimIL2sqgIr0xw3wdB8ByZEjsA1Ny_i2UqsFkgXhSd1GTnNBI3klv8l1t7ANuNG7p2epErNTvR4amRjW5iKYHOc4GH366iFpDlEXIVaA%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-18.
+This product designer position at Google was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

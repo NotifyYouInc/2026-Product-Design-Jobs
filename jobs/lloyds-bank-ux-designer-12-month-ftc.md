@@ -1,16 +1,16 @@
-# UX Designer (12 Month FTC) at Lloyds Bank
+# UX Designer - 12-Month FTC at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/UX-Designer--12-Month-FTC-_157900-1) |
+| Location | 3 locations |
+| Category | Product Designer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/UX-Designer---12-Month-FTC_160015-1) |
 
 ## About This Role
 
-This ux researcher position at Lloyds Bank was posted on 2026-05-28.
+This product designer position at Lloyds Bank was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

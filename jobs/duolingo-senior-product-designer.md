@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duolingo](https://scoutify.ai/companies/duolingo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://careers.duolingo.com/jobs/8402493002?gh_jid=8402493002) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://careers.duolingo.com/jobs/8618405002?gh_jid=8618405002) |
 
 ## About This Role
 
-This product designer position at Duolingo was posted on 2026-02-05.
+This product designer position at Duolingo was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Designer--Adobe-Express_R170017-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Designer--Adobe-Express_R170179-1) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-06-23.
+This product designer position at Adobe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Visual Designer (12-Month FTC) at Lloyds Bank
+# Visual Designer - 12 Month FTC at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Visual-Designer--12-Month-FTC-_137122) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Visual-Designer---12-Month-FTC_160013-1) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-03-12.
+This product designer position at Lloyds Bank was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

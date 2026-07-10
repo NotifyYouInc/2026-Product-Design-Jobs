@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7588042) |
+| Category | Product Designer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8044948) |
 
 ## About This Role
 
-This ux researcher position at DEPT® was posted on 2026-04-23.
+This product designer position at DEPT® was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

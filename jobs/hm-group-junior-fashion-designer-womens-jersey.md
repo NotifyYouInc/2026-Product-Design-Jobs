@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000133633049-junior-fashion-designer-womens-jersey) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000135170044-junior-fashion-designer-womens-jersey) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-06-23.
+This product designer position at H&M Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
