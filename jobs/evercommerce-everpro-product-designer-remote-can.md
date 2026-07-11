@@ -1,16 +1,16 @@
-# Product Designer at Dentsu
+# EverPro - Product Designer (Remote, CAN) at EverCommerce
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [EverCommerce](https://scoutify.ai/companies/evercommerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Product-Designer_R1126770) |
+| Apply | [View on company site](https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Canada/EverPro---Product-Designer--Remote--CAN-_R-106336) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-07-03.
+This product designer position at EverCommerce was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

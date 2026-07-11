@@ -1,16 +1,16 @@
-# Product Designer at Dentsu
+# UX/UI Designer - Remote Europe at Reedsy
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Reedsy](https://scoutify.ai/companies/reedsy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Product-Designer_R1126770) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/reedsy/5b054faf-e032-44d2-90f4-60a6b1241937) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-07-03.
+This product designer position at Reedsy was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

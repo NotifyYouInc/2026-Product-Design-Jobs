@@ -1,16 +1,16 @@
-# Product Designer at Dentsu
+# Design Associate - Corporate Workplace at PNC Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Product-Designer_R1126770) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Design-Associate---Corporate-Workplace_R226990-2) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-07-03.
+This product designer position at PNC Financial was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
