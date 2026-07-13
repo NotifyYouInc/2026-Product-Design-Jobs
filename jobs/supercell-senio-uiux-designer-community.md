@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Senio UI/UX Designer, Community at Supercell
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Supercell](https://scoutify.ai/companies/supercell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000135906749-senior-director-product-design) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/supercell/ac462eb1-cbda-4c78-99bf-fcb71f917cc4) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-06.
+This product designer position at Supercell was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# UI/UX Designer  at Netcompany
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000135906749-senior-director-product-design) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000135957876-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-06.
+This product designer position at Netcompany was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

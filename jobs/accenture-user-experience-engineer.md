@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | UX Researcher |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/User-Experience-Engineer_ATCI-5288275-S1932072-1) |
+| Location | Gurugram, Haryana, India |
+| Category | Product Designer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/User-Experience-Engineer_ATCI-5667161-S2056746-1) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-05-11.
+This product designer position at Accenture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

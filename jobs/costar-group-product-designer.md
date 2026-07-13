@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Product-Designer_R38615) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Product-Designer_R39285-2) |
 
 ## About This Role
 
-This product designer position at CoStar Group was posted on 2026-04-06.
+This product designer position at CoStar Group was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

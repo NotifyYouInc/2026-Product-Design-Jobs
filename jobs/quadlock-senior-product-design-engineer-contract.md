@@ -1,16 +1,16 @@
-# Senior Product Design Engineer (Contract) at Quadlock
+# Senior Product Design  Engineer (Contract) at Quadlock
 
 | Field | Details |
 |-------|---------|
 | Company | [Quadlock](https://scoutify.ai/companies/quadlock?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.lever.co/quadlock/7b20fff2-7149-42d7-8d7c-836d8504d423) |
+| Category | Product Designer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.lever.co/quadlock/1850441a-199d-4fcf-a880-94b9a9975431) |
 
 ## About This Role
 
-This engineering manager position at Quadlock was posted on 2026-04-02.
+This product designer position at Quadlock was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
