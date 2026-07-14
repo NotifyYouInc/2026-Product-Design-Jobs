@@ -1,16 +1,16 @@
-# #EG UI/UX Designer at NCS
+# College Intern – Industrial Designer at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001215224-eg-uiux-designer) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Industrial-Designer_3165567) |
 
 ## About This Role
 
-This product designer position at NCS was posted on 2026-07-07.
+This product designer position at Hewlett Packard (HP) was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

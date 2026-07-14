@@ -1,16 +1,16 @@
-# #EG UI/UX Designer at NCS
+# Lead Design Technologist at Culture Amp
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Product Designer |
+| Company | [Culture Amp](https://scoutify.ai/companies/culture-amp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Frontend Engineer |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001215224-eg-uiux-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cultureamp/jobs/8047663) |
 
 ## About This Role
 
-This product designer position at NCS was posted on 2026-07-07.
+This frontend engineer position at Culture Amp was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

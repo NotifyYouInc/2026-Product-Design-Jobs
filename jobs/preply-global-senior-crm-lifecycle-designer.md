@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Global Senior CRM & Lifecycle Designer at Preply
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Preply](https://scoutify.ai/companies/preply?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/preply/e592d94a-b6fe-4f76-be07-0c3f38a5029b) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Preply was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

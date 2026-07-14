@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Staff Designer, Product Creative at Faire
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8618670002?gh_jid=8618670002) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Faire was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

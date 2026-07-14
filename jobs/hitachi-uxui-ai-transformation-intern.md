@@ -1,16 +1,16 @@
-# #EG UI/UX Designer at NCS
+# UXUI / AI Transformation Intern at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001215224-eg-uiux-designer) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1) |
 
 ## About This Role
 
-This product designer position at NCS was posted on 2026-07-07.
+This ux researcher position at Hitachi was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

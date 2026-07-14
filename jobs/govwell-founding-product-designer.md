@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Founding Product Designer at GovWell
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [GovWell](https://scoutify.ai/companies/govwell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/govwell/325daa36-efe4-4f79-a398-7d50cc38626d) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at GovWell was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

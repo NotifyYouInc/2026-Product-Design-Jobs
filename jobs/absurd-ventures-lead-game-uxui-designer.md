@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Lead Game UX/UI Designer at Absurd Ventures
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Absurd Ventures](https://scoutify.ai/companies/absurdventures?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Santa Monica, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/absurdventures/jobs/5177614007) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at Absurd Ventures was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

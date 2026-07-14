@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Product Designer, ArsenalOS at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Costa Mesa, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5180728007?gh_jid=5180728007) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at Anduril was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

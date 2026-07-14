@@ -1,4 +1,4 @@
-# Senior UI/UX Designer at Charles & Keith
+# DESIGN MANAGER at Charles & Keith
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-06-07 |
-| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/Senior-UI-UX-Designer_JR101460) |
+| Apply | [View on company site](https://charleskeith.wd3.myworkdayjobs.com/external/job/Singapore/DESIGN-MANAGER_JR101422-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Senior UI Designer  at Careers at Tide
+# Senior UI Designer at Careers at Tide
 
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 8 locations |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7614333003) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7723084003) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-02-02.
+This product designer position at Careers at Tide was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

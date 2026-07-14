@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Principal Level Designer at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6109455004) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Zynga was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Senior Product Designer at LeafLink
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [LeafLink](https://scoutify.ai/companies/leaflink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/leaflink/jobs/8460682002) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at LeafLink was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

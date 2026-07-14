@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Senior Product Designer at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Senior-Product-Designer_51584347) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at DXC Technology was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

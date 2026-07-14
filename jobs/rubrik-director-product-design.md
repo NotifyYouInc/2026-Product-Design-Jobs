@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Director, Product Design at Rubrik
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7576642?gh_jid=7576642) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Rubrik was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

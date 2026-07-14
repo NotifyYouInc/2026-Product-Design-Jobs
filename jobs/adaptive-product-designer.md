@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Product Designer at Adaptive
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Adaptive](https://scoutify.ai/companies/adaptive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/adaptive/52305a82-9bbb-4b73-9301-550e87865a16) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Adaptive was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

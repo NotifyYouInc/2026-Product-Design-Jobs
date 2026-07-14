@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Senior UX Designer at ResMed
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Diego, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Senior-UX-Designer_JR_052297-1) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at ResMed was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

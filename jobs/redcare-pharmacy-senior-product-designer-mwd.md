@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Senior Product Designer (m/w/d) at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000136018059-senior-product-designer-mwd) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at Redcare Pharmacy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

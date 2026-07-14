@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | UX Researcher |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/UX-Designer-II_R47477) |
+| Category | Product Designer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/UX-Designer-II_R53370) |
 
 ## About This Role
 
-This ux researcher position at TD Synnex was posted on 2026-02-18.
+This product designer position at TD Synnex was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

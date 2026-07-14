@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Sr. Manager, Product Design at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/4cddff29-aa63-4762-a550-bbc8db614d68) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at HighLevel was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

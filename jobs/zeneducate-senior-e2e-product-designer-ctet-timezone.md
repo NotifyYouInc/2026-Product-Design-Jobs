@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# Senior E2E Product Designer (CT/ET Timezone) at Zeneducate
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Zeneducate](https://scoutify.ai/companies/zeneducate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.lever.co/zeneducate/3bbc3a25-ecaa-4ffb-8a0b-aca9ddb13571) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Zeneducate was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

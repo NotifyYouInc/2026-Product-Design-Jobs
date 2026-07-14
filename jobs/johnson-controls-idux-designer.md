@@ -1,16 +1,16 @@
-# #EG UI/UX Designer at NCS
+# ID/UX Designer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001215224-eg-uiux-designer) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Shanghai-Shanghai-China/ID-UX-Designer_WD30273764-1) |
 
 ## About This Role
 
-This product designer position at NCS was posted on 2026-07-07.
+This product designer position at Johnson Controls was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer, Shopping Design at Amazon
+# [Wattpad] Senior Product Experience Designer at Wattpad
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Company | [Wattpad](https://scoutify.ai/companies/wattpad?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438798/ux-designer-shopping-design) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.lever.co/wattpad/597618d7-82d6-4ca0-a3df-844d46cf409e) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-06-03.
+This product designer position at Wattpad was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Life.Church](https://scoutify.ai/companies/life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Edmond, Oklahoma, United States |
 | Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.lever.co/life/ac316ab9-02a8-4410-92a4-17a394a39333) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.lever.co/life/d141a5b8-cba7-48c3-9a2f-2deb77b025e4) |
 
 ## About This Role
 
-This product designer position at Life.Church was posted on 2026-06-09.
+This product designer position at Life.Church was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer at Rumble
+# Visual Experience Designer at Autodesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Rumble](https://scoutify.ai/companies/rumble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rumble/jobs/4694832006) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Vancouver-BC-CAN/Visual-Experience-Designer_26WD99483) |
 
 ## About This Role
 
-This product designer position at Rumble was posted on 2026-07-06.
+This product designer position at Autodesk was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
