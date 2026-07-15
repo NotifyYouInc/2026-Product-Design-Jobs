@@ -5,12 +5,12 @@
 | Company | [Reformation](https://scoutify.ai/companies/reformation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reformation/jobs/7954738) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reformation/jobs/8031506) |
 
 ## About This Role
 
-This product designer position at Reformation was posted on 2026-05-22.
+This product designer position at Reformation was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

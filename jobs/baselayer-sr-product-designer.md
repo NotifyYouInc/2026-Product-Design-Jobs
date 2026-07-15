@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5237604008) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5288968008) |
 
 ## About This Role
 
-This product designer position at Baselayer was posted on 2026-06-01.
+This product designer position at Baselayer was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager, Product Experience Design at Mastercard
+# Manager, Product Experience & Design at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Manager--Product-Experience-Design_R-280805) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Product-Experience---Design_R-281870) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-06-25.
+This product designer position at Mastercard was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cavite, Central Luzon, Philippines |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Senior-Designer--Layout_R263265) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Designer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-RMZ/Senior-Designer--Layout_R263680-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Analog Devices was posted on 2026-06-16.
+This product designer position at Analog Devices was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Product Designer at Sybill
+
+| Field | Details |
+|-------|---------|
+| Company | [Sybill](https://scoutify.ai/companies/sybill-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mountain View, California, United States |
+| Category | Product Designer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sybill-ai/0e6d6b41-70e0-4cee-af9d-4b9f3b7d9f1c) |
+
+## About This Role
+
+This product designer position at Sybill was posted on 2026-04-15.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

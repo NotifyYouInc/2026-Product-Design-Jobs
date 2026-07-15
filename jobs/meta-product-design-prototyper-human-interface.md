@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Burlingame, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1337433328575539) |
+| Category | Product Designer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1053915096978480) |
 
 ## About This Role
 
-This ux researcher position at Meta was posted on 2026-06-22.
+This product designer position at Meta was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
