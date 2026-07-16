@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133542929-da-digital-ui-designer-hf) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000136508974-da-digital-ui-designer-hf) |
 
 ## About This Role
 
-This product designer position at Talan was posted on 2026-06-23.
+This product designer position at Talan was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

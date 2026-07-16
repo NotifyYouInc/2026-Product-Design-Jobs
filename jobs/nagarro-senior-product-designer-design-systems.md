@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Portugal |
 | Category | Product Designer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000134969249-senior-product-designer-design-systems) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136418420-senior-product-designer-design-systems) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-06-30.
+This product designer position at Nagarro was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

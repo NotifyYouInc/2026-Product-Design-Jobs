@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.lever.co/coatesgroup/1a271c16-4109-4002-b678-4dbfe74bff6a) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/coatesgroup/faae2f61-62f5-4dff-8556-7fca1b53f712) |
 
 ## About This Role
 
-This product designer position at Coatesgroup was posted on 2026-06-16.
+This product designer position at Coatesgroup was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

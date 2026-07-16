@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gensler](https://scoutify.ai/companies/gensler?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Atlanta-GA-US/Designer---Hospitality_R-17997) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://gensler.wd1.myworkdayjobs.com/genslercareers/job/Gurugram-India/Designer---Hospitality_R-17971) |
 
 ## About This Role
 
-This product designer position at Gensler was posted on 2026-07-02.
+This product designer position at Gensler was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

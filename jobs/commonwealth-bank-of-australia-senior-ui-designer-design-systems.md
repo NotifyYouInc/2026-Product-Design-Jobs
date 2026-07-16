@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-UI-Designer--Design-Systems_REQ253800) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Eveleigh-NSW---1-Locomotive-Street/Senior-UI-Designer--Design-Systems_REQ261759) |
 
 ## About This Role
 
-This product designer position at Commonwealth Bank of Australia was posted on 2026-03-03.
+This product designer position at Commonwealth Bank of Australia was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

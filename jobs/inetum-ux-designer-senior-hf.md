@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Saint-Ouen, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111351981-ux-designer-senior-hf) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136423269-ux-designer-senior-hf) |
 
 ## About This Role
 
-This product designer position at Inetum was posted on 2026-02-25.
+This product designer position at Inetum was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8001660) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8031782) |
 
 ## About This Role
 
-This product designer position at Stripe was posted on 2026-06-11.
+This product designer position at Stripe was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
