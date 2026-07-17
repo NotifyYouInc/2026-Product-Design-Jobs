@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Designer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000136145129-senior-design-manager-toys-hardlines-japan) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000136704137-senior-design-manager-toys-hardlines-japan) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-07-07.
+This product designer position at NBCUniversal was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
