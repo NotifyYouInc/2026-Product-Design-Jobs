@@ -5,12 +5,12 @@
 | Company | [2N TELEKOMUNIKACE a.s.](https://scoutify.ai/companies/2ntelekomunikaceas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Product Designer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000136193789-ux-designer-axis) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/2NTELEKOMUNIKACEAs/744000137099725-ux-designer-axis) |
 
 ## About This Role
 
-This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-07-07.
+This product designer position at 2N TELEKOMUNIKACE a.s. was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

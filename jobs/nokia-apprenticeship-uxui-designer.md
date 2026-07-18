@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Apprenticeship UX/UI Designer at Nokia
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Nokia](https://scoutify.ai/companies/ocs-cx-oj75288?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Massy, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#35357) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at Nokia was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

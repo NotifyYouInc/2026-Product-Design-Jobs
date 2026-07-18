@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Senior Product Designer at Bobyard
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Bobyard](https://scoutify.ai/companies/bobyard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bobyard/f4f690d9-1168-414a-bb99-1ff8a4f2943f) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at Bobyard was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | Austria |
 | Category | Product Designer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000114299262-senior-game-designer-mfd) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000137094249-senior-game-designer-mfd) |
 
 ## About This Role
 
-This product designer position at Sportradar was posted on 2026-03-12.
+This product designer position at Sportradar was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# Product Designer, Ordering at Afresh
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [Afresh](https://scoutify.ai/companies/afresh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/afresh/jobs/6114148004) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at Afresh was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

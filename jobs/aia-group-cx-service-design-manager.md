@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# CX & Service Design Manager at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Melbourne-AU-AIA-Australia/CX---Service-Design-Manager_JR-68277-1) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at AIA Group was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# UX Designer at Super Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Super Payments](https://scoutify.ai/companies/superpayments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/superpayments/jobs/4860704101) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at Super Payments was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Tech User Experience Designer at Tiffany & Co.
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Tiffany & Co.](https://scoutify.ai/companies/us2-cx-oj107886?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://eljs.fa.us2.oraclecloud.com/jobs/#63119) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at Tiffany & Co. was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

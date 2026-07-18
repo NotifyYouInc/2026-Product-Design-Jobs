@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# INTERNSHIP - SPORTSTYLE CMF DESIGN W/M - SALOMON at Salomon
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000137170720-internship-sportstyle-cmf-design-wm-salomon) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at Salomon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

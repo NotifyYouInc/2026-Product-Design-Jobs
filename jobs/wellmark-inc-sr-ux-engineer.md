@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# Sr. UX Engineer at Wellmark, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Des Moines, Iowa, United States |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000137213939-sr-ux-engineer) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at Wellmark, Inc. was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

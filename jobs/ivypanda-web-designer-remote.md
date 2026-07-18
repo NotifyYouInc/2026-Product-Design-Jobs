@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Web designer (remote) at IvyPanda
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [IvyPanda](https://scoutify.ai/companies/ivypanda?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2023-01-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IvyPanda/743999877585550-web-designer-remote) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at IvyPanda was posted on 2023-01-11.
 
 ## Get Real-Time Alerts
 

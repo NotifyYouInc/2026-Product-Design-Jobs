@@ -5,12 +5,12 @@
 | Company | [CloudWalk](https://scoutify.ai/companies/cloudwalk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/cloudwalk/ebac05de-e1ad-4e3d-8f83-f4b61a2f9460) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.lever.co/cloudwalk/7660a1c8-ce19-417c-9e01-7f41bf393875) |
 
 ## About This Role
 
-This product designer position at CloudWalk was posted on 2026-05-12.
+This product designer position at CloudWalk was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

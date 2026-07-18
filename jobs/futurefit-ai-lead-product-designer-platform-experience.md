@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# Lead Product Designer — Platform & Experience at FutureFit AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [FutureFit AI](https://scoutify.ai/companies/futurefitai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/futurefitai/a60ba7fe-27e8-4a42-b661-954d3ef67202) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at FutureFit AI was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

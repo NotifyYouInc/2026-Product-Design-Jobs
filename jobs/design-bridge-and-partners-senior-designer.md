@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# Senior Designer at Design Bridge and Partners
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [Design Bridge and Partners](https://scoutify.ai/companies/designbridge?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/designbridge/jobs/8056114) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at Design Bridge and Partners was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

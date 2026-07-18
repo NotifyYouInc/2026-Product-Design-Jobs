@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Product Designer at Arcade
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Company | [Arcade](https://scoutify.ai/companies/arcadeai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arcadeai/d69b5e93-e3f3-4680-8ade-89baf2a2ab81) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This product designer position at Arcade was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

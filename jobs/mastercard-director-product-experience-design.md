@@ -1,16 +1,16 @@
-# Product Designer at Experian
+# Director, Product Experience Design at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137109004-product-designer) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Director--Product-Experience-Design_R-281958) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-07-10.
+This product designer position at Mastercard was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

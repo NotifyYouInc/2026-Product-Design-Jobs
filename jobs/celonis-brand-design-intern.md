@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Brand Design Intern at Celonis
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | Product Designer |
+| Company | [Celonis](https://scoutify.ai/companies/celonis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Munich, Bavaria, Germany |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5325644008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/celonis/jobs/7800851003?gh_jid=7800851003) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-10.
+This graphic / brand design position at Celonis was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

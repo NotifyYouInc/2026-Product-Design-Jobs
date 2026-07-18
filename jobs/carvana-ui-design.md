@@ -1,16 +1,16 @@
-# Staff Product Designer at Thrivent
+# UI Design at Carvana
 
 | Field | Details |
 |-------|---------|
-| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-10 |
-| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota-Minneapolis-Metro/Staff-Product-Designer_REQ-47514) |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8056378) |
 
 ## About This Role
 
-This product designer position at Thrivent was posted on 2026-07-10.
+This product designer position at Carvana was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
