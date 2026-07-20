@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# UI/UX Designer Contractor at Scaled Agile
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [Scaled Agile](https://scoutify.ai/companies/scaledagileinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000137406415-uiux-product-designer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScaledAgileInc/744000126150534-uiux-designer-contractor) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-07-13.
+This product designer position at Scaled Agile was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

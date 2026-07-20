@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# Senior Product Designer at Newmark
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [Newmark](https://scoutify.ai/companies/us6-cx-oj75140?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000137406415-uiux-product-designer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hdow.fa.us6.oraclecloud.com/jobs/#247100) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-07-13.
+This product designer position at Newmark was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Design Lead at Barclays
+# UI/UX Designer at Amazatic
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Amazatic](https://scoutify.ai/companies/amazaticsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Design-Lead_JR-0000114164) |
+| Posted | 2025-01-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AmazaticSolutions/744000035343692-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-07-13.
+This product designer position at Amazatic was posted on 2025-01-08.
 
 ## Get Real-Time Alerts
 

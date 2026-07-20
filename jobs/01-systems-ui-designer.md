@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# UI Designer at 01 Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [01 Systems](https://scoutify.ai/companies/01systems?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manama, Manama, Bahrain |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000137406415-uiux-product-designer) |
+| Posted | 2025-11-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/01Systems/744000094154579-ui-designer) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-07-13.
+This product designer position at 01 Systems was posted on 2025-11-18.
 
 ## Get Real-Time Alerts
 

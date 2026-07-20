@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Windsor, Victoria, Australia |
 | Category | Product Designer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124748262-senior-product-developer-toyshardlines) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000137329029-senior-product-developer-toyshardlines) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-05-05.
+This product designer position at NBCUniversal was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

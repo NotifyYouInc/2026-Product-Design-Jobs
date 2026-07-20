@@ -1,16 +1,16 @@
-# Product Design Lead at Barclays
+# Product Designer at Payd
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Payd](https://scoutify.ai/companies/payd1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Design-Lead_JR-0000114164) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Payd1/744000137378099-product-designer) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-07-13.
+This product designer position at Payd was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

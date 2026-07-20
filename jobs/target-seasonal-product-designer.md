@@ -1,16 +1,16 @@
-# Senior Product Designer at City of New York
+# Seasonal Product Designer at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Designer |
 | Posted | 2026-07-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014050096-senior-product-designer) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Seasonal-Product-Designer_R0000439502) |
 
 ## About This Role
 
-This product designer position at City of New York was posted on 2026-07-12.
+This product designer position at Target was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

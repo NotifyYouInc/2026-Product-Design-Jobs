@@ -1,16 +1,16 @@
-# Product Design Lead at Barclays
+# Product Designer at NETWEALTH
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [NETWEALTH](https://scoutify.ai/companies/netwealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Design-Lead_JR-0000114164) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/netwealth/b436876a-184b-4b88-a3c5-8b0b098c3e5e) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-07-13.
+This product designer position at NETWEALTH was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

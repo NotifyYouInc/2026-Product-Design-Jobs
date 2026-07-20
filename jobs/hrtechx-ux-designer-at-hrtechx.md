@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# UX designer at HRtechX at HRtechX
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [HRtechX](https://scoutify.ai/companies/hrtechx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000137406415-uiux-product-designer) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hrtechx/jobs/5440071003) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-07-13.
+This product designer position at HRtechX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
