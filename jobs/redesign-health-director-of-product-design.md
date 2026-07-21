@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Director of Product Design at Redesign Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Redesign Health](https://scoutify.ai/companies/redesign-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/redesign%20health/0f202c19-14eb-46c8-b55f-f107fd73e69d) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Redesign Health was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

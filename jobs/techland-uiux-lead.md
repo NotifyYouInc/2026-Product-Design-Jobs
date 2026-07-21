@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# UI/UX Lead at Techland
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Techland](https://scoutify.ai/companies/techlandsa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Poland |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2025-12-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TechlandSA/744000098386545-uiux-lead) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Techland was posted on 2025-12-11.
 
 ## Get Real-Time Alerts
 

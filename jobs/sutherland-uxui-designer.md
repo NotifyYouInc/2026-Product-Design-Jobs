@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# UX/UI Designer at Sutherland
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000137423609-uxui-designer) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Sutherland was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

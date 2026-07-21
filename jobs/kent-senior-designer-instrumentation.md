@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Senior Designer - Instrumentation at Kent
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Kent](https://scoutify.ai/companies/ocs-cx-oj59422?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#6313) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Kent was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

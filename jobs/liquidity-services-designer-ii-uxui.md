@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Designer II, UX/UI at Liquidity Services
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Liquidity Services](https://scoutify.ai/companies/us2-cx-oj64536?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ebwi.fa.us2.oraclecloud.com/jobs/#315) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Liquidity Services was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

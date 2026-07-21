@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Head of Design and Research at Informa
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000137596432-head-of-design-and-research) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Informa was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

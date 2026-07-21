@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Product Design Lead at Pei
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Pei](https://scoutify.ai/companies/peitechnologyinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2020-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PeiTechnologyInc/743999711062699-product-design-lead) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Pei was posted on 2020-04-17.
 
 ## Get Real-Time Alerts
 

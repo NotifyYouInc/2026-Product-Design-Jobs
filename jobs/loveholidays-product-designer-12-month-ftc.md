@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Product Designer (12-month FTC) at Loveholidays
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Loveholidays](https://scoutify.ai/companies/loveholidays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/loveholidays/8b1b4e50-0b71-4ee3-9bf8-d3a779212b6c) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Loveholidays was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

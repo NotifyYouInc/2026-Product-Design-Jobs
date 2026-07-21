@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Lead Product Designer  at Rightmove
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Rightmove](https://scoutify.ai/companies/rightmove?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/rightmovecareers/jobs/4900686101) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Rightmove was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Product Designer (Multiple Positions) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660250389442251061/detail) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at TikTok was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

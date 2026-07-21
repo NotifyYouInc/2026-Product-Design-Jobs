@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Jose, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7613503602083219717/detail) |
+| Category | Product Designer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660667024095856901/detail) |
 
 ## About This Role
 
-This ux researcher position at TikTok was posted on 2026-03-05.
+This product designer position at TikTok was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

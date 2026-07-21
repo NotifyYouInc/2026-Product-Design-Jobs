@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Saint Louis, Michigan, United States |
+| Location | 35 locations |
 | Category | Product Designer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Project-Designer_R318598) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Project-Designer_R328165) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-05-13.
+This product designer position at Cushman & Wakefield was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

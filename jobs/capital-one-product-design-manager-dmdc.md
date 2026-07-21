@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# Product Design Manager - DMDC at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Design-Manager---DMDC_R246118-2) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at Capital One was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# Senior Product Designer  at AB InBev  | Growth Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [AB InBev  | Growth Group](https://scoutify.ai/companies/ab-inbev-growth-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8631815002) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at AB InBev  | Growth Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

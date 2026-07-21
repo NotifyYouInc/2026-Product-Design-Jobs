@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# UX Engineer IV - (E4) at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/UX-Engineer-IV----E4-_R2620850) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at Applied Materials was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

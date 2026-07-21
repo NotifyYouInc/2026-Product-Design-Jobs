@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# User Experience (UX) Designer at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boise, Idaho, United States |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-ID-Boise/User-Experience--UX--Designer_J00177666) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at Equifax was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

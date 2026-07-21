@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# Directeur·trice artistique adjoint·e - Rainbow Six Siege at Ubisoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000137510340-directeurtrice-artistique-adjointe-rainbow-six-siege) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at Ubisoft was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

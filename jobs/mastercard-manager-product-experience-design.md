@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Product-Experience---Design_R-281870) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Product-Experience---Design_R-281871) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-07-07.
+This product designer position at Mastercard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Senior Product Designer  at JOOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [JOOR](https://scoutify.ai/companies/joor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Spain |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/joor/e5dd83e3-2de7-4165-a215-9c82f2bc6723) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at JOOR was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

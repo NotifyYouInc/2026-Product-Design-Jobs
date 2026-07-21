@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Product Designer - Consumer at Speak
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Speak](https://scoutify.ai/companies/speak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/speak/2f98e46d-a85c-4ad2-bc6c-f4c783b857b0) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Speak was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/06e42df0-5775-4984-a5a3-cbfceaa2f2ca) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/3e0fb4d8-9926-437b-807e-baedb176e250) |
 
 ## About This Role
 
-This product designer position at Beaconai was posted on 2026-06-27.
+This product designer position at Beaconai was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

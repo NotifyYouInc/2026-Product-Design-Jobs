@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Senior Product Designer at Ethyca
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Ethyca](https://scoutify.ai/companies/ethyca?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2024-11-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ethyca/70769bee-2aaa-4ba1-9103-bb24d71515a6) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Ethyca was posted on 2024-11-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# UI/UX Designer at 1StopBedrooms
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [1StopBedrooms](https://scoutify.ai/companies/1stopbedrooms?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2020-10-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/1stopbedrooms/743999723290872-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at 1StopBedrooms was posted on 2020-10-30.
 
 ## Get Real-Time Alerts
 

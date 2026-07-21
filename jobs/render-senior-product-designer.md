@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Senior Product Designer at Render
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Render](https://scoutify.ai/companies/render?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/render/0f0ccf3e-4caf-4586-9a66-411dbf49fcc5) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Render was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

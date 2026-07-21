@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Product Design Lead at Schoolhouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Schoolhouse](https://scoutify.ai/companies/schoolhouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/schoolhouse-world/ed35ed7c-bae0-4b8f-93b0-b6189d23d2fd) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Schoolhouse was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# Senior Principal, Digital Product Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Principal--Digital-Product-Design_R-87632) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This product designer position at Nike was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer, YouTube Shopping at Google
+# Interaction Designer, Google Maps at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckalDjigkTFs_3SGIf_UDP0gCDHh0JVfwykuiQpk2rB8BEjsA1Ny_i1a7L-cmF5RSboq2eCoUHeIyRcpNGw7W_02PV7frJKPzqmJYCd6x-WuJr0uGxEj1I_-xpr0OOg%3D%3D_V2&loc=IN&title=UX+Designer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckem93-Zj8-9mSFzbZ-v8wkxGIMt4PammjIO3pi913N7SEjsA1Ny_i4f3tjRZIlYwAZnpmIz18H-ZcK88YgfoL3u6vov3UZ2tB88b8WV9Ucg83gtBEd0A8S6ZpAnO5A%3D%3D_V2&loc=US&title=Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-07-13.
+This product designer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

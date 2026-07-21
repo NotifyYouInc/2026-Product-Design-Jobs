@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Director of Product Design at Runna
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Runna](https://scoutify.ai/companies/runna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/runna/e426f6b1-5e6f-4086-8e5d-331e68a29f5b) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Runna was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

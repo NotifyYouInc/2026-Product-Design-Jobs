@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Senior Designer Mr Price at Mr Price Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Mr Price Group](https://scoutify.ai/companies/ocs-cx-oj72138?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Durban, KwaZulu-Natal, South Africa |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8059400) |
+| Apply | [View on company site](https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4982) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-07-14.
+This product designer position at Mr Price Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

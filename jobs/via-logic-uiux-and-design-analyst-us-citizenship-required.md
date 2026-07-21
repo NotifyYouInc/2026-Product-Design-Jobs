@@ -1,16 +1,16 @@
-# Staff Product Designer at Affirm
+# UI/UX and Design Analyst [U.S. Citizenship Required] at Via Logic
 
 | Field | Details |
 |-------|---------|
-| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Via Logic](https://scoutify.ai/companies/vialogic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7799295003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vialogic/jobs/4108827008) |
 
 ## About This Role
 
-This product designer position at Affirm was posted on 2026-07-13.
+This ux researcher position at Via Logic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
