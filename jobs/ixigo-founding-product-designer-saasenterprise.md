@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Founding Product Designer (SaaS/Enterprise) at ixigo
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [ixigo](https://scoutify.ai/companies/ixigo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ixigo/744000137802179-founding-product-designer-saasenterprise) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at ixigo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

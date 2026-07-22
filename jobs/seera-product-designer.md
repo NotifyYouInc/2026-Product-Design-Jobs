@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Product Designer at Seera
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Seera](https://scoutify.ai/companies/seera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Posted | 2022-03-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Seera/743999813726068-product-designer) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Seera was posted on 2022-03-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior User Experience Designer - Software at WGU
+# Senior User Experience Designer-Software at WGU
 
 | Field | Details |
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-Office/Senior-User-Experience-Designer---Software_JR-024326) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-User-Experience-Designer-Software_JR-025615) |
 
 ## About This Role
 
-This product designer position at WGU was posted on 2026-02-11.
+This product designer position at WGU was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

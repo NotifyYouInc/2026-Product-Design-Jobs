@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constant Contact](https://scoutify.ai/companies/constantcontact?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/7684044) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/8053440) |
 
 ## About This Role
 
-This product designer position at Constant Contact was posted on 2026-03-09.
+This product designer position at Constant Contact was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

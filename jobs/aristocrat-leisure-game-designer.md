@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Game Designer at Aristocrat Leisure
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Reno, Nevada, United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Reno-NV-US/Game-Designer_R0021795) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at Aristocrat Leisure was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

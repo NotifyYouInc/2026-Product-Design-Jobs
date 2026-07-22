@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Service Design Principal at UniSuper
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [UniSuper](https://scoutify.ai/companies/ocs-cx-oj112115?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://fa-eugn-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1001958) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at UniSuper was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

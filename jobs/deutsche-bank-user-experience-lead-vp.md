@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# User Experience Lead, VP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/User-Experience-Lead--VP_R0441085) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Deutsche Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

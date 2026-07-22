@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Design System Designer at AustralianSuper
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [AustralianSuper](https://scoutify.ai/companies/ap1-cx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005210) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at AustralianSuper was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

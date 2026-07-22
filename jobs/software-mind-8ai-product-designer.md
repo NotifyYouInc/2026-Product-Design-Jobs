@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# [8AI] Product Designer at Software Mind
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San José, San José, Costa Rica |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000137682439-8ai-product-designer) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Software Mind was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

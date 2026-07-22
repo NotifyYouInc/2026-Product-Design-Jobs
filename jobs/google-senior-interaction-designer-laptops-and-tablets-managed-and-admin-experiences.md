@@ -1,16 +1,16 @@
-# UX Designer, Chrome on Android at Google
+# Senior Interaction Designer, Laptops and Tablets Managed and Admin Experiences at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY48TubBxE53WK6SOBB8Shbvvtxl0G0o6iSxVlkvxxT_EjsA1Ny_i6tM4nkjhZyvjkoRfcSE6eY-aHxbpnfeax8tL_qegX9TklKTNpRmGGo1nC_KGHvU9wo0ELENzQ%3D%3D_V2&loc=CA&title=UX+Designer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke7pMbWuPzYc7t29Le4Xw12a3UZoqMuCamIk0lBq-z64EjsA1Ny_i8SBNZtYgcSivZ_Uq7v883gI4PBDmATudldWE72bng4MXzili5PzqWZIOSeyX6WQBAkHSH6Itg%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-07-15.
+This product designer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

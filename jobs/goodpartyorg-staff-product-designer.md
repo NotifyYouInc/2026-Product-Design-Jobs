@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Staff Product Designer at GoodParty.org
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [GoodParty.org](https://scoutify.ai/companies/goodparty?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/goodparty/972dc2d9-dfa5-4acc-a225-f7af92b69d01) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at GoodParty.org was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

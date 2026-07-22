@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# UXUI Intern at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001236177-uxui-intern) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at NCS was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Internship - Industrial Design IX at Accenture
+# Senior Director, Design Operations at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Design-Program-Management_JR349724) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-07-14.
+This product designer position at Salesforce was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

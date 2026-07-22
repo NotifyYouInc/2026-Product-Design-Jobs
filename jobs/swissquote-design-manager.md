@@ -5,12 +5,12 @@
 | Company | [Swissquote](https://scoutify.ai/companies/swissquote?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gland, Vaud, Switzerland |
 | Category | Product Designer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000133881790-design-manager) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000137648549-design-manager) |
 
 ## About This Role
 
-This product designer position at Swissquote was posted on 2026-06-24.
+This product designer position at Swissquote was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

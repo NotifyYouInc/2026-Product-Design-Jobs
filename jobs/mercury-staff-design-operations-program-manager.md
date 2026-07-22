@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Staff Design Operations Program Manager at Mercury
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6115935004) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Mercury was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer, Agentforce for Service at Salesforce
+# Director, Product Design - Global Enterprise Affairs & Accelerator at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Product-Designer--Agentforce-for-Service_JR351139) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Design---Global-Enterprise-Affairs---Accelerator_R246839-1) |
 
 ## About This Role
 
-This product designer position at Salesforce was posted on 2026-07-14.
+This product designer position at Capital One was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

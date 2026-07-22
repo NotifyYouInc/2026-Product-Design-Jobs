@@ -1,16 +1,16 @@
-# UX Designer, Chrome on Android at Google
+# UX Designer, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY48TubBxE53WK6SOBB8Shbvvtxl0G0o6iSxVlkvxxT_EjsA1Ny_i6tM4nkjhZyvjkoRfcSE6eY-aHxbpnfeax8tL_qegX9TklKTNpRmGGo1nC_KGHvU9wo0ELENzQ%3D%3D_V2&loc=CA&title=UX+Designer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV9JwDLVUQvm_4qtEBvHOn7jOO7TEkrD3CXWDRlhi4wqEjsA1Ny_i2a6blEBH8f5OJEKOh5GdYmvUOd5ttng4l-6DDJ7Y_NSbzdBydcK3vGhuLOvDAIlXOswPLpVTw%3D%3D_V2&loc=IN&title=UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-07-15.
+This product designer position at Google was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

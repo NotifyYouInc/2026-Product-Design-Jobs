@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000135455719-senior-service-designer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000137755729-senior-service-designer) |
 
 ## About This Role
 
-This product designer position at Netcompany was posted on 2026-07-02.
+This product designer position at Netcompany was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

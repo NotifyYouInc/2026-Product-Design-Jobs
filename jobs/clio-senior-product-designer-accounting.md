@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Senior Product Designer, Accounting at Clio
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Toronto/Senior-Product-Designer--Accounting_REQ-5161) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at Clio was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

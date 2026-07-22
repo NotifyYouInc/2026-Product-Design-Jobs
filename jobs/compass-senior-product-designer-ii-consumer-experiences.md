@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Senior Product Designer II - Consumer Experiences at Compass
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Compass](https://scoutify.ai/companies/compass?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8051564) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Compass was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

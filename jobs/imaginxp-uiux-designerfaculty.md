@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# UI/UX Designer/Faculty at ImaginXP
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [ImaginXP](https://scoutify.ai/companies/getmyuni?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New Delhi, Delhi, India |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Posted | 2025-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GetMyUni/744000049538190-uiux-designerfaculty) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at ImaginXP was posted on 2025-03-24.
 
 ## Get Real-Time Alerts
 

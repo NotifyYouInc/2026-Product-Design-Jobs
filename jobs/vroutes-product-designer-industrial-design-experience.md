@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Product Designer (Industrial Design Experience) at Vroutes
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [Vroutes](https://scoutify.ai/companies/vroutes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vroutes/744000137806589-product-designer-industrial-design-experience) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at Vroutes was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# UI/UX Designer at Sumundi
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Sumundi](https://scoutify.ai/companies/sumundi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Accra, Greater Accra, Ghana |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Posted | 2025-01-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sumundi/744000038999120-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Sumundi was posted on 2025-01-28.
 
 ## Get Real-Time Alerts
 

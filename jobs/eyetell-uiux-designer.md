@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# UI/UX Designer at EyeTell
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [EyeTell](https://scoutify.ai/companies/eyetell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Posted | 2024-02-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/eyetell/c5c03f2e-59ce-4fa5-8655-14fdfef18de8) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at EyeTell was posted on 2024-02-21.
 
 ## Get Real-Time Alerts
 

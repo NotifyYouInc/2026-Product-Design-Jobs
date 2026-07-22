@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Design Mentor** at Binus University
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Binus University](https://scoutify.ai/companies/binus-university?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Indonesia |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://binus.wd3.myworkdayjobs.com/lifeatbinus/job/Bali-CREATES/Design-Mentor--_JR2026078041) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Binus University was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

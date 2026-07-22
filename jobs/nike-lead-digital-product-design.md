@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Lead, Digital Product Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Digital-Product-Design_R-87633) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Nike was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

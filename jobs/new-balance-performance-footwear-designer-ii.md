@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Performance Footwear Designer II at New Balance
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [New Balance](https://scoutify.ai/companies/newbalance?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lawrence, Kansas, United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://newbalance.wd1.myworkdayjobs.com/careers/job/Lawrence-MA-Corp/Performance-Footwear-Designer-II_R39618) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at New Balance was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior / Staff Product Designer at Clera
+# Agent Experience Designer, Agentic Voice at Dialpad
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Ramon, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b1c87522-6c9f-4d42-8d64-fafc6dcb6d5d) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8633475002) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-07-14.
+This product designer position at Dialpad was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

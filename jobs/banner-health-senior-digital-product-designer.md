@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Senior Digital Product Designer at Banner Health
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Arkansas, US |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Senior-Digital-Product-Designer_R4442913) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at Banner Health was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Analyst – Interior Designer at JLL
+# Sr./Staff Product Designer, Growth at runway-ml
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Company | [runway-ml](https://scoutify.ai/companies/runway-ml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Interior-Designer_REQ485259) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/runway-ml/28e151ac-cb29-4695-9041-a9e352624111) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-15.
+This product designer position at runway-ml was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
