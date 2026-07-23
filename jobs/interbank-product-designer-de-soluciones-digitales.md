@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Product Designer de Soluciones Digitales at Interbank
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Interbank](https://scoutify.ai/companies/us6-cx-oj55874?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lima, Lima Province, Peru |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://epvw.fa.us6.oraclecloud.com/jobs/#6535) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Interbank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

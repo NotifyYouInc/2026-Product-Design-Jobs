@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | UX Researcher |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/User-Experience-Product-Design--Specialist_178362-1) |
+| Location | 4 locations |
+| Category | Product Designer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/User-Experience-Product-Design--Specialist_180212-1) |
 
 ## About This Role
 
-This ux researcher position at Vanguard was posted on 2026-06-02.
+This product designer position at Vanguard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

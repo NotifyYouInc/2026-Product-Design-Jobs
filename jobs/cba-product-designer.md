@@ -5,12 +5,12 @@
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Product-Designer_REQ252737-2) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Product-Designer_REQ261307-2) |
 
 ## About This Role
 
-This product designer position at Cba was posted on 2026-04-14.
+This product designer position at Cba was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

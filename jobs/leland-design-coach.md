@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Design Coach at Leland
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Leland](https://scoutify.ai/companies/leland?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/leland/d9cfe061-3ed0-4d34-906e-5e8b5f9e3ced) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Leland was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

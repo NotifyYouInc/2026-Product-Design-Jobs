@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYvor-dxrYWZ0bL_p8SWeTcb9_i3PvAoiyNtGJqTzeMAEjsACxwdTPco9pwbrL3Z3Z_WjJEK0ulcD6chhYAXIFg_M9VadPR6oz6FelyJjqJYDqRU2vtPAG8i0sz-CQ%3D%3D_V2&loc=AU&title=UX+Designer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWm3sU_p1mqUsM57NXDhbRPb1x1W2RkgT_4W4DPip3-6EjsA1Ny_i2XW-vdpz8E0fdBt4ForenvbSJfxAKELjjp1sdHlJdP4j-FvZc9iDwdFLJVPcuZ8khZW4LWn2A%3D%3D_V2&loc=IN&title=UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-04-16.
+This product designer position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

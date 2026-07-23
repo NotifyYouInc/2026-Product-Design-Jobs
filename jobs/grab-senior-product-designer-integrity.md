@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | UX Researcher |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000114649339-senior-product-designer-integrity) |
+| Category | Product Designer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000137923709-senior-product-designer-integrity) |
 
 ## About This Role
 
-This ux researcher position at Grab was posted on 2026-03-13.
+This product designer position at Grab was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

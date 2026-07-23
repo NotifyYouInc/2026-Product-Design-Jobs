@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Senior UX/UI Designer at Lodgify
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Lodgify](https://scoutify.ai/companies/lodgify?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://jobs.lever.co/lodgify/1d284a01-07c5-43c2-b355-ef2db890ce6e) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Lodgify was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

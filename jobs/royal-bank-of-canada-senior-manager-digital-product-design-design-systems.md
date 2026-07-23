@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Senior Manager Digital Product Design – Design Systems at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Manager-Digital-Product-Design---Design-Systems_R-0000179980-1) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Royal Bank of Canada was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

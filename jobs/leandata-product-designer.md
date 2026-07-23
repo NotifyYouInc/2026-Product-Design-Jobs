@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Product Designer at LeanData
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [LeanData](https://scoutify.ai/companies/leandata?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/leandata/cf677561-723a-4a9c-be68-efe53f95d5b6) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at LeanData was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

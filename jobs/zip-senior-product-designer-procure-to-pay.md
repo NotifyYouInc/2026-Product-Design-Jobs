@@ -5,12 +5,12 @@
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/ebc5905e-25f3-42c1-a394-59ec93482a88) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/0dbaa0d7-838c-40a0-8bfd-fbce2a48446f) |
 
 ## About This Role
 
-This product designer position at Zip was posted on 2026-07-06.
+This product designer position at Zip was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

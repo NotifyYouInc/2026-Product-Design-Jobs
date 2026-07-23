@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Founding Design Engineer at Credal.ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Product Designer |
+| Company | [Credal.ai](https://scoutify.ai/companies/credal-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York, US |
+| Category | Software Engineer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/credal-ai/jobs/8QpLF8h-founding-design-engineer) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This software engineer position at Credal.ai was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

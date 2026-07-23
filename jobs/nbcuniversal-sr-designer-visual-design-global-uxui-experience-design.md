@@ -1,16 +1,16 @@
-# Senior Design Manager, Toys & Hardlines, Japan at NBCUniversal
+# Sr Designer, Visual Design - Global UXUI Experience Design at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Universal City, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000138024420-senior-design-manager-toys-hardlines-japan) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000137977604-sr-designer-visual-design-global-uxui-experience-design) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-07-16.
+This product designer position at NBCUniversal was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

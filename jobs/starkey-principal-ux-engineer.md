@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Principal UX Engineer at Starkey.
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Starkey.](https://scoutify.ai/companies/starkey?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=e4bf01e6-c233-498b-abb2-d3c84aa9d7cc) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Starkey. was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

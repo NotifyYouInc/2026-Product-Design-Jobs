@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Senior Digital Designer (Figma)  at Brandtech+
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Brandtech+](https://scoutify.ai/companies/brandtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/brandtechplus/jobs/8045054) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Brandtech+ was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

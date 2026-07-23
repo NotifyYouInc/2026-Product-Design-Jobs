@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Growth Marketing |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/8266c0de-affb-4a3a-a13c-4ed28c04bee1) |
+| Location | Not specified |
+| Category | Product Designer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/cdadff57-43d7-4e5d-814e-789643c9f125) |
 
 ## About This Role
 
-This growth marketing position at SKELAR was posted on 2026-06-09.
+This product designer position at SKELAR was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

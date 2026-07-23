@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Product Designer - Grow & Engage at N26
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8066517?gh_jid=8066517) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at N26 was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Head of Product Design at TRM Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [TRM Labs](https://scoutify.ai/companies/trm-labs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/trm-labs/16660699-5a97-42da-a8b7-9b91f81cf199) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at TRM Labs was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

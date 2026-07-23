@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Mobile Product Designer at Yubo
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Yubo](https://scoutify.ai/companies/yubo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/yubo/d519e127-fee8-4771-9aaa-53395f72a40d) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Yubo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

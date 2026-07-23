@@ -1,16 +1,16 @@
-# Senior Design Manager, Toys & Hardlines, Japan at NBCUniversal
+# Principal Product Designer, Energy at Dow Jones
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000138024420-senior-design-manager-toys-hardlines-japan) |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/Principal-Product-Designer_Job_Req_54019) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-07-16.
+This product designer position at Dow Jones was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

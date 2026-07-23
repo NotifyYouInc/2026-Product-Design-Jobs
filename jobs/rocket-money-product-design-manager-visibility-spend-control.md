@@ -1,16 +1,16 @@
-# UX Engineer (Hybrid) at Homebase
+# Product Design Manager, Visibility & Spend Control at Rocket Money
 
 | Field | Details |
 |-------|---------|
-| Company | [Homebase](https://scoutify.ai/companies/homebase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Rocket Money](https://scoutify.ai/companies/rocket-money?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/homebase/df64d63b-b8e2-4133-8c18-36d0eb2411c1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truebill/jobs/7805917003) |
 
 ## About This Role
 
-This product designer position at Homebase was posted on 2026-07-15.
+This product designer position at Rocket Money was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

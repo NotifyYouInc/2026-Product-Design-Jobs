@@ -1,16 +1,16 @@
-# Senior Design Manager, Toys & Hardlines, Japan at NBCUniversal
+# Lead Designer, GFB Footwear Materials Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000138024420-senior-design-manager-toys-hardlines-japan) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--GFB-Footwear-Materials-Design_R-87528) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-07-16.
+This product designer position at Nike was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
