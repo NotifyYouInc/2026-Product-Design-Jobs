@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Lead Service Designer at Netcompany
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Leeds, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000138085479-lead-service-designer) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Netcompany was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

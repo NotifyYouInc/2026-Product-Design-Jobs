@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001222842-head-of-product-design-growth) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001226913-head-of-product-design-growth) |
 
 ## About This Role
 
-This product designer position at Canva was posted on 2026-07-09.
+This product designer position at Canva was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

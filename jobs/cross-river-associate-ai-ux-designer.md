@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Associate, AI UX Designer at Cross River
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Cross River](https://scoutify.ai/companies/cross-river?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Fort Lee, New Jersey, United States |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.crossriver.com/greenhouse?gh_jid=7806194003) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Cross River was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

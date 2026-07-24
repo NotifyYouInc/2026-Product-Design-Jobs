@@ -1,4 +1,4 @@
-# UX Principal at The Home Depot
+# USER EXPERIENCE STAFF DESIGNER at The Home Depot
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/UX-Principal_Req187100) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/USER-EXPERIENCE-STAFF-DESIGNER_Req186962) |
 
 ## About This Role
 

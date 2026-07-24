@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Visual Designer Working Student at Picnic
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Picnic](https://scoutify.ai/companies/picnic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Apply | [View on company site](https://jobs.picnic.app/nl/vacancies?gh_jid=8071008) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Picnic was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

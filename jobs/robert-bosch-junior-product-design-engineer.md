@@ -1,12 +1,12 @@
-# Praktikum im UX und UI Design at Robert Bosch
+# Junior Product Design Engineer  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leinfelden-Echterdingen, Baden-Wurttemberg, Germany |
+| Location | Blaj, Alba County, Romania |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138114934-praktikum-im-ux-und-ui-design) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138117890-junior-product-design-engineer) |
 
 ## About This Role
 

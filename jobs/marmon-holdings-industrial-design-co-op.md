@@ -1,16 +1,16 @@
-# Praktikum im UX und UI Design at Robert Bosch
+# Industrial Design Co-op at Marmon Holdings
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leinfelden-Echterdingen, Baden-Wurttemberg, Germany |
+| Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Carol Stream, Illinois, United States |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138114934-praktikum-im-ux-und-ui-design) |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Carol-Stream-IL/Industrial-Design-Co-op_JR0000044501-2) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-07-16.
+This product designer position at Marmon Holdings was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

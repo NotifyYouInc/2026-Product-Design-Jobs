@@ -1,16 +1,16 @@
-# Senior Product Designer at Humana
+# Sr. Product Designer at Benepass
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Benepass](https://scoutify.ai/companies/benepass?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Designer_R-422912) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benepass/e2325cf1-950a-4496-9dd4-2283292fd1d8) |
 
 ## About This Role
 
-This product designer position at Humana was posted on 2026-07-15.
+This product designer position at Benepass was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

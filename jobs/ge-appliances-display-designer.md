@@ -1,16 +1,16 @@
-# Praktikum im UX und UI Design at Robert Bosch
+# Display Designer at GE Appliances
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leinfelden-Echterdingen, Baden-Wurttemberg, Germany |
+| Company | [GE Appliances](https://scoutify.ai/companies/ge-appliances?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Louisville, Kentucky, United States |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138114934-praktikum-im-ux-und-ui-design) |
+| Apply | [View on company site](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Display-Designer_REQ-26270) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-07-16.
+This product designer position at GE Appliances was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Conversation AI Designer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Italy |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Conversation-AI-Designer_14340221) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Accenture was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

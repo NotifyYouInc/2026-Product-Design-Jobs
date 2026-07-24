@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Lead UX/UI at AMP
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [AMP](https://scoutify.ai/companies/ocs-cx-oj6366?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Apply | [View on company site](https://fa-esow-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4358) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at AMP was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

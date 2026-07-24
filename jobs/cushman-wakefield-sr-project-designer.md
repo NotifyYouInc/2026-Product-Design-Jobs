@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 37 locations |
+| Location | Maryland Heights, Missouri, United States |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Flexible-Location-USA/Sr-Project-Designer_R325367) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Maryland-Heights-Missouri-USA/Sr-Project-Designer_R326198) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-06-22.
+This product designer position at Cushman & Wakefield was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

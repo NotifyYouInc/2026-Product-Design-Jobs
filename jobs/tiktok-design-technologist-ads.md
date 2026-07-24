@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Design Technologist, Ads at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7663186070863956229/detail) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at TikTok was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

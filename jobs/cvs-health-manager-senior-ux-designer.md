@@ -1,16 +1,16 @@
-# Praktikum im UX und UI Design at Robert Bosch
+# Manager , Senior UX Designer at CVS Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leinfelden-Echterdingen, Baden-Wurttemberg, Germany |
+| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138114934-praktikum-im-ux-und-ui-design) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Manager---Senior-UX-Designer_R0971593) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-07-16.
+This product designer position at CVS Health was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# UI/UX Designer at Contxt.io
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Contxt.io](https://scoutify.ai/companies/contxtio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2022-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Contxtio/743999807693278-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Contxt.io was posted on 2022-02-24.
 
 ## Get Real-Time Alerts
 

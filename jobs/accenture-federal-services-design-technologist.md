@@ -1,4 +1,4 @@
-# Product Designer at Accenture Federal Services
+# Design Technologist at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Arlington, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4697244006?gh_jid=4697244006) |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4697446006?gh_jid=4697446006) |
 
 ## About This Role
 

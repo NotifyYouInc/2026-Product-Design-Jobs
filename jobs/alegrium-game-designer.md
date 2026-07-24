@@ -1,16 +1,16 @@
-# Senior Product Designer (Design Systems) at Nagarro
+# Game Designer at Alegrium
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Portugal |
+| Company | [Alegrium](https://scoutify.ai/companies/alegrium1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Indonesia |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138281845-senior-product-designer-design-systems) |
+| Posted | 2024-01-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alegrium1/743999955790493-game-designer) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-17.
+This product designer position at Alegrium was posted on 2024-01-01.
 
 ## Get Real-Time Alerts
 

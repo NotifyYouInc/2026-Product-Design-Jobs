@@ -1,16 +1,16 @@
-# Senior Product Designer at Humana
+# Sr. UX Designer (US) at Jump App
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Jump App](https://scoutify.ai/companies/jump-app?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Designer_R-422912) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jump-app/60b89041-6d2b-434c-a5a6-f1a844c57ac8) |
 
 ## About This Role
 
-This product designer position at Humana was posted on 2026-07-15.
+This product designer position at Jump App was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
