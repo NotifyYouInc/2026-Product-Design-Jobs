@@ -1,4 +1,4 @@
-# DESIGN ANALYST - SOLUTIONS & DEVELOPMENT at Banco Bilbao Vizcaya Argentaria
+# DESIGN LEAD - SOLUTIONS DEVELOPMENT at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/DESIGN-ANALYST---SOLUTIONS---DEVELOPMENT_JR00109237) |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/DESIGN-LEAD---SOLUTIONS-DEVELOPMENT_JR00109469) |
 
 ## About This Role
 

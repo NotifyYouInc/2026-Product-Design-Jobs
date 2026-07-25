@@ -1,16 +1,16 @@
-# Manager, Product Experience Design IC at Mastercard
+# Manager, Product Experience & Design [IC] at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Manager--Product-Experience-Design-IC_R-271934) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Manager--Product-Experience---Design--IC-_R-282411) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-04-29.
+This product designer position at Mastercard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

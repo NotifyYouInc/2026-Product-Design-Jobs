@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Lead Product Designer at Ladder
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Ladder](https://scoutify.ai/companies/ladder?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ladder/6cbf504f-5987-4721-a487-7a82eaf5fcf9) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Ladder was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

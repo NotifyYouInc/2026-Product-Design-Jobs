@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Principal Product Designer - PMTS at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Remote/Principal-Product-Designer---PMTS_JR352339) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Salesforce was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

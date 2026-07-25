@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Lead Product Designer at LiveRamp
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [LiveRamp](https://scoutify.ai/companies/liveramp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Lead-Product-Designer_JR162089) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at LiveRamp was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

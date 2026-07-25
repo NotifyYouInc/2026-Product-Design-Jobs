@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Design System/UX Engineer at TTEC Digital
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [TTEC Digital](https://scoutify.ai/companies/ttec-digital?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://jobs.lever.co/ttecdigital/3e688a6f-d732-4b41-be92-2e1399f21e84) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at TTEC Digital was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Senior UX Designer, Customer Engagement at Google
+# UX Designer, gUP at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckflno82c7FOv7_mERt_-fRLLB-kbb-eXvtG3HIbWj5k3EjsA1Ny_i3ymPmvq9dGdPIFOtq4yjHOPErZ-beg4aeLNTUbaCYas-_uXjhxBlhJ8dgnWKSgvPILIa9qIsQ%3D%3D_V2&loc=IN&title=Senior+UX+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU73HFvHeZemB9LVyfpgQGJORpDsRmZgtQq_UAX2nmN8EjsA1Ny_i4Q3AzYbdkyjA2ZYdmiJF3uuvkUFBiKRqHc5fLywtAsGOPYG1zIeY6wr74HNaNSvR3OFfHsWLw%3D%3D_V2&loc=US&title=UX+Designer) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Senior Product Designer at Lightning AI
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Lightning AI](https://scoutify.ai/companies/lightning-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightningai/jobs/7807035003) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Lightning AI was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

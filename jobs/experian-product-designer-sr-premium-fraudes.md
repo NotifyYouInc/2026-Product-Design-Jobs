@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Product Designer Sr - Premium Fraudes at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138338389-product-designer-sr-premium-fraudes) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

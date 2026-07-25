@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# UI / UX / Design Lead at SchoolApply
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [SchoolApply](https://scoutify.ai/companies/schoolapply?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Posted | 2019-11-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SchoolApply/743999699713197-ui-ux-design-lead) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at SchoolApply was posted on 2019-11-15.
 
 ## Get Real-Time Alerts
 

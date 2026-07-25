@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Staff UX Designer - AI at Qualtrics
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Qualtrics](https://scoutify.ai/companies/qualtrics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://www.qualtrics.com/careers/us/en/job/8060192?gh_jid=8060192) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Qualtrics was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

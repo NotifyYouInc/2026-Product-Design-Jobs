@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Director, Provider Service Design & Provider Experience at Labcorp
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Director--Provider-Service-Design---Provider-Experience_2621203) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Labcorp was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

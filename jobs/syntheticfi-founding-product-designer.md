@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Founding Product Designer at SyntheticFi
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [SyntheticFi](https://scoutify.ai/companies/syntheticfi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/syntheticfi/jobs/8Zkv0Ar-founding-product-designer) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at SyntheticFi was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

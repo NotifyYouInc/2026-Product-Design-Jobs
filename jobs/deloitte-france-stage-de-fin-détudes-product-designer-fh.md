@@ -1,16 +1,16 @@
-# Product Designer IA H/F at Nexton
+# Stage de fin d'études - Product Designer F/H at Deloitte France
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Deloitte France](https://scoutify.ai/companies/deloitte-france?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138293664-product-designer-ia-hf) |
+| Apply | [View on company site](https://fina.wd103.myworkdayjobs.com/deloitterecrute/job/Paris-La-Dfense/Stage-de-fin-d-tudes---Product-Designer-F-H_R-9069) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-17.
+This product designer position at Deloitte France was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

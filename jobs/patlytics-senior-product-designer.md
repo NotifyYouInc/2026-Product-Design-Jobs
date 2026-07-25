@@ -5,12 +5,12 @@
 | Company | [Patlytics](https://scoutify.ai/companies/patlytics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/patlytics/40c78fea-346c-4fbd-8986-36e14043618b) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/patlytics/333871fd-3713-4181-b4b1-523ba4290aba) |
 
 ## About This Role
 
-This product designer position at Patlytics was posted on 2026-04-21.
+This product designer position at Patlytics was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Senior UX Designer, Customer Engagement at Google
+# Senior Visual Designer,  Search Verticals and International at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckflno82c7FOv7_mERt_-fRLLB-kbb-eXvtG3HIbWj5k3EjsA1Ny_i3ymPmvq9dGdPIFOtq4yjHOPErZ-beg4aeLNTUbaCYas-_uXjhxBlhJ8dgnWKSgvPILIa9qIsQ%3D%3D_V2&loc=IN&title=Senior+UX+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdjWxkH7c6gj8hDRmaRhRcYaH5oMTXI77b-gH4PzoWvREjsA1Ny_i7jjMNUUR3mI99E-Tc3tk6BzEBcmfkvl2WAsckH3O6i_43AxHtmKRaYoVx64mGtV83G9wF_J2g%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
 
 ## About This Role
 

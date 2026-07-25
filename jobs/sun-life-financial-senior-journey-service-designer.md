@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Senior Journey & Service Designer at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Journey---Service-Designer_JR00126051) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Sun Life Financial was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

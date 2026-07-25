@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Power Apps & SharePoint Designer at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Texas, US |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Texas/Power-Apps---SharePoint-Designer_SR-43086-1) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

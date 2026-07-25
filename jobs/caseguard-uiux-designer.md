@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# UI/UX Designer at CaseGuard
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [CaseGuard](https://scoutify.ai/companies/caseguard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/caseguard/jobs/5362528008) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at CaseGuard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

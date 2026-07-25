@@ -5,12 +5,12 @@
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8048647/?gh_jid=8048647) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.akqa.com/jobs/8067800/?gh_jid=8067800) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-07-09.
+This product designer position at AKQA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Design Manager at JLL
+# Senior Manager, Product Design at Udemy
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Udemy](https://scoutify.ai/companies/udemy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Toronto-ON/Design-Director_REQ518693-1) |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/udemy/job/6117543004?gh_jid=6117543004) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-07-17.
+This product designer position at Udemy was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

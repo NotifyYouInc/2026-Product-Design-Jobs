@@ -1,16 +1,16 @@
-# UXUI Design Manager at HARMAN International
+# Senior Decision Scientist_Decision Scientist_6 at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/UXUI-Design-Manager/32284) |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/California/Senior-Decision-Scientist-Decision-Scientist-6_SR-40904-1) |
 
 ## About This Role
 
-This product designer position at HARMAN International was posted on 2026-07-18.
+This product designer position at Fractal was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

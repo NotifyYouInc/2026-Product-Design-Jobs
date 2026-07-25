@@ -1,12 +1,12 @@
-# UXUI Design Manager at HARMAN International
+# Automotive Experience Designer – Sound & HMI at HARMAN International
 
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Novi, Michigan, United States |
 | Category | Product Designer |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/UXUI-Design-Manager/32284) |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Automotive-Experience-Designer-Sound-HMI/31365) |
 
 ## About This Role
 

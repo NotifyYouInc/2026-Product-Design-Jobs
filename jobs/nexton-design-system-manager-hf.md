@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130844039-design-system-manager-hf) |
+| Category | Product Designer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138294001-design-system-manager-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-08.
+This product designer position at Nexton was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

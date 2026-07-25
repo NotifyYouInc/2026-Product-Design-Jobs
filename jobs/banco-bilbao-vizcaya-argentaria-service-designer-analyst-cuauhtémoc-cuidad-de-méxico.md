@@ -1,12 +1,12 @@
-# DESIGN ANALYST - SOLUTIONS & DEVELOPMENT at Banco Bilbao Vizcaya Argentaria
+# Service Designer Analyst (Cuauhtémoc, Cuidad de México) at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/28050-MADRID-Madrid/DESIGN-ANALYST---SOLUTIONS---DEVELOPMENT_JR00109237) |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Service-Designer-Analyst--Cuauhtmoc--Cuidad-de-Mxico-_JR00109643) |
 
 ## About This Role
 
