@@ -1,16 +1,16 @@
-# Sr Experience Designer at PayPal
+# Director, Accessories Design, Licensing at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Experience-Designer_R0137114) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Accessories-Design--Licensing_R-88129) |
 
 ## About This Role
 
-This product designer position at PayPal was posted on 2026-07-17.
+This product designer position at Nike was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

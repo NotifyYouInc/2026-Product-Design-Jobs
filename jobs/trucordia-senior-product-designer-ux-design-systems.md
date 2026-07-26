@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trucordia](https://scoutify.ai/companies/trucordia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Lindon, Utah, United States |
-| Category | UX Researcher |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990013527646-senior-product-designer-ux-design-systems) |
+| Category | Product Designer |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/trucordia1/3743990014165077-senior-product-designer-ux-design-systems) |
 
 ## About This Role
 
-This ux researcher position at Trucordia was posted on 2026-06-08.
+This product designer position at Trucordia was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

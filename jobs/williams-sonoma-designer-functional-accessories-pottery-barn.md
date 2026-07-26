@@ -5,12 +5,12 @@
 | Company | [Williams-Sonoma](https://scoutify.ai/companies/us6-cx-oj119513?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://ehac.fa.us6.oraclecloud.com/jobs/#19178) |
+| Posted | 2025-10-31 |
+| Apply | [View on company site](https://ehac.fa.us6.oraclecloud.com/jobs/#17258) |
 
 ## About This Role
 
-This product designer position at Williams-Sonoma was posted on 2026-06-30.
+This product designer position at Williams-Sonoma was posted on 2025-10-31.
 
 ## Get Real-Time Alerts
 
