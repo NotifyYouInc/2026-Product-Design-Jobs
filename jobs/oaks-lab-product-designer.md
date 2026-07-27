@@ -1,16 +1,16 @@
-# UI DESIGNER H/F at Nexton
+# Product Designer at OAK'S LAB
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [OAK'S LAB](https://scoutify.ai/companies/oakslab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138604209-ui-designer-hf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oakslab/2f212273-d3b2-44b8-9956-40376165b177) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at OAK'S LAB was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

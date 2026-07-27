@@ -1,16 +1,16 @@
-# Senior Visual Design Artist - League of Legends (12-Month Contract) at Riot Games
+# Product Designer at Alan
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 9 locations |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8007337?gh_jid=8007337) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/1bf22834-f85d-4581-95a8-0a0278ba9013) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-07-20.
+This product designer position at Alan was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

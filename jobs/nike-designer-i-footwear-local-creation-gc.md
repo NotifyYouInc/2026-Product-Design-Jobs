@@ -1,16 +1,16 @@
-# Senior Visual Design Artist - League of Legends (12-Month Contract) at Riot Games
+# Designer I, Footwear Local Creation GC at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8007337?gh_jid=8007337) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Designer-I--Footwear-Local-Creation-GC_R-88297) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-07-20.
+This product designer position at Nike was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

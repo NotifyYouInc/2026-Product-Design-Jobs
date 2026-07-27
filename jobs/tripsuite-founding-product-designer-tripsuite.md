@@ -1,16 +1,16 @@
-# UI DESIGNER H/F at Nexton
+# Founding Product Designer (TripSuite) at TripSuite
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Company | [TripSuite](https://scoutify.ai/companies/applytotripsuite?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138604209-ui-designer-hf) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/applytotripsuite/jobs/4625794004) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at TripSuite was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

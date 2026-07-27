@@ -1,16 +1,16 @@
-# Senior Visual Design Artist - League of Legends (12-Month Contract) at Riot Games
+# Experience Design Lead  at Valtech
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8007337?gh_jid=8007337) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4715703101) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-07-20.
+This product designer position at Valtech was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

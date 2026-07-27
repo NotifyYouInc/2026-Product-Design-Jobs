@@ -1,16 +1,16 @@
-# Senior Visual Design Artist - League of Legends (12-Month Contract) at Riot Games
+# Staff Product Designer at Netomi
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8007337?gh_jid=8007337) |
+| Apply | [View on company site](https://jobs.lever.co/netomi/a5606db8-5bbd-46b2-bf76-6a5800e7177e) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-07-20.
+This product designer position at Netomi was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

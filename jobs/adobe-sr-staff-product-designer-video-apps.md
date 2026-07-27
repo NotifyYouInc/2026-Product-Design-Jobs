@@ -1,16 +1,16 @@
-# Senior Visual Design Artist - League of Legends (12-Month Contract) at Riot Games
+# Sr Staff Product Designer, Video Apps at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8007337?gh_jid=8007337) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Staff-Product-Designer--Video-Apps_R170470-1) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-07-20.
+This product designer position at Adobe was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
