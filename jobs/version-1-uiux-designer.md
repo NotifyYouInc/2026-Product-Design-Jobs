@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | UX Researcher |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000133367557-uiux-designer) |
+| Category | Product Designer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000138809994-uiux-designer) |
 
 ## About This Role
 
-This ux researcher position at Version 1 was posted on 2026-06-22.
+This product designer position at Version 1 was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

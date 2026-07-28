@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Product Designer II, Metrics at Datadog
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8075709/?gh_jid=8075709) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at Datadog was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

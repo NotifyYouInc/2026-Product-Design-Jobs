@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Director - Head of UX at Wynn Resorts
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Las Vegas, Nevada, United States |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000138710469-director-head-of-ux) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at Wynn Resorts was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Senior Product Designer at 9Fin
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [9Fin](https://scoutify.ai/companies/9fin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/9fin/20f30e3f-e2c7-418e-8bba-40db48a2c6cc) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at 9Fin was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

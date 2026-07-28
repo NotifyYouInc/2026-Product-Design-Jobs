@@ -1,16 +1,16 @@
-# Senior UX Designer (Healthcare & Diagnostics) at Nagarro
+# Senior Visual Systems Designer - Remote at CarMax
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Romania |
+| Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Richmond, Virginia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138800429-senior-ux-designer-healthcare-diagnostics) |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Senior-Visual-Systems-Designer---Remote_JR-181823) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-21.
+This product designer position at CarMax was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

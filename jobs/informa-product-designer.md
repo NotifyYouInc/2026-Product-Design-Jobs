@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116206487-product-designer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000138692571-product-designer) |
 
 ## About This Role
 
-This product designer position at Informa was posted on 2026-03-23.
+This product designer position at Informa was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

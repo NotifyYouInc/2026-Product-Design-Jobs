@@ -5,12 +5,12 @@
 | Company | [Unify](https://scoutify.ai/companies/unify?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/unify/dc490a9f-b28a-4da4-848a-1c68f8ea4b55) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/unify/36851a2d-240f-4220-b97f-9a4ada907d29) |
 
 ## About This Role
 
-This product designer position at Unify was posted on 2026-02-04.
+This product designer position at Unify was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

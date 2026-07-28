@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000137113898-ux-designer-hf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138602849-ux-designer-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-10.
+This product designer position at Nexton was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

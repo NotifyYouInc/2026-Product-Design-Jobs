@@ -5,12 +5,12 @@
 | Company | [Imprint](https://scoutify.ai/companies/imprint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/imprint/0dbaae76-f06e-46a1-8afb-da7e71bd8022) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/imprint/6f69e336-d6c7-43f9-8a4f-e8022d0151ae) |
 
 ## About This Role
 
-This product designer position at Imprint was posted on 2026-06-16.
+This product designer position at Imprint was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

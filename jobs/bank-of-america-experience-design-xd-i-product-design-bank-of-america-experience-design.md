@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Francisco/Experience-Design--XD--I--Product-Design---Bank-of-America-Experience-Design_26020955) |
+| Location | 6 locations |
+| Category | Product Designer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Experience-Design--XD--I--Product-Design---Bank-of-America-Experience-Design_26024467-1) |
 
 ## About This Role
 
-This ux researcher position at Bank of America was posted on 2026-06-18.
+This product designer position at Bank of America was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

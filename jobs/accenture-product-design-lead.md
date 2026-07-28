@@ -1,16 +1,16 @@
-# Product Design Lead at Accenture
+# Product Design Lead at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Product-Design-Lead_R00342543) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Product-Design-Lead_R00342271) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-07-10.
+This product designer position at Accenture was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

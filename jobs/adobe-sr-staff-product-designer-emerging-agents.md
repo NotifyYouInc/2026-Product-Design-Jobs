@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Staff-Product-Designer--Emerging-Agents_R166506-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Staff-Product-Designer--Emerging-Agents_R169947) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-03-13.
+This product designer position at Adobe was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

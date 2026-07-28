@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Staff UX at The Home Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Staff-UX_Req187342) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at The Home Depot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

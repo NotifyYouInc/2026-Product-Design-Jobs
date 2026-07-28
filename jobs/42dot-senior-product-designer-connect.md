@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | South Korea |
 | Category | Product Designer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/c6ab8628-f104-44df-a430-00f8ee779cbe) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/6a4426f9-64ad-446c-bf47-2a10baa2f6de) |
 
 ## About This Role
 
-This product designer position at 42dot was posted on 2026-06-18.
+This product designer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

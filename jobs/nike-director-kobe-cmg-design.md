@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Director, Kobe CMG Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Kobe-CMG-Design_R-87820) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at Nike was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

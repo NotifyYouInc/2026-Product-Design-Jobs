@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# UX/UI Professional (w/m/d) at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mönchengladbach, North Rhine-Westphalia, Germany |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Mnchengladbach/UX-UI-Professional--w-m-d-_Req1594908) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at Santander was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

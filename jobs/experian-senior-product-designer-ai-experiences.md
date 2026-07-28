@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126739679-senior-product-designer-ai-experiences) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138816092-senior-product-designer-ai-experiences) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-05-15.
+This product designer position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

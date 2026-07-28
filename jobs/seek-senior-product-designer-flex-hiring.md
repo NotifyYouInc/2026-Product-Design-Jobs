@@ -1,16 +1,16 @@
-# Senior UX Designer (Healthcare & Diagnostics) at Nagarro
+# Senior Product Designer - Flex Hiring at SEEK
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Romania |
+| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cremorne, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138800429-senior-ux-designer-healthcare-diagnostics) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000138789189-senior-product-designer-flex-hiring) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-21.
+This product designer position at SEEK was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

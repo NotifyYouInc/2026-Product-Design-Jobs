@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# Assistant Designer- Health & Beauty at Primark
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000138649803-assistant-designer-health-beauty) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at Primark was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

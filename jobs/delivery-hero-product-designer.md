@@ -1,16 +1,16 @@
-# Product Designer at Delivery Hero
+# Product Designer  at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Indonesia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135172599-product-designer) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138609489-product-designer) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-07-01.
+This product designer position at Delivery Hero was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

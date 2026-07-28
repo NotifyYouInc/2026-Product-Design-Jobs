@@ -1,16 +1,16 @@
-# Senior UX Designer (Healthcare & Diagnostics) at Nagarro
+# Senior Designer, Field Sports Apparel Product Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Romania |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000138800429-senior-ux-designer-healthcare-diagnostics) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Field-Sports-Apparel-Product-Design_R-87913) |
 
 ## About This Role
 
-This product designer position at Nagarro was posted on 2026-07-21.
+This product designer position at Nike was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

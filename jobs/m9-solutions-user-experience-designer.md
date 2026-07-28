@@ -1,16 +1,16 @@
-# UX Designer Sénior H/F at Nexton
+# User Experience Designer at M9 Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Annecy, Rhône-Alpes, France |
+| Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138671290-ux-designer-senior-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5190755007) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-20.
+This product designer position at M9 Solutions was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
