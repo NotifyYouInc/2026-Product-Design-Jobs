@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Manchester, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/UX-Designer_JR-0000115143) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/UX-Designer_JR-0000114039) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-06-25.
+This product designer position at Barclays was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | UX Researcher |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131507359-lead-ux-interaction-designer) |
+| Category | Product Designer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138991503-lead-ux-interaction-designer) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-06-10.
+This product designer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 6 locations |
 | Category | Product Designer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Experience-Design--XD--IV--Product-Design---Bank-of-America-Experience-Design_26020305-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/San-Francisco/Experience-Design--XD--IV--Product-Design---Bank-of-America-Experience-Design_26024468-1) |
 
 ## About This Role
 
-This product designer position at Bank of America was posted on 2026-06-15.
+This product designer position at Bank of America was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

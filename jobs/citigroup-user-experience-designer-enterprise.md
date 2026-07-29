@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/User-Experience-Designer---Enterprise_26954043) |
+| Category | Product Designer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/User-Experience-Designer---Enterprise_26975863) |
 
 ## About This Role
 
-This ux researcher position at Citigroup was posted on 2026-04-28.
+This product designer position at Citigroup was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

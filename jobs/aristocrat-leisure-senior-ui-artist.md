@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Product Designer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Product-Madness---Barcelona/Senior-Associate-Game-Artist_R0019208-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Gdansk/Senior-UI-Artist_R0021938) |
 
 ## About This Role
 
-This product designer position at Aristocrat Leisure was posted on 2026-03-06.
+This product designer position at Aristocrat Leisure was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

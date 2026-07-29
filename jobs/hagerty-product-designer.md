@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hagerty](https://scoutify.ai/companies/hagerty?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Traverse City, Michigan, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Product-Designer_R5046) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Product-Designer_R5329) |
 
 ## About This Role
 
-This product designer position at Hagerty was posted on 2026-03-03.
+This product designer position at Hagerty was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
