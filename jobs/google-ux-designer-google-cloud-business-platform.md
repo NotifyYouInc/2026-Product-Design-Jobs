@@ -1,12 +1,12 @@
-# Senior UX Engineer, Chrome AI Innovation, Disco at Google
+# UX Designer, Google Cloud Business Platform at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV_ih1uq4F4cUzWzW5BU8KrmK-qyF4RF1YaO3Ri4gEfzEjsA1Ny_i0I90lwfKW0JuU3ZxuaflqbhH72WlPXGOCOdj22fVIu1KBHO605kPGprUPEyOhYb9xoMGW7ejw%3D%3D_V2&loc=US&title=Senior+UX+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeMCX8EKMXNE72eGJXK-j9qxqF8KmQrlI_lMee27VzPNEjsA1Ny_i_RXa5UwlhaZWUBZZoFUdN8Z1Ha1OW6-zLJx1ZxV1i1IgTKJ-quyBj0uKATGtiHXtnzMyYvMug%3D%3D_V2&loc=US&title=UX+Designer) |
 
 ## About This Role
 

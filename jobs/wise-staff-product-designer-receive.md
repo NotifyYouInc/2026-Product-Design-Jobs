@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Staff Product Designer - Receive  at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139095880-staff-product-designer-receive) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at WISE was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

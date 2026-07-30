@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Especialista de Design I at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139132069-especialista-de-design-i) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at Experian was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

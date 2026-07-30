@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Senior Product Designer at DigiCert
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8547137002) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at DigiCert was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

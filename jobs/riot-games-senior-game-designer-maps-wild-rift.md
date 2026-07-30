@@ -1,16 +1,16 @@
-# Product Designer at Heidi Health
+# Senior Game Designer, Maps - Wild Rift at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/a200c680-38fb-465c-bc2f-1e8f1ca8b73a) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8077274?gh_jid=8077274) |
 
 ## About This Role
 
-This product designer position at Heidi Health was posted on 2026-07-22.
+This product designer position at Riot Games was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

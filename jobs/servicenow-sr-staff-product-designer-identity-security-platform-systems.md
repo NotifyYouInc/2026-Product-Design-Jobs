@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000130593679-sr-staff-product-designer-identity-security-platform-systems) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139130415-sr-staff-product-designer-identity-security-platform-systems) |
 
 ## About This Role
 
-This product designer position at ServiceNow was posted on 2026-06-05.
+This product designer position at ServiceNow was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

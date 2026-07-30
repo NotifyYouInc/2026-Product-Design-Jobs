@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Product Design Lead at Eudia
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Eudia](https://scoutify.ai/companies/eudia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eudia/jobs/4323222009) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at Eudia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

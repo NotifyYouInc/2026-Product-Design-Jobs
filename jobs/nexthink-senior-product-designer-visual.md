@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Senior Product Designer (Visual) at Nexthink
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000139091429-senior-product-designer-visual) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at Nexthink was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

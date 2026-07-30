@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Design-Manager--Cuauhtmoc--Ciudad-de-Mxico-_JR00103398) |
+| Category | Product Designer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Design-Manager--Cuauhtmoc--Ciudad-de-Mxico-_JR00108135) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-08.
+This product designer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

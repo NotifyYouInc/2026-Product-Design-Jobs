@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Candid Health](https://scoutify.ai/companies/candid-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Candid Health](https://scoutify.ai/companies/candidhealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/candid-health/jobs/e69Y5DZ-senior-product-designer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/candidhealth/1f6fd3be-7761-4031-a940-68cd5c3b0162) |
 
 ## About This Role
 
-This product designer position at Candid Health was posted on 2026-05-13.
+This product designer position at Candid Health was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

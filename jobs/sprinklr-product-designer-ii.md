@@ -1,4 +1,4 @@
-# Senior Product Designer at Sprinklr
+# Product Designer II at Sprinklr
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Product-Designer-II_113301-JOB-1) |
 
 ## About This Role
 

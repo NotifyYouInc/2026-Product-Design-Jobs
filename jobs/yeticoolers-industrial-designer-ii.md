@@ -1,16 +1,16 @@
-# Senior Digital Product Designer at Banner Health
+# Industrial Designer II at Yeticoolers
 
 | Field | Details |
 |-------|---------|
-| Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
+| Company | [Yeticoolers](https://scoutify.ai/companies/yeticoolers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bozeman, Montana, United States |
 | Category | Product Designer |
 | Posted | 2026-07-21 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-California/Senior-Digital-Product-Designer_R4448701) |
+| Apply | [View on company site](https://yeticoolers.wd5.myworkdayjobs.com/yeti/job/Bozeman-Montana/Industrial-Designer-II_JR102221) |
 
 ## About This Role
 
-This product designer position at Banner Health was posted on 2026-07-21.
+This product designer position at Yeticoolers was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

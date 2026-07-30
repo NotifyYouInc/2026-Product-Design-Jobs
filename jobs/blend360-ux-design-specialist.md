@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# UX Design Specialist at Blend360
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Columbia, South Carolina, United States |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000139149659-ux-design-specialist) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at Blend360 was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

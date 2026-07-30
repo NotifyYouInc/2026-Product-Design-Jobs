@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Associate Digital Designer, International Marketing at OpenTable
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8644085002) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at OpenTable was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

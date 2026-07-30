@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Designer at nVent
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Wildwood, Missouri, United States |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Wildwood-MO-US/Designer_R22045) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at nVent was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Sprinklr
+# Senior Product Designer, Canada at Careers at Eucalyptus
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Careers at Eucalyptus](https://scoutify.ai/companies/careers-at-eucalyptus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Designer_113300-JOB) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eucalyptus/jobs/4716847005) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-07-22.
+This product designer position at Careers at Eucalyptus was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

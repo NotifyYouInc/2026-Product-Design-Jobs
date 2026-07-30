@@ -1,16 +1,16 @@
-# Sr Product Designer, Adobe Express at Adobe
+# Director, User Interface/User Experience at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Designer--Adobe-Express_R170468-1) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director--User-Interface-User-Experience_JR351958) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-07-22.
+This product designer position at Salesforce was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

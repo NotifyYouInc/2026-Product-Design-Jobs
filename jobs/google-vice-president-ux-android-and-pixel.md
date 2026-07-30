@@ -1,12 +1,12 @@
-# Senior UX Engineer, Chrome AI Innovation, Disco at Google
+# Vice President, UX, Android and Pixel at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV_ih1uq4F4cUzWzW5BU8KrmK-qyF4RF1YaO3Ri4gEfzEjsA1Ny_i0I90lwfKW0JuU3ZxuaflqbhH72WlPXGOCOdj22fVIu1KBHO605kPGprUPEyOhYb9xoMGW7ejw%3D%3D_V2&loc=US&title=Senior+UX+Engineer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ6SqFzuaFWMLwPl-ULpluTrdWSgC5vGtS4w2T8gTQfkEjsA1Ny_i-V_b-JvEZqlUZH8uBTG1SjXo5Wg4UoufBbdaCtMjMi9bnBE_C_pjTdIZetI5scG5GV42ymHGg%3D%3D_V2&loc=US&title=Vice+President) |
 
 ## About This Role
 

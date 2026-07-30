@@ -1,16 +1,16 @@
-# Sr Product Designer, Adobe Express at Adobe
+# 10x Builder -  Sr. Design Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | Software Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Designer--Adobe-Express_R170468-1) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-User-Experience-Designer_R170691) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-07-22.
+This software engineer position at Adobe was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

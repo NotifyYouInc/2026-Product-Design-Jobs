@@ -1,16 +1,16 @@
-# Product Designer at Heidi Health
+# Product Designer at Langchain
 
 | Field | Details |
 |-------|---------|
-| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Langchain](https://scoutify.ai/companies/langchain?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/a200c680-38fb-465c-bc2f-1e8f1ca8b73a) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/langchain/28aba38e-de19-4ae5-9316-08575a11ae4d) |
 
 ## About This Role
 
-This product designer position at Heidi Health was posted on 2026-07-22.
+This product designer position at Langchain was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
