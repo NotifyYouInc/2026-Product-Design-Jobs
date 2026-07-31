@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# User Experience Design - Sr Professional I at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/New-York-New-York/User-Experience-Design---Sr-Professional-I_R-10398489) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at Fiserv was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

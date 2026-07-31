@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# Sr UX Principal at The Home Depot
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-UX-Principal_Req187302-1) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at The Home Depot was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

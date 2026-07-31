@@ -1,16 +1,16 @@
-# Visual Designer at Toss
+# Product Designer / プロダクトデザイナー at PayPay Securities
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [PayPay Securities](https://scoutify.ai/companies/paypaysec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7810507003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paypaysec/jobs/4018088008) |
 
 ## About This Role
 
-This product designer position at Toss was posted on 2026-07-24.
+This product designer position at PayPay Securities was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# Associate Visual Designer at Mindbody
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4699400006?gh_jid=4699400006) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at Mindbody was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

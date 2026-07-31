@@ -1,16 +1,16 @@
-# Visual Designer at Toss
+# Product designer at Ema
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Ema](https://scoutify.ai/companies/ema?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7810507003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ema/36c17dbb-168d-4654-9a4e-0be64cacd02a) |
 
 ## About This Role
 
-This product designer position at Toss was posted on 2026-07-24.
+This product designer position at Ema was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

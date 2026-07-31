@@ -1,16 +1,16 @@
-# Product Designer at bet365
+# Senior Product Designer - Business Lending at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000139549896-product-designer) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Designer---Business-Lending_REQ262045) |
 
 ## About This Role
 
-This product designer position at bet365 was posted on 2026-07-24.
+This product designer position at Commonwealth Bank of Australia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

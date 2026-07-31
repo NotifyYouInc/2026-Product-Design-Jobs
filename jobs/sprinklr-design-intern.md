@@ -1,16 +1,16 @@
-# Visual Designer at Toss
+# Design Intern at Sprinklr
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7810507003) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113310-JOB) |
 
 ## About This Role
 
-This product designer position at Toss was posted on 2026-07-24.
+This product designer position at Sprinklr was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

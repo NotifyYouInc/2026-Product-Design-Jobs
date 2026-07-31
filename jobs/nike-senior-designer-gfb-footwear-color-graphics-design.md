@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# Senior Designer, GFB Footwear Color & Graphics Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beaverton, Oregon, United States |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--GFB-Footwear-Color---Graphics-Design_R-88091) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at Nike was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

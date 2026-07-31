@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# Web Designer at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/0dd05aaa-a9a4-45c7-beac-31fb54b2d3b1) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at SKELAR was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

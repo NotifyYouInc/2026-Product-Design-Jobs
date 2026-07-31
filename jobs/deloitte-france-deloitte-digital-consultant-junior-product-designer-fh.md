@@ -1,16 +1,16 @@
-# Lead UX Designer App H/F at Nexton
+# Deloitte Digital - Consultant Junior Product Designer F/H at Deloitte France
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Deloitte France](https://scoutify.ai/companies/deloitte-france?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139271715-lead-ux-designer-app-hf) |
+| Apply | [View on company site](https://fina.wd103.myworkdayjobs.com/deloitterecrute/job/Paris-La-Dfense/Deloitte-Digital---Consultant-Junior-Product-Designer-F-H_R-9095) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at Deloitte France was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

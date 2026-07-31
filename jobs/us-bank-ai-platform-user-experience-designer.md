@@ -1,16 +1,16 @@
-# Product Designer - Womenswear Knitwear  at H&M Group
+# AI Platform User Experience Designer at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cincinnati, Ohio, United States |
 | Category | Product Designer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000139252391-product-designer-womenswear-knitwear) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/AI-Platform-User-Experience-Designer_2026-0021923) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-07-23.
+This product designer position at U.S. Bank was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

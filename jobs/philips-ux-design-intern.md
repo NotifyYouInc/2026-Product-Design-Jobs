@@ -1,16 +1,16 @@
-# Lead UX Designer App H/F at Nexton
+# UX Design Intern at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Designer |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
+| Category | UX Researcher |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139271715-lead-ux-designer-app-hf) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/UX-Design-Intern_588364) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This ux researcher position at Philips was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

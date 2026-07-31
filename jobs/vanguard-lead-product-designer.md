@@ -1,16 +1,16 @@
-# Visual Designer at Toss
+# Lead Product Designer at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7810507003) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Melbourne-Australia/Lead-Product-Designer_176404) |
 
 ## About This Role
 
-This product designer position at Toss was posted on 2026-07-24.
+This product designer position at Vanguard was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

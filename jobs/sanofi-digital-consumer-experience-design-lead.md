@@ -1,16 +1,16 @@
-# Visual Designer at Toss
+# Digital Consumer Experience Design Lead at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7810507003) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Digital-Consumer-Experience-Design-Lead_R2863905) |
 
 ## About This Role
 
-This product designer position at Toss was posted on 2026-07-24.
+This product designer position at Sanofi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
