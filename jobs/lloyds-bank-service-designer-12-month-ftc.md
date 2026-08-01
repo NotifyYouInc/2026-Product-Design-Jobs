@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Chester/Service-Designer--12-Month-FTC-_158118-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Service-Designer--12-Month-FTC-_160837-1) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-06-10.
+This product designer position at Lloyds Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Staff Product Designer, AI Foundation at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Staff-Product-Designer--AI-Foundation_R170637) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at Adobe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

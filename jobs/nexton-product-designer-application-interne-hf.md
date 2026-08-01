@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Product Designer Application Interne H/F at Nexton
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139606199-product-designer-application-interne-hf) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at Nexton was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

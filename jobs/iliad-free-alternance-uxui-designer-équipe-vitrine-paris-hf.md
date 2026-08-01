@@ -1,16 +1,16 @@
-# DESIGN SYSTEM DESIGNER H/F at Nexton
+# Alternance UX/UI Designer – Équipe Vitrine - Paris - H/F at Iliad-Free
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139643660-design-system-designer-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000139657139-alternance-uxui-designer-equipe-vitrine-paris-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-24.
+This product designer position at Iliad-Free was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

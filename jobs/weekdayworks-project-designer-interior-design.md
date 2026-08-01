@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Project Designer – Interior Design at Weekdayworks
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Delhi, Delhi, India |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/104a1659-8c12-4893-bf0c-beef9990e1e4) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at Weekdayworks was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

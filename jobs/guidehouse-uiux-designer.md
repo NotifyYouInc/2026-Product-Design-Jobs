@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Rockville/UI-UX-Designer_42144) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/UI-UX-Designer_41867) |
 
 ## About This Role
 
-This product designer position at Guidehouse was posted on 2026-07-17.
+This product designer position at Guidehouse was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

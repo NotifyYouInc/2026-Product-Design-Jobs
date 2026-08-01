@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Senior Product Designer - Vice President at iCapital Network
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8639467002) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at iCapital Network was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lithuania |
-| Category | Learning & Development |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4706184005) |
+| Location | Armenia, Quindío Department, Colombia |
+| Category | Product Designer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4718447005) |
 
 ## About This Role
 
-This learning & development position at INFUSE was posted on 2026-06-15.
+This product designer position at INFUSE was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Systems Designer at Zynga
+# Sr Product Designer at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6123859004) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Sr-Product-Designer_JR353527) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-07-24.
+This product designer position at Salesforce was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

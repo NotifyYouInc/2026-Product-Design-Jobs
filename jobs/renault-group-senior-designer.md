@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Guyancourt, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/Senior-Designer_JOBREQ_50265780-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Guyancourt/Senior-Designer_JOBREQ_50273165-1) |
 
 ## About This Role
 
-This product designer position at Renault Group was posted on 2026-06-10.
+This product designer position at Renault Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

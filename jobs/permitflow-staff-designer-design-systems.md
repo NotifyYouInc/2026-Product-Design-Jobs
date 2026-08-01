@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Staff Designer - Design Systems at PermitFlow
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [PermitFlow](https://scoutify.ai/companies/permitflow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/permitflow/e721e1de-8276-4383-9867-080014961f48) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at PermitFlow was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

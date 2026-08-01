@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Founding Product Designer at Odin
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [Odin](https://scoutify.ai/companies/odin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/odin/e19dc546-e8bd-41b6-8058-144f8bbf4b17) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at Odin was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

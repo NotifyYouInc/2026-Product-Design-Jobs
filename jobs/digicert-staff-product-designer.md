@@ -1,16 +1,16 @@
-# Service Designer at Version 1
+# Staff Product Designer at DigiCert
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139556655-service-designer) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8645875002) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-07-24.
+This product designer position at DigiCert was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 
