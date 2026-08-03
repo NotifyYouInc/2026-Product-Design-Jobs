@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Designer at Inizio Ignite | Putnam
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Inizio Ignite | Putnam](https://scoutify.ai/companies/inizio-ignite-putnam?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6127365004) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/putnamassociatesllc/jobs/8081280) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-07-27.
+This product designer position at Inizio Ignite | Putnam was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

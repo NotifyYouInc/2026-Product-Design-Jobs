@@ -1,16 +1,16 @@
-# Design System Manager H/F at Nexton
+# Transport Planning Senior Designer at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139293196-design-system-manager-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000139950055-transport-planning-senior-designer) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at AECOM was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

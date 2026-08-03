@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Product/UX Designer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Product Designer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6127365004) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000139906499-senior-productux-designer) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-07-27.
+This product designer position at Avaloq was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

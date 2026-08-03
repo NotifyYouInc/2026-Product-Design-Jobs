@@ -1,16 +1,16 @@
-# Design System Manager H/F at Nexton
+# Sr. Product Designer (Milan) at Eight Sleep
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Eight Sleep](https://scoutify.ai/companies/eightsleep?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Milan, Lombardy, Italy |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139293196-design-system-manager-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/eightsleep/8b72ec07-0dc0-487c-8e0f-0d9aad1e2e6a) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at Eight Sleep was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

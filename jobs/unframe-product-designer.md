@@ -1,16 +1,16 @@
-# Design System Manager H/F at Nexton
+# Product Designer at Unframe
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Israel |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139293196-design-system-manager-hf) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4937928101) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at Unframe was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

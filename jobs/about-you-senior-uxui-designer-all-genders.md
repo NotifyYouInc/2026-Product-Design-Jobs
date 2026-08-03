@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior UX/UI Designer (all genders) at About You
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Product Designer |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6127365004) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000139920864-senior-uxui-designer-all-genders) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-07-27.
+This product designer position at About You was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

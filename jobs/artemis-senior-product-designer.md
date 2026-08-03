@@ -1,16 +1,16 @@
-# Design System Manager H/F at Nexton
+# Senior Product Designer at Artemis
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Artemis](https://scoutify.ai/companies/artemis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139293196-design-system-manager-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/artemis/0ec4e044-7c6d-4e4a-9a84-ff5ec91c31f3) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at Artemis was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

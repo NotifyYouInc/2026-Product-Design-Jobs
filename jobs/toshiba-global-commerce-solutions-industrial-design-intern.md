@@ -5,12 +5,12 @@
 | Company | [Toshiba Global Commerce Solutions](https://scoutify.ai/companies/toshibaglobalcommercesolutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Product Designer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5064767007) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5187158007) |
 
 ## About This Role
 
-This product designer position at Toshiba Global Commerce Solutions was posted on 2026-03-02.
+This product designer position at Toshiba Global Commerce Solutions was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

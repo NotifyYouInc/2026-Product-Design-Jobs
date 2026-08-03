@@ -1,16 +1,16 @@
-# Design System Manager H/F at Nexton
+# Web Designer - RSI at Isc
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Isc](https://scoutify.ai/companies/isc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139293196-design-system-manager-hf) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://isc.wd10.myworkdayjobs.com/isc/job/Toronto---Reamined/Web-Designer---RSI_JR0000992) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-23.
+This product designer position at Isc was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
