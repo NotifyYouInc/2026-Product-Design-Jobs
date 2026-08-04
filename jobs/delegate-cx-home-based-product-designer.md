@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Philippines |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Product-Designer_JR104454) |
 
 ## About This Role
 
-This product designer position at Delegate CX was posted on 2026-07-22.
+This graphic / brand design position at Delegate CX was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

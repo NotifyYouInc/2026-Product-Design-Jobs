@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | UX Researcher |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brooklyn-231-Front-St-Song/Design-Lead_R00301874) |
+| Category | Product Designer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brooklyn-231-Front-St-Song/Design-Lead_R00337068-1) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-06-17.
+This product designer position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

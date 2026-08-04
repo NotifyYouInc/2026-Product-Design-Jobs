@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Product Designer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Photonics-Product-Design-Lead---AR-Waveguide-Displays_R2624464) |
 
 ## About This Role
 
-This product designer position at Applied Materials was posted on 2026-07-20.
+This semiconductor / chip design position at Applied Materials was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

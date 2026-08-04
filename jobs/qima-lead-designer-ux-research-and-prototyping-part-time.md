@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000138782885-lead-designer-ux-research-and-prototyping-part-time) |
 
 ## About This Role
 
-This ux researcher position at QIMA was posted on 2026-07-21.
+This product designer position at QIMA was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

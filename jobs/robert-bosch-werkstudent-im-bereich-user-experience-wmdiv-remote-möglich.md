@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bietigheim-Bissingen, Baden-Wurttemberg, Germany |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138619034-werkstudent-im-bereich-user-experience-wmdiv-remote-moglich) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-07-20.
+This product designer position at Robert Bosch was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

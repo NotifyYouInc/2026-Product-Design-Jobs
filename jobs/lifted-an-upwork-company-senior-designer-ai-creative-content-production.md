@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014194176-senior-designer-ai-creative-content-production) |
 
 ## About This Role
 
-This product designer position at Lifted, an Upwork Company™ was posted on 2026-07-21.
+This graphic / brand design position at Lifted, an Upwork Company™ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Sales Leadership |
+| Category | Growth Marketing |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
 
 ## About This Role
 
-This sales leadership position at RevenueCat was posted on 2026-07-21.
+This growth marketing position at RevenueCat was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

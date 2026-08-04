@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/AUS-Melbourne---276-Flinders-Street-Level-7/Senior-Experience-Designer_R1747873) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/AUS-Sydney---Level-21-Suite-1-175-Pitt-Street/Senior-Experience-Designer_R1747375) |
 
 ## About This Role
 
-This product designer position at Concentrix was posted on 2026-07-17.
+This product designer position at Concentrix was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

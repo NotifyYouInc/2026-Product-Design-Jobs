@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Rome, Lazio, Italy |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Rome-Italy/Senior-Designer-Consultant_JR125166) |
 
 ## About This Role
 
-This product designer position at Wfp was posted on 2026-07-20.
+This graphic / brand design position at Wfp was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

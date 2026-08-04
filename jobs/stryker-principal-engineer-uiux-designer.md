@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Product Designer |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Principal-Engineer--UI-UX-Designer_R569387-1) |
 
 ## About This Role
 
-This software engineer position at Stryker was posted on 2026-07-23.
+This product designer position at Stryker was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

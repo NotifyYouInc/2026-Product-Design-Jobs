@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Senior-Designer--Brand---Concept_R60709) |
 
 ## About This Role
 
-This product designer position at PVH was posted on 2026-07-20.
+This graphic / brand design position at PVH was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

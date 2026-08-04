@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Product-Designer_R1126770) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Product-Designer_R1127921) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-07-03.
+This product designer position at Dentsu was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

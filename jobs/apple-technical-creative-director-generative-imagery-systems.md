@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Culver City, California, United States |
-| Category | Brand Marketing |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200669786/technical-creative-director-generative-imagery-systems) |
 
 ## About This Role
 
-This brand marketing position at Apple was posted on 2026-07-20.
+This graphic / brand design position at Apple was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

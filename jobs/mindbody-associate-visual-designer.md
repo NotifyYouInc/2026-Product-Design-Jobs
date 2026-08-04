@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brazil |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-23 |
 | Apply | [View on company site](https://www.playlist.com/careers/opportunities/4699400006?gh_jid=4699400006) |
 
 ## About This Role
 
-This product designer position at Mindbody was posted on 2026-07-23.
+This graphic / brand design position at Mindbody was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483306/visual-designer-gss) |
 
 ## About This Role
 
-This product designer position at Amazon was posted on 2026-07-24.
+This graphic / brand design position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

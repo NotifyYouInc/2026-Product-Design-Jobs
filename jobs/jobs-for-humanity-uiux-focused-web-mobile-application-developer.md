@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dammam, Eastern Province, Saudi Arabia |
-| Category | Software Engineer |
+| Category | Product Designer |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000138805099-uiux-focused-web-mobile-application-developer) |
 
 ## About This Role
 
-This software engineer position at Jobs for Humanity was posted on 2026-07-21.
+This product designer position at Jobs for Humanity was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

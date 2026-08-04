@@ -1,16 +1,16 @@
-# Home-based Designer at Delegate CX
+# Home-Based Designer at Delegate CX
 
 | Field | Details |
 |-------|---------|
 | Company | [Delegate CX](https://scoutify.ai/companies/delegate-cx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Philippines |
 | Category | Product Designer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-based-Designer_JR104391) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://delegatecx.wd1.myworkdayjobs.com/dcx/job/Remote-Philippines/Home-Based-Designer_JR104469) |
 
 ## About This Role
 
-This product designer position at Delegate CX was posted on 2026-07-01.
+This product designer position at Delegate CX was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

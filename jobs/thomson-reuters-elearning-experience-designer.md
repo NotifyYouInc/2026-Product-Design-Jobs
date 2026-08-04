@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Product Designer |
+| Category | Learning & Development |
 | Posted | 2026-07-20 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines-Manila/eLearning-Experience-Designer_JREQ202037) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-07-20.
+This learning & development position at Thomson Reuters was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

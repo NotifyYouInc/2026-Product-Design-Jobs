@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | Growth Marketing |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Design-Manager--Monetization-Growth_R170633) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-07-21.
+This growth marketing position at Adobe was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

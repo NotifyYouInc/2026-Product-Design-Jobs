@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Senior-Product-Designer_R1126690) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Mumbai/Senior-Product-Designer_R1127920) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-07-07.
+This product designer position at Dentsu was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

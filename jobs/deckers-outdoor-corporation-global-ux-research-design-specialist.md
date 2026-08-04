@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deckers Outdoor Corporation](https://scoutify.ai/companies/deckers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Texas, US |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-07-22 |
 | Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/US---California-Remote/Global-UX-Research---Design-Specialist_20893) |
 
 ## About This Role
 
-This ux researcher position at Deckers Outdoor Corporation was posted on 2026-07-22.
+This product designer position at Deckers Outdoor Corporation was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

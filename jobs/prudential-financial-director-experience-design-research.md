@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Letterkenny, Ulster, Ireland |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Letterkenny-Ireland/Director--Experience-Design---Research_R-124688) |
 
 ## About This Role
 
-This ux researcher position at Prudential Financial was posted on 2026-07-24.
+This product designer position at Prudential Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

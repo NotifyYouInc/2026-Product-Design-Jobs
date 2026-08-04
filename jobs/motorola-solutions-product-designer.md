@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Designer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Product-Designer_R62795-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Product-Designer_R67062) |
 
 ## About This Role
 
-This product designer position at Motorola Solutions was posted on 2026-04-06.
+This product designer position at Motorola Solutions was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138821838-senior-designer) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-07-21.
+This graphic / brand design position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
