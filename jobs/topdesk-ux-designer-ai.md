@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Delft, South Holland, The Netherlands |
-| Category | UX Researcher |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000130371919-ux-designer-ai) |
+| Category | Product Designer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140397269-ux-designer-ai) |
 
 ## About This Role
 
-This ux researcher position at TOPdesk was posted on 2026-06-05.
+This product designer position at TOPdesk was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

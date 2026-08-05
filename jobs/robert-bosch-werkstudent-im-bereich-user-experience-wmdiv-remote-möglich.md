@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bietigheim-Bissingen, Baden-Wurttemberg, Germany |
 | Category | Product Designer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138619034-werkstudent-im-bereich-user-experience-wmdiv-remote-moglich) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139211019-werkstudent-im-bereich-user-experience-wmdiv-remote-moglich) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-07-20.
+This product designer position at Robert Bosch was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

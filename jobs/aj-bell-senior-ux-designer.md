@@ -5,12 +5,12 @@
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000138799979-senior-ux-designer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000139285750-senior-ux-designer) |
 
 ## About This Role
 
-This product designer position at AJ Bell was posted on 2026-07-21.
+This product designer position at AJ Bell was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

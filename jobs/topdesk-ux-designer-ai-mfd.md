@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kaiserslautern, Rheinland-Pfalz, Germany |
-| Category | UX Researcher |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000130372249-ux-designer-ai-mfd) |
+| Category | Product Designer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140397669-ux-designer-ai-mfd) |
 
 ## About This Role
 
-This ux researcher position at TOPdesk was posted on 2026-06-05.
+This product designer position at TOPdesk was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

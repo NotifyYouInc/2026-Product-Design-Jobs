@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Marketing |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Graphic---Visual-Designer_ATCI-5451474-S2004885-1) |
+| Location | Heredia, Heredia Province, Costa Rica |
+| Category | Graphic / Brand Design |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Graphic---Visual-Designer_14608925) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-04-02.
+This graphic / brand design position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

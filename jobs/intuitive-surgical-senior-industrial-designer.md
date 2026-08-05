@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000116291829-senior-industrial-designer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000140296695-senior-industrial-designer) |
 
 ## About This Role
 
-This product designer position at Intuitive Surgical was posted on 2026-03-23.
+This product designer position at Intuitive Surgical was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

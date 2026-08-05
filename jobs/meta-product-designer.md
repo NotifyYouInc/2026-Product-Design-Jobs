@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Menlo Park, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/978766321819506) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1084428050580464) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-07-01.
+This product designer position at Meta was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

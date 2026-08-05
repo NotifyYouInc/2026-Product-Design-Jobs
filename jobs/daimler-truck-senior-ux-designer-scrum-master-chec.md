@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Scrum Master & Agile Coach |
+| Category | Product Designer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Senior-UX-Designer---Scrum-Master---CHEC_DT-18976) |
 
 ## About This Role
 
-This scrum master & agile coach position at Daimler Truck was posted on 2026-07-24.
+This product designer position at Daimler Truck was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
