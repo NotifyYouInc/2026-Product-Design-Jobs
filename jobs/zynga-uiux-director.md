@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# UI/UX Director at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6115638004) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Zynga was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

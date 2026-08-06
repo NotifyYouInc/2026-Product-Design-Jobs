@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Senior Product Designer - Design System at Moniepoint
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4612208101) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Moniepoint was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

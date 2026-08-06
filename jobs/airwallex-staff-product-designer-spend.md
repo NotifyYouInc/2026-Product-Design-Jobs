@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Staff Product Designer, Spend at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/ec6557d1-5953-49a9-9855-90dec51002fb) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Airwallex was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

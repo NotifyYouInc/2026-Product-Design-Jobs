@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Sr. Product Designer – Investment Products (x,f,m) at DKB Code Factory
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [DKB Code Factory](https://scoutify.ai/companies/dkbcodefactory?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dkbcodefactory/jobs/7819020003) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at DKB Code Factory was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

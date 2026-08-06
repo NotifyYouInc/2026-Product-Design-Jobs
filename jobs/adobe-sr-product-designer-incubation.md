@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Sr Product Designer, Incubation at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Product-Designer--Incubation_R168317-1) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at Adobe was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

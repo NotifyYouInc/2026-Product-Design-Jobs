@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Product Designer, CMS at Figma
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Figma](https://scoutify.ai/companies/figma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/figma/jobs/6126976004?gh_jid=6126976004) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Figma was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Sr Director, Product Design - Hot Wheels at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | El Segundo, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000140523439-sr-director-product-design-hot-wheels) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at Mattel was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

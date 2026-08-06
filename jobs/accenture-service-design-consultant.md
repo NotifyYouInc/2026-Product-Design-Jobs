@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Service Design Consultant at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Service-Design-Consultant_R00319812-1) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

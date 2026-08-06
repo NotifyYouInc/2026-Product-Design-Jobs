@@ -1,16 +1,16 @@
-# Product Designer at Assorthealth
+# SENIOR SERVICE AND EXPERIENCE DESIGNER at BDC
 
 | Field | Details |
 |-------|---------|
-| Company | [Assorthealth](https://scoutify.ai/companies/assorthealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [BDC](https://scoutify.ai/companies/bdc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/assorthealth/75286761-b8da-4715-bd05-a8226602b8b9) |
+| Apply | [View on company site](https://bdc.wd10.myworkdayjobs.com/bdc_careers/job/Montreal/SENIOR-SERVICE-AND-EXPERIENCE-DESIGNER_R-8041) |
 
 ## About This Role
 
-This product designer position at Assorthealth was posted on 2026-07-30.
+This product designer position at BDC was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

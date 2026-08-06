@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Platform Designer at Scale AI
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4718917005) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Scale AI was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

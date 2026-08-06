@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Senior Product Designer (Remote) at The Athletic Media Company
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [The Athletic Media Company](https://scoutify.ai/companies/theathletic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://jobs.lever.co/theathletic/fe515d03-cb73-49e8-baf8-0f471f20f956) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at The Athletic Media Company was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

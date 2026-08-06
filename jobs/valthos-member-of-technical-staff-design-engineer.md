@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Member of Technical Staff - Design Engineer at Valthos
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Valthos](https://scoutify.ai/companies/valthos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/valthos/9b7ea5d6-7900-4013-bfe7-2c28d90fd6d2) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Valthos was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

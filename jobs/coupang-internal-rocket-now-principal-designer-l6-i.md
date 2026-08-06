@@ -1,16 +1,16 @@
-# Product Designer at Assorthealth
+# [Rocket Now] Principal, Designer [L6-I] at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Assorthealth](https://scoutify.ai/companies/assorthealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/assorthealth/75286761-b8da-4715-bd05-a8226602b8b9) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8093326?gh_jid=8093326) |
 
 ## About This Role
 
-This product designer position at Assorthealth was posted on 2026-07-30.
+This product designer position at Coupang Internal was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

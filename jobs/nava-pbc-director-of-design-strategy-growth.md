@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nava PBC](https://scoutify.ai/companies/nava-pbc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Growth Marketing |
+| Category | Strategy & Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/navapbc/jobs/4328494009) |
 
 ## About This Role
 
-This growth marketing position at Nava PBC was posted on 2026-07-24.
+This strategy & operations position at Nava PBC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

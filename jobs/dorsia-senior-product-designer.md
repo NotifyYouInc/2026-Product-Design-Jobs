@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dorsia](https://scoutify.ai/companies/dorsia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dorsia/jobs/5023966007) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dorsia/jobs/5198536007) |
 
 ## About This Role
 
-This product designer position at Dorsia was posted on 2026-02-02.
+This product designer position at Dorsia was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

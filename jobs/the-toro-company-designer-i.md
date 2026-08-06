@@ -1,16 +1,16 @@
-# Senior Design Strategist at LINK
+# Designer I at The Toro Company
 
 | Field | Details |
 |-------|---------|
-| Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Company | [The Toro Company](https://scoutify.ai/companies/ttc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bloomington, Minnesota, United States |
 | Category | Product Designer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5373514008) |
+| Apply | [View on company site](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Designer-I_JR16672) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-07-29.
+This product designer position at The Toro Company was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior CRO Designer, Paywalls and Funnels at RevenueCat
+# Lead Designer at Starpath
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Starpath](https://scoutify.ai/companies/starpath-space?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hawthorne, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/54153e40-8c3d-4512-b65a-a1515d7bef53) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/starpath.space/69322251-6725-4edc-b738-d11dd206d33a) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-07-21.
+This product designer position at Starpath was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

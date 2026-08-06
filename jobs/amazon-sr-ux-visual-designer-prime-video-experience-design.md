@@ -1,16 +1,16 @@
-# Product Designer at Assorthealth
+# Sr. UX Visual Designer, Prime Video Experience Design at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Assorthealth](https://scoutify.ai/companies/assorthealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/assorthealth/75286761-b8da-4715-bd05-a8226602b8b9) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10488076/sr-ux-visual-designer-prime-video-experience-design) |
 
 ## About This Role
 
-This product designer position at Assorthealth was posted on 2026-07-30.
+This product designer position at Amazon was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

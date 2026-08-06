@@ -1,16 +1,16 @@
-# Product Designer at Assorthealth
+# #127660 - Senior UX/UI Designer at Lifted, an Upwork Company™
 
 | Field | Details |
 |-------|---------|
-| Company | [Assorthealth](https://scoutify.ai/companies/assorthealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/assorthealth/75286761-b8da-4715-bd05-a8226602b8b9) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014339666-127660-senior-uxui-designer) |
 
 ## About This Role
 
-This product designer position at Assorthealth was posted on 2026-07-30.
+This product designer position at Lifted, an Upwork Company™ was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

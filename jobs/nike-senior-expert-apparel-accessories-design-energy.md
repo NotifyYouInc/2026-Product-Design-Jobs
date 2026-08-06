@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Beaverton, Oregon, United States |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Expert--Apparel---Accessories-Design--Energy_R-80687) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Los-Angeles-California/Senior-Expert--Apparel---Accessories-Design--Energy_R-89060) |
 
 ## About This Role
 
-This product designer position at Nike was posted on 2026-03-30.
+This product designer position at Nike was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
