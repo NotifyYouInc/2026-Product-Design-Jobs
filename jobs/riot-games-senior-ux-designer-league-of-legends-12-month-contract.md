@@ -1,16 +1,16 @@
-# Senior UX Designer - League of Legends (12 Month Contract)   at Riot Games
+# Senior UX Designer – League of Legends (12 Month Contract)   at Riot Games
 
 | Field | Details |
 |-------|---------|
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8028983?gh_jid=8028983) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8097584?gh_jid=8097584) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-06-26.
+This product designer position at Riot Games was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

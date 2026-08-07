@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# Product Designer Junior/Junior+ at Plata Card
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/platacard/jobs/5365489008) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at Plata Card was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Data & Insights Interaction Designer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data---Insights-Interaction-Designer_ATCI-5689349-S2061278-1) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

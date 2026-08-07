@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# Platform Designer at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=6255627003) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at Toss was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

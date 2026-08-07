@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Germany |
 | Category | Product Designer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000136018059-senior-product-designer-mwd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140645080-senior-product-designer-mwd) |
 
 ## About This Role
 
-This product designer position at Redcare Pharmacy was posted on 2026-07-06.
+This product designer position at Redcare Pharmacy was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

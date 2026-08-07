@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Sr UX Interaction Designer at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Monterrey/Sr-UX-Interaction-Designer_R5048559-2) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at GE Vernova was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

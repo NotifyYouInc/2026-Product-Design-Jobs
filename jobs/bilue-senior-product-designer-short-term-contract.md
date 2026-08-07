@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Senior Product Designer (Short Term Contract)  at Bilue
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Bilue](https://scoutify.ai/companies/bilue?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bilue/744000140788699-senior-product-designer-short-term-contract) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at Bilue was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

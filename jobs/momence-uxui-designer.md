@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# UX/UI Designer at Momence
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Momence](https://scoutify.ai/companies/momence?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/momence/jobs/4719853005) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at Momence was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

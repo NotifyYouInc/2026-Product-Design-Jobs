@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# Design Operations Manager at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Warren, Michigan, United States |
 | Category | Product Designer |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/Design-Operations-Manager_546436-1) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at Haleon was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

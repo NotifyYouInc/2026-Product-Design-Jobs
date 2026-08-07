@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Staff Product Designer, Network at Handshake
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Handshake](https://scoutify.ai/companies/handshake?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/handshake/73418318-9ea4-49bc-a886-1bb4f6f8a637) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at Handshake was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

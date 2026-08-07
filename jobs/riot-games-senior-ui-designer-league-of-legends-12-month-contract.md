@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Senior UI Designer – League of Legends (12-Month Contract) at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8097606?gh_jid=8097606) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at Riot Games was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

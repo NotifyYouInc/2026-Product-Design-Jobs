@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Senior User Experience Designer at ENOVIS
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [ENOVIS](https://scoutify.ai/companies/enovis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Senior-User-Experience-Designer_R0033781) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at ENOVIS was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

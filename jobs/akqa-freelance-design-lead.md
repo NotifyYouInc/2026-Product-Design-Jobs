@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# Freelance Design Lead at AKQA
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.akqa.com/jobs/8079581/?gh_jid=8079581) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at AKQA was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

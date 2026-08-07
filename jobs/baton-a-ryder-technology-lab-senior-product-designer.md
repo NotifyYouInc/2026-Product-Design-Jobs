@@ -5,12 +5,12 @@
 | Company | [Baton (A Ryder Technology Lab)](https://scoutify.ai/companies/baton-a-ryder-technology-lab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baton/jobs/5116525007) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baton/jobs/5200131007) |
 
 ## About This Role
 
-This product designer position at Baton (A Ryder Technology Lab) was posted on 2026-04-21.
+This product designer position at Baton (A Ryder Technology Lab) was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

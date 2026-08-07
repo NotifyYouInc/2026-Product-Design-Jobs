@@ -1,16 +1,16 @@
-# Interface Designer at Snapchat
+# Staff Product Designer [L6-1] (Core UX) at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Los-Angeles-California/Interface-Designer_R0046325-2) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8093976?gh_jid=8093976) |
 
 ## About This Role
 
-This product designer position at Snapchat was posted on 2026-07-31.
+This product designer position at Coupang Internal was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

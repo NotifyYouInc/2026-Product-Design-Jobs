@@ -1,16 +1,16 @@
-# Senior Designer - Advanced UX team at General Motors
+# Senior Designer Advanced UX Team at General Motors
 
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Product Designer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Designer---Advanced-UX-team_JR-202603274) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Designer-Advanced-UX-Team_JR-202616533) |
 
 ## About This Role
 
-This product designer position at General Motors was posted on 2026-02-12.
+This product designer position at General Motors was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

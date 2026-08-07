@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Midrand, Gauteng, South Africa |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/UX-UI-Designer_14043027) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Istanbul/UX-UI-Designer_R00348133-1) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-05-06.
+This product designer position at Accenture was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

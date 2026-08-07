@@ -1,16 +1,16 @@
-# Senior Director - Product Design at Freshworks CRM
+# Senior Meta Designer - Unannouced Project at NaturalMotion
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [NaturalMotion](https://scoutify.ai/companies/naturalmotion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000140661230-senior-director-product-design) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nmcareers/jobs/6130513004) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-07-30.
+This product designer position at NaturalMotion was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
