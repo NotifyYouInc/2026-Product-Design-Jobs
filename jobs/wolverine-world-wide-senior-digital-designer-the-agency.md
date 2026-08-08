@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolverine World Wide](https://scoutify.ai/companies/wolverine-world-wide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Rockford, Illinois, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://wwwinc.wd1.myworkdayjobs.com/www/job/Rockford-MI/Senior-Digital-Designer---The-Agency_2026-10967) |
 
 ## About This Role
 
-This graphic / brand design position at Wolverine World Wide was posted on 2026-07-24.
+This product designer position at Wolverine World Wide was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

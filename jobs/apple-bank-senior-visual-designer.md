@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple Bank](https://scoutify.ai/companies/apple-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
-| Category | Marketing |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/Senior-Visual-Designer_2026-1192) |
+| Location | New York City, New York, United States |
+| Category | Product Designer |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/Senior-Visual-Designer_2026-1308) |
 
 ## About This Role
 
-This marketing position at Apple Bank was posted on 2026-04-03.
+This product designer position at Apple Bank was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

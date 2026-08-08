@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Strategy & Operations |
+| Category | Product Designer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Lead-Design-Researcher--12-Month-FTC-_158746-1) |
 
 ## About This Role
 
-This strategy & operations position at Lloyds Bank was posted on 2026-07-28.
+This product designer position at Lloyds Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Antimetal](https://scoutify.ai/companies/antimetal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/antimetal/dc9bc8ad-91ba-40c3-928b-6e646c0ffac5) |
 
 ## About This Role
 
-This graphic / brand design position at Antimetal was posted on 2026-07-28.
+This product designer position at Antimetal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

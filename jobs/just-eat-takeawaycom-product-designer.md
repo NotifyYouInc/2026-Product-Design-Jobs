@@ -1,16 +1,16 @@
-# Product Designer at Just Eat Takeaway.com
+# Product designer at Just Eat Takeaway.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Winnipeg, Manitoba, Canada |
 | Category | Product Designer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Toronto-King-Street-E-Office/Product-Designer_R_050755) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Winnipeg-Hargrave-Street-Office/Product-designer_R_052272) |
 
 ## About This Role
 
-This product designer position at Just Eat Takeaway.com was posted on 2026-04-06.
+This product designer position at Just Eat Takeaway.com was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ4LnkyME0ROoSXiB7wg9fDnHh-HideHfGAP35ifw_2CEjsACxwdTC4Pk_Lkb0Pr40hn9Syxe4X6KzFXXhB7x3aLbVviEQWXlDuTj-mc4fVTFjFgC5zH5f3Mp_ejMQ%3D%3D_V2&loc=IN&title=Senior+Interaction+Designer) |
+| Category | Product Designer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVg7qIwPjCAYo1Ygc7eI9IbhpTM_FfGb2rA2QF_zSavhEjsA1Ny_iwFsU8Vp44EXjJ4VxJQDIvpprUXDJAl_9EXQSLSXJYAbanGybUQsM8R3R9lvcYqo2R7e9bwKmw%3D%3D_V2&loc=IN&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This mobile engineer position at Google was posted on 2026-06-12.
+This product designer position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Memphis, Tennessee, United States |
-| Category | Industrial Automation |
+| Category | Product Designer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Memphis-Tennessee/Senior-Designer--CAD---R-D_R569231) |
 
 ## About This Role
 
-This industrial automation position at Stryker was posted on 2026-07-29.
+This product designer position at Stryker was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

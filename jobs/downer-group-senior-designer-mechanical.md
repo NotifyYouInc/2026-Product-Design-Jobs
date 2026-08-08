@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Milton, Queensland, Australia |
-| Category | Industrial Automation |
+| Category | Product Designer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#734990) |
 
 ## About This Role
 
-This industrial automation position at Downer Group was posted on 2026-07-30.
+This product designer position at Downer Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

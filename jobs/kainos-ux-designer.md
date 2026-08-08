@@ -5,12 +5,12 @@
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/UX-Designer_JR_17677) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/UX-Designer_JR_18159) |
 
 ## About This Role
 
-This product designer position at Kainos was posted on 2026-04-29.
+This product designer position at Kainos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

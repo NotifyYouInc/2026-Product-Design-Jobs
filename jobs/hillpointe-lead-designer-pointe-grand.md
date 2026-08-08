@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hillpointe](https://scoutify.ai/companies/hillpointe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Winter Park, Florida, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/hillpointe/jobs/5373339008) |
 
 ## About This Role
 
-This graphic / brand design position at Hillpointe was posted on 2026-07-28.
+This product designer position at Hillpointe was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

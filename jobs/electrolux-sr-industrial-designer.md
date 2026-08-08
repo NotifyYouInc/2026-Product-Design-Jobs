@@ -1,16 +1,16 @@
-# Sr. Industrial Designer at Electrolux
+# Sr Industrial Designer at Electrolux
 
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Curitiba, Paraná, Brazil |
 | Category | Product Designer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/Sr-Industrial-Designer_JR76619) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/Sr-Industrial-Designer_JR79490) |
 
 ## About This Role
 
-This product designer position at Electrolux was posted on 2026-04-08.
+This product designer position at Electrolux was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

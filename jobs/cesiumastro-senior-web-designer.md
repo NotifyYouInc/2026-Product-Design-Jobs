@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CesiumAstro](https://scoutify.ai/companies/cesiumastro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.lever.co/CesiumAstro/eb6acb5b-e845-40aa-a030-4a3af5e2e60f) |
 
 ## About This Role
 
-This graphic / brand design position at CesiumAstro was posted on 2026-07-28.
+This product designer position at CesiumAstro was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000139088099-principal-product-designer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000140230060-principal-product-designer) |
 
 ## About This Role
 
-This product designer position at IFS was posted on 2026-07-22.
+This product designer position at IFS was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
