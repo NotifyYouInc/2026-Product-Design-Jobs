@@ -1,16 +1,16 @@
-# UX Engineer, HCI at Bjak
+# Digital Consumer Experience Strategy & Research at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Product Designer |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2b96d1ef-46d2-492d-996a-c753be0052e7) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/Digital-Consumer-Experience-Strategy---Research_R2865039) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-02.
+This product designer position at Sanofi was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

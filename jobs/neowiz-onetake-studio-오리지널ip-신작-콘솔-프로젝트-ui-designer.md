@@ -1,16 +1,16 @@
-# UX Engineer, HCI at Bjak
+# [Onetake Studio] 오리지널IP 신작 콘솔 프로젝트 UI Designer at Neowiz
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Neowiz](https://scoutify.ai/companies/neowiz?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2b96d1ef-46d2-492d-996a-c753be0052e7) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.lever.co/neowiz/403dd6b6-b75c-4d37-a204-8eab066dbee0) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-02.
+This product designer position at Neowiz was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

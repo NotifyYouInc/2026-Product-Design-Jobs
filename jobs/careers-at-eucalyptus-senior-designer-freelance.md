@@ -1,16 +1,16 @@
-# UX Engineer, HCI at Bjak
+# Senior Designer (Freelance) at Careers at Eucalyptus
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Careers at Eucalyptus](https://scoutify.ai/companies/careers-at-eucalyptus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Australia |
 | Category | Product Designer |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2b96d1ef-46d2-492d-996a-c753be0052e7) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eucalyptus/jobs/4719377005) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-02.
+This product designer position at Careers at Eucalyptus was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

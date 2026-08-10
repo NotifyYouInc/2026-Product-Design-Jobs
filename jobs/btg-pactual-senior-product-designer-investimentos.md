@@ -1,16 +1,16 @@
-# UX Engineer, HCI at Bjak
+# Senior Product Designer - Investimentos at BTG Pactual
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2b96d1ef-46d2-492d-996a-c753be0052e7) |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5971786004) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-02.
+This product designer position at BTG Pactual was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 
