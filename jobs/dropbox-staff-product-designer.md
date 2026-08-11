@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dropbox](https://scoutify.ai/companies/dropbox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.dropbox.com/listing/7558673?gh_jid=7558673) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.dropbox.com/listing/8092715?gh_jid=8092715) |
 
 ## About This Role
 
-This product designer position at Dropbox was posted on 2026-02-09.
+This product designer position at Dropbox was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syndigo](https://scoutify.ai/companies/syndigo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | India |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://syndigo.com/open-positions/?gh_jid=6118656004) |
 
 ## About This Role
 
-This product designer position at Syndigo was posted on 2026-07-29.
+This graphic / brand design position at Syndigo was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

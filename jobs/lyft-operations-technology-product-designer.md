@@ -1,16 +1,16 @@
-# Operations Technology Product Designer  at Lyft
+# Operations Technology Product Designer at Lyft
 
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8594126002?gh_jid=8594126002) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8611874002?gh_jid=8611874002) |
 
 ## About This Role
 
-This product designer position at Lyft was posted on 2026-06-19.
+This product designer position at Lyft was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

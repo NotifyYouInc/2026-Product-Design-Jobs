@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSoXWcuYcprbIkN9GpLa3LjebMy6D23pbIoJ6khpypNrEjsACxwdTK4oC9P2DopCvBL_xaSDRoqbVmiQo8TNGnE4blAtPkoDDCNJkFWsOeEJdsIpEN6y3mrnnnnV0w%3D%3D_V2&loc=US&title=Interaction+Designer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVouQtCO9FWBHM5hhzoOktTfsvYj_xEtg-sKjnusg6UaEjsA1Ny_i6SWnJNNrAawEk9etfFka1IZp6bX3m17NfnMCf-4ywzmiWzmCsMBFOWhKg7mXTvddWsXk94iUg%3D%3D_V2&loc=US&title=Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-05-28.
+This product designer position at Google was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Sr-Principal-Digital-Designer_R-10062152) |
 
 ## About This Role
 
-This product designer position at NXP Semiconductors was posted on 2026-07-28.
+This semiconductor / chip design position at NXP Semiconductors was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

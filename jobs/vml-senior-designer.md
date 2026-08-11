@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://www.vml.com/careers/job/8654121002?gh_jid=8654121002) |
 
 ## About This Role
 
-This product designer position at VML was posted on 2026-07-28.
+This graphic / brand design position at VML was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

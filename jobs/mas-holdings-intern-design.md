@@ -5,12 +5,12 @@
 | Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sri Lanka |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20129) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20728) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-07-02.
+This product designer position at MAS Holdings was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

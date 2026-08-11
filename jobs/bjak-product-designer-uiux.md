@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Switzerland |
 | Category | Product Designer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/9d8c1324-5555-4225-a441-5b11a0fc0a82) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/eae6e535-65f0-4f88-930a-1dd38e49d3b2) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-06-27.
+This product designer position at Bjak was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000139369687-senior-uiux-designer-enterprise-products) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000140009799-senior-uiux-designer-enterprise-products) |
 
 ## About This Role
 
-This product designer position at Applaudo Studios was posted on 2026-07-23.
+This product designer position at Applaudo Studios was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

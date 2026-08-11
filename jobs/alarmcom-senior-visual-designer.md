@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tysons, Virginia, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8653530002) |
 
 ## About This Role
 
-This product designer position at Alarm.com was posted on 2026-07-28.
+This graphic / brand design position at Alarm.com was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
