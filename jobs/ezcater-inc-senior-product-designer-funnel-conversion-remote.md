@@ -1,16 +1,16 @@
-# Service Designer - 12 Month FTC at Lloyds Bank
+# Senior Product Designer, Funnel Conversion (Remote) at ezCater, Inc
 
 | Field | Details |
 |-------|---------|
-| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Company | [ezCater, Inc](https://scoutify.ai/companies/ezcater-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer---12-Month-FTC_161400-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ezcaterinc/jobs/5203647007) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-08-04.
+This product designer position at ezCater, Inc was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

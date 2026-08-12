@@ -1,16 +1,16 @@
-# Service Designer - 12 Month FTC at Lloyds Bank
+# Product Designer confirmé/sénior H/F at Nexton
 
 | Field | Details |
 |-------|---------|
-| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lille, Hauts-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer---12-Month-FTC_161400-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000141441190-product-designer-confirmesenior-hf) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-08-04.
+This product designer position at Nexton was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

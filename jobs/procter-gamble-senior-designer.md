@@ -1,16 +1,16 @@
-# Freelance Senior Designer at AKQA
+# Senior Designer at Procter & Gamble
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Graphic / Brand Design |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8103470/?gh_jid=8103470) |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Senior-Designer_R000156380) |
 
 ## About This Role
 
-This graphic / brand design position at AKQA was posted on 2026-08-04.
+This graphic / brand design position at Procter & Gamble was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Service Designer - 12 Month FTC at Lloyds Bank
+# User Interface Designer at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kampala, Central Region, Uganda |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer---12-Month-FTC_161400-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000141451969-user-interface-designer) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-08-04.
+This product designer position at Standard Bank was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

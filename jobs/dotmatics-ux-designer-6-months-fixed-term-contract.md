@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# UX Designer (6 Months Fixed Term Contract) at Dotmatics
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Dotmatics](https://scoutify.ai/companies/dotmatics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.dotmatics.com/jobs/apply?gh_jid=4691588005) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at Dotmatics was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

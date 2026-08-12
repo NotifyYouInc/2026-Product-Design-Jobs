@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# #EG AI Consultant Lead at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001285831-eg-ai-consultant-lead) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at NCS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# Head of Design at Moonlake
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Moonlake](https://scoutify.ai/companies/moonlake?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/moonlake/5d52f4e9-c4b5-4c3e-9731-c4c50022b68b) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at Moonlake was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

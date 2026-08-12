@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# Junior UX / UI Designer at Radius
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Crewe, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000141540080-junior-ux-ui-designer) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at Radius was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

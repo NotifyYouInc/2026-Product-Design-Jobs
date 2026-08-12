@@ -1,16 +1,16 @@
-# Service Designer - 12 Month FTC at Lloyds Bank
+# UI/UX Designer at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
-| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer---12-Month-FTC_161400-1) |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CZE---Prague-U-Nkladovho-ndra/UI-UX-Designer_R0058940) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-08-04.
+This product designer position at Wolters Kluwer was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

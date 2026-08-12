@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# UI/UX Designer at fonio
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [fonio](https://scoutify.ai/companies/fonio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Vienna, Vienna, Austria |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fonio/3e70ec87-eee5-4e6b-b3a5-03fe4d4cd53c) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at fonio was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

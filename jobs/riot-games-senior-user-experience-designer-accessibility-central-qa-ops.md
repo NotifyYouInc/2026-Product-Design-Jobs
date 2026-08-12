@@ -1,16 +1,16 @@
-# Service Designer - 12 Month FTC at Lloyds Bank
+# Senior User Experience Designer, Accessibility - Central QA Ops at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Service-Designer---12-Month-FTC_161400-1) |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8078155?gh_jid=8078155) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-08-04.
+This product designer position at Riot Games was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

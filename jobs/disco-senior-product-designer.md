@@ -5,12 +5,12 @@
 | Company | [DISCO](https://scoutify.ai/companies/disco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8512503002) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8675204002) |
 
 ## About This Role
 
-This product designer position at DISCO was posted on 2026-04-22.
+This product designer position at DISCO was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

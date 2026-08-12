@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# Director, Product Design (AI Experience) at AlphaSense
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8678097002) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at AlphaSense was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

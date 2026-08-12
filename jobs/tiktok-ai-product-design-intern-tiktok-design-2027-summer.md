@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# AI Product Design Intern (TikTok-Design) - 2027 Summer at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7667856128008702261/detail) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at TikTok was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

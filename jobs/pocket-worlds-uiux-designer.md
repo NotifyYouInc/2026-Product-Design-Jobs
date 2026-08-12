@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# UI/UX Designer at Pocket Worlds
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Pocket Worlds](https://scoutify.ai/companies/pocket-20worlds?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pocket%20worlds/3130924e-4e45-4472-9e8e-ce2d2d7b517e) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at Pocket Worlds was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

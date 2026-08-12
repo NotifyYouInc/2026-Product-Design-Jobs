@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duolingo](https://scoutify.ai/companies/duolingo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Beijing, Beijing, China |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://careers.duolingo.com/jobs/8618405002?gh_jid=8618405002) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://careers.duolingo.com/jobs/8675713002?gh_jid=8675713002) |
 
 ## About This Role
 
-This product designer position at Duolingo was posted on 2026-07-02.
+This product designer position at Duolingo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

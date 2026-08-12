@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Designer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Aix-en-Provence/UX-Designer_R0333814-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida-Berger-Tower/UX-Designer_R0324994-2) |
 
 ## About This Role
 
-This product designer position at Thales was posted on 2026-07-08.
+This product designer position at Thales was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

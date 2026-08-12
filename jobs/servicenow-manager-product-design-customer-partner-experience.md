@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139353571-manager-product-design-customer-partner-experience) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141574539-manager-product-design-customer-partner-experience) |
 
 ## About This Role
 
-This product designer position at ServiceNow was posted on 2026-07-23.
+This product designer position at ServiceNow was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

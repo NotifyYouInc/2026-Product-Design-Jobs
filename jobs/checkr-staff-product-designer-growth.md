@@ -5,12 +5,12 @@
 | Company | [Checkr](https://scoutify.ai/companies/checkr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/checkr/jobs/vi9iXWv-staff-product-designer-growth) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/checkr/jobs/ATh86OH-staff-product-designer-growth) |
 
 ## About This Role
 
-This product designer position at Checkr was posted on 2026-06-29.
+This product designer position at Checkr was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

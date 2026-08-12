@@ -5,12 +5,12 @@
 | Company | [Dev Technology Group](https://scoutify.ai/companies/devtechnology?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8471713002) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8675795002) |
 
 ## About This Role
 
-This product designer position at Dev Technology Group was posted on 2026-03-24.
+This product designer position at Dev Technology Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

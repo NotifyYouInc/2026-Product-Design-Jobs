@@ -1,16 +1,16 @@
-# Senior Product Design Manager at Fivetran
+# Lead Designer, UX Research and Prototyping at QIMA
 
 | Field | Details |
 |-------|---------|
-| Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7822456003) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000141646819-lead-designer-ux-research-and-prototyping) |
 
 ## About This Role
 
-This product designer position at Fivetran was posted on 2026-07-31.
+This product designer position at QIMA was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
