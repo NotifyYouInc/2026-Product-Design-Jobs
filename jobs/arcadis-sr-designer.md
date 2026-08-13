@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Sr. Designer at Arcadis
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Arcadis](https://scoutify.ai/companies/em2-cx-oj5670?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ebcs.fa.em2.oraclecloud.com/jobs/#43055) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Arcadis was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

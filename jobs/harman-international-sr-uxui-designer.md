@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Sr. UX/UI Designer at HARMAN International
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Japan |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Sr-UX-UI-Designer/32514) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at HARMAN International was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

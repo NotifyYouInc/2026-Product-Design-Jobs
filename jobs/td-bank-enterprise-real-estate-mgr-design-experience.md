@@ -1,16 +1,16 @@
-# User Experience, Report Design & Adoption Lead at TD Bank
+# Enterprise Real Estate Mgr Design & Experience at TD Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/User-Experience--Report-Design---Adoption-Lead_R_1501959-1) |
+| Category | Product Designer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Mgr-Design---Experience_R_1496166) |
 
 ## About This Role
 
-This data analyst position at TD Bank was posted on 2026-07-29.
+This product designer position at TD Bank was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

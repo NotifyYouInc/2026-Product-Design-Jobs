@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Outset](https://scoutify.ai/companies/outset?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/outset/f272ddff-c70d-4c07-a24a-5c26bf967c55) |
+| Category | Product Designer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/outset/731d6783-7b2b-4d6a-bffd-ba7a5b51de44) |
 
 ## About This Role
 
-This ux researcher position at Outset was posted on 2026-03-16.
+This product designer position at Outset was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Customer Journey Designer at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Culver City, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675887/customer-journey-designer) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Apple was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

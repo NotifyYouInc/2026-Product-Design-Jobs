@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | UX Researcher |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/User-Experience-Design-Lead-Analyst---HiH---Evernorth_26005033) |
+| Category | Product Designer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/User-Experience-Design-Lead-Analyst---HiH---Evernorth_26005037) |
 
 ## About This Role
 
-This ux researcher position at Cigna was posted on 2026-05-06.
+This product designer position at Cigna was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

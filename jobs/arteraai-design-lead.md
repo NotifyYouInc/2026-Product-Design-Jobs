@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Design Lead at ArteraAI
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [ArteraAI](https://scoutify.ai/companies/artera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://jobs.lever.co/artera/8ce013d6-92dd-4b91-81c7-df02d1498d12) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at ArteraAI was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

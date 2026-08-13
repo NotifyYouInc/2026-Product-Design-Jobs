@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warren, Michigan, United States |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/In-Vehicle-Designer_JR-202604329) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/In-Vehicle-Designer_JR-202615347) |
 
 ## About This Role
 
-This product designer position at General Motors was posted on 2026-03-03.
+This product designer position at General Motors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

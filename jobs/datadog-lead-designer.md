@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Lead Designer at Datadog
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
-| Category | Product Designer |
+| Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8083862/?gh_jid=8083862) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This graphic / brand design position at Datadog was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

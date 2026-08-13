@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Sr. Product Designer at Autodesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/EMEA---Poland---Krakw---Lubomirskiego/Sr-Product-Designer_26WD100277-1) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Autodesk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

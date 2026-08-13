@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# UI/Visual Designer at Motorola Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/UI-Visual-Designer_R67388-1) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Motorola Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

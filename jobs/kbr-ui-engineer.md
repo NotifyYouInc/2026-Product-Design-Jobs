@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# UI Engineer at KBR
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beavercreek, Ohio, United States |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/UI-Engineer_R2127790) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at KBR was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

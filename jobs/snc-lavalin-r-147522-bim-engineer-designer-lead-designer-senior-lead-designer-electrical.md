@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/R-147522-BIM-Engineer---Designer---Lead-Designer---Senior-Lead-Designer---Electrical_R-160725-2) |
 
 ## About This Role
 
-This product designer position at SNC-Lavalin was posted on 2026-07-28.
+This electrical / hardware engineer position at SNC-Lavalin was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

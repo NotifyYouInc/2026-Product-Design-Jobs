@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# UI Design Lead at DEPT®
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8093830) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at DEPT® was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

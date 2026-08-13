@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# UI/UX Designer at Xplor Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Newcastle, Northern Ireland, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000141663130-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Xplor Technologies was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

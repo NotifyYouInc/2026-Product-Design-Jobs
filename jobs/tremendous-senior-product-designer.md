@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Senior Product Designer at Tremendous
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Tremendous](https://scoutify.ai/companies/tremendous?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tremendous/61534849-aa96-450b-b3a6-0ea9d14d8753) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Tremendous was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

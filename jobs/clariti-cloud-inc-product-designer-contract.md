@@ -1,16 +1,16 @@
-# Director of Product Design at Ethos Life
+# Product Designer (Contract) at Clariti Cloud Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Clariti Cloud Inc.](https://scoutify.ai/companies/clariti-cloud-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8641210002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clariticloudinc/jobs/7830081003) |
 
 ## About This Role
 
-This product designer position at Ethos Life was posted on 2026-08-05.
+This product designer position at Clariti Cloud Inc. was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
