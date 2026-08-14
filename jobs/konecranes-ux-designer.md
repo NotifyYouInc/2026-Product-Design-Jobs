@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Italy |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000136726759-ux-designer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000142054649-ux-designer) |
 
 ## About This Role
 
-This product designer position at Konecranes was posted on 2026-07-09.
+This product designer position at Konecranes was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

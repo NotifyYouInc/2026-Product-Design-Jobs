@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Diego, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014306066-senior-product-designer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014329306-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at AbbVie was posted on 2026-07-27.
+This product designer position at AbbVie was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Virtuos](https://scoutify.ai/companies/ocs-cx-oj115944?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | China |
 | Category | Product Designer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fa-exhj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#1847) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://fa-exhj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2216) |
 
 ## About This Role
 
-This product designer position at Virtuos was posted on 2026-02-26.
+This product designer position at Virtuos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

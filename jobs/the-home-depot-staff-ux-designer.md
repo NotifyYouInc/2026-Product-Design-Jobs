@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Staff-UX-Designer_Req180260) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Staff-UX-Designer_Req189348) |
 
 ## About This Role
 
-This product designer position at The Home Depot was posted on 2026-05-12.
+This product designer position at The Home Depot was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

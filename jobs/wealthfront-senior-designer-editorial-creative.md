@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wealthfront](https://scoutify.ai/companies/wealthfront?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.lever.co/wealthfront/dee5eae7-e9a4-4d20-bdbe-525a1a1226b8) |
 
 ## About This Role
 
-This graphic / brand design position at Wealthfront was posted on 2026-08-03.
+This product designer position at Wealthfront was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

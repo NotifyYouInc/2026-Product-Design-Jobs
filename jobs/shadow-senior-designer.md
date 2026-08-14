@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SHADOW](https://scoutify.ai/companies/shadow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://weareshadow.com/careers?gh_jid=4702777006) |
 
 ## About This Role
 
-This graphic / brand design position at SHADOW was posted on 2026-08-05.
+This product designer position at SHADOW was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | UX Researcher |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Bulgaria---Sofia/UX-UI-Designer_R0021466) |
+| Category | Product Designer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Bulgaria---Sofia/UX-UI-Designer_R0022273) |
 
 ## About This Role
 
-This ux researcher position at Aristocrat Leisure was posted on 2026-06-11.
+This product designer position at Aristocrat Leisure was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

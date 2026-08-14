@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Myhcm](https://scoutify.ai/companies/myhcm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/Barcelona/Senior-Product-Designer_JR13456) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/North-London-UK/Senior-Product-Designer_JR13488) |
 
 ## About This Role
 
-This product designer position at Myhcm was posted on 2026-07-27.
+This product designer position at Myhcm was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

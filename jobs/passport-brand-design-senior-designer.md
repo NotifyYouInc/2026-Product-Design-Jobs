@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Passport Brand Design](https://scoutify.ai/companies/passportbranddesign?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/passportbranddesign/jobs/8654125002) |
 
 ## About This Role
 
-This graphic / brand design position at Passport Brand Design was posted on 2026-07-28.
+This product designer position at Passport Brand Design was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

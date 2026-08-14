@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Design Bridge and Partners](https://scoutify.ai/companies/designbridge?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/designbridge/jobs/8103412) |
 
 ## About This Role
 
-This graphic / brand design position at Design Bridge and Partners was posted on 2026-08-03.
+This product designer position at Design Bridge and Partners was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

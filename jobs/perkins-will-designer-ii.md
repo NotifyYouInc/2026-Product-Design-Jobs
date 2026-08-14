@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Perkins & Will](https://scoutify.ai/companies/perkins-will?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=d9fd6a30-6387-46b7-8154-975274ac1a35) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/per1007pwill/JobBoard/0ca393a4-bf82-4db6-acae-91e6a0315a4a/OpportunityDetail?opportunityId=e86f10fc-b4ec-41c3-9d3b-dd077d6c409a) |
 
 ## About This Role
 
-This product designer position at Perkins & Will was posted on 2026-06-16.
+This product designer position at Perkins & Will was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

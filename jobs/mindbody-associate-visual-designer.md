@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://www.playlist.com/careers/opportunities/4701987006?gh_jid=4701987006) |
 
 ## About This Role
 
-This graphic / brand design position at Mindbody was posted on 2026-08-03.
+This product designer position at Mindbody was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

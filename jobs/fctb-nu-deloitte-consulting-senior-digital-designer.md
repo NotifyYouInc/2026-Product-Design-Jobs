@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000137699269-senior-digital-designer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000141945610-senior-digital-designer) |
 
 ## About This Role
 
-This product designer position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-14.
+This product designer position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

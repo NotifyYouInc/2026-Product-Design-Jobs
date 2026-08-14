@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | Product Designer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRin-i8OWNcp2afsQReV_v5qFA8-8lJaNo7RZlxqsSxREjsA1Ny_i0dZORBS4fcFsTKyrdVJqWUtKGcXwI-KTP6-nw9oxv4bWit9idOGJBaZBmpNejEV4IQGL3eECw%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZMvoigNR-3zlc57MSoePH8UN6J-Wi22aoCxd3rhEi5AEjsA1Ny_i2L-DuNy_8Y5-dLgGenOJdjUCHFU6OBWp2G8gvu5N_q7Yv7Z0ZFZQGoX_KcLKBVumUzKrIeOJw%3D%3D_V2&loc=IN&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-06-23.
+This digital / performance marketing position at Google was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [hinge-health](https://scoutify.ai/companies/hinge-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/71e04d56-edc4-479e-98ce-606d6665dea4) |
 
 ## About This Role
 
-This graphic / brand design position at hinge-health was posted on 2026-08-01.
+This product designer position at hinge-health was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

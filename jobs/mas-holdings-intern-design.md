@@ -6,7 +6,7 @@
 | Location | Sri Lanka |
 | Category | Product Designer |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20728) |
+| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20729) |
 
 ## About This Role
 
