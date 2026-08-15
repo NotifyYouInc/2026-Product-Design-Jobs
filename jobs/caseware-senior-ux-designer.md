@@ -5,12 +5,12 @@
 | Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.lever.co/caseware/914505b0-cbc2-4d60-bc37-bee27a9d401c) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.lever.co/caseware/004dc438-7775-4e99-8fcc-6d0bd468d690) |
 
 ## About This Role
 
-This product designer position at Caseware was posted on 2026-06-25.
+This product designer position at Caseware was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

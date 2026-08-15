@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSA Partners](https://scoutify.ai/companies/vsapartners?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vsapartners/jobs/6131215004) |
 
 ## About This Role
 
-This product designer position at VSA Partners was posted on 2026-08-03.
+This marketing position at VSA Partners was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

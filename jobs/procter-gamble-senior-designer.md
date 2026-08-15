@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Senior-Designer_R000156380) |
 
 ## About This Role
 
-This product designer position at Procter & Gamble was posted on 2026-08-04.
+This marketing position at Procter & Gamble was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

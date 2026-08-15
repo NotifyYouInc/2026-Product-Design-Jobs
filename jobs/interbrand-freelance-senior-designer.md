@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Interbrand](https://scoutify.ai/companies/interbrand?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/interbrand/jobs/8108361) |
 
 ## About This Role
 
-This product designer position at Interbrand was posted on 2026-08-05.
+This marketing position at Interbrand was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

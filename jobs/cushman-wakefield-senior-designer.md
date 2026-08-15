@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---IND---Bangalore---Cushman--Wakefield-India-Pvt-Ltd/Senior-Designer_R331378) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-08-05.
+This marketing position at Cushman & Wakefield was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

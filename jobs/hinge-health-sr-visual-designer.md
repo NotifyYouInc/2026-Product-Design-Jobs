@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [hinge-health](https://scoutify.ai/companies/hinge-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/hinge-health/7051a720-1e8b-4b13-876d-4921208ad178) |
 
 ## About This Role
 
-This product designer position at hinge-health was posted on 2026-08-01.
+This marketing position at hinge-health was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

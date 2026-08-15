@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cortea](https://scoutify.ai/companies/cortea?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/cortea/5151cb4c-ecc1-4621-85dd-9f8c3c207472) |
 
 ## About This Role
 
-This product designer position at Cortea was posted on 2026-07-30.
+This marketing position at Cortea was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

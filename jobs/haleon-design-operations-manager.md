@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Brand Marketing |
+| Category | Marketing |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/Design-Operations-Manager_546436-1) |
 
 ## About This Role
 
-This brand marketing position at Haleon was posted on 2026-07-31.
+This marketing position at Haleon was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

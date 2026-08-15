@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | UX Researcher |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Interaction-Designer_R00327702) |
+| Category | Product Designer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Interaction-Designer_R00345826) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-05-29.
+This product designer position at Accenture was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

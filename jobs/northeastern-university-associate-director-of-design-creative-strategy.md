@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northeastern University](https://scoutify.ai/companies/northeastern?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Strategy & Operations |
+| Category | Marketing |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-Director-of-Design---Creative-Strategy_R141136) |
 
 ## About This Role
 
-This strategy & operations position at Northeastern University was posted on 2026-07-29.
+This marketing position at Northeastern University was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

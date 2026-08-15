@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://www.playlist.com/careers/opportunities/4701987006?gh_jid=4701987006) |
 
 ## About This Role
 
-This product designer position at Mindbody was posted on 2026-08-03.
+This marketing position at Mindbody was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

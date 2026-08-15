@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harry's](https://scoutify.ai/companies/harrys?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/harrys/jobs/8103374) |
 
 ## About This Role
 
-This product designer position at Harry's was posted on 2026-08-03.
+This marketing position at Harry's was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Senior-Marketing-Visual-Designer_R00297706) |
 
 ## About This Role
 
-This product designer position at Ecolab was posted on 2026-07-29.
+This marketing position at Ecolab was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
