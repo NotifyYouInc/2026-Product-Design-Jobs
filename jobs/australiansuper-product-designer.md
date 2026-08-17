@@ -1,16 +1,16 @@
-# Designer at VectorShift
+# Product Designer at AustralianSuper
 
 | Field | Details |
 |-------|---------|
-| Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [AustralianSuper](https://scoutify.ai/companies/ap1-cx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/4PNGa0Y-designer) |
+| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005187) |
 
 ## About This Role
 
-This product designer position at VectorShift was posted on 2026-08-10.
+This product designer position at AustralianSuper was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

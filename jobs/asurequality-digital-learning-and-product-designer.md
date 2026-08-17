@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AsureQuality](https://scoutify.ai/companies/asurequality?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Learning & Development |
+| Category | Product Designer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AsureQuality/6000000001291113-digital-learning-and-product-designer) |
 
 ## About This Role
 
-This learning & development position at AsureQuality was posted on 2026-08-06.
+This product designer position at AsureQuality was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

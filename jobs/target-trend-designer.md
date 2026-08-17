@@ -1,16 +1,16 @@
-# Designer at VectorShift
+# Trend Designer at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/4PNGa0Y-designer) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Trend-Designer_R0000447967) |
 
 ## About This Role
 
-This product designer position at VectorShift was posted on 2026-08-10.
+This product designer position at Target was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
