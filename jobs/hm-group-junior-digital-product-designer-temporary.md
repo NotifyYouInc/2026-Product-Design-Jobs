@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# JUNIOR DIGITAL PRODUCT DESIGNER (TEMPORARY)  at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000142663710-junior-digital-product-designer-temporary) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at H&M Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

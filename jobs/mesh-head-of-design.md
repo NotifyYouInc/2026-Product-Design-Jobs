@@ -1,16 +1,16 @@
-# Digital Designer at Ogilvy
+# Head of Design at Mesh
 
 | Field | Details |
 |-------|---------|
-| Company | [Ogilvy](https://scoutify.ai/companies/ogilvy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Marketing |
+| Company | [Mesh](https://scoutify.ai/companies/mesh-oj69018?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.ogilvy.com/careers/4723006005?gh_jid=4723006005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mesh/jobs/5385601008) |
 
 ## About This Role
 
-This marketing position at Ogilvy was posted on 2026-08-11.
+This product designer position at Mesh was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

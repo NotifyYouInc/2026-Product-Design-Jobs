@@ -1,16 +1,16 @@
-# Assistant Designer- Health & Beauty at Primark
+# Senior Product Designer at Menlosecurity
 
 | Field | Details |
 |-------|---------|
-| Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Menlosecurity](https://scoutify.ai/companies/menlosecurity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000142585229-assistant-designer-health-beauty) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/menlosecurity/786af3bb-1d59-495e-a665-cce6831d3dbd) |
 
 ## About This Role
 
-This product designer position at Primark was posted on 2026-08-10.
+This product designer position at Menlosecurity was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

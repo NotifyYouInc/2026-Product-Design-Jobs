@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# User Experience Designer, Specialist at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Malvern, Arkansas, United States |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/User-Experience-Designer--Specialist_180890) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at Vanguard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

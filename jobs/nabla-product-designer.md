@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# Product Designer at Nabla
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Nabla](https://scoutify.ai/companies/nabla?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nabla/d3f336e9-bf79-4ab8-918c-36b143066234) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at Nabla was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

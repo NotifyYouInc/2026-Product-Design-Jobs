@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# Senior Product Designer - Technology at Truelogic
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/2cebba9f-b4f5-45cc-a0c7-a053c313ca2c) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at Truelogic was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# UI/UX Artist - Midcore Portfolio team at Voodoo
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/83ce977c-9338-44fa-8c9d-f6569ca32e2f) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at Voodoo was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

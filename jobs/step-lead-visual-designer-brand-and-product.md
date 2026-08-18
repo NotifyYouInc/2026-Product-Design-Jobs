@@ -1,16 +1,16 @@
-# Digital Designer at Ogilvy
+# Lead Visual Designer, Brand and Product at Step
 
 | Field | Details |
 |-------|---------|
-| Company | [Ogilvy](https://scoutify.ai/companies/ogilvy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Company | [Step](https://scoutify.ai/companies/step?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Marketing |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.ogilvy.com/careers/4723006005?gh_jid=4723006005) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://step.com/careers/8694079002?gh_jid=8694079002) |
 
 ## About This Role
 
-This marketing position at Ogilvy was posted on 2026-08-11.
+This marketing position at Step was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

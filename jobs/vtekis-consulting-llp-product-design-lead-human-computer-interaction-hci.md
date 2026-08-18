@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Lake Mary, Florida, United States |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140551508-product-design-lead-human-computer-interaction-hci) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140713490-product-design-lead-human-computer-interaction-hci) |
 
 ## About This Role
 
-This product designer position at VTekis Consulting LLP was posted on 2026-07-29.
+This product designer position at VTekis Consulting LLP was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

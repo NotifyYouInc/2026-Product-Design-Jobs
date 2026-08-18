@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Canary Wharf, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Design-Lead_JR-0000114164) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Design-Lead_JR-0000122278) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-07-13.
+This product designer position at Barclays was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

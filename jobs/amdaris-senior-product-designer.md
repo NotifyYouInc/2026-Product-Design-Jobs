@@ -1,16 +1,16 @@
-# Senior UX_UI Designer at Caterpillar Inc.
+# Senior Product Designer  at Amdaris
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Amdaris](https://scoutify.ai/companies/amdaris?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Designer |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-UX-UI-Designer_R0000387524) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/amdaris/jobs/4113273101) |
 
 ## About This Role
 
-This product designer position at Caterpillar Inc. was posted on 2026-08-10.
+This product designer position at Amdaris was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

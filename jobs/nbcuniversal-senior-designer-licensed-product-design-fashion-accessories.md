@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Universal City, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000140488683-senior-designer-licensed-product-design-fashion-accessories) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000141348409-senior-designer-licensed-product-design-fashion-accessories) |
 
 ## About This Role
 
-This product designer position at NBCUniversal was posted on 2026-07-29.
+This product designer position at NBCUniversal was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

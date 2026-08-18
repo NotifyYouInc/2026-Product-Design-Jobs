@@ -1,16 +1,16 @@
-# Assistant Designer- Health & Beauty at Primark
+# Product Design Lead at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Buffalo, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000142585229-assistant-designer-health-beauty) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Product-Design-Lead_R88064) |
 
 ## About This Role
 
-This product designer position at Primark was posted on 2026-08-10.
+This product designer position at M&T Bank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
