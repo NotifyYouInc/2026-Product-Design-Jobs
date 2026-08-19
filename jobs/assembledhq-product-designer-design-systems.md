@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Product Designer, Design Systems at Assembledhq
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Assembledhq](https://scoutify.ai/companies/assembledhq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/assembledhq/7fe3de75-35b5-483b-86e1-6fa0aac93348) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-04.
+This product designer position at Assembledhq was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

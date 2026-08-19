@@ -1,16 +1,16 @@
-# Senior UI Designer – League of Legends (12 Month Contract) at Riot Games
+# Staff Product Designer at Legora (formerly Leya)
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8121706?gh_jid=8121706) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/8b00a66a-c06b-44b9-a374-7c3b733fce20) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-08-11.
+This product designer position at Legora (formerly Leya) was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

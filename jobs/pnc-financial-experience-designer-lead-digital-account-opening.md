@@ -1,16 +1,16 @@
-# Product Designer, Instagram at Meta
+# Experience Designer Lead- Digital Account Opening at PNC Financial
 
 | Field | Details |
 |-------|---------|
-| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/938462065944644) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Experience-Designer-Lead--Digital-Account-Opening_R231531-1) |
 
 ## About This Role
 
-This product designer position at Meta was posted on 2026-08-11.
+This product designer position at PNC Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

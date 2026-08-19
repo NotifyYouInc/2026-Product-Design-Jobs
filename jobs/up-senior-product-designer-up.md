@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Senior Product Designer (Up) at Up
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Up](https://scoutify.ai/companies/up?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/up/jobs/5385609008) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-04.
+This product designer position at Up was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

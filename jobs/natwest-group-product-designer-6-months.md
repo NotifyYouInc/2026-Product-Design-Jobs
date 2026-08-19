@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Product Designer (6 months) at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Product-Designer--6-months-_R-00282239-1) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-04.
+This product designer position at NatWest Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

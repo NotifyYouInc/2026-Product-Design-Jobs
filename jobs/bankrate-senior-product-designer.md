@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Senior Product Designer at Bankrate
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Bankrate](https://scoutify.ai/companies/bankrate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](http://bankrate.com/careers/current-openings?gh_jid=8104123) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-04.
+This product designer position at Bankrate was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

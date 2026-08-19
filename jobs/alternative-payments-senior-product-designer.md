@@ -1,16 +1,16 @@
-# Senior UI Designer – League of Legends (12 Month Contract) at Riot Games
+# Senior Product Designer  at Alternative Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Alternative Payments](https://scoutify.ai/companies/alternativepayments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brazil |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8121706?gh_jid=8121706) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alternativepayments/c10ccb6b-6367-42cc-80ab-29fcf163af6a) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-08-11.
+This product designer position at Alternative Payments was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

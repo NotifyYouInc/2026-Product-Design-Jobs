@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
+| Location | Nevada, US |
 | Category | Product Designer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/UX-Designer_R0976168) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Work-from-home/UX-Designer_R0982642) |
 
 ## About This Role
 
-This product designer position at CVS Health was posted on 2026-07-30.
+This product designer position at CVS Health was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Staff Experience Designer, International at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/8121074?gh_jid=8121074) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-04.
+This product designer position at Airbnb was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

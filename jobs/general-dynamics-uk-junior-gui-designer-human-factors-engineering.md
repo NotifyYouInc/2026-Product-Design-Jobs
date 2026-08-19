@@ -5,12 +5,12 @@
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Calgary, Alberta, Canada |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000139641079-junior-gui-designer-human-factors-engineering) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000142892922-junior-gui-designer-human-factors-engineering) |
 
 ## About This Role
 
-This product designer position at General Dynamics UK was posted on 2026-07-24.
+This product designer position at General Dynamics UK was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

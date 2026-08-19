@@ -1,16 +1,16 @@
-# Senior UI Designer – League of Legends (12 Month Contract) at Riot Games
+# UX Designer at MRI Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8121706?gh_jid=8121706) |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/London-UK-Office/UX-Designer_R-108920) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-08-11.
+This product designer position at MRI Software was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

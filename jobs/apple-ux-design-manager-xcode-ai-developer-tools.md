@@ -1,16 +1,16 @@
-# Senior UI Designer – League of Legends (12 Month Contract) at Riot Games
+# UX Design Manager - Xcode & AI Developer Tools at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cupertino, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8121706?gh_jid=8121706) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667527/ux-design-manager-xcode-ai-developer-tools) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-08-11.
+This product designer position at Apple was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

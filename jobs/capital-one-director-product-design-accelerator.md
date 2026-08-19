@@ -1,16 +1,16 @@
-# Senior UI Designer – League of Legends (12 Month Contract) at Riot Games
+# Director, Product Design - Accelerator at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8121706?gh_jid=8121706) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Design---Accelerator_R249029-1) |
 
 ## About This Role
 
-This product designer position at Riot Games was posted on 2026-08-11.
+This product designer position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
