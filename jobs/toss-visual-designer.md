@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7854102003) |
 
 ## About This Role
 
-This marketing position at Toss was posted on 2026-08-11.
+This product designer position at Toss was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

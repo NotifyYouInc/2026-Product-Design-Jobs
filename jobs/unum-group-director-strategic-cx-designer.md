@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unum Group](https://scoutify.ai/companies/unum-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Strategy & Operations |
+| Category | Product Designer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Director---Strategic-CX-Designer_835942-1) |
 
 ## About This Role
 
-This strategy & operations position at Unum Group was posted on 2026-08-05.
+This product designer position at Unum Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

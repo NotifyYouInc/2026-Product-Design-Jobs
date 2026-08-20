@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000140110849-staff-product-designer-search-and-conversational-ai) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000143163869-staff-product-designer-search-and-conversational-ai) |
 
 ## About This Role
 
-This product designer position at LinkedIn was posted on 2026-07-28.
+This product designer position at LinkedIn was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

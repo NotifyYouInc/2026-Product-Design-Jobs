@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Skyscanner](https://scoutify.ai/companies/skyscanner?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](http://www.skyscanner.net/jobs/job/8121582?gh_jid=8121582) |
 
 ## About This Role
 
-This marketing position at Skyscanner was posted on 2026-08-11.
+This product designer position at Skyscanner was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

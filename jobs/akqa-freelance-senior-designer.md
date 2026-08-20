@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://www.akqa.com/jobs/8103470/?gh_jid=8103470) |
 
 ## About This Role
 
-This marketing position at AKQA was posted on 2026-08-04.
+This product designer position at AKQA was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

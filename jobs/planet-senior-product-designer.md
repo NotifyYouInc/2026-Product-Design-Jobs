@@ -5,12 +5,12 @@
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8088256) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8126704) |
 
 ## About This Role
 
-This product designer position at Planet was posted on 2026-07-28.
+This product designer position at Planet was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

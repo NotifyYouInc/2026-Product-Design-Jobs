@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tekmetric](https://scoutify.ai/companies/tekmetric?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tekmetric/jobs/6135237004) |
 
 ## About This Role
 
-This marketing position at Tekmetric was posted on 2026-08-07.
+This product designer position at Tekmetric was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

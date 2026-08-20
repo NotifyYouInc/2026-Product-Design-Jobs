@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001280289-senior-visual-designer-video) |
 
 ## About This Role
 
-This marketing position at Canva was posted on 2026-08-03.
+This product designer position at Canva was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mesa Associates](https://scoutify.ai/companies/recruiting-ultipro-com-oj67763?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Designer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://recruiting.ultipro.com/mes1006mesa/JobBoard/f7e05bd0-88f2-4ebc-887b-fe95bcff6ca3/OpportunityDetail?opportunityId=f994f3e7-ea3e-4f4f-a44f-deb969f5a6ef) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Mesa Associates was posted on 2026-08-06.
+This product designer position at Mesa Associates was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8124214?gh_jid=8124214) |
 
 ## About This Role
 
-This marketing position at HelloFresh was posted on 2026-08-12.
+This product designer position at HelloFresh was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

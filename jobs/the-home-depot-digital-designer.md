@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Digital-Designer_Req189445) |
 
 ## About This Role
 
-This marketing position at The Home Depot was posted on 2026-08-07.
+This product designer position at The Home Depot was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

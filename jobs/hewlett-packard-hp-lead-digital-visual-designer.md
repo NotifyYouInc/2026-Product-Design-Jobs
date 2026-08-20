@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Lead-Digital-Visual-Designer_3166139-1) |
 
 ## About This Role
 
-This marketing position at Hewlett Packard (HP) was posted on 2026-08-10.
+This product designer position at Hewlett Packard (HP) was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

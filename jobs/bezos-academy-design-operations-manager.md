@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bezos Academy](https://scoutify.ai/companies/day1academies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Program Manager |
+| Category | Product Designer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/day1academies/jobs/8691970002) |
 
 ## About This Role
 
-This program manager position at Bezos Academy was posted on 2026-08-07.
+This product designer position at Bezos Academy was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

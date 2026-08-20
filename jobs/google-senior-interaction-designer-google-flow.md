@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/104529054819852998-senior-interaction-designer-google-flow?sort_by=date&page=1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdWtXg8oSUhe0u0TgGb9aZTHYi35Pga3ybRrtmqkrnEVEjsA1Ny_i1fOb3T0RwVG6_t-VxcEI-qrU7klzelTzacqPN64YSim8izZ3HFOKtOfY6cFIapfTV6r8r0omg%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-02-06.
+This product designer position at Google was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

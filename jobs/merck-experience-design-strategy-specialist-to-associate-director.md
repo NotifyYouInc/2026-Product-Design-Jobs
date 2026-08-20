@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chiyoda, Tokyo, Japan |
-| Category | Strategy & Operations |
+| Category | Product Designer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/JPN---Tokyo---Chiyoda/Experience-Design-Strategy--Specialist-to-Associate-Director_R411758) |
 
 ## About This Role
 
-This strategy & operations position at Merck was posted on 2026-08-07.
+This product designer position at Merck was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Associate--Product-Designer_R235908-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Senior-Associate--Product-Designer_R247589-1) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-04-01.
+This product designer position at Capital One was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

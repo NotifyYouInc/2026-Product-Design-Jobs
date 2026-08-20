@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000129443659-principal-product-designer-moveworks) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143146899-principal-product-designer-moveworks) |
 
 ## About This Role
 
-This product designer position at ServiceNow was posted on 2026-06-01.
+This product designer position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

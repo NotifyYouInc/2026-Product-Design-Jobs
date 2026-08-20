@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mammoth Brands](https://scoutify.ai/companies/mammoth-brands?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mammothbrands/jobs/8103376) |
 
 ## About This Role
 
-This marketing position at Mammoth Brands was posted on 2026-08-03.
+This product designer position at Mammoth Brands was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

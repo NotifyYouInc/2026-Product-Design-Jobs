@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TULA Skincare](https://scoutify.ai/companies/tula-skincare?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tula/jobs/8695949002) |
 
 ## About This Role
 
-This marketing position at TULA Skincare was posted on 2026-08-11.
+This product designer position at TULA Skincare was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

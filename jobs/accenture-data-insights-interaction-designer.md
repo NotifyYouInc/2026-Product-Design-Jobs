@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data---Insights-Interaction-Designer_ATCI-5689349-S2061278-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Data---Insights-Interaction-Designer_ATCI-5702637-S2063875-1) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-07-30.
+This product designer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
