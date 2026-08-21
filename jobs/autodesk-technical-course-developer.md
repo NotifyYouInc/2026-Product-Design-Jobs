@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Product Designer |
+| Category | Learning & Development |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Atlanta-GA-USA/Technical-Course-Developer_26WD100511) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-08-11.
+This learning & development position at Autodesk was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

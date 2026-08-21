@@ -1,16 +1,16 @@
-# Senior Product Designer, Omnicommerce at Grab
+# Director of Product Design, Sustainability Management at Workiva
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143433549-senior-product-designer-omnicommerce) |
+| Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Director-of-Product-Design--Sustainability-Management_R12093) |
 
 ## About This Role
 
-This product designer position at Grab was posted on 2026-08-14.
+This product designer position at Workiva was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

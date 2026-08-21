@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | Product Designer |
+| Category | Accounting |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6137654004) |
 
 ## About This Role
 
-This product designer position at Mercury was posted on 2026-08-06.
+This accounting position at Mercury was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

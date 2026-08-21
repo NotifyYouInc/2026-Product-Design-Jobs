@@ -1,16 +1,16 @@
-# Senior Service Designer at Barclays
+# Lead Systems Designer - Star Trek Fleet Command at Scopely
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Service-Designer_JR-0000126047) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5379017008?gh_jid=5379017008) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-13.
+This product designer position at Scopely was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

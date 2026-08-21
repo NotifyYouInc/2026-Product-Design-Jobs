@@ -6,7 +6,7 @@
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Designer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000141238736-uxui-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000141357579-uxui-designer) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Product Designer |
-| Posted | 2026-01-31 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Senior-UX-Product-Designer---Prototyper_R0000370176) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Senior-UX-Product-Designer--Emerging-Experiences_R0000449335) |
 
 ## About This Role
 
-This product designer position at Target was posted on 2026-01-31.
+This product designer position at Target was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer, Omnicommerce at Grab
+# Senior Product Designer - Cards & Credit at Mercury
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143433549-senior-product-designer-omnicommerce) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6143552004) |
 
 ## About This Role
 
-This product designer position at Grab was posted on 2026-08-14.
+This product designer position at Mercury was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

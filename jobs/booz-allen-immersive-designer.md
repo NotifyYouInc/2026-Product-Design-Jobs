@@ -1,16 +1,16 @@
-# Senior Product Designer, Omnicommerce at Grab
+# Immersive Designer at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lexington, Kentucky, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143433549-senior-product-designer-omnicommerce) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Immersive-Designer_R0246958) |
 
 ## About This Role
 
-This product designer position at Grab was posted on 2026-08-14.
+This product designer position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

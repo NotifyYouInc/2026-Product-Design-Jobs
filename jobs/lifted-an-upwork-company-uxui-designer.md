@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lifted, an Upwork Company™](https://scoutify.ai/companies/liftedanupworkcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Texas City, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014402541-uxui-designer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014421036-uxui-designer) |
 
 ## About This Role
 
-This product designer position at Lifted, an Upwork Company™ was posted on 2026-08-03.
+This product designer position at Lifted, an Upwork Company™ was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

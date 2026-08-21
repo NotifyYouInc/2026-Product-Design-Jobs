@@ -1,16 +1,16 @@
-# Senior Service Designer at Barclays
+# Technical Product Designer, TD Securities at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Service-Designer_JR-0000126047) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Designer--TD-Securities_R_1505384) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-13.
+This product designer position at TD Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer, Omnicommerce at Grab
+# Sr. UX Designer at McKesson
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143433549-senior-product-designer-omnicommerce) |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/London/Sr-UX-Designer_JR0150772) |
 
 ## About This Role
 
-This product designer position at Grab was posted on 2026-08-14.
+This product designer position at McKesson was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

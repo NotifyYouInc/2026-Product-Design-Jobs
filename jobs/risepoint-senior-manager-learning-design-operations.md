@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Risepoint](https://scoutify.ai/companies/risepoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
-| Category | Product Designer |
+| Category | Learning & Development |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://risepoint.wd503.myworkdayjobs.com/risepoint/job/R--United-Kingdom/Senior-Manager--Learning-Design-Operations_JR101303) |
 
 ## About This Role
 
-This product designer position at Risepoint was posted on 2026-08-07.
+This learning & development position at Risepoint was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

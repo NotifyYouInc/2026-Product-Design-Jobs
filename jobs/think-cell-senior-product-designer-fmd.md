@@ -1,16 +1,16 @@
-# Senior Service Designer at Barclays
+# Senior Product Designer (f/m/d) at think-cell
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [think-cell](https://scoutify.ai/companies/think-cell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Service-Designer_JR-0000126047) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/think-cell/jobs/4947588101) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-13.
+This product designer position at think-cell was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

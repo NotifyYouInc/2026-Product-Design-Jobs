@@ -1,16 +1,16 @@
-# Senior Service Designer at Barclays
+# Senior Product Designer at Hevodata
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Hevodata](https://scoutify.ai/companies/hevodata?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Service-Designer_JR-0000126047) |
+| Apply | [View on company site](https://jobs.lever.co/hevodata/3c22a84f-7eb6-4105-aa3b-7698322a98af) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-13.
+This product designer position at Hevodata was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer, Omnicommerce at Grab
+# Senior UX Designer at AT&T
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143433549-senior-product-designer-omnicommerce) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Senior-UX-Designer_R-116113) |
 
 ## About This Role
 
-This product designer position at Grab was posted on 2026-08-14.
+This product designer position at AT&T was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

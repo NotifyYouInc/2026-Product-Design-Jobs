@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Midrand, Gauteng, South Africa |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Digital-Product-Designer_14497465) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Digital-Product-Designer_R00350742) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-06-22.
+This product designer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
