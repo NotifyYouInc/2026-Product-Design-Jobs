@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Freelance Senior Product Designer at Toloka
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Toloka](https://scoutify.ai/companies/toloka?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://toloka.ai/careers/info?jid=4952478101&gh_jid=4952478101) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Toloka was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Manager, User Experience at SupplyHouse.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SupplyHouse.com](https://scoutify.ai/companies/supplyhouse?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://boards.greenhouse.io/supplyhouse/jobs/6130561004?gh_jid=6130561004) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at SupplyHouse.com was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

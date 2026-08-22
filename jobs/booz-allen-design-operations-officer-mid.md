@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Design Operations Officer, Mid at Booz Allen
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Design-Operations-Officer--Mid_R0247050) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# CMF Designer at Recar
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Recar](https://scoutify.ai/companies/recar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Troy, Michigan, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://recar.wd108.myworkdayjobs.com/slatecareers/job/Troy-Michigan/CMF-Designer_JR101113) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Recar was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

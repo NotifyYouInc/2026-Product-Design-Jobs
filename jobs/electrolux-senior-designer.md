@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Designer at Electrolux
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Petaling-Jaya/Senior-Designer_JR79939) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Electrolux was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

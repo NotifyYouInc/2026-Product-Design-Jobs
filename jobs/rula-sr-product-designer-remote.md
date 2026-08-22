@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Sr. Product Designer (Remote) at Rula
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Rula](https://scoutify.ai/companies/rula?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rula/30f6551a-c008-407c-a8c4-ac0369e82098) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Rula was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

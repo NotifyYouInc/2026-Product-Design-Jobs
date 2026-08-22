@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Staff Product Designer, Data & AI at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8128499) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Stripe was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

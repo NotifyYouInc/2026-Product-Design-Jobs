@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Product Designer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT778bkvyjy32BDHVHG5mUKed7310OApwLd87oGwqEmyEjsA1Ny_i08VUn4hJS--9WVa8yQCJKZsk54JG_tWcMHD8KCSPyx5HiwdAcUNnwXjIv-AZVexy7Brz7W2EQ%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVmbfwRMO6rxsF3WhvOvPNDe_8Wc12Nr9thAvPbj6yaUEjsA1Ny_i7oDpbsKtJcP_QnPOqaaw71z_WWrmSdrT5n05YBjg_VfD8Hh95LhdbpxeTnlYLY9t_8JW0cxCg%3D%3D_V2&loc=US&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-06-25.
+This product designer position at Google was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

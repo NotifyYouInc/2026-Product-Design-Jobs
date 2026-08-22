@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Product Designer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000139920864-senior-uxui-designer-all-genders) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000143484029-senior-uxui-designer-all-genders) |
 
 ## About This Role
 
-This product designer position at About You was posted on 2026-07-27.
+This product designer position at About You was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

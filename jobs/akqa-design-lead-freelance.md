@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Design Lead - Freelance at AKQA
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://www.akqa.com/jobs/8130395/?gh_jid=8130395) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at AKQA was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

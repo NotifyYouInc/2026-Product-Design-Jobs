@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Senior Product Designer, Monetization at Roblox
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8094661?gh_jid=8094661) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Roblox was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

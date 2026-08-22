@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [watershed](https://scoutify.ai/companies/watershed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/watershed/66892898-9be3-4378-bec9-bcbac38d30b5) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/watershed/bb7b1da5-1e38-48e8-a4d0-e3c8e32a8970) |
 
 ## About This Role
 
-This product designer position at watershed was posted on 2026-05-15.
+This product designer position at watershed was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Lead Designer, NikeSKIMS Apparel Graphics Design at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Los-Angeles-California/Lead-Designer--NikeSKIMS-Apparel-Graphics-Design_R-88090) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at Nike was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

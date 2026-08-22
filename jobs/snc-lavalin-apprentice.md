@@ -1,16 +1,16 @@
-# Principal Game Designer at Zynga
+# Apprentice at SNC-Lavalin
 
 | Field | Details |
 |-------|---------|
-| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6144048004) |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/INNoida-BPTP-Capital-City/Apprentice_R-162164) |
 
 ## About This Role
 
-This product designer position at Zynga was posted on 2026-08-14.
+This product designer position at SNC-Lavalin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
