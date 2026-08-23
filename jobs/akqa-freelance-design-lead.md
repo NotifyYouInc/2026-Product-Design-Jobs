@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8109006/?gh_jid=8109006) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.akqa.com/jobs/8096701/?gh_jid=8096701) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-05.
+This product designer position at AKQA was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
