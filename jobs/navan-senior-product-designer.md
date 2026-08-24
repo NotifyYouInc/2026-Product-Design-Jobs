@@ -1,16 +1,16 @@
-# Product Designer at Accenture
+#  Senior Product Designer  at Navan
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Midrand, Gauteng, South Africa |
+| Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Designer |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Midrand/Product-Designer_14604471) |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8126659) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-08-16.
+This product designer position at Navan was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

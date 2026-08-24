@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Senior Product Designer at DFO Referrals
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [DFO Referrals](https://scoutify.ai/companies/dfo-referrals?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Westport, Connecticut, United States |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8109006/?gh_jid=8109006) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dforeferrals/jobs/6144884004) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-05.
+This product designer position at DFO Referrals was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

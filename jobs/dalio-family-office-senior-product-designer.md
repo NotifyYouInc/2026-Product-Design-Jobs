@@ -1,16 +1,16 @@
-# Senior Designer  at Design Bridge and Partners
+# Senior Product Designer at Dalio Family Office
 
 | Field | Details |
 |-------|---------|
-| Company | [Design Bridge and Partners](https://scoutify.ai/companies/designbridge?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Dalio Family Office](https://scoutify.ai/companies/dalio-family-office?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Westport, Connecticut, United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/designbridge/jobs/5900529) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marinomanagementllc/jobs/6144883004) |
 
 ## About This Role
 
-This product designer position at Design Bridge and Partners was posted on 2026-08-17.
+This product designer position at Dalio Family Office was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

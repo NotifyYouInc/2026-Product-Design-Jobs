@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Product Design Intern (Monetization Ads) - 2027 Summer at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8109006/?gh_jid=8109006) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7673245417891858741/detail) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-05.
+This product designer position at TikTok was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

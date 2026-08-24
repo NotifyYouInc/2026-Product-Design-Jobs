@@ -1,16 +1,16 @@
-# Freelance Design Lead at AKQA
+# Lead Product Designer at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8109006/?gh_jid=8109006) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/568ac20f-474d-4c04-9753-9791a10f72e7) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-05.
+This product designer position at HighLevel was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
