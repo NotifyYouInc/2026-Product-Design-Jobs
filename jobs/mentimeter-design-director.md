@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Design Director at Mentimeter
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Mentimeter](https://scoutify.ai/companies/mentimeter?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/mentimeter/jobs/4954100101) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Mentimeter was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

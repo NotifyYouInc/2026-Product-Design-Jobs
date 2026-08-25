@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# UX Designer, Octopus at Apex Technology, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Apex Technology, Inc.](https://scoutify.ai/companies/apex-technology-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/apex-technology-inc/85b01188-0a8d-466e-a235-d64d2e364318) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Apex Technology, Inc. was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

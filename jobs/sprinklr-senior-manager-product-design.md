@@ -1,16 +1,16 @@
-# Senior Specialist, Product Experience Design at Mastercard
+# Senior Manager - Product Design at Sprinklr
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Designer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Experience-Design_R-288211-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Manager---Product-Design_113306-JOB) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-08-17.
+This product designer position at Sprinklr was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

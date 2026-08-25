@@ -1,4 +1,4 @@
-# Senior Visual Designer at Google
+# Senior Staff UX Designer, Search AI Ads Experiences at Google
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXh0A4gdK9vVP-o_mrw2Si71JAqBDszDtHzTqaTYB3A8EjsA1Ny_i2-QRoL2JAJgmOqmeidUSlUETtpQnI4IEYVnqt2PNZzAs3xjw29dr7Ly_ovw0miN39h-_DIj5w%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcJ4Gdo4PwI0kLuV3hP5EtyE_0WGu7djHV0B2sklIHlMEjsA1Ny_i6qBy6D3xR8vuo6geQJ2nN1mouFT2fRtyPjgpoGW3YbiNSOX0uFBR9F2g-vp4mDxHcWg46vrHw%3D%3D_V2&loc=US&title=Senior+Staff+UX+Designer) |
 
 ## About This Role
 

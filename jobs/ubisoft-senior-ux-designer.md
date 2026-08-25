@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000141815389-senior-ux-designer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000143357849-senior-ux-designer) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-08-06.
+This product designer position at Ubisoft was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

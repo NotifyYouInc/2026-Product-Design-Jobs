@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Product Designer (India) at Coram Ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Coram Ai](https://scoutify.ai/companies/coram-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/coram-ai/9083de2f-1806-4f79-bbb1-b2b6248f1b17) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Coram Ai was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

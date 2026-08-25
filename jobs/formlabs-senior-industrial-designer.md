@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Somerville, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7777939/apply/?gh_jid=7777939) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8134573/apply/?gh_jid=8134573) |
 
 ## About This Role
 
-This product designer position at Formlabs was posted on 2026-04-03.
+This product designer position at Formlabs was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

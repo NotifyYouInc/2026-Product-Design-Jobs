@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Senior Digital Designer (contract based) at aCommerce
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [aCommerce](https://scoutify.ai/companies/acommerce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acommerce/jobs/8014947) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at aCommerce was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

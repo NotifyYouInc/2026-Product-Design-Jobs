@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Head of Design at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/London-Bankside/Head-of-Design_546781-1) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Haleon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

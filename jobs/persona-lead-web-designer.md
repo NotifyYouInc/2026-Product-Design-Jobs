@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Lead Web Designer at Persona
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Persona](https://scoutify.ai/companies/persona?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/persona/5aee1785-46c0-43f6-ab99-bc70c0af437f) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Persona was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

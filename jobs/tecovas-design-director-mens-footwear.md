@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Design Director, Men's Footwear at Tecovas
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Tecovas](https://scoutify.ai/companies/tecovas?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tecovas/jobs/8722355002) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Tecovas was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

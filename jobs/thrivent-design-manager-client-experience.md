@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Design Manager, Client Experience at Thrivent
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Thrivent](https://scoutify.ai/companies/thrivent?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Design-Manager--Client-Experience_REQ-47860) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Thrivent was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

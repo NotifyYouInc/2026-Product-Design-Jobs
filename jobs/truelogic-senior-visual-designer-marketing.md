@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Senior Visual Designer - Marketing at Truelogic
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/af266d5f-d5cd-403f-86d6-2d807b1cf0c1) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Truelogic was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

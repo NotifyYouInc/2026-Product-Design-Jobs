@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Senior Designer - Topman (Outerwear & Tailoring) at ASOS
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000143834980-senior-designer-topman-outerwear-tailoring) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at ASOS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

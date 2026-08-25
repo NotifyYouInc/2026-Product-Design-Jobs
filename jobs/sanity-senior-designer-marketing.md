@@ -1,16 +1,16 @@
-# Senior Product Designer at Nexthink
+# Senior Designer, Marketing at Sanity
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Company | [Sanity](https://scoutify.ai/companies/sanity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000143873019-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a) |
 
 ## About This Role
 
-This product designer position at Nexthink was posted on 2026-08-17.
+This product designer position at Sanity was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

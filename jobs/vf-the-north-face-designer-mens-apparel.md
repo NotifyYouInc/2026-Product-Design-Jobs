@@ -1,16 +1,16 @@
-# Product Designer at Luxury Escapes
+# The North Face: Designer, Men's Apparel at VF
 
 | Field | Details |
 |-------|---------|
-| Company | [Luxury Escapes](https://scoutify.ai/companies/luxuryescapes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
 | Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LuxuryEscapes/6000000001322646-product-designer) |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/The-North-Face--Designer--Men-s-Apparel_R-20260806-0018-2) |
 
 ## About This Role
 
-This product designer position at Luxury Escapes was posted on 2026-08-18.
+This product designer position at VF was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
