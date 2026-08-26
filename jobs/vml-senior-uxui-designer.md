@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Porto, Porto, Portugal |
-| Category | UX Researcher |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8568502002?gh_jid=8568502002) |
+| Location | 3 locations |
+| Category | Product Designer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8725615002?gh_jid=8725615002) |
 
 ## About This Role
 
-This ux researcher position at VML was posted on 2026-05-29.
+This product designer position at VML was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

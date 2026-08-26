@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Malaysia |
+| Location | Switzerland |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3be8dc6d-5c1f-419a-9e71-59b48136b381) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/b12525d7-ca8d-479d-bb83-75042fae4247) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-07-21.
+This product designer position at Bjak was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

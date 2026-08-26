@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
-| Category | UX Researcher |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/UX-Designer_JR340341) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Product Designer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/UX-Designer_JR356240) |
 
 ## About This Role
 
-This ux researcher position at Salesforce was posted on 2026-05-22.
+This product designer position at Salesforce was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

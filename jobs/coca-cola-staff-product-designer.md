@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Staff-Product-Designer_R-140981) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Staff-Product-Designer_R-145061) |
 
 ## About This Role
 
-This product designer position at Coca-Cola was posted on 2026-05-14.
+This product designer position at Coca-Cola was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
