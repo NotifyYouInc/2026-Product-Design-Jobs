@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Designer_R-425374) |
 
 ## About This Role
 
-This product designer position at Humana was posted on 2026-08-13.
+This graphic / brand design position at Humana was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

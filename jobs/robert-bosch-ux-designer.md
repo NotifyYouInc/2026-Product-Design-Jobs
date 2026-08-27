@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Serbia |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138990278-ux-designer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144314059-ux-designer) |
 
 ## About This Role
 
-This product designer position at Robert Bosch was posted on 2026-07-22.
+This product designer position at Robert Bosch was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

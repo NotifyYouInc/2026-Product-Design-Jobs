@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000144076530-graphics-and-ui-designer-in-the-design-system-team) |
 
 ## About This Role
 
-This product designer position at H&M Group was posted on 2026-08-18.
+This graphic / brand design position at H&M Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

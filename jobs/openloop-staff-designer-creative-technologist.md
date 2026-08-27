@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenLoop](https://scoutify.ai/companies/openloophealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openloophealth/88336687-9150-4598-a8ed-b88983b4d71c) |
 
 ## About This Role
 
-This product designer position at OpenLoop was posted on 2026-08-17.
+This graphic / brand design position at OpenLoop was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

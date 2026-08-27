@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8129545) |
 
 ## About This Role
 
-This product designer position at Landor was posted on 2026-08-14.
+This graphic / brand design position at Landor was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

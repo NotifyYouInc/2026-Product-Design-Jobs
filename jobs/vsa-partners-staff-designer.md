@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VSA Partners](https://scoutify.ai/companies/vsapartners?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vsapartners/jobs/6143173004) |
 
 ## About This Role
 
-This product designer position at VSA Partners was posted on 2026-08-13.
+This graphic / brand design position at VSA Partners was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

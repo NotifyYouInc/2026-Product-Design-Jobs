@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LINK](https://scoutify.ai/companies/link?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/link/jobs/5389499008) |
 
 ## About This Role
 
-This product designer position at LINK was posted on 2026-08-17.
+This graphic / brand design position at LINK was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

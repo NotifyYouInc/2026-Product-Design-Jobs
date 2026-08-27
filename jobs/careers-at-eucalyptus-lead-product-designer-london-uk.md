@@ -5,12 +5,12 @@
 | Company | [Careers at Eucalyptus](https://scoutify.ai/companies/careers-at-eucalyptus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/eucalyptus/jobs/4715106005) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/eucalyptus/jobs/4725986005) |
 
 ## About This Role
 
-This product designer position at Careers at Eucalyptus was posted on 2026-07-14.
+This product designer position at Careers at Eucalyptus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://www.akqa.com/jobs/8121872/?gh_jid=8121872) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-08-11.
+This graphic / brand design position at AKQA was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

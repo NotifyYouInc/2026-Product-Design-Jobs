@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deckers Outdoor Corporation](https://scoutify.ai/companies/deckers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/Portland-Oregon/Sr-Director--Color--Material----Graphic-Design---Global-HOKA_21253) |
 
 ## About This Role
 
-This product designer position at Deckers Outdoor Corporation was posted on 2026-08-14.
+This graphic / brand design position at Deckers Outdoor Corporation was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

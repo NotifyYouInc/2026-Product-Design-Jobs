@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Poshmark](https://scoutify.ai/companies/poshmark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Redwood City, California, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/poshmark/6124f7b0-4d13-46ce-a562-11acac1d087f) |
 
 ## About This Role
 
-This product designer position at Poshmark was posted on 2026-08-18.
+This graphic / brand design position at Poshmark was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

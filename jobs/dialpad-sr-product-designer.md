@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dialpad](https://scoutify.ai/companies/dialpad?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Designer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8443680002) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dialpad/jobs/8721051002) |
 
 ## About This Role
 
-This product designer position at Dialpad was posted on 2026-03-09.
+This product designer position at Dialpad was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

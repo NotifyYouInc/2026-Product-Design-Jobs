@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zwift](https://scoutify.ai/companies/zwift?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Long Beach, California, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://zwift.com/careers?gh_jid=8700612002) |
 
 ## About This Role
 
-This product designer position at Zwift was posted on 2026-08-12.
+This graphic / brand design position at Zwift was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

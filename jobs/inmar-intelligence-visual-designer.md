@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inmar Intelligence](https://scoutify.ai/companies/inmar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Xochimilco, Mexico City, Mexico |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/1040---Guadalupe-Xochimilco/Visual-Designer_JY2627559) |
 
 ## About This Role
 
-This product designer position at Inmar Intelligence was posted on 2026-08-13.
+This graphic / brand design position at Inmar Intelligence was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

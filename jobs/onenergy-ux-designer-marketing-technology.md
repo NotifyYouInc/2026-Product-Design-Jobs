@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ON.energy](https://scoutify.ai/companies/onenergy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Product Designer |
+| Category | Marketing Operations |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/onenergy/jobs/4361527009) |
 
 ## About This Role
 
-This product designer position at ON.energy was posted on 2026-08-12.
+This marketing operations position at ON.energy was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

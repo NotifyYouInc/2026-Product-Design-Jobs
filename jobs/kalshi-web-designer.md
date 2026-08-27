@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kalshi](https://scoutify.ai/companies/kalshi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/kalshi/e6c74059-d0fa-4501-88c2-35ac74e8601e) |
 
 ## About This Role
 
-This product designer position at Kalshi was posted on 2026-08-18.
+This graphic / brand design position at Kalshi was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

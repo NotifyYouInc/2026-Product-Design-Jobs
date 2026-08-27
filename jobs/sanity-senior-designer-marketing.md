@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanity](https://scoutify.ai/companies/sanity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a) |
 
 ## About This Role
 
-This product designer position at Sanity was posted on 2026-08-17.
+This graphic / brand design position at Sanity was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

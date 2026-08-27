@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Designer |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Graphic---Visual-Designer-II_R_1504419) |
 
 ## About This Role
 
-This product designer position at TD Bank was posted on 2026-08-12.
+This graphic / brand design position at TD Bank was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

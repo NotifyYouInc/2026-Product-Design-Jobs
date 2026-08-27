@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-02-13 |
+| Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Head-of-Design--Wealth-Services--Vice-President_R-784310-2) |
 
 ## About This Role
 
-This product designer position at State Street was posted on 2026-02-13.
+This product designer position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

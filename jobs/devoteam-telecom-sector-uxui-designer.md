@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Portugal |
-| Category | UX Researcher |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000122631274-telecom-sector-uxui-designer) |
+| Category | Product Designer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144525092-telecom-sector-uxui-designer) |
 
 ## About This Role
 
-This ux researcher position at Devoteam was posted on 2026-04-24.
+This product designer position at Devoteam was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
