@@ -1,16 +1,16 @@
-# Senior Visual Designer,  Search Verticals and International at Google
+# Senior Visual Designer, Search Verticals and International at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdjWxkH7c6gj8hDRmaRhRcYaH5oMTXI77b-gH4PzoWvREjsA1Ny_i7jjMNUUR3mI99E-Tc3tk6BzEBcmfkvl2WAsckH3O6i_43AxHtmKRaYoVx64mGtV83G9wF_J2g%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfV92F-NM3l7LkZaMEqp3v2FtkvlmXuc5HbpNne2iDOBEjsA1Ny_i4a-eZkw-VHVybS45K_01C_3tktRfv3aE3y75QXgqtJrdYH33kuMH32Onw8ztHP2QdrwCr9dFQ%3D%3D_V2&loc=US&title=Senior+Visual+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-07-17.
+This product designer position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

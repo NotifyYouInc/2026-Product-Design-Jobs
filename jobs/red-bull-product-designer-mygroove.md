@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Product Designer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000138618479-product-designer-mygroove) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000144723605-product-designer-mygroove) |
 
 ## About This Role
 
-This product designer position at Red Bull was posted on 2026-07-20.
+This product designer position at Red Bull was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

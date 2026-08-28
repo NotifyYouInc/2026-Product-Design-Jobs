@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/05a7dcb4-dd03-4152-a6bd-1b243d530488) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4eab2c8c-784d-4e18-9a4c-e411e8b9cecb) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-08-01.
+This product designer position at Clera was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

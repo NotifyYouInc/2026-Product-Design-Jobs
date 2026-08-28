@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | Buffalo, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/New-York-NY/Senior-Product-Designer_R86169) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Senior-Product-Designer_R89363) |
 
 ## About This Role
 
-This product designer position at M&T Bank was posted on 2026-05-27.
+This product designer position at M&T Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

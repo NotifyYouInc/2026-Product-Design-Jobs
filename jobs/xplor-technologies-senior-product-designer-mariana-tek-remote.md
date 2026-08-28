@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000137683600-senior-product-designer-mariana-tek-remote) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000144723701-senior-product-designer-mariana-tek-remote) |
 
 ## About This Role
 
-This product designer position at Xplor Technologies was posted on 2026-07-14.
+This product designer position at Xplor Technologies was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

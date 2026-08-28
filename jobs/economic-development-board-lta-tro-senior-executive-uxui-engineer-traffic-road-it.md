@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/LTA-BCO-MAIN/XMLNAME--LTA-TRO--SENIOR--EXECUTIVE-UX-UI-ENGINEER--TRAFFIC---ROAD-IT_JR-10000054603) |
 
 ## About This Role
 
-This product designer position at Economic Development Board was posted on 2026-08-19.
+This ux researcher position at Economic Development Board was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

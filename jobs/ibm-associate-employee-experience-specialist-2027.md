@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Baton Rouge, Louisiana, United States |
-| Category | Product Designer |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129121) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-08-14.
+This human resources / people ops position at IBM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

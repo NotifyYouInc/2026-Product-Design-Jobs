@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | UX Researcher |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Ottawa/Experience-Designer---Enterprise-Application---Senior-Associate_748661WD) |
 
 ## About This Role
 
-This product designer position at PwC was posted on 2026-08-18.
+This ux researcher position at PwC was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

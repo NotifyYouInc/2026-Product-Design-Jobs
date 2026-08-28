@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Designer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/6470f87b-a8b8-408f-8ea4-6b494bee68e2) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/058b84f2-a2d9-489a-8917-ad331bc95acd) |
 
 ## About This Role
 
-This product designer position at Clera was posted on 2026-08-07.
+This product designer position at Clera was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
