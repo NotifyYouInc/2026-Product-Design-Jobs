@@ -1,16 +1,16 @@
-# Interaction Designer, HCI at Bjak
+# Senior Product Designer, DeFi at Robinhood
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/8147756?t=gh_src=&gh_jid=8147756) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-22.
+This product designer position at Robinhood was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

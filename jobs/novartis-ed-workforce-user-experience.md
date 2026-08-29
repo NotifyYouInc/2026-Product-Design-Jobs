@@ -1,16 +1,16 @@
-# Senior Product Designer – Membership & Identity at Expedia
+# ED, Workforce & User Experience at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | East Hanover, New Jersey, United States |
 | Category | Product Designer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---New-York---New-York/Senior-Product-Designer---Membership---Identity_R-109042-1) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/ED--Workforce---User-Experience_REQ-10086184) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-08-21.
+This product designer position at Novartis was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

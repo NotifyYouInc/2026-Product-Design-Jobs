@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Skyscanner](https://scoutify.ai/companies/skyscanner?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Graphic / Brand Design |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](http://www.skyscanner.net/jobs/job/8121582?gh_jid=8121582) |
+| Apply | [View on company site](http://www.skyscanner.net/jobs/job/8121646?gh_jid=8121646) |
 
 ## About This Role
 

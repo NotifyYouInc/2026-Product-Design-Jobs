@@ -1,16 +1,16 @@
-# Staff Product Designer at Legora (formerly Leya)
+# Staff Product Designer  at Legora (formerly Leya)
 
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/8b00a66a-c06b-44b9-a374-7c3b733fce20) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/92db5fb3-581b-4dcd-b6c1-84c8ba39bb9e) |
 
 ## About This Role
 
-This product designer position at Legora (formerly Leya) was posted on 2026-08-11.
+This product designer position at Legora (formerly Leya) was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Canada |
-| Category | Product Designer |
+| Category | Product Marketing |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/dc2ee546-5f93-48b9-b0aa-61b583aa5361) |
 
 ## About This Role
 
-This product designer position at Wealthsimple was posted on 2026-08-18.
+This product marketing position at Wealthsimple was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

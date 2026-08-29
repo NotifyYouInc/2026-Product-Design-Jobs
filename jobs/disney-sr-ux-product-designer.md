@@ -1,16 +1,16 @@
-# Senior Product Designer – Membership & Identity at Expedia
+# Sr UX Product Designer at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Glendale, Arizona, United States |
 | Category | Product Designer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---New-York---New-York/Senior-Product-Designer---Membership---Identity_R-109042-1) |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-UX-Product-Designer_10156613) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-08-21.
+This product designer position at Disney was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

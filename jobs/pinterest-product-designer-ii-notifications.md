@@ -1,16 +1,16 @@
-# Interaction Designer, HCI at Bjak
+# Product Designer II, Notifications at Pinterest
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8123052) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-22.
+This product designer position at Pinterest was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

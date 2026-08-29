@@ -1,16 +1,16 @@
-# Senior Product Designer – Membership & Identity at Expedia
+# Senior Product Designer at Community Phone Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 5 locations |
+| Company | [Community Phone Company](https://scoutify.ai/companies/community-phone-company?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Oregon, US |
 | Category | Product Designer |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---New-York---New-York/Senior-Product-Designer---Membership---Identity_R-109042-1) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/community-phone-company/jobs/6RlFFv6-senior-product-designer) |
 
 ## About This Role
 
-This product designer position at Expedia was posted on 2026-08-21.
+This product designer position at Community Phone Company was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

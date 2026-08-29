@@ -1,16 +1,16 @@
-# Interaction Designer, HCI at Bjak
+# Staff Product Designer, B2B at Flex
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Flex](https://scoutify.ai/companies/flex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flex/jobs/4726700005) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-22.
+This product designer position at Flex was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

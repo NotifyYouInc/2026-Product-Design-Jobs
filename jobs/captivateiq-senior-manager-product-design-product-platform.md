@@ -1,16 +1,16 @@
-# Interaction Designer, HCI at Bjak
+# Senior Manager, Product Design - Product Platform at CaptivateIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [CaptivateIQ](https://scoutify.ai/companies/captivateiq?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/c7b386c6-b3ea-4a85-9af7-5301591abc56) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/captivateiq/f03f2649-4b85-4cbd-a55e-c0794fb0767e) |
 
 ## About This Role
 
-This product designer position at Bjak was posted on 2026-08-22.
+This product designer position at CaptivateIQ was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
