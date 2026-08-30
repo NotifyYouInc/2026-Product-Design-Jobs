@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenLoop](https://scoutify.ai/companies/openloophealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
-| Category | Graphic / Brand Design |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openloophealth/88336687-9150-4598-a8ed-b88983b4d71c) |
 
 ## About This Role
 
-This graphic / brand design position at OpenLoop was posted on 2026-08-17.
+This digital / performance marketing position at OpenLoop was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

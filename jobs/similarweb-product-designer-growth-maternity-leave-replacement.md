@@ -1,16 +1,16 @@
-# Senior Product Designer - Design System at Moniepoint
+# Product Designer, Growth-Maternity Leave Replacement at Similarweb
 
 | Field | Details |
 |-------|---------|
-| Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Nigeria |
+| Company | [Similarweb](https://scoutify.ai/companies/similarweb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Israel |
 | Category | Product Designer |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4955355101) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/similarweb/jobs/8152015) |
 
 ## About This Role
 
-This product designer position at Moniepoint was posted on 2026-08-22.
+This product designer position at Similarweb was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
