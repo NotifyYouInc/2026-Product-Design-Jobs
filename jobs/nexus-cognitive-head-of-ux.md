@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexus Cognitive](https://scoutify.ai/companies/nexus-cognitive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/nexus-cognitive/c0c6c400-ae6b-4884-b56f-7dd130b06e0d) |
 
 ## About This Role
 
-This ux researcher position at Nexus Cognitive was posted on 2026-08-21.
+This product designer position at Nexus Cognitive was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

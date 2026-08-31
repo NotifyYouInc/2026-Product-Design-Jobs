@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-DPO--MANAGER--USER-EXPERIENCE--DIGITAL-SHOPFRONT-_JR-10000054713) |
 
 ## About This Role
 
-This ux researcher position at Economic Development Board was posted on 2026-08-21.
+This product designer position at Economic Development Board was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

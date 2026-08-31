@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Service---Experience-Designer_14605944) |
 
 ## About This Role
 
-This ux researcher position at Accenture was posted on 2026-08-18.
+This product designer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

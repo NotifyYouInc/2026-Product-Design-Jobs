@@ -1,16 +1,16 @@
-# Sr. UX Designer at McKesson
+# Senior Product Designer at Cinder
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Cinder](https://scoutify.ai/companies/cinder?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/London/Sr-UX-Designer_JR0150772) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cinder/f682d699-5662-458a-b49e-fdb25c814d74) |
 
 ## About This Role
 
-This product designer position at McKesson was posted on 2026-08-14.
+This product designer position at Cinder was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

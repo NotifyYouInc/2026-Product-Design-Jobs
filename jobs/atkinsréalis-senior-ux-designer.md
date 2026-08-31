@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cheltenham, England, United Kingdom |
-| Category | UX Researcher |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/Senior-UX-Designer_R-151016) |
+| Category | Product Designer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/Senior-UX-Designer_R-162640) |
 
 ## About This Role
 
-This ux researcher position at AtkinsRéalis was posted on 2026-04-27.
+This product designer position at AtkinsRéalis was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

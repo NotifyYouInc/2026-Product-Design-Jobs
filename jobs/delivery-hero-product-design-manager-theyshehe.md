@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# Product Design Manager - (They/She/He) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145227413-uiux-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000145214989-product-design-manager-theyshehe) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-08-24.
+This product designer position at Delivery Hero was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

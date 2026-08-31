@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Dallas/Principal-Designer--Product-Design_R2612841) |
 
 ## About This Role
 
-This ux researcher position at Cencora was posted on 2026-08-21.
+This product designer position at Cencora was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

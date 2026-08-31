@@ -1,16 +1,16 @@
-# Designer at Unispace
+# Designer  at Unispace
 
 | Field | Details |
 |-------|---------|
 | Company | [Unispace](https://scoutify.ai/companies/unispace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6122299004) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6133590004) |
 
 ## About This Role
 
-This product designer position at Unispace was posted on 2026-07-22.
+This product designer position at Unispace was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

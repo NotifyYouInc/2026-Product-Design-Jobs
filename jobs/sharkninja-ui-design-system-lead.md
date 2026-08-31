@@ -1,16 +1,16 @@
-# Sr. UX Designer at McKesson
+# UI Design System Lead  at SharkNinja
 
 | Field | Details |
 |-------|---------|
-| Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/London/Sr-UX-Designer_JR0150772) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695062006) |
 
 ## About This Role
 
-This product designer position at McKesson was posted on 2026-08-14.
+This product designer position at SharkNinja was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

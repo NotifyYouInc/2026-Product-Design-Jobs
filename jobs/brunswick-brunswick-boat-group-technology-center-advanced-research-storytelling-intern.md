@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Edgewater, Illinois, United States |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Brunswick-Boat-Group-Technology-Center-Advanced-Research---Storytelling-Intern_JR-051131) |
 
 ## About This Role
 
-This ux researcher position at Brunswick was posted on 2026-08-18.
+This product designer position at Brunswick was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

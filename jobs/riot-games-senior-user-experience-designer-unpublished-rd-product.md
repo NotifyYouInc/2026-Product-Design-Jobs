@@ -1,16 +1,16 @@
-# UI/UX Product Designer at Trustonic
+# Senior User Experience Designer - Unpublished R&D Product at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Trustonic](https://scoutify.ai/companies/trustonic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Winnersh, England, United Kingdom |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Guangzhou, Guangdong, China |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/trustonic/744000145227413-uiux-product-designer) |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8092960?gh_jid=8092960) |
 
 ## About This Role
 
-This product designer position at Trustonic was posted on 2026-08-24.
+This product designer position at Riot Games was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

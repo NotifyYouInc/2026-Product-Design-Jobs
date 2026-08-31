@@ -1,16 +1,16 @@
-# Senior UX Designer at SharkNinja
+# Senior UX Designer  at SharkNinja
 
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Needham, Massachusetts, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4674252006) |
+| Location | 2 locations |
+| Category | Product Designer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695066006) |
 
 ## About This Role
 
-This ux researcher position at SharkNinja was posted on 2026-04-27.
+This product designer position at SharkNinja was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

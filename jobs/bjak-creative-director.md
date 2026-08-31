@@ -1,16 +1,16 @@
-# Senior Game Designer at Outfit7
+# Creative Director at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Outfit7](https://scoutify.ai/companies/outfit7?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
-| Category | Product Designer |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Graphic / Brand Design |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://outfit7.com/careers/jobs?gh_jid=7823877003) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/71492974-8a2c-4ebf-9225-62360efe9ea0) |
 
 ## About This Role
 
-This product designer position at Outfit7 was posted on 2026-08-24.
+This graphic / brand design position at Bjak was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

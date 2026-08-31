@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | UX Researcher |
+| Category | Product Designer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Experience-Design_R-288211-1) |
 
 ## About This Role
 
-This ux researcher position at Mastercard was posted on 2026-08-17.
+This product designer position at Mastercard was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
