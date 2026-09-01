@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Manager, Design & Experience (US) at TD Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mount Laurel, New Jersey, United States |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Manager--Design---Experience--US-_R_1496172-1) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at TD Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

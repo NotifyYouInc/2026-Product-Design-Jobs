@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# UX-Designer ePartners at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Rotterdam, South Holland, The Netherlands |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145445889-ux-designer-epartners) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at KPN was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

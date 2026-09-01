@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Design Manager at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Design-Manager_R260024572) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Bank of Montreal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# TNF: Designer Men's Apparel at VF
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/TNF--Designer-Men-s-Apparel_R-20260811-0044-2) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at VF was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

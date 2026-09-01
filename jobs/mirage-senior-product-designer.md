@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Senior Product Designer at Mirage
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Mirage](https://scoutify.ai/companies/mirage?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mirage/f0153595-5343-495d-8330-3ada265591d3) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Mirage was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

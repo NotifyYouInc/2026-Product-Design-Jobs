@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Principal Product Designer at New Relic
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [New Relic](https://scoutify.ai/companies/new-relic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/newrelic/jobs/5396630008) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at New Relic was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Senior Product Designer - Compute, Nebius Console at Nebius
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4955928101) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Nebius was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

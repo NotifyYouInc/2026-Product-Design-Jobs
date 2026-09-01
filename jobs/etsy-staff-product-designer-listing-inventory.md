@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Staff Product Designer, Listing & Inventory at Etsy
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brooklyn, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Staff-Product-Designer--Listing---Inventory_JR5788-1) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at Etsy was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

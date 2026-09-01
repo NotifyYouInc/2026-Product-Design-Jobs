@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Footwear Designer II at New Balance
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [New Balance](https://scoutify.ai/companies/newbalance?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Lawrence, Kansas, United States |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://newbalance.wd1.myworkdayjobs.com/careers/job/Lawrence-MA-Corp/Footwear-Designer-II_R40880) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at New Balance was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

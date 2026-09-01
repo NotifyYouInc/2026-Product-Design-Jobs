@@ -5,12 +5,12 @@
 | Company | [HugeInc](https://scoutify.ai/companies/hugeinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Colombia |
 | Category | Product Designer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/7728491) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/8094900) |
 
 ## About This Role
 
-This product designer position at HugeInc was posted on 2026-04-13.
+This product designer position at HugeInc was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

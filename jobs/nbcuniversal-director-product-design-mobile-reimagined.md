@@ -1,16 +1,16 @@
-# Experience Design, Vice President at JPMorgan Chase
+# Director, Product Design, Mobile Reimagined at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783593) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000145309259-director-product-design-mobile-reimagined) |
 
 ## About This Role
 
-This product designer position at JPMorgan Chase was posted on 2026-08-25.
+This product designer position at NBCUniversal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

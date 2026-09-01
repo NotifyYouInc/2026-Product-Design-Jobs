@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# UX Designer : Digital Products & Member Experience at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Texas, US |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Texas/UX-Designer---Digital-Products---Member-Experience_SR-45169-1) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at Fractal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

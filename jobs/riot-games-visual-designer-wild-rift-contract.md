@@ -1,16 +1,16 @@
-# Senior Designer at Humana
+# Visual Designer - Wild Rift (Contract) at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Graphic / Brand Design |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Designer_R-427964) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8142640?gh_jid=8142640) |
 
 ## About This Role
 
-This graphic / brand design position at Humana was posted on 2026-08-24.
+This graphic / brand design position at Riot Games was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

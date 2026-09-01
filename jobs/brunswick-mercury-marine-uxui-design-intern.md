@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Mercury Marine: UX/UI Design Intern at Brunswick
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Fond du Lac, Wisconsin, United States |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at Brunswick was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

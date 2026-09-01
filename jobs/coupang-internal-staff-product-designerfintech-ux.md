@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Staff Product Designer（FinTech UX） at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8124350?gh_jid=8124350) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at Coupang Internal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

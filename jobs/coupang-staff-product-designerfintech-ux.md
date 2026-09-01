@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Staff Product Designer（FinTech UX） at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8124349) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Coupang was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

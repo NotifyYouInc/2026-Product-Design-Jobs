@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Senior CMF Designer at VAST
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [VAST](https://scoutify.ai/companies/vast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Long Beach, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://boards.greenhouse.io/vast/jobs/4707911006?gh_jid=4707911006) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at VAST was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Product Designer at Oddin
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Oddin](https://scoutify.ai/companies/oddin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://jobs.lever.co/oddin/9d227ce4-5179-43f6-aad5-fc0c34c264fd) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Oddin was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

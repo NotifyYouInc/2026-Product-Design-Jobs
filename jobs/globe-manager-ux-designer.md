@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Manager, UX Designer at GLOBE
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Philippines |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Manager--UX-Designer_R0000020544) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at GLOBE was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

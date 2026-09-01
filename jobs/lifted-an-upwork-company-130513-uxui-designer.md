@@ -1,4 +1,4 @@
-# UX/UI Designer at Lifted, an Upwork Company™
+# #130513 - UX/UI Designer at Lifted, an Upwork Company™
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Manila, National Capital Region, Philippines |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014831056-uxui-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990014831256-130513-uxui-designer) |
 
 ## About This Role
 

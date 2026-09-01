@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Senior UX Designer/Developer at Ping Identity
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8700665002) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Ping Identity was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

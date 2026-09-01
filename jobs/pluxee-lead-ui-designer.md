@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Lead UI Designer at Pluxee
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Pluxee](https://scoutify.ai/companies/pluxee?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://pluxee.wd3.myworkdayjobs.com/pluxee_career_site/job/Paris-Issy-les-Moulineaux/Lead-UI-Designer_R5557) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Pluxee was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

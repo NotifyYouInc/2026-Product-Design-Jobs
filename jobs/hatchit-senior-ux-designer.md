@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Senior UX Designer at Hatchit
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Hatchit](https://scoutify.ai/companies/hatchit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Reston, Virginia, United States |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.lever.co/hatchit/fbf81838-73b1-4c26-917f-39aac4d977d6) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Hatchit was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

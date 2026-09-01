@@ -1,16 +1,16 @@
-# Design Intern at Sprinklr
+# Dir, UI/UX at Cboe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Cboe](https://scoutify.ai/companies/cboe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Design-Intern_113312-JOB) |
+| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Dir--UI-UX_R-4579) |
 
 ## About This Role
 
-This product designer position at Sprinklr was posted on 2026-08-25.
+This product designer position at Cboe was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

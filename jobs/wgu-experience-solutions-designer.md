@@ -1,16 +1,16 @@
-# Senior Product Designer at Okta
+# Experience Solutions Designer at WGU
 
 | Field | Details |
 |-------|---------|
-| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Salt Lake City, Utah, United States |
 | Category | Product Designer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8152681?gh_jid=8152681) |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Experience-Solutions-Designer_JR-026012) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-24.
+This product designer position at WGU was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

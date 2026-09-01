@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Digital-Designer_JR35174-1) |
+| Category | Graphic / Brand Design |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Digital-Designer_JR35800-1) |
 
 ## About This Role
 
-This marketing position at Dyson was posted on 2026-03-12.
+This graphic / brand design position at Dyson was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
