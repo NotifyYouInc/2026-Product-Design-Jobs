@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Experience Design Lead at Salesforce
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Experience-Design-Lead_JR353752-1) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at Salesforce was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

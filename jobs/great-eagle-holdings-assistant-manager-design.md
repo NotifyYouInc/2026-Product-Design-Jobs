@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# Assistant Manager - Design at Great Eagle Holdings
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Great Eagle Holdings](https://scoutify.ai/companies/ocs-cx-oj46741?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Designer_JR-0000123696-1) |
+| Apply | [View on company site](https://fa-eqgp-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#20213248) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-26.
+This product designer position at Great Eagle Holdings was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

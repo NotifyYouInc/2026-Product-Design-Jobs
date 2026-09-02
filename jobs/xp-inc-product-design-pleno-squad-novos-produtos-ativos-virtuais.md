@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Product Design Pleno | Squad Novos Produtos & Ativos Virtuais at XP Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [XP Inc.](https://scoutify.ai/companies/xpinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xpinc/jobs/8746999002) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at XP Inc. was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

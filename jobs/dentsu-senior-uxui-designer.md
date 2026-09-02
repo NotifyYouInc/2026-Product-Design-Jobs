@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Designer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Senior-UX-UI-Designer_R1113754) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Lisbon/Senior-UX-UI-Designer_R1129210) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-02-04.
+This product designer position at Dentsu was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

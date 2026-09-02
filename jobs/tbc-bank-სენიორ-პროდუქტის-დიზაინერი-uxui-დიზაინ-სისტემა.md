@@ -1,12 +1,12 @@
-# Senior Product Designer at TBC Bank
+# სენიორ პროდუქტის დიზაინერი (UX/UI) - დიზაინ სისტემა at TBC Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Location | Georgia |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145525881-uxui) |
 
 ## About This Role
 

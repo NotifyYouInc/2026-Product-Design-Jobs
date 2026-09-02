@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Industrial Designer at Sereact
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [Sereact](https://scoutify.ai/companies/sereact?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sereact/d9b3b7a1-fb7a-4c83-a77d-106912cfa5f6) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at Sereact was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Product Designer, Design Systems at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Culver City, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680033/product-designer-design-systems) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at Apple was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000137111660-product-designer-senior-hf) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000145559472-product-designer-senior-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-10.
+This product designer position at Nexton was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Staff Product Designer, Merchant Marketing at DoorDash
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/8155051) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at DoorDash was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

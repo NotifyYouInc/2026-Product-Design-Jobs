@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Interaction-Designer-Quant-Analytics/20011) |
+| Category | Product Designer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Interaction-Designer-Quant-Analytics/21464) |
 
 ## About This Role
 
-This ux researcher position at Bloomberg was posted on 2026-06-01.
+This product designer position at Bloomberg was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

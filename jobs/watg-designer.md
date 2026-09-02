@@ -1,16 +1,16 @@
-# Senior Designer at Landor
+# Designer at WATG
 
 | Field | Details |
 |-------|---------|
-| Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [WATG](https://scoutify.ai/companies/recruiting2-ultipro-com-oj116716?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8028377) |
+| Apply | [View on company site](https://recruiting2.ultipro.com/wat1003watg/JobBoard/40a8f4fc-f7d8-4099-97da-169f37ab8e95/OpportunityDetail?opportunityId=2b0ab6c0-e574-40f8-bd3b-bc9e93017af2) |
 
 ## About This Role
 
-This graphic / brand design position at Landor was posted on 2026-08-25.
+This product designer position at WATG was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

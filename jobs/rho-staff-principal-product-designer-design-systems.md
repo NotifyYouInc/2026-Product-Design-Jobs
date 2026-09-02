@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Staff / Principal Product Designer, Design Systems at Rho
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [Rho](https://scoutify.ai/companies/rho?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rho/df320a8b-217d-46e3-a73a-6be53c2278ff) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at Rho was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

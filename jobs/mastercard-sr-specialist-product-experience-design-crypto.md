@@ -1,4 +1,4 @@
-# Manager, Product Experience & Design at Mastercard
+# Sr. Specialist, Product Experience Design, Crypto at Mastercard
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Product-Experience---Design_R-289148) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-One-South-County/Sr-Specialist--Product-Experience-Design--Crypto_R-288408) |
 
 ## About This Role
 

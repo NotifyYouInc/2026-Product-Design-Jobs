@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | UX Researcher |
-| Posted | 2026-04-21 |
+| Category | Product Designer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate--UX-Designer---Equity-Zen_PT-JR035408) |
 
 ## About This Role
 
-This ux researcher position at Morgan Stanley was posted on 2026-04-21.
+This product designer position at Morgan Stanley was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

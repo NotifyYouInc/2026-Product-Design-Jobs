@@ -1,16 +1,16 @@
-# Product Designer at Barclays
+# User Interface - User Experience Designer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Designer_JR-0000123696-1) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/User-Interface---User-Experience-Designer_JR2023755) |
 
 ## About This Role
 
-This product designer position at Barclays was posted on 2026-08-26.
+This product designer position at Nvidia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

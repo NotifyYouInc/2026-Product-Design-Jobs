@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
-| Category | UX Researcher |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129982339-praktikum-uxui-ai-design-fur-digital-logistics-solutions) |
+| Category | Product Designer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145651839-praktikum-uxui-ai-design-fur-digital-logistics-solutions) |
 
 ## About This Role
 
-This ux researcher position at Robert Bosch was posted on 2026-06-03.
+This product designer position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

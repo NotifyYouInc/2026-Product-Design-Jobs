@@ -1,16 +1,16 @@
-# Senior Product Designer at TBC Bank
+# Director of Product Design at Replit
 
 | Field | Details |
 |-------|---------|
-| Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Company | [Replit](https://scoutify.ai/companies/replit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Foster City, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000145516570-senior-product-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/replit/b386f0ef-41e1-48e4-abe3-d35ce627de95) |
 
 ## About This Role
 
-This product designer position at TBC Bank was posted on 2026-08-25.
+This product designer position at Replit was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

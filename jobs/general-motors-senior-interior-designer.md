@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202613019) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202618583) |
 
 ## About This Role
 
-This product designer position at General Motors was posted on 2026-06-15.
+This product designer position at General Motors was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

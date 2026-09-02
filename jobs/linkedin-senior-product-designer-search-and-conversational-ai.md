@@ -1,16 +1,16 @@
-# Product designer at watershed
+# Senior Product Designer, Search and Conversational AI at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [watershed](https://scoutify.ai/companies/watershed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/watershed/5e09aefe-1336-464c-a41f-541dc1cb5474) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000145559741-senior-product-designer-search-and-conversational-ai) |
 
 ## About This Role
 
-This product designer position at watershed was posted on 2026-08-14.
+This product designer position at LinkedIn was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
