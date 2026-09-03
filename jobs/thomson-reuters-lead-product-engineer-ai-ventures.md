@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 4 locations |
-| Category | Product Designer |
+| Category | Software Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Lead-Product-Engineer--AI-Ventures_JREQ203057) |
 
 ## About This Role
 
-This product designer position at Thomson Reuters was posted on 2026-08-19.
+This software engineer position at Thomson Reuters was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

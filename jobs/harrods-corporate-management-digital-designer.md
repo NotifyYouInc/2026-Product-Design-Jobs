@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARRODS CORPORATE MANAGEMENT](https://scoutify.ai/companies/harrods-corporate-management?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hammersmith, England, United Kingdom |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://harrods.wd3.myworkdayjobs.com/harrods_external1/job/Hammersmith/Digital-Designer_VAC-54433) |
 
 ## About This Role
 
-This product designer position at HARRODS CORPORATE MANAGEMENT was posted on 2026-08-20.
+This marketing position at HARRODS CORPORATE MANAGEMENT was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

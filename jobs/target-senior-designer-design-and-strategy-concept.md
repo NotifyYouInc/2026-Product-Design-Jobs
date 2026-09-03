@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Designer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/521-W-25th-St2nd-Fl-New-YorkNY-10001-5501/Senior-Designer--Design-and-Strategy-Concept_R0000438303) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Senior-Designer--Design-and-Strategy-Concept_R0000447678) |
 
 ## About This Role
 
-This product designer position at Target was posted on 2026-05-28.
+This product designer position at Target was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

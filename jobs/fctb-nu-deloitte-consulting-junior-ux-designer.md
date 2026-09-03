@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Designer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000138132164-junior-ux-designer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000145758628-junior-ux-designer) |
 
 ## About This Role
 
-This product designer position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-16.
+This product designer position at FCTB (nu: Deloitte Consulting) was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

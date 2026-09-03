@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Confido](https://scoutify.ai/companies/confido?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/confido/23469dd2-c1f4-4c22-b279-e0cade65c66a) |
+| Category | Product Designer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confido/3155bda4-fdb2-487f-a0ec-719cd876a726) |
 
 ## About This Role
 
-This frontend engineer position at Confido was posted on 2026-04-23.
+This product designer position at Confido was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

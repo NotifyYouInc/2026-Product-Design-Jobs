@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Principal-Experience-Designer_26WD98133) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tel-Aviv-ISR/Principal-Experience-Designer_26WD100698) |
 
 ## About This Role
 
-This product designer position at Autodesk was posted on 2026-07-02.
+This product designer position at Autodesk was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

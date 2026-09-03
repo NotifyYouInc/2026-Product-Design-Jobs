@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Service-Designer_ATCI-5423580-S1982985-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Service-Designer_14673275) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-04-17.
+This product designer position at Accenture was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

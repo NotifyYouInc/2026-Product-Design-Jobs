@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ukraine |
 | Category | Product Designer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4845709101?gh_jid=4845709101) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4955149101?gh_jid=4955149101) |
 
 ## About This Role
 
-This product designer position at N-iX was posted on 2026-04-23.
+This product designer position at N-iX was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

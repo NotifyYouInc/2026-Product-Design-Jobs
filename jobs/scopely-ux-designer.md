@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Culver City, California, United States |
-| Category | UX Researcher |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5217188008) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Product Designer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5394984008?gh_jid=5394984008) |
 
 ## About This Role
 
-This ux researcher position at Scopely was posted on 2026-05-12.
+This product designer position at Scopely was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/BRUSSELS/VM-Design-Manager_JR132810) |
 
 ## About This Role
 
-This product designer position at Richemont was posted on 2026-08-18.
+This marketing position at Richemont was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
