@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000144037839-design-practice-lead-health-life-sciences-consumer-manufacturing-us) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000144588119-design-practice-lead-health-life-sciences-consumer-manufacturing-us) |
 
 ## About This Role
 
-This product designer position at PA Consulting was posted on 2026-08-18.
+This product designer position at PA Consulting was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unispace](https://scoutify.ai/companies/unispace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6112380004) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6113519004) |
 
 ## About This Role
 
-This product designer position at Unispace was posted on 2026-07-09.
+This product designer position at Unispace was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

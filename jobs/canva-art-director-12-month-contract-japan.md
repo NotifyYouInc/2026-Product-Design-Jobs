@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Graphic / Brand Design |
+| Category | Marketing |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001331192-art-director-12-month-contract-japan) |
 
 ## About This Role
 
-This graphic / brand design position at Canva was posted on 2026-08-19.
+This marketing position at Canva was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Category | Marketing |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8028377) |
 
 ## About This Role
 
-This graphic / brand design position at Landor was posted on 2026-08-25.
+This marketing position at Landor was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

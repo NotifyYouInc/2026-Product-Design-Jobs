@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Nigeria |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4710853101) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4962161101) |
 
 ## About This Role
 
-This product designer position at Moniepoint was posted on 2026-08-13.
+This product designer position at Moniepoint was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

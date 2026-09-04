@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Location | San Francisco, California, United States |
+| Category | Marketing |
 | Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c) |
 
 ## About This Role
 
-This graphic / brand design position at Harvey was posted on 2026-08-18.
+This marketing position at Harvey was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

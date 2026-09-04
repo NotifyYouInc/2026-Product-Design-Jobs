@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127141887-staff-product-designer-global-hub-q-commerce) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146136179-staff-product-designer-global-hub-q-commerce) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-05-19.
+This product designer position at Delivery Hero was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

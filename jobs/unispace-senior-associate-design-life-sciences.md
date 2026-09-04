@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unispace](https://scoutify.ai/companies/unispace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Product Designer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/5989977004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6161693004) |
 
 ## About This Role
 
-This product designer position at Unispace was posted on 2026-05-06.
+This product designer position at Unispace was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

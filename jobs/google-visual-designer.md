@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Bruno, California, United States |
-| Category | Graphic / Brand Design |
+| Category | Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVyxh77lQC-nql-FvS_EiArd1FFO0RNjaleRgC8V_s4mEjsA1Ny_ixfZ2yDY06d2rxFnr4av5WE64mKOhcBwFVREIkEHSVphpRDl62XqHuiI0CusaXIfLMzRwKCnbQ%3D%3D_V2&loc=US&title=Visual+Designer) |
 
 ## About This Role
 
-This graphic / brand design position at Google was posted on 2026-08-20.
+This marketing position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

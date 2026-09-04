@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Marketing |
+| Category | Motion / Video Production |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Heredia/Graphic---Visual-Designer_R00352089) |
 
 ## About This Role
 
-This marketing position at Accenture was posted on 2026-08-20.
+This motion / video production position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

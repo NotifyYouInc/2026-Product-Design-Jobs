@@ -1,16 +1,16 @@
-# Principal, Design  at Unispace
+# Principal Design at Unispace
 
 | Field | Details |
 |-------|---------|
 | Company | [Unispace](https://scoutify.ai/companies/unispace?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/6013054004) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unispace/jobs/5991275004) |
 
 ## About This Role
 
-This product designer position at Unispace was posted on 2026-06-03.
+This product designer position at Unispace was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

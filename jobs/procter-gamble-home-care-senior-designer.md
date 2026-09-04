@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Graphic / Brand Design |
+| Category | Marketing |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Home-Care-Senior-Designer_R000152802) |
 
 ## About This Role
 
-This graphic / brand design position at Procter & Gamble was posted on 2026-08-24.
+This marketing position at Procter & Gamble was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

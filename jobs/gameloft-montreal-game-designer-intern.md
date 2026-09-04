@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Product Designer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144036359-game-designer-intern) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144227279-game-designer-intern) |
 
 ## About This Role
 
-This product designer position at Gameloft Montreal was posted on 2026-08-18.
+This product designer position at Gameloft Montreal was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

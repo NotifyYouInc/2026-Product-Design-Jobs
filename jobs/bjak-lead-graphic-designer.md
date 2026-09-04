@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/16005724-bb32-4793-ba1d-b05295ebc381) |
 
 ## About This Role
 
-This graphic / brand design position at Bjak was posted on 2026-08-24.
+This product designer position at Bjak was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

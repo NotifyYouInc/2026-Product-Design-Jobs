@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139132069-especialista-de-design-i) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146071525-especialista-de-design-i) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-07-22.
+This product designer position at Experian was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
+| Category | Marketing |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4727807005) |
 
 ## About This Role
 
-This graphic / brand design position at The New York Times was posted on 2026-08-26.
+This marketing position at The New York Times was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

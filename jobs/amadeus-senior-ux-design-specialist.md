@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | India |
-| Category | UX Researcher |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-UX-Design-Specialist_R34679) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Designer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-UX-Design-Specialist_R37007-1) |
 
 ## About This Role
 
-This ux researcher position at Amadeus was posted on 2026-04-13.
+This product designer position at Amadeus was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

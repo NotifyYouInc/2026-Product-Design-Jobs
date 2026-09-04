@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Canary Wharf, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-06-02 |
+| Category | Product Designer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Service-Designer_JR-0000109889) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-06-02.
+This product designer position at Barclays was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

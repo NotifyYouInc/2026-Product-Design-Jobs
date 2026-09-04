@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Graphic / Brand Design |
+| Category | Product Designer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Advanced-CMF-and-Brand-Designer_JR-202618116) |
 
 ## About This Role
 
-This graphic / brand design position at General Motors was posted on 2026-08-27.
+This product designer position at General Motors was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
