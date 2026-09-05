@@ -1,16 +1,16 @@
-# UX Design Engineer - 6429050 at Accenture
+# Sr. Industrial Designer at WHY Brands
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [WHY Brands](https://scoutify.ai/companies/recruiting2-ultipro-com-oj119290?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/CA---Los-Angeles/UX-Design-Engineer---6429050_14617051) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/mun1001mchk/JobBoard/acccd54e-ac6e-44a1-a6d4-8a1f25cceea3/OpportunityDetail?opportunityId=cbb4823c-0e6b-4df6-bf97-a3104d9870eb) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-08-26.
+This product designer position at WHY Brands was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

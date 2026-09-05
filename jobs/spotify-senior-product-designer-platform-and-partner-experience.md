@@ -1,16 +1,16 @@
-# Senior Product Designer at Ryder System
+# Senior Product Designer - Platform and Partner Experience at Spotify
 
 | Field | Details |
 |-------|---------|
-| Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-94102/Senior-Product-Designer_R182611) |
+| Apply | [View on company site](https://jobs.lever.co/spotify/34e3828f-db98-486f-a077-cd67ece45be0) |
 
 ## About This Role
 
-This product designer position at Ryder System was posted on 2026-08-28.
+This product designer position at Spotify was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

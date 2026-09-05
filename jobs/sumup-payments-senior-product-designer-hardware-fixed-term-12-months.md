@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Designer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://sumup.com/careers/positions/8750436002?gh_jid=8750436002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SumUp Payments was posted on 2026-08-27.
+This product designer position at SumUp Payments was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

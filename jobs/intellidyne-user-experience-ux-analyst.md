@@ -1,16 +1,16 @@
-# Head of Design at Dataiku
+# User Experience (UX) Analyst at IntelliDyne
 
 | Field | Details |
 |-------|---------|
-| Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [IntelliDyne](https://scoutify.ai/companies/veterans?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/veterans/jobs/8759744002) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This product designer position at IntelliDyne was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

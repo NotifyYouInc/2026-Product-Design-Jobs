@@ -1,16 +1,16 @@
-# Head of Design at Dataiku
+# Product Designer at Landeed
 
 | Field | Details |
 |-------|---------|
-| Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Landeed](https://scoutify.ai/companies/landeed?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/landeed/jobs/TyHknK0-product-designer) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This product designer position at Landeed was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

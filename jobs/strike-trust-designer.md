@@ -1,16 +1,16 @@
-# Head of Design at Dataiku
+# Trust Designer at Strike
 
 | Field | Details |
 |-------|---------|
-| Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Strike](https://scoutify.ai/companies/strike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/strike/jobs/6166903004) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This product designer position at Strike was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

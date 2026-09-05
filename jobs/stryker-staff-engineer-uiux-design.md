@@ -1,16 +1,16 @@
-# Senior Product Designer at Ryder System
+# Staff Engineer - UI/UX Design at Stryker
 
 | Field | Details |
 |-------|---------|
-| Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-94102/Senior-Product-Designer_R182611) |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bengaluru-India/Staff-Engineer---UI-UX-Design_R569390) |
 
 ## About This Role
 
-This product designer position at Ryder System was posted on 2026-08-28.
+This product designer position at Stryker was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

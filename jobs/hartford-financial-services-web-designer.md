@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Wayne, New Jersey, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/Web-Designer_R2626469) |
 
 ## About This Role
 
-This marketing position at Hartford Financial Services was posted on 2026-08-19.
+This product designer position at Hartford Financial Services was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

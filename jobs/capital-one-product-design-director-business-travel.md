@@ -1,16 +1,16 @@
-# Senior Product Designer at Ryder System
+# Product Design Director, Business Travel at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---San-Francisco-CA-94102/Senior-Product-Designer_R182611) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Product-Design-Director--Business-Travel_R999406-1) |
 
 ## About This Role
 
-This product designer position at Ryder System was posted on 2026-08-28.
+This product designer position at Capital One was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

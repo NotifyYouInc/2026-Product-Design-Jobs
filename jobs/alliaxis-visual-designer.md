@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Karnataka, IN |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Visual-Designer_R-57951) |
 
 ## About This Role
 
-This marketing position at Alliaxis was posted on 2026-08-22.
+This product designer position at Alliaxis was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

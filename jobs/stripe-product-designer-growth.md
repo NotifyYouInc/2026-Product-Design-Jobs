@@ -1,16 +1,16 @@
-# Senior Designer, Games Marketing (Temporary) at The New York Times
+# Product Designer, Growth at Stripe
 
 | Field | Details |
 |-------|---------|
-| Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4727807005) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8164479) |
 
 ## About This Role
 
-This product designer position at The New York Times was posted on 2026-08-26.
+This product designer position at Stripe was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

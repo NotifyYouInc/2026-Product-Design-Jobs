@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [F5](https://scoutify.ai/companies/f5?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Product Designer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/San-Jose/VP-of-Product-Experience_RP1038662) |
 
 ## About This Role
 
-This product manager position at F5 was posted on 2026-08-27.
+This product designer position at F5 was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

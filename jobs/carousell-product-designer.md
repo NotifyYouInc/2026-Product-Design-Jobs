@@ -1,16 +1,16 @@
-# Head of Design at Dataiku
+# Product Designer  at Carousell
 
 | Field | Details |
 |-------|---------|
-| Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000146224410-product-designer) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This product designer position at Carousell was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

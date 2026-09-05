@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8142640?gh_jid=8142640) |
 
 ## About This Role
 
-This marketing position at Riot Games was posted on 2026-08-25.
+This product designer position at Riot Games was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

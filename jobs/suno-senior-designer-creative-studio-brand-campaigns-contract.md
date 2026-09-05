@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Suno](https://scoutify.ai/companies/suno?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/suno/38e2a0ea-302b-4059-8e86-8b36ef08b352) |
 
 ## About This Role
 
-This marketing position at Suno was posted on 2026-08-21.
+This product designer position at Suno was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Designer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156438) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Honeywell was posted on 2026-08-26.
+This product designer position at Honeywell was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

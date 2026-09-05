@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Constance Hotels & Resorts](https://scoutify.ai/companies/constancehotelsresorts?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mauritius |
-| Category | Motion / Video Production |
+| Category | Product Designer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ConstanceHospitalityManagement/744000144229839-digital-designer) |
 
 ## About This Role
 
-This motion / video production position at Constance Hotels & Resorts was posted on 2026-08-19.
+This product designer position at Constance Hotels & Resorts was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

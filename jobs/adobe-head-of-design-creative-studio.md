@@ -1,16 +1,16 @@
-# Visual Designer at Coderabbit
+# Head of Design, Creative Studio at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/246bbcd7-4905-48b9-a20c-942d28d0e77b) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Head-of-Design--Creative-Studio_R171521) |
 
 ## About This Role
 
-This product designer position at Coderabbit was posted on 2026-08-26.
+This product designer position at Adobe was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Head of Design at Dataiku
+# Senior UX Product Designer at HelloFresh
 
 | Field | Details |
 |-------|---------|
-| Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8147115?gh_jid=8147115) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This product designer position at HelloFresh was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

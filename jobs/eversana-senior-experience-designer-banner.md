@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000144844649-senior-experience-designer-banner) |
 
 ## About This Role
 
-This marketing position at EVERSANA was posted on 2026-08-21.
+This product designer position at EVERSANA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

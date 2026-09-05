@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Landor](https://scoutify.ai/companies/landor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/landor/jobs/8028377) |
 
 ## About This Role
 
-This marketing position at Landor was posted on 2026-08-25.
+This product designer position at Landor was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

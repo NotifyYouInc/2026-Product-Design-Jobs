@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sol de Janeiro](https://scoutify.ai/companies/sol-de-janeiro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/soldejaneiro/jobs/5209825007) |
 
 ## About This Role
 
-This marketing position at Sol de Janeiro was posted on 2026-08-19.
+This product designer position at Sol de Janeiro was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

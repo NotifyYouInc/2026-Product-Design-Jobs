@@ -1,16 +1,16 @@
-#  Product Design Intern at Sezzle
+# Product Design Intern at Sezzle
 
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Colombia |
+| Location | Brazil |
 | Category | Product Designer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7559727003) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7979213003) |
 
 ## About This Role
 
-This product designer position at Sezzle was posted on 2026-08-18.
+This product designer position at Sezzle was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

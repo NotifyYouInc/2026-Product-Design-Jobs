@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Beaverton, Oregon, United States |
-| Category | Motion / Video Production |
+| Category | Product Designer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--3D-Designer_R-90707-1) |
 
 ## About This Role
 
-This motion / video production position at Nike was posted on 2026-08-25.
+This product designer position at Nike was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
