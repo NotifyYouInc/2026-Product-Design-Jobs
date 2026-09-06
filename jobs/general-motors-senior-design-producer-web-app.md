@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Product Designer |
+| Category | Program Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Design-Producer--Web---App_JR-202617591) |
 
 ## About This Role
 
-This product designer position at General Motors was posted on 2026-08-20.
+This program manager position at General Motors was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

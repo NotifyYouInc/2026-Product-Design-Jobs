@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Product Designer |
+| Category | Operations |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Design-Operations-Officer--Mid_R0247519) |
 
 ## About This Role
 
-This product designer position at Booz Allen was posted on 2026-08-20.
+This operations position at Booz Allen was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
