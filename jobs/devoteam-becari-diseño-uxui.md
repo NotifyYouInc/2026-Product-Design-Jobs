@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Zaragoza, Aragon, Spain |
-| Category | UX Researcher |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000129437545-becari-diseno-uxui) |
+| Category | Product Designer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146401669-becari-diseno-uxui) |
 
 ## About This Role
 
-This ux researcher position at Devoteam was posted on 2026-06-01.
+This product designer position at Devoteam was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

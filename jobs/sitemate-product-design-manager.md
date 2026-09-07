@@ -5,12 +5,12 @@
 | Company | [Sitemate](https://scoutify.ai/companies/sitemate?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/44f3d8cd-8305-49f6-a658-ff2b08780493) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sitemate/dbf64472-2e14-43ce-b409-afdaa2c5c25e) |
 
 ## About This Role
 
-This product designer position at Sitemate was posted on 2026-08-05.
+This product designer position at Sitemate was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Designer at Magna
+# Design Lead (12 Month FTC/Secondment) at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Pune-IN/Sr-Designer_R00258546) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Senior-Service-Designer--12-Month-FTC-_120857) |
 
 ## About This Role
 
-This product designer position at Magna was posted on 2026-08-31.
+This product designer position at Lloyds Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

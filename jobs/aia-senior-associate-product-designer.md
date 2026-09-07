@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aia](https://scoutify.ai/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Hong-Kong-HK-Amplify-Health/Senior-Associate--Product-Designer_JR-68250) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/amplifyhealthexternal/job/Singapore-SG-Amplify-Health/Senior-Associate--Product-Designer_JR-69652) |
 
 ## About This Role
 
-This product designer position at Aia was posted on 2026-07-09.
+This product designer position at Aia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

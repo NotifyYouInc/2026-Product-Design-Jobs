@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Designer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000141645827-senior-designer-ux-research-and-prototyping) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000146386119-senior-designer-ux-research-and-prototyping) |
 
 ## About This Role
 
-This product designer position at QIMA was posted on 2026-08-05.
+This product designer position at QIMA was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

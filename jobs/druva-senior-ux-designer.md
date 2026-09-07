@@ -1,16 +1,16 @@
-# Product Designer - Predictions, OG at Crypto
+# Senior UX Designer at Druva
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
+| Company | [Druva](https://scoutify.ai/companies/druva?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/629ce48a-c8ed-4b22-bf29-5b516241e3f9) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.druva.com/why-druva/explore/careers/jobs/8745192002/?gh_jid=8745192002) |
 
 ## About This Role
 
-This product designer position at Crypto was posted on 2026-08-24.
+This product designer position at Druva was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

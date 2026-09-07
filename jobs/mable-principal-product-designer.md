@@ -1,16 +1,16 @@
-# Product Designer - Predictions, OG at Crypto
+# Principal Product Designer at Mable
 
 | Field | Details |
 |-------|---------|
-| Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
+| Company | [Mable](https://scoutify.ai/companies/mable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/629ce48a-c8ed-4b22-bf29-5b516241e3f9) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.lever.co/mable/e1aed421-83a9-4a02-8162-e9e6e2d3b4e9) |
 
 ## About This Role
 
-This product designer position at Crypto was posted on 2026-08-24.
+This product designer position at Mable was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
