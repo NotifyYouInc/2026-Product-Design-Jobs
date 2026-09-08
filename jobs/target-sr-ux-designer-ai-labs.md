@@ -1,16 +1,16 @@
-# Senior Product Designer - Sell Online at SumUp Payments
+# Sr UX Designer - AI Labs at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8768452002?gh_jid=8768452002) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-UX-Designer---AI-Labs_R0000444542) |
 
 ## About This Role
 
-This product designer position at SumUp Payments was posted on 2026-09-01.
+This product designer position at Target was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

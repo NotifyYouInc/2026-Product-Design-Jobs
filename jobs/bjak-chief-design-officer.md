@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Chief Design Officer at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4235876a-6b51-4e4f-b658-6fca20ff06cb) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Bjak was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

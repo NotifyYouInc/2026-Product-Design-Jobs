@@ -1,16 +1,16 @@
-# Senior Product Designer - Sell Online at SumUp Payments
+# Director, Digital Experience Design at Sun Life
 
 | Field | Details |
 |-------|---------|
-| Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8768452002?gh_jid=8768452002) |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Director--Digital-Experience-Design_JR00123601) |
 
 ## About This Role
 
-This product designer position at SumUp Payments was posted on 2026-09-01.
+This product designer position at Sun Life was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Senior Designer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556972162) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Microsoft was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

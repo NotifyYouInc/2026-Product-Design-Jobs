@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Contract UI Designer at Mob Entertainment
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Mob Entertainment](https://scoutify.ai/companies/mob-entertainment?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United States |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mobentertainment/jobs/5226398007) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Mob Entertainment was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

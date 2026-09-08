@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Creative Director - Eperience Design (XD) at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200608974/creative-director-eperience-design-xd) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Apple was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

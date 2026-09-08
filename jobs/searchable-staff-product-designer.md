@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Staff Product Designer at Searchable
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Searchable](https://scoutify.ai/companies/searchable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/searchable/cb8100f6-17da-4a0b-847b-b2b5dfd1dbe9) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Searchable was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

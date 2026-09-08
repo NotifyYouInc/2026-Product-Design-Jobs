@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Associate Designer, Accessories at VF
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Accessories_R-20260821-0026-1) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at VF was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

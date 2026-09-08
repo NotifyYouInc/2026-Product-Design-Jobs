@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# UX-UI Designer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/ASTRA-UTM/UX-UI-Designer_R0337646) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Thales was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

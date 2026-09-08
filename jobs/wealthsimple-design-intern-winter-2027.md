@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Design Intern (Winter 2027) at Wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Wealthsimple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

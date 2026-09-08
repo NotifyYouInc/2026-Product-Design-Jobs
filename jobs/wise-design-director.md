@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000144523049-design-director) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000144706679-design-director) |
 
 ## About This Role
 
-This product designer position at WISE was posted on 2026-08-20.
+This product designer position at WISE was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

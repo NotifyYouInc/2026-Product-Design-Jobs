@@ -1,16 +1,16 @@
-# Design Operations Officer, Mid at Booz Allen
+# User Interface/User Experience Designer, Senior at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Winchester, Nevada, United States |
 | Category | Product Designer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Design-Operations-Officer--Mid_R0247519) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Winchester-VA/User-Interface-User-Experience-Designer--Senior_R0248600) |
 
 ## About This Role
 
-This product designer position at Booz Allen was posted on 2026-08-20.
+This product designer position at Booz Allen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

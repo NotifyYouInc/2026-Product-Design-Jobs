@@ -1,16 +1,16 @@
-# Designer, Web Presence & Platform at Stripe
+# Designer, Web, Presence & Platform at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7977745) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8130913) |
 
 ## About This Role
 
-This product designer position at Stripe was posted on 2026-06-05.
+This product designer position at Stripe was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

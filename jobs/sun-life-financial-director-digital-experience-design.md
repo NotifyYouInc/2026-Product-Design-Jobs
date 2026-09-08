@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-05-08 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Director--Digital-Experience-Design_JR00123601) |
 
 ## About This Role
 
-This product designer position at Sun Life Financial was posted on 2026-05-08.
+This product designer position at Sun Life Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer - Sell Online at SumUp Payments
+# Product Designer 2 at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://sumup.com/careers/positions/8768452002?gh_jid=8768452002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014967577-product-designer-2) |
 
 ## About This Role
 
-This product designer position at SumUp Payments was posted on 2026-09-01.
+This product designer position at The Nielsen Company was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

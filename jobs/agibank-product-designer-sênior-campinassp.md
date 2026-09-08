@@ -1,16 +1,16 @@
-# Designer Sportstyle Footwear at Puma
+# Product Designer Sênior - Campinas/SP at Agibank
 
 | Field | Details |
 |-------|---------|
-| Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Designer-Sportstyle-Footwear_R43092) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5212770008) |
 
 ## About This Role
 
-This product designer position at Puma was posted on 2026-08-31.
+This product designer position at Agibank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
