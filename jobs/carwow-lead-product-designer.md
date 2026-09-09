@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Lead Product Designer at Carwow
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Carwow](https://scoutify.ai/companies/carwow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/carwow/2b0f3536-e584-4111-9d70-5c290881434d) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Carwow was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

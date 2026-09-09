@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coursera](https://scoutify.ai/companies/coursera?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Canada |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/coursera/jobs/6122590004) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/coursera/jobs/6177440004) |
 
 ## About This Role
 
-This product designer position at Coursera was posted on 2026-08-11.
+This product designer position at Coursera was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gray Television](https://scoutify.ai/companies/gray-television?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Louisiana, US |
-| Category | Product Designer |
+| Category | Motion / Video Production |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://recruiting.ultipro.com/gra1017gryt/JobBoard/ae441110-89bd-444d-8ad2-b76c7b9db7a9/OpportunityDetail?opportunityId=a48b6da0-ea79-4326-b405-6b8d2010c427) |
 
 ## About This Role
 
-This product designer position at Gray Television was posted on 2026-08-26.
+This motion / video production position at Gray Television was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

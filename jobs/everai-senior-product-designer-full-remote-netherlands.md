@@ -1,16 +1,16 @@
-# Intern, Industrial Design at Sig Sauer
+# Senior Product Designer (Full Remote - Netherlands) at Everai
 
 | Field | Details |
 |-------|---------|
-| Company | [Sig Sauer](https://scoutify.ai/companies/sig-sauer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Everai](https://scoutify.ai/companies/everai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sig1011sigsa/JobBoard/9ec422f8-2ba7-4e60-983b-b473bf030bd6/OpportunityDetail?opportunityId=6eb5b21f-47a4-4469-881f-210c63e4a9ee) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/everai/cf5a47c5-a9c3-43e4-adc0-bccbaef1a4ef) |
 
 ## About This Role
 
-This product designer position at Sig Sauer was posted on 2026-09-01.
+This product designer position at Everai was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

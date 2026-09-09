@@ -1,16 +1,16 @@
-# Senior Product Designer - Flex Hiring at SEEK
+# Experience Designer (2) at U.S. Bancorp
 
 | Field | Details |
 |-------|---------|
-| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000146880359-senior-product-designer-flex-hiring) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Experience-Designer--2-_2026-0011539) |
 
 ## About This Role
 
-This product designer position at SEEK was posted on 2026-09-02.
+This product designer position at U.S. Bancorp was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

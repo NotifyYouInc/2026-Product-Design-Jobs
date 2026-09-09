@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Product Designer at aphex
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [aphex](https://scoutify.ai/companies/aphex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aphex/b1b9c4a0-07ba-40f7-8c3f-6aeb9b6fe7a5) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at aphex was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Product Designer at Alltrails
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Alltrails](https://scoutify.ai/companies/alltrails?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 5 locations |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://jobs.lever.co/alltrails/0a84e45b-b67b-48a6-94d4-6bdaa2746e93) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Alltrails was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

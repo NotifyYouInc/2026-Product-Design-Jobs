@@ -1,16 +1,16 @@
-# Senior Product Designer - Flex Hiring at SEEK
+# Senior Digital Product Designer UIUX at Banner Health
 
 | Field | Details |
 |-------|---------|
-| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000146880359-senior-product-designer-flex-hiring) |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Senior-Digital-Product-Designer-UIUX_R4453230) |
 
 ## About This Role
 
-This product designer position at SEEK was posted on 2026-09-02.
+This product designer position at Banner Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

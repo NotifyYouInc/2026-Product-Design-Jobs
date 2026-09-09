@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Staff Product Designer - Growth at Jane
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Jane](https://scoutify.ai/companies/jane?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Canada |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jane/737fd9b7-8efa-4af5-95dc-5f70c6efa246) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Jane was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

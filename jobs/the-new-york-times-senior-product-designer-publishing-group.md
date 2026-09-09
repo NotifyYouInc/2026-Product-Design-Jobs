@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Senior Product Designer, Publishing Group at The New York Times
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [The New York Times](https://scoutify.ai/companies/thenewyorktimes?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4727088005) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at The New York Times was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

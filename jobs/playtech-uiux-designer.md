@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000139570820-uiux-designer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000146694014-uiux-designer) |
 
 ## About This Role
 
-This product designer position at Playtech was posted on 2026-07-24.
+This product designer position at Playtech was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

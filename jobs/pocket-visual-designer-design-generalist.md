@@ -1,16 +1,16 @@
-# Visual Designer at Coderabbit
+# Visual Designer / Design Generalist at Pocket
 
 | Field | Details |
 |-------|---------|
-| Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Pocket](https://scoutify.ai/companies/pocket?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Motion / Video Production |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/246bbcd7-4905-48b9-a20c-942d28d0e77b) |
+| Category | Product Designer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/pocket/jobs/IPLsX7h-visual-designer-design-generalist) |
 
 ## About This Role
 
-This motion / video production position at Coderabbit was posted on 2026-08-26.
+This product designer position at Pocket was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

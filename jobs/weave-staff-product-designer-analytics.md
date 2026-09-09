@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Staff Product Designer - Analytics at Weave
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Weave](https://scoutify.ai/companies/weave?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | India |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/weave/322a5fd6-9b7a-46b4-b28e-e9a3041843e1) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Weave was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

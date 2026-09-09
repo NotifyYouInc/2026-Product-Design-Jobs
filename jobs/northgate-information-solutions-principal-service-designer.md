@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000143326716-principal-service-designer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000146928514-principal-service-designer) |
 
 ## About This Role
 
-This product designer position at Northgate Information Solutions was posted on 2026-08-13.
+This product designer position at Northgate Information Solutions was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Senior Product Designer (Full Remote - Italy) at Everai
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Everai](https://scoutify.ai/companies/everai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Italy |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/everai/f8e8162d-f32c-4bd5-8f57-5a39f48680eb) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Everai was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

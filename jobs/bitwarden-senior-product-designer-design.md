@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Senior Product Designer (Design) at Bitwarden
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Bitwarden](https://scoutify.ai/companies/bitwarden?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://bitwarden.com/careers/7775972003/?gh_jid=7775972003) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Bitwarden was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

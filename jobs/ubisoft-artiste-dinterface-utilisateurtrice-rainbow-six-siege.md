@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000137512274-artiste-dinterface-utilisateurtrice-rainbow-six-siege) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000146782401-artiste-dinterface-utilisateurtrice-rainbow-six-siege) |
 
 ## About This Role
 
-This product designer position at Ubisoft was posted on 2026-07-13.
+This product designer position at Ubisoft was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

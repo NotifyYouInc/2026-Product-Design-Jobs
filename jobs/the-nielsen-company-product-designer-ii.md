@@ -1,16 +1,16 @@
-# Senior Product Designer - Flex Hiring at SEEK
+# Product Designer II at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
-| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000146880359-senior-product-designer-flex-hiring) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015009112-product-designer-ii) |
 
 ## About This Role
 
-This product designer position at SEEK was posted on 2026-09-02.
+This product designer position at The Nielsen Company was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

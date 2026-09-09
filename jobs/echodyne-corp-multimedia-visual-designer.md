@@ -1,16 +1,16 @@
-# Visual Designer at Coderabbit
+# Multimedia Visual Designer at Echodyne Corp
 
 | Field | Details |
 |-------|---------|
-| Company | [Coderabbit](https://scoutify.ai/companies/coderabbit?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Echodyne Corp](https://scoutify.ai/companies/echodyne-corp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kirkland, Washington, United States |
 | Category | Motion / Video Production |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/coderabbit/246bbcd7-4905-48b9-a20c-942d28d0e77b) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/echodynecorp/jobs/4705389006) |
 
 ## About This Role
 
-This motion / video production position at Coderabbit was posted on 2026-08-26.
+This motion / video production position at Echodyne Corp was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

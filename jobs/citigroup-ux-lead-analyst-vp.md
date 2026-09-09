@@ -1,16 +1,16 @@
-# Senior Product Designer - Flex Hiring at SEEK
+# UX Lead Analyst (VP) at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cremorne, New South Wales, Australia |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000146880359-senior-product-designer-flex-hiring) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/UX-Lead-Analyst--VP-_26986529-1) |
 
 ## About This Role
 
-This product designer position at SEEK was posted on 2026-09-02.
+This product designer position at Citigroup was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# UX Research, Design & Engineering Lead (Remote) at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Texas, US |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146838189-ux-research-design-engineering-lead-remote) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Experian was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

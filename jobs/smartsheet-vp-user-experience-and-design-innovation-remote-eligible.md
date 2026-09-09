@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# VP, User Experience and Design Innovation (Remote Eligible) at Smartsheet
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/8172203) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Smartsheet was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

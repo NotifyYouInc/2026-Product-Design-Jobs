@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Senior Manager, Product Design (AI Workflows) at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/4fcbfdc9-6923-4712-8484-e06c410e1dae) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at HighLevel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

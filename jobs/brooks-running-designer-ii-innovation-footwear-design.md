@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Designer II, Innovation Footwear Design at Brooks Running
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Brooks Running](https://scoutify.ai/companies/brooksrunning?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://jobs.lever.co/brooksrunning/1d782757-9842-4bbf-8b88-89f1878fcc65) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Brooks Running was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

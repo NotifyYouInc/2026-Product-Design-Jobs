@@ -1,16 +1,16 @@
-# Lead Product Designer at Blink Health
+# Digital UX Designer Intern at Vermeer
 
 | Field | Details |
 |-------|---------|
-| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Vermeer](https://scoutify.ai/companies/vermeer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pella, Iowa, United States |
 | Category | Product Designer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8742105002) |
+| Apply | [View on company site](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Digital-UX-Designer-Intern_REQ-22173) |
 
 ## About This Role
 
-This product designer position at Blink Health was posted on 2026-09-01.
+This product designer position at Vermeer was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
