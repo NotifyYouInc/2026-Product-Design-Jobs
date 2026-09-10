@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Graphic & Web Designer  at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Beirut, Beyrouth, Lebanon |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000147196049-graphic-web-designer) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Jobs for Humanity was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

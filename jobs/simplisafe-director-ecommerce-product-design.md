@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# Director, Ecommerce Product Design at SimpliSafe
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [SimpliSafe](https://scoutify.ai/companies/simplisafe?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simplisafe/jobs/8164235) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at SimpliSafe was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

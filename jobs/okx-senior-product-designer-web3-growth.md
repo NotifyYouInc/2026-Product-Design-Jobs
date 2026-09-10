@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Senior Product Designer, Web3 Growth at OKX
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7985086003) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at OKX was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

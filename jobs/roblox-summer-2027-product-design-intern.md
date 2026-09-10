@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# [Summer 2027] Product Design Intern at Roblox
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Roblox was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

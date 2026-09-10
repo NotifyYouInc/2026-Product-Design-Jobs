@@ -1,16 +1,16 @@
-# Senior Product Designer  at Xometry
+# Senior Product Designer at Xometry
 
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5058039007) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5228572007) |
 
 ## About This Role
 
-This product designer position at Xometry was posted on 2026-02-20.
+This product designer position at Xometry was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

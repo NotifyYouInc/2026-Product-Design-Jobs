@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/7960689?gh_jid=7960689) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8159268?gh_jid=8159268) |
 
 ## About This Role
 
-This product designer position at N26 was posted on 2026-06-02.
+This product designer position at N26 was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

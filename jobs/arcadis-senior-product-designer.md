@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Senior Product Designer at Arcadis
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Arcadis](https://scoutify.ai/companies/em2-cx-oj5670?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://ebcs.fa.em2.oraclecloud.com/jobs/#43119) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Arcadis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

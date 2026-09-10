@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Interactive Designer II, Amazon Ads - Brand Innovation Lab at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10526985/interactive-designer-ii-amazon-ads-brand-innovation-lab) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

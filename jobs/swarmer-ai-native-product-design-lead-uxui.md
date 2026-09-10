@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# AI-Native Product Design Lead (UX/UI) at Swarmer
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Swarmer](https://scoutify.ai/companies/swarmer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/swarmer/518da11b-7a78-4275-863b-7264527b17ba) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Swarmer was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

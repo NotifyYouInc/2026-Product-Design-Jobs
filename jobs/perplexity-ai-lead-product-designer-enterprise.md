@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# Lead Product Designer, Enterprise at Perplexity AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Perplexity AI](https://scoutify.ai/companies/perplexity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perplexity/9ce0fef8-7ead-4c0d-a71e-433bdd5b4d82) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Perplexity AI was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

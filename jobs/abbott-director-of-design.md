@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# Director of Design at Abbott
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Alameda, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Director-of-Design_31159205-1) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Abbott was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Design Manager - Growth at Mercury
+# Senior Product Designer, Agentic Trading at Robinhood
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercury](https://scoutify.ai/companies/mercury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Robinhood](https://scoutify.ai/companies/robinhood?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | Growth Marketing |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mercury/jobs/6104936004) |
+| Category | Product Designer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/robinhood/jobs/7489964?t=gh_src=&gh_jid=7489964) |
 
 ## About This Role
 
-This growth marketing position at Mercury was posted on 2026-09-01.
+This product designer position at Robinhood was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

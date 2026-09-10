@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Senior UX Designer - Star Trek Fleet Command at Scopely
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5414912008?gh_jid=5414912008) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Scopely was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

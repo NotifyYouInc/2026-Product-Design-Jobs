@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# Product Architect at Myvessel
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Myvessel](https://scoutify.ai/companies/myvessel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://jobs.lever.co/myvessel/dddcd5f9-b127-4a7c-ac58-6a02e788b2a3) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Myvessel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Senior Industrial Designer at Belkin
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Belkin](https://scoutify.ai/companies/belkin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://belkin.wd5.myworkdayjobs.com/belkin_careers/job/Shenzhen/Senior-Industrial-Designer_10013141) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Belkin was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

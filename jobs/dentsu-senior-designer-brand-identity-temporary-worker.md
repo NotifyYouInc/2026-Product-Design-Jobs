@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | California, US |
-| Category | Graphic / Brand Design |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---California/Senior-Designer--Brand-Identity---Temporary-Worker_R1127949) |
+| Location | New York City, New York, United States |
+| Category | Product Designer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/USA---Remote---New-York/Senior-Designer--Brand-Identity---Temporary-Worker_R1130610) |
 
 ## About This Role
 
-This graphic / brand design position at Dentsu was posted on 2026-07-23.
+This product designer position at Dentsu was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

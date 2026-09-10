@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# Lead Designer - Design Systems at ID.me
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [ID.me](https://scoutify.ai/companies/idme?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/idme/jobs/7980755003) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at ID.me was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-05-15 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Bangalore/Principal-User-Experience-Designer_JR0034690) |
 
 ## About This Role
 
-This product designer position at Airasia was posted on 2026-05-15.
+This product designer position at Airasia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Product Design Manager at Gong.io
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4645516006) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Gong.io was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

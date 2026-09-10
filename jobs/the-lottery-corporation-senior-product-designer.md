@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Senior Product Designer at The Lottery Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [The Lottery Corporation](https://scoutify.ai/companies/ocs-cx-oj108759?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://fa-exnj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#101327) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at The Lottery Corporation was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Intern - Design at MAS Holdings
+# Senior Executive - Designer at MAS Holdings
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Sri Lanka |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#20938) |
 
 ## About This Role
 

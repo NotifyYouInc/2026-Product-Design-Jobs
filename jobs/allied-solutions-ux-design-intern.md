@@ -1,16 +1,16 @@
-# Product Design Manager - (They/She/He) at Delivery Hero
+# UX Design Intern at Allied Solutions
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Carmel, Indiana, United States |
 | Category | Product Designer |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146990144-product-design-manager-theyshehe) |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/UX-Design-Intern_R-011093) |
 
 ## About This Role
 
-This product designer position at Delivery Hero was posted on 2026-09-02.
+This product designer position at Allied Solutions was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

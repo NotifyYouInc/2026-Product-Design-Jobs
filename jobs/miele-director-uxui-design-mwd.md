@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Director UX/UI Design (m/w/d) at Miele
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Miele](https://scoutify.ai/companies/miele?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gütersloh, North Rhine-Westphalia, Germany |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Gtersloh/Director-UX-UI-Design--m-w-d-_R3946) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Miele was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

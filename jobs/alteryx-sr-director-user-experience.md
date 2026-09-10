@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Sr. Director, User Experience at Alteryx
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [Alteryx](https://scoutify.ai/companies/alteryx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://alteryx.wd108.myworkdayjobs.com/alteryxcareers/job/US---Remote/Sr-Director--User-Experience_R12436) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at Alteryx was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

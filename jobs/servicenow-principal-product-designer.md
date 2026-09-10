@@ -1,16 +1,16 @@
-# Intern - Design at MAS Holdings
+# Principal Product Designer at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [MAS Holdings](https://scoutify.ai/companies/us6-cx-oj68877?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sri Lanka |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://egmh.fa.us6.oraclecloud.com/jobs/#21126) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147157439-principal-product-designer) |
 
 ## About This Role
 
-This product designer position at MAS Holdings was posted on 2026-09-03.
+This product designer position at ServiceNow was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

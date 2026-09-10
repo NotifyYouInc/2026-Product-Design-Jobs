@@ -1,16 +1,16 @@
-# Senior Product Designer  at Anduril
+# Senior Product Designer at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/4679704007?gh_jid=4679704007) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5229428007?gh_jid=5229428007) |
 
 ## About This Role
 
-This product designer position at Anduril was posted on 2026-05-14.
+This product designer position at Anduril was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
