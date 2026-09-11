@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-05-13 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8547077002) |
 
 ## About This Role
 
-This product designer position at VML Enterprise Solutions was posted on 2026-05-13.
+This product designer position at VML Enterprise Solutions was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

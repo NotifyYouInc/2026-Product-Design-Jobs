@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# Sr. Product Designer at HopSkipDrive
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [HopSkipDrive](https://scoutify.ai/companies/hopskipdrive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hopskipdrive/jobs/6178390004) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at HopSkipDrive was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

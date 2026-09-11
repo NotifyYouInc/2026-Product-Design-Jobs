@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# Designer at UniversalAGI
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [UniversalAGI](https://scoutify.ai/companies/universalagi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/universalagi/47a8512a-6257-4c2b-bfb0-60f85a973c4f) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at UniversalAGI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

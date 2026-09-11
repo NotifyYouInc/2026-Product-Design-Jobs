@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# Founding Product Designer at Reform
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Reform](https://scoutify.ai/companies/reform?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/reform/jobs/Hu4HInC-founding-product-designer) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at Reform was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

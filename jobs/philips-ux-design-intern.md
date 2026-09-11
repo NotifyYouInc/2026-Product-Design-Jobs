@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/UX-Design-Intern_588364) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/UX-Design-Intern_591012-1) |
 
 ## About This Role
 
-This product designer position at Philips was posted on 2026-07-23.
+This product designer position at Philips was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

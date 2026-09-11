@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# UX UI Designer at Telesure
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/UX-UI-Designer_JR105602) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at Telesure was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

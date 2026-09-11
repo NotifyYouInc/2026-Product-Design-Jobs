@@ -1,16 +1,16 @@
-# Designer II, Interior Architecture & Design at Waremalcomb
+# Senior UX Designer at Intact
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/a197a080-53e4-4cbb-a386-6f5c40262e8f) |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Designer-UX-principal-e-_R155415) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-09-03.
+This product designer position at Intact was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

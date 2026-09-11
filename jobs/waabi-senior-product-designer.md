@@ -1,16 +1,16 @@
-# Designer II, Interior Architecture & Design at Waremalcomb
+# Senior Product Designer at Waabi
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Waabi](https://scoutify.ai/companies/waabi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/a197a080-53e4-4cbb-a386-6f5c40262e8f) |
+| Apply | [View on company site](https://jobs.lever.co/waabi/5e2c25f8-150e-46bf-95a7-71ed8cb246a8) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-09-03.
+This product designer position at Waabi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

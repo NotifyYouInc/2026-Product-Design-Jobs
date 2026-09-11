@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# Sr. Designer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Sr-Designer_R171597) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at Adobe was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

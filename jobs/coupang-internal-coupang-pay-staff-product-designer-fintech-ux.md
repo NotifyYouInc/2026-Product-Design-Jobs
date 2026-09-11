@@ -1,16 +1,16 @@
-# Senior Interaction Designer at Version 1
+# [Coupang Pay] Staff Product Designer (FinTech UX) at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 6 locations |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000147464321-senior-interaction-designer) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8179035?gh_jid=8179035) |
 
 ## About This Role
 
-This product designer position at Version 1 was posted on 2026-09-04.
+This product designer position at Coupang Internal was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

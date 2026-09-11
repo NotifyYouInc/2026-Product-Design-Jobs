@@ -1,16 +1,16 @@
-# Product Designer at Despegar
+# Senior Product Design Manager, Growth at Discord
 
 | Field | Details |
 |-------|---------|
-| Company | [Despegar](https://scoutify.ai/companies/despegar?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brazil |
-| Category | Product Designer |
+| Company | [Discord](https://scoutify.ai/companies/discord?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
+| Category | Growth Marketing |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.lever.co/despegar/284b6c8c-dc2f-4c20-9ca7-79d250e4817a) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/discord/jobs/8780263002) |
 
 ## About This Role
 
-This product designer position at Despegar was posted on 2026-09-03.
+This growth marketing position at Discord was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

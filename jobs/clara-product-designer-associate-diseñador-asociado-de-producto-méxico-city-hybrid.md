@@ -1,16 +1,16 @@
-# Designer II, Interior Architecture & Design at Waremalcomb
+# Product Designer Associate (Diseñador asociado de Producto) - México City (Hybrid) at Clara
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Clara](https://scoutify.ai/companies/clara?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/a197a080-53e4-4cbb-a386-6f5c40262e8f) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clara/jobs/5230243007) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-09-03.
+This product designer position at Clara was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

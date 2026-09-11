@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138114839-gerente-de-design-de-produto) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147271190-gerente-de-design-de-produto) |
 
 ## About This Role
 
-This product designer position at Experian was posted on 2026-07-16.
+This product designer position at Experian was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Designer II, Interior Architecture & Design at Waremalcomb
+# Product Designer at Pattern Bioscience
 
 | Field | Details |
 |-------|---------|
-| Company | [Waremalcomb](https://scoutify.ai/companies/waremalcomb?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Pattern Bioscience](https://scoutify.ai/companies/pattern-bioscience?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brno, South Moravian, Czechia |
 | Category | Product Designer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.lever.co/waremalcomb/a197a080-53e4-4cbb-a386-6f5c40262e8f) |
+| Apply | [View on company site](https://jobs.lever.co/pattern/03e3a93b-2bee-4d21-b22b-0b7bf39b7fea) |
 
 ## About This Role
 
-This product designer position at Waremalcomb was posted on 2026-09-03.
+This product designer position at Pattern Bioscience was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

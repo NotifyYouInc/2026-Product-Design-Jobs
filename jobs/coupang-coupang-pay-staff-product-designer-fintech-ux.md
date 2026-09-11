@@ -1,16 +1,16 @@
-# UX Designer, Research and marketing at Desjardins
+# [Coupang Pay] Staff Product Designer (FinTech UX) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 2 locations |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Designer-UX-UI_R2610631) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8179034) |
 
 ## About This Role
 
-This product designer position at Desjardins was posted on 2026-09-03.
+This product designer position at Coupang was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
