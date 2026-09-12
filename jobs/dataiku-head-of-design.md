@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dataiku](https://scoutify.ai/companies/dataiku?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York, US |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/dataiku/jobs/6146009004) |
 
 ## About This Role
 
-This product designer position at Dataiku was posted on 2026-08-26.
+This marketing position at Dataiku was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

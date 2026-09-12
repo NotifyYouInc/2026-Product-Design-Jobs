@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Augsburg, Bavaria, Germany |
 | Category | Product Designer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000140394569-werkstudent-mwd-produktmanagement-uxui-mietwagen) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000147546769-werkstudent-mwd-produktmanagement-uxui-mietwagen) |
 
 ## About This Role
 
-This product designer position at CHECK24 was posted on 2026-07-29.
+This product designer position at CHECK24 was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-08-31.
+This marketing position at Mercor was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Designer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146987429-mechanical-lead-designer-at-power-electronics-engineering) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Robert Bosch was posted on 2026-09-02.
+This product designer position at Robert Bosch was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

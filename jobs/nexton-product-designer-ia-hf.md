@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000138293664-product-designer-ia-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000147551228-product-designer-ia-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-07-17.
+This product designer position at Nexton was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

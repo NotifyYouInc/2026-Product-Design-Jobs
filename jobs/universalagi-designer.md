@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UniversalAGI](https://scoutify.ai/companies/universalagi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/universalagi/47a8512a-6257-4c2b-bfb0-60f85a973c4f) |
 
 ## About This Role
 
-This product designer position at UniversalAGI was posted on 2026-09-04.
+This marketing position at UniversalAGI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

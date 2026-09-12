@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000145676454-product-designer-hf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000146751109-product-designer-hf) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-08-26.
+This product designer position at Nexton was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

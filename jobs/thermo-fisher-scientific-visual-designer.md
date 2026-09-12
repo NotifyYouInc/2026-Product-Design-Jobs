@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Visual-Designer_R-01365923) |
 
 ## About This Role
 
-This product designer position at Thermo Fisher Scientific was posted on 2026-08-31.
+This marketing position at Thermo Fisher Scientific was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

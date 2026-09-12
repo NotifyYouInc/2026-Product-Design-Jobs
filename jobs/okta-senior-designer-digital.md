@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8165103?gh_jid=8165103) |
 
 ## About This Role
 
-This product designer position at Okta was posted on 2026-08-28.
+This marketing position at Okta was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

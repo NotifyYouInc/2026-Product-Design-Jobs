@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Head-of-Design--Creative-Studio_R171521) |
 
 ## About This Role
 
-This product designer position at Adobe was posted on 2026-08-28.
+This marketing position at Adobe was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

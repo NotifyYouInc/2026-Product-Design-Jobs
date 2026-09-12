@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York, US |
-| Category | Product Designer |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131188) |
 
 ## About This Role
 
-This product designer position at IBM was posted on 2026-09-03.
+This marketing position at IBM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
