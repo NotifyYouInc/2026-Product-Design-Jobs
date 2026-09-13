@@ -1,16 +1,16 @@
-# Product Designer H/F at Nexton
+# Staff Product Designer at HighLevel
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [HighLevel](https://scoutify.ai/companies/highlevel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000145676454-product-designer-hf) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://jobs.lever.co/gohighlevel/b55a3b6d-e414-40b3-abb2-85dd61fd52e3) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-08-26.
+This product designer position at HighLevel was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
