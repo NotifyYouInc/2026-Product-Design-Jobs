@@ -1,16 +1,16 @@
-# UX/UI designer at Sopra Steria
+# Service Design Lead - 12 Month FTC at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147920329-uxui-designer) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Service-Design-Lead---12-Month-FTC_162876-1) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-09-07.
+This product designer position at Lloyds Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Motion / Video Production |
+| Category | Product Designer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000147612709-senior-experience-designer-banner) |
 
 ## About This Role
 
-This motion / video production position at EVERSANA was posted on 2026-09-04.
+This product designer position at EVERSANA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

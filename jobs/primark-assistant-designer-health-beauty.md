@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000142585229-assistant-designer-health-beauty) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000147857479-assistant-designer-health-beauty) |
 
 ## About This Role
 
-This product designer position at Primark was posted on 2026-08-10.
+This product designer position at Primark was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

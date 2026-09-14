@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MATTE PROJECTS](https://scoutify.ai/companies/matte-projects?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/matteprojects/jobs/6167870004) |
 
 ## About This Role
 
-This marketing position at MATTE PROJECTS was posted on 2026-08-27.
+This product designer position at MATTE PROJECTS was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

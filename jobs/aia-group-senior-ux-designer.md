@@ -1,16 +1,16 @@
-# Lead Visual Designer at Mercor
+# Senior UX Designer at AIA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Melbourne-AU-AIA-Australia/Senior-UX-Designer_JR-69834-1) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-08-31.
+This product designer position at AIA Group was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

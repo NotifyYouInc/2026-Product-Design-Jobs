@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [QVC](https://scoutify.ai/companies/qvc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-GA-Atlanta/Digital-Web-Designer_R83462) |
 
 ## About This Role
 
-This marketing position at QVC was posted on 2026-09-04.
+This product designer position at QVC was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

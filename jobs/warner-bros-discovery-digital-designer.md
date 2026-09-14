@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Digital-Designer_R000107792) |
 
 ## About This Role
 
-This marketing position at Warner Bros Discovery was posted on 2026-09-03.
+This product designer position at Warner Bros Discovery was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

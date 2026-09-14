@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy & Operations |
+| Category | Product Designer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Director-of-Design-Operations---Strategic-Programs_R0137352) |
 
 ## About This Role
 
-This strategy & operations position at PayPal was posted on 2026-09-03.
+This product designer position at PayPal was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

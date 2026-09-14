@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Beirut, Beyrouth, Lebanon |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000147196049-graphic-web-designer) |
 
 ## About This Role
 
-This marketing position at Jobs for Humanity was posted on 2026-09-03.
+This product designer position at Jobs for Humanity was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

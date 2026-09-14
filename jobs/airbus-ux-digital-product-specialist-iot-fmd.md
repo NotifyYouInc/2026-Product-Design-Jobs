@@ -1,16 +1,16 @@
-# Senior Designer at Aberdeen
+# UX & Digital Product Specialist - IoT (f/m/d) at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Aberdeen](https://scoutify.ai/companies/abrdn?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Senior-Designer_R0074090) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg---Finkenwerder/UX---Digital-Product-Specialist---IoT--f-m-d-_JR10427186) |
 
 ## About This Role
 
-This product designer position at Aberdeen was posted on 2026-09-02.
+This product designer position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deckers Outdoor Corporation](https://scoutify.ai/companies/deckers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Portland, Oregon, United States |
-| Category | Program Manager |
+| Category | Product Designer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/Portland-Oregon/Sr-Manager--Design-Operations---HOKA_21505) |
 
 ## About This Role
 
-This program manager position at Deckers Outdoor Corporation was posted on 2026-08-31.
+This product designer position at Deckers Outdoor Corporation was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

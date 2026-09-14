@@ -1,16 +1,16 @@
-# Lead Visual Designer at Mercor
+# Product Designer at AlgoTest
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [AlgoTest](https://scoutify.ai/companies/algotest?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New Delhi, Delhi, India |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/algotest/jobs/970JFzZ-product-designer) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-08-31.
+This product designer position at AlgoTest was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

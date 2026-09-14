@@ -1,16 +1,16 @@
-# UX/UI designer at Sopra Steria
+# Senior Product Designer – Retail Media (m/f/d) at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
 | Category | Product Designer |
 | Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147920329-uxui-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000147884060-senior-product-designer-retail-media-mfd) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-09-07.
+This product designer position at Redcare Pharmacy was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

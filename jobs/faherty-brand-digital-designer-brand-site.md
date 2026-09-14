@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Faherty Brand](https://scoutify.ai/companies/faherty-brand-fahertybrand?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://fahertybrand.com/pages/faherty-applications?gh_jid=5231373007) |
 
 ## About This Role
 
-This marketing position at Faherty Brand was posted on 2026-09-04.
+This product designer position at Faherty Brand was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

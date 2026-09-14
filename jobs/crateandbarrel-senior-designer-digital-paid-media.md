@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crateandbarrel](https://scoutify.ai/companies/crateandbarrel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Motion / Video Production |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://crateandbarrel.wd1.myworkdayjobs.com/cbh/job/Photo-Studio/Senior-Designer--Digital---Paid-Media_R25535) |
 
 ## About This Role
 
-This motion / video production position at Crateandbarrel was posted on 2026-09-02.
+This digital / performance marketing position at Crateandbarrel was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

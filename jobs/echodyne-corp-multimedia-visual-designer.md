@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Echodyne Corp](https://scoutify.ai/companies/echodyne-corp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kirkland, Washington, United States |
-| Category | Motion / Video Production |
+| Category | Product Designer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/echodynecorp/jobs/4705389006) |
 
 ## About This Role
 
-This motion / video production position at Echodyne Corp was posted on 2026-09-01.
+This product designer position at Echodyne Corp was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LVMH](https://scoutify.ai/companies/lvmhperfumescosmetics?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000147074479-senior-designer-digital-and-social) |
 
 ## About This Role
 
-This marketing position at LVMH was posted on 2026-09-02.
+This product designer position at LVMH was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

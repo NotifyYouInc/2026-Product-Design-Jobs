@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brightonjones](https://scoutify.ai/companies/brightonjones?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/brightonjones/3b4e9183-b74c-4ce2-a297-7cecdeccb62f) |
 
 ## About This Role
 
-This marketing position at Brightonjones was posted on 2026-09-04.
+This product designer position at Brightonjones was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

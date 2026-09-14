@@ -1,16 +1,16 @@
-# Lead Visual Designer at Mercor
+# UI/UX Designer at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Arlington-Virginia-US/UI-UX-Designer_2023962) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-08-31.
+This product designer position at Cisco was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

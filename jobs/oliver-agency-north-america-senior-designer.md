@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OLIVER Agency - North America](https://scoutify.ai/companies/oliver-agency-north-america?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Designer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/oliverusa/jobs/8144316) |
 
 ## About This Role
 
-This marketing position at OLIVER Agency - North America was posted on 2026-08-28.
+This product designer position at OLIVER Agency - North America was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

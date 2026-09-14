@@ -1,16 +1,16 @@
-# Lead Visual Designer at Mercor
+# Senior Product Designer at Sweedpos.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Mercor](https://scoutify.ai/companies/mercor?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Sweedpos.com](https://scoutify.ai/companies/sweedposcom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mercor/faabb06e-5d95-4872-9655-1f18d9f91aac) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sweedpos.com/6adce7af-ffab-42de-acee-902e90a174bf) |
 
 ## About This Role
 
-This product designer position at Mercor was posted on 2026-08-31.
+This product designer position at Sweedpos.com was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
