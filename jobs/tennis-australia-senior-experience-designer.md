@@ -1,16 +1,16 @@
-# UX/UI DESIGNER H/F at Nexton
+# Senior Experience Designer at Tennis Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Tennis Australia](https://scoutify.ai/companies/tennis-australia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000148182686-uxui-designer-hf) |
+| Apply | [View on company site](https://tennis.wd3.myworkdayjobs.com/ta_careers/job/Melbourne-VIC/Senior-Experience-Designer-2_R5148) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-09-08.
+This product designer position at Tennis Australia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

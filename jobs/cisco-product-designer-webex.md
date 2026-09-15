@@ -1,16 +1,16 @@
-# Senior Product Designer II - Order Quality at Instacart
+# Product Designer - Webex at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alberta, CA |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Galway, Connacht, Ireland |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8160010) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Product-Designer---Webex_2024001) |
 
 ## About This Role
 
-This product designer position at Instacart was posted on 2026-08-26.
+This product designer position at Cisco was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

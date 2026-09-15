@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014879339-uiux-designer) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014892656-uiux-designer) |
 
 ## About This Role
 
-This product designer position at SOSi was posted on 2026-08-26.
+This product designer position at SOSi was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

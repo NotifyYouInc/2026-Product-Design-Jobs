@@ -1,16 +1,16 @@
-# UX/UI DESIGNER H/F at Nexton
+# Senior, Apparel Designer, Local Creation GC at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000148182686-uxui-designer-hf) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Senior--Apparel-Designer--Local-Creation-GC_R-91607) |
 
 ## About This Role
 
-This product designer position at Nexton was posted on 2026-09-08.
+This product designer position at Nike was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

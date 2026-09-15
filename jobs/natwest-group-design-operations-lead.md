@@ -1,16 +1,16 @@
-# Senior Product Designer II - Order Quality at Instacart
+# Design Operations Lead at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alberta, CA |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8160010) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Design-Operations-Lead_R-00281850-2) |
 
 ## About This Role
 
-This product designer position at Instacart was posted on 2026-08-26.
+This product designer position at NatWest Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

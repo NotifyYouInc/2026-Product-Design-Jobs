@@ -1,16 +1,16 @@
-# Senior Product Designer II - Order Quality at Instacart
+# Product Manager at Re-Leased
 
 | Field | Details |
 |-------|---------|
-| Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Alberta, CA |
+| Company | [Re-Leased](https://scoutify.ai/companies/released?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Napier, Hawke's Bay Region, New Zealand |
 | Category | Product Designer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8160010) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7988176003) |
 
 ## About This Role
 
-This product designer position at Instacart was posted on 2026-08-26.
+This product designer position at Re-Leased was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
