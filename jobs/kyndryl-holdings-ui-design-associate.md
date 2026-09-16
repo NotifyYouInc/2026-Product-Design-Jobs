@@ -1,16 +1,16 @@
-# Senior UXUI designers at Travoom
+# UI Design Associate at Kyndryl Holdings
 
 | Field | Details |
 |-------|---------|
-| Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000148332149-senior-uxui-designers) |
+| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/UI-Design-Associate_R-66833-1) |
 
 ## About This Role
 
-This product designer position at Travoom was posted on 2026-09-08.
+This product designer position at Kyndryl Holdings was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

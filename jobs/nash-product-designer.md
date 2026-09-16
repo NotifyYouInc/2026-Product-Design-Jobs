@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# Product Designer at Nash
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Nash](https://scoutify.ai/companies/nash?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nash/f3ab1bcb-4497-49c8-bdbb-d09776c2392f) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at Nash was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

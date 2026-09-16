@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# UX/UI Designer - on-call role at AECOM
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mississauga, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000148361029-uxui-designer-on-call-role) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at AECOM was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

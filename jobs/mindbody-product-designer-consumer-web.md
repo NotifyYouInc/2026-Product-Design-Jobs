@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# Product Designer, Consumer Web at Mindbody
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Mindbody](https://scoutify.ai/companies/mindbody?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.playlist.com/careers/opportunities/4693303006?gh_jid=4693303006) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at Mindbody was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

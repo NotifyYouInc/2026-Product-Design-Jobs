@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# Visual Designer at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Hangzhou-Tianyuan-Site/Visual-Designer_547841) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at Haleon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

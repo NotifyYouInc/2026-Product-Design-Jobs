@@ -1,16 +1,16 @@
-# Senior Product Designer at Mable
+# Product Design Analyst_M.Latała at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Mable](https://scoutify.ai/companies/mable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Designer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.lever.co/mable/e5b5716c-be66-4ab6-9b56-aa9eda1e6170) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Product-Design-Analyst-MLataa_R00342027) |
 
 ## About This Role
 
-This product designer position at Mable was posted on 2026-09-09.
+This product designer position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

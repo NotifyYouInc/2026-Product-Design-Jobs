@@ -1,16 +1,16 @@
-# Senior UXUI designers at Travoom
+# Pessoa Auxiliar | Product Designer | Vaga Afirmativa para Pessoas com Deficiência at C6 Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [C6 Bank](https://scoutify.ai/companies/c6-bank?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000148332149-senior-uxui-designers) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/c6bank/jobs/4730451005) |
 
 ## About This Role
 
-This product designer position at Travoom was posted on 2026-09-08.
+This product designer position at C6 Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

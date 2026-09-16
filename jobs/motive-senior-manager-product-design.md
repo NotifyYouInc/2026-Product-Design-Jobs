@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Motive](https://scoutify.ai/companies/gomotive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-04-28 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8512374002) |
 
 ## About This Role
 
-This product designer position at Motive was posted on 2026-04-28.
+This product designer position at Motive was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

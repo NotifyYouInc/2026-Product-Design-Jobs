@@ -1,12 +1,12 @@
-# Staff Product Designer at Delivery Hero
+# Staff Product Designer - (Logistics, Customer) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Designer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148477904-staff-product-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148478509-staff-product-designer-logistics-customer) |
 
 ## About This Role
 

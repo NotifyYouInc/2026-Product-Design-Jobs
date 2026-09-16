@@ -1,16 +1,16 @@
-# Senior Product Designer at Mable
+# Lead Product Designer, Growth at Monzo
 
 | Field | Details |
 |-------|---------|
-| Company | [Mable](https://scoutify.ai/companies/mable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Product Designer |
+| Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Cardiff, Wales, United Kingdom |
+| Category | Growth Marketing |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.lever.co/mable/e5b5716c-be66-4ab6-9b56-aa9eda1e6170) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/8185694) |
 
 ## About This Role
 
-This product designer position at Mable was posted on 2026-09-09.
+This growth marketing position at Monzo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

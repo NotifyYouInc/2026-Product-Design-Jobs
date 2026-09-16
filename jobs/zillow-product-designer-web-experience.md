@@ -1,16 +1,16 @@
-# Senior UXUI designers at Travoom
+# Product Designer, Web Experience at Zillow
 
 | Field | Details |
 |-------|---------|
-| Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000148332149-senior-uxui-designers) |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Product-Designer--Web-Experience_P751168-1) |
 
 ## About This Role
 
-This product designer position at Travoom was posted on 2026-09-08.
+This product designer position at Zillow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

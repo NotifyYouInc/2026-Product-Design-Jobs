@@ -1,16 +1,16 @@
-# Senior UXUI designers at Travoom
+# Senior Director, Industrial Design at SharkNinja
 
 | Field | Details |
 |-------|---------|
-| Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Needham, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000148332149-senior-uxui-designers) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707252006) |
 
 ## About This Role
 
-This product designer position at Travoom was posted on 2026-09-08.
+This product designer position at SharkNinja was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

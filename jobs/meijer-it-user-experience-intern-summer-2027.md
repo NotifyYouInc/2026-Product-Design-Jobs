@@ -1,16 +1,16 @@
-# Senior UXUI designers at Travoom
+# IT User Experience Intern- Summer 2027 at Meijer
 
 | Field | Details |
 |-------|---------|
-| Company | [Travoom](https://scoutify.ai/companies/travoom?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Product Designer |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/travoom/744000148332149-senior-uxui-designers) |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/IT-User-Experience-Intern--Summer-2027_R000698305) |
 
 ## About This Role
 
-This product designer position at Travoom was posted on 2026-09-08.
+This product designer position at Meijer was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

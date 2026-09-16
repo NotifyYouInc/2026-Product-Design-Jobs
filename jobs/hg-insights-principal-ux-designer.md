@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# Principal UX designer at HG Insights
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [HG Insights](https://scoutify.ai/companies/hg-insights?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=7983863003) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at HG Insights was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

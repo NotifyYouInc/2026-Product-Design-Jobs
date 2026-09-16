@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Brand Marketing |
+| Category | Product Designer |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200608974/creative-director-eperience-design-xd) |
 
 ## About This Role
 
-This brand marketing position at Apple was posted on 2026-09-01.
+This product designer position at Apple was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

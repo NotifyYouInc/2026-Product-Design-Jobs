@@ -1,16 +1,16 @@
-# Senior UI Designer at Gameloft
+# UI & Visual Designer at Gigalogy
 
 | Field | Details |
 |-------|---------|
-| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Company | [Gigalogy](https://scoutify.ai/companies/gigalogyinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Product Designer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000146922463-senior-ui-designer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GigalogyInc/744000148365339-ui-visual-designer) |
 
 ## About This Role
 
-This product designer position at Gameloft was posted on 2026-09-02.
+This product designer position at Gigalogy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Designer at Mable
+# Senior Designer at Unilever
 
 | Field | Details |
 |-------|---------|
-| Company | [Mable](https://scoutify.ai/companies/mable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Designer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.lever.co/mable/e5b5716c-be66-4ab6-9b56-aa9eda1e6170) |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-HO/Senior-Designer_R-1188081-1) |
 
 ## About This Role
 
-This product designer position at Mable was posted on 2026-09-09.
+This product designer position at Unilever was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

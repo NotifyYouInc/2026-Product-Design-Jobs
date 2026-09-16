@@ -1,16 +1,16 @@
-# Senior Product Designer at Mable
+# Visual Designer Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [Mable](https://scoutify.ai/companies/mable?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Designer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.lever.co/mable/e5b5716c-be66-4ab6-9b56-aa9eda1e6170) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148473279-visual-designer-analyst) |
 
 ## About This Role
 
-This product designer position at Mable was posted on 2026-09-09.
+This product designer position at Delivery Hero was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
