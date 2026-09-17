@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Designer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000146224410-product-designer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000146657340-product-designer) |
 
 ## About This Role
 
-This product designer position at Carousell was posted on 2026-08-28.
+This product designer position at Carousell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

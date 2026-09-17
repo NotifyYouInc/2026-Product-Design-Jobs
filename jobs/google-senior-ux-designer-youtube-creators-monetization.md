@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV6dqIy6NJtmawtrVJiYSna1beejg3-pkXefDYHPbLIoEjsA1Ny_i9zoZB1DMDz5-eXfpDu3nWE54060R1fsuozUiyl2_cr9AaXAtlM4W2mLYrJsFJnhLHYbRftqeg%3D%3D_V2&loc=CH&title=Senior+UX+Designer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbAKQeQ7MM6JeoF6iAn-YTFtORXlGz1qBqBSzLZe72kbEjsA1Ny_i--2KXIDisZS0I5fgAzn-MD25TV86Q8Q5Lc75CAwMFxeAM3wQ3BbJq5NQi-pSGmgPZEDsrRFsw%3D%3D_V2&loc=CH&title=Senior+UX+Designer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-07-31.
+This product designer position at Google was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

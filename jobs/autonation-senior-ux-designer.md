@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AutoNation](https://scoutify.ai/companies/autonation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Florida, US |
-| Category | UX Researcher |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Remote---Florida/Senior-UX-Designer_JR2026140172) |
+| Category | Product Designer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://autonation.wd5.myworkdayjobs.com/careers/job/Remote---Florida/Senior-UX-Designer_JR2026148084) |
 
 ## About This Role
 
-This ux researcher position at AutoNation was posted on 2026-06-02.
+This product designer position at AutoNation was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

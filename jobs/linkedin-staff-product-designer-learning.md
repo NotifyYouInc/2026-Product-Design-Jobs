@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146312689-staff-product-designer-learning) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146713779-staff-product-designer-learning) |
 
 ## About This Role
 
-This product designer position at LinkedIn was posted on 2026-08-29.
+This product designer position at LinkedIn was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

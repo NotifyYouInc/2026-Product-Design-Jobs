@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
-| Category | UX Researcher |
-| Posted | 2026-06-22 |
+| Category | Product Designer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4905073101) |
 
 ## About This Role
 
-This ux researcher position at 1&1 Drillisch was posted on 2026-06-22.
+This product designer position at 1&1 Drillisch was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

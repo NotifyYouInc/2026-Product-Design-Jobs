@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Poland |
 | Category | Product Designer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8147115?gh_jid=8147115) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8147119?gh_jid=8147119) |
 
 ## About This Role
 
-This product designer position at HelloFresh was posted on 2026-08-28.
+This product designer position at HelloFresh was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

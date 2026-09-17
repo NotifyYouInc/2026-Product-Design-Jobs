@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Designer_R0112636-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Designer_R0118945-1) |
 
 ## About This Role
 
-This product designer position at Truist was posted on 2026-04-20.
+This product designer position at Truist was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

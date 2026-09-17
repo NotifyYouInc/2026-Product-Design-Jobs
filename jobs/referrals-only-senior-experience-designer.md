@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Product Designer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7929701) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8190464) |
 
 ## About This Role
 
-This product designer position at Referrals Only was posted on 2026-06-09.
+This product designer position at Referrals Only was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yahoo](https://scoutify.ai/companies/yahoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-05-15 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Sr-Product-Designer--Growth---Experimentation_JR0027183) |
 
 ## About This Role
 
-This product designer position at Yahoo was posted on 2026-05-15.
+This product designer position at Yahoo was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

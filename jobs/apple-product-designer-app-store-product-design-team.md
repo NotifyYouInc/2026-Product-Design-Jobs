@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Product Designer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662691/product-designer-app-store-product-design-team) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652771/product-designer-app-store-product-design-team) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-05-12.
+This product designer position at Apple was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

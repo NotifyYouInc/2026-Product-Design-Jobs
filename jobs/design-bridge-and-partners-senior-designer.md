@@ -1,16 +1,16 @@
-# Senior Designer  at Design Bridge and Partners
+# Senior Designer at Design Bridge and Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Design Bridge and Partners](https://scoutify.ai/companies/designbridge?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
-| Category | Graphic / Brand Design |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/designbridge/jobs/5900529) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Product Designer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/designbridge/jobs/8188588) |
 
 ## About This Role
 
-This graphic / brand design position at Design Bridge and Partners was posted on 2026-08-17.
+This product designer position at Design Bridge and Partners was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

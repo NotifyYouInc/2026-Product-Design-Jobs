@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-07-01 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Newton-Massachusetts-United-States-of-America/Senior-UX-UI-Designer_R63404-1) |
 
 ## About This Role
 
-This product designer position at Medtronic was posted on 2026-07-01.
+This product designer position at Medtronic was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

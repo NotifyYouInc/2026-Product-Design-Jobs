@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | California, US |
 | Category | Product Designer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5406914008?gh_jid=5406914008) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5413049008?gh_jid=5413049008) |
 
 ## About This Role
 
-This product designer position at Scopely was posted on 2026-08-28.
+This product designer position at Scopely was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

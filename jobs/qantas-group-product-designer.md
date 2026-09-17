@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Adelaide, South Australia, Australia |
-| Category | UX Researcher |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001086152-product-designer) |
+| Category | Product Designer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001392229-product-designer) |
 
 ## About This Role
 
-This ux researcher position at Qantas Group was posted on 2026-05-19.
+This product designer position at Qantas Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
