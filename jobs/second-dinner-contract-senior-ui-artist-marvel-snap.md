@@ -1,16 +1,16 @@
-# Product Designer, Codex at OpenAI
+# Contract | Senior UI Artist (MARVEL SNAP) at Second Dinner
 
 | Field | Details |
 |-------|---------|
-| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Second Dinner](https://scoutify.ai/companies/seconddinner?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/seconddinner/709697fb-a74a-4747-9ef1-f95dcbfb89c6) |
 
 ## About This Role
 
-This product designer position at OpenAI was posted on 2026-09-10.
+This product designer position at Second Dinner was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior UX Designer, Google Maps at Google
+# UX Engineer, Platform and Service Experience, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sunnyvale, California, United States |
 | Category | Product Designer |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUNveNaoAY1O5BAz4JOVH6e9CCuQUK7lReUaJYGGLKx8EjsA1Ny_iwmwzMtC_vZuSzdcIke559BMPibghhSnufPGRSsCCkNewWIeQpgSsRjIJGzND2YxiaoTuemrxQ%3D%3D_V2&loc=IN&title=Senior+UX+Designer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZP6pcabpcV312GE6vH0sHdeAkgqyKEMyhYK9jNez5w9EjsA9yzvgmtu7fwa3yUPmAySs9cAKSfK_SPK7bs0nJabpo0DZouWTDBZjmI592aDiA3g1QANX0rdflgwVw%3D%3D_V2&loc=US&title=UX+Engineer) |
 
 ## About This Role
 
-This product designer position at Google was posted on 2026-09-10.
+This product designer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

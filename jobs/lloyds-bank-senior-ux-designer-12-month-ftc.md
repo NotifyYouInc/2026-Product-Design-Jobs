@@ -1,16 +1,16 @@
-# Senior UX Designer (12 Month FTC) at Lloyds Bank
+# Senior UX Designer (12-Month FTC) at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/UX-Designer--12-Month-FTC-_155255-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Senior-UX-Designer--12-Month-FTC-_163086-1) |
 
 ## About This Role
 
-This product designer position at Lloyds Bank was posted on 2026-09-03.
+This product designer position at Lloyds Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

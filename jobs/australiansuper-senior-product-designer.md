@@ -5,12 +5,12 @@
 | Company | [AustralianSuper](https://scoutify.ai/companies/ap1-cx?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Designer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005188) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005388) |
 
 ## About This Role
 
-This product designer position at AustralianSuper was posted on 2026-06-29.
+This product designer position at AustralianSuper was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

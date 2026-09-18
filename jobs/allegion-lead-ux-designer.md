@@ -1,16 +1,16 @@
-# Senior Designer at Dentsu
+# Lead UX Designer at Allegion
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Carmel, Indiana, United States |
 | Category | Product Designer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Cape-Town/Senior-Designer_R1131434) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Lead-UX-Designer_JR37595) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-09-11.
+This product designer position at Allegion was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Rochester Regional Health](https://scoutify.ai/companies/rochester-regional-health?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Rochester, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-07-01 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/Riedman-Campus/RIT-Co-op--Design-Thinking_REQ_238641) |
 
 ## About This Role
 
-This product designer position at Rochester Regional Health was posted on 2026-07-01.
+This product designer position at Rochester Regional Health was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

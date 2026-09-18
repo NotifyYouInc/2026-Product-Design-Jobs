@@ -1,16 +1,16 @@
-# Platform Product Designer  at JazzX AI
+# UX Designer (2 to 4 years) at Athena Health
 
 | Field | Details |
 |-------|---------|
-| Company | [JazzX AI](https://scoutify.ai/companies/jazzx-ai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/jazzx-ai/jobs/5421601008) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/UX-Designer--2-to-4-years-_R15474) |
 
 ## About This Role
 
-This product designer position at JazzX AI was posted on 2026-09-11.
+This product designer position at Athena Health was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

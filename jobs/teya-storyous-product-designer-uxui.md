@@ -1,16 +1,16 @@
-# Senior Designer at Dentsu
+# Storyous Product Designer (UX/UI) at Teya
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Prague, Prague, Czechia |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Cape-Town/Senior-Designer_R1131434) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/7b6a314c-7a57-4225-9a20-d5aae66302c9) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-09-11.
+This product designer position at Teya was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

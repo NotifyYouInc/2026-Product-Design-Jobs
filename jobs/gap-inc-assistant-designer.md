@@ -5,12 +5,12 @@
 | Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-05-11 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/NY-55-Thomas-St/Assistant-Designer_R211616) |
 
 ## About This Role
 
-This product designer position at Gap Inc. was posted on 2026-05-11.
+This product designer position at Gap Inc. was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

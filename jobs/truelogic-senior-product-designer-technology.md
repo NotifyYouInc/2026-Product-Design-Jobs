@@ -5,12 +5,12 @@
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/2cebba9f-b4f5-45cc-a0c7-a053c313ca2c) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/67d7f84b-7cbd-4a33-ba5f-6147328deb0b) |
 
 ## About This Role
 
-This product designer position at Truelogic was posted on 2026-08-10.
+This product designer position at Truelogic was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

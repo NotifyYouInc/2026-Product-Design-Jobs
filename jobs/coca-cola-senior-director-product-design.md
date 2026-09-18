@@ -1,16 +1,16 @@
-# Product Designer, Codex at OpenAI
+# Senior Director, Product Design at Coca-Cola
 
 | Field | Details |
 |-------|---------|
-| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070) |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--Product-Design_R-145108-1) |
 
 ## About This Role
 
-This product designer position at OpenAI was posted on 2026-09-10.
+This product designer position at Coca-Cola was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

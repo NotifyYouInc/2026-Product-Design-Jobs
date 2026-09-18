@@ -1,16 +1,16 @@
-# Senior Designer at Dentsu
+# HMI Experience Designer & Planner at 42dot
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | South Korea |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Cape-Town/Senior-Designer_R1131434) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/bb520336-b706-4f90-af72-e0009cbd1880) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-09-11.
+This product designer position at 42dot was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

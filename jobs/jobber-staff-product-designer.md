@@ -1,16 +1,16 @@
-# Senior Designer at Dentsu
+# Staff Product Designer at Jobber
 
 | Field | Details |
 |-------|---------|
-| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Company | [Jobber](https://scoutify.ai/companies/jobber?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Cape-Town/Senior-Designer_R1131434) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jobber/81f301b4-bead-4685-81a3-a8b6f48e378f) |
 
 ## About This Role
 
-This product designer position at Dentsu was posted on 2026-09-11.
+This product designer position at Jobber was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Designer, Codex at OpenAI
+# Design Operations Lead at Electrolux
 
 | Field | Details |
 |-------|---------|
-| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Curitiba, Paraná, Brazil |
 | Category | Product Designer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070) |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Curitiba/Design-Operations-Lead_JR80611) |
 
 ## About This Role
 
-This product designer position at OpenAI was posted on 2026-09-10.
+This product designer position at Electrolux was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

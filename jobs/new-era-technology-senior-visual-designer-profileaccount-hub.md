@@ -1,16 +1,16 @@
-# Product Designer, Codex at OpenAI
+# Senior Visual designer, Profile/Account Hub at New Era Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [New Era Technology](https://scoutify.ai/companies/new-era-technology?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/4342be72-0ec4-42b2-962a-6e7ca06b7070) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/neweratech/jobs/8779719002) |
 
 ## About This Role
 
-This product designer position at OpenAI was posted on 2026-09-10.
+This product designer position at New Era Technology was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
