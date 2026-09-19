@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000107512090-design-manager-footwear-sportstyle-wm) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000149017980-design-manager-footwear-sportstyle-wm) |
 
 ## About This Role
 
-This product designer position at Salomon was posted on 2026-02-05.
+This product designer position at Salomon was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

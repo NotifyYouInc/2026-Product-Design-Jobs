@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Senior-Design-Manager_REQ525839) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Design-Manager_REQ535289) |
 
 ## About This Role
 
-This product designer position at JLL was posted on 2026-08-04.
+This product designer position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

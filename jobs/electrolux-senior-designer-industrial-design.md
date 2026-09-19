@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Senior Designer, Industrial Design at Electrolux
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Stockholm/Senior-Industrial-Designer_JR80927) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Electrolux was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

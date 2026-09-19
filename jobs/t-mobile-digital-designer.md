@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Irvine, California, United States |
-| Category | Marketing |
-| Posted | 2026-06-09 |
+| Location | 3 locations |
+| Category | Product Designer |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Irvine-California/Digital-Designer_REQ354601-1) |
 
 ## About This Role
 
-This marketing position at T-Mobile was posted on 2026-06-09.
+This product designer position at T-Mobile was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

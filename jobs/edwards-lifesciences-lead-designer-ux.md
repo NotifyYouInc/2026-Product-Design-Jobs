@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Lead-Designer--UX_Req-48986) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Lead-Designer--UX_Req-50808) |
 
 ## About This Role
 
-This product designer position at Edwards Lifesciences was posted on 2026-07-02.
+This product designer position at Edwards Lifesciences was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

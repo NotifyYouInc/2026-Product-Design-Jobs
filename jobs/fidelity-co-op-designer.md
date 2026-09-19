@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Designer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Designer_2127372) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Designer_2135206) |
 
 ## About This Role
 
-This product designer position at Fidelity was posted on 2026-04-06.
+This product designer position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

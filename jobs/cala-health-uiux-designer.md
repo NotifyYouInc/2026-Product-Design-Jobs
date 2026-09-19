@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# UI/UX Designer at Cala Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Cala Health](https://scoutify.ai/companies/calahealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/calahealth/jobs/6190362004) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Cala Health was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

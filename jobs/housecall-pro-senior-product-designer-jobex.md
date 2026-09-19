@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Senior Product Designer (JobEx) at Housecall Pro
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Housecall Pro](https://scoutify.ai/companies/housecall-pro?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://www.housecallpro.com/careers/open-positions/?gh_jid=6188088004) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Housecall Pro was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

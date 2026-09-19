@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Designer---Benefits-Servicing_R-421970) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Designer---Benefits-Servicing_R-429988) |
 
 ## About This Role
 
-This product designer position at Humana was posted on 2026-07-09.
+This product designer position at Humana was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

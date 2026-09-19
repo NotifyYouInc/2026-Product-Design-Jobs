@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# CMF Designer, Footwear Sportstyle at Salomon
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000149030445-cmf-designer-footwear-sportstyle) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Salomon was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

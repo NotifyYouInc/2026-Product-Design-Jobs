@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Senior Product Designer - ILT / TMS at Docebo
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/d6f2a52a-b1db-4ce3-b16f-14037a8f81e0) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Docebo was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SeatGeek](https://scoutify.ai/companies/seatgeek?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | New York, US |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-01-29 |
-| Apply | [View on company site](https://seatgeek.com/jobs/7576819?gh_jid=7576819) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://seatgeek.com/jobs/8198016?gh_jid=8198016) |
 
 ## About This Role
 
-This product designer position at SeatGeek was posted on 2026-01-29.
+This product designer position at SeatGeek was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

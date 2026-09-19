@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Principal UX/UI Designer at Impinj
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Impinj](https://scoutify.ai/companies/impinj?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impinjexternal/jobs/4733497005) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Impinj was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

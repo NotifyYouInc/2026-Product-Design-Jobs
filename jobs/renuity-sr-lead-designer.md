@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Sr. Lead Designer at Renuity
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Renuity](https://scoutify.ai/companies/renuity?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/renuity/5e842e95-3450-499a-86f7-461673277a54) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Renuity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

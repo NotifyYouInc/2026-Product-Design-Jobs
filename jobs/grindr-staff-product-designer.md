@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# Staff Product Designer at Grindr
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [Grindr](https://scoutify.ai/companies/grindr?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/grindr%20llc/47213b33-2716-48d4-a174-7f4f0cd5d296) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at Grindr was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

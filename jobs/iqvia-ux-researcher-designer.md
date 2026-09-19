@@ -1,16 +1,16 @@
-# Manager, Product Design at Capital One
+# UX Researcher & Designer at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 3 locations |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Design_R1000285-1) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Senior-UX-Researcher---Designer_R1558517) |
 
 ## About This Role
 
-This product designer position at Capital One was posted on 2026-09-11.
+This product designer position at IQVIA was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
