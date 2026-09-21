@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Manager, Product Design at Ontic
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Ontic](https://scoutify.ai/companies/ontic?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Designer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ontic/d47d7285-75bd-43cb-87e4-f06070249283) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Ontic was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

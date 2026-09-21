@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Design Manager at Pigment
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Pigment](https://scoutify.ai/companies/pigment?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | France |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://jobs.lever.co/pigment/c8fad9d3-4424-4a40-b1ce-2a4cb68c8421) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Pigment was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

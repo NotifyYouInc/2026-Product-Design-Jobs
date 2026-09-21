@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Digital designer UX/UI - Stavanger at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stavanger, Rogaland, Norway |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149267282-digital-designer-uxui-stavanger) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Sopra Steria was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Senior UI/UX Designer, Web & Marketing at Ideals
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Ideals](https://scoutify.ai/companies/ideals?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Ukraine |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ideals/ecb4c19c-1ea3-47f4-8b20-29f72eb36d9d) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Ideals was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Product Designer at Anaplan
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manchester, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8643429002) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Anaplan was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

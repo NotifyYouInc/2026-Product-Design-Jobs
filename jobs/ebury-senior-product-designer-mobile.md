@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Valencia, Valencia, Spain |
 | Category | Product Designer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4804633101) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4975326101) |
 
 ## About This Role
 
-This product designer position at Ebury was posted on 2026-08-10.
+This product designer position at Ebury was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

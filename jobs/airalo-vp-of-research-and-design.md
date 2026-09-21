@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# VP of Research and Design at Airalo
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Airalo](https://scoutify.ai/companies/airalo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://jobs.lever.co/airalo/a0860f29-6790-40f0-bb54-69dbb883d1d6) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Airalo was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

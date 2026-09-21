@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000134914861-lead-product-designer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000149242464-lead-product-designer) |
 
 ## About This Role
 
-This product designer position at Freshworks CRM was posted on 2026-06-30.
+This product designer position at Freshworks CRM was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

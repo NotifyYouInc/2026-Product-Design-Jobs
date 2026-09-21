@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Product Designer - Channels at Ebury
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Valencia, Valencia, Spain |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4975330101) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at Ebury was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

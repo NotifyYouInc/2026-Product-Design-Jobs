@@ -1,16 +1,16 @@
-# Lead Experience Designer at Thoughtworks
+# Senior UX Researcher & Design at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Singapore, Singapore |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/8200431?gh_jid=8200431) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Senior-UX-Researcher---Design_R1558529-2) |
 
 ## About This Role
 
-This product designer position at Thoughtworks was posted on 2026-09-14.
+This product designer position at IQVIA was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

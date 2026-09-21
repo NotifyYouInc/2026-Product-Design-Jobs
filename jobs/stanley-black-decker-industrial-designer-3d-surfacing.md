@@ -5,12 +5,12 @@
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Taichung, Taiwan, Taiwan |
 | Category | Product Designer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shizheng-Rd-Taichung-Taiwan/Industrial-Designer---3D-Surfacing_REQ-1000049773) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shizheng-Rd-Taichung-Taiwan/Industrial-Designer---3D-Surfacing_REQ-1000051878) |
 
 ## About This Role
 
-This product designer position at Stanley Black & Decker was posted on 2026-08-03.
+This product designer position at Stanley Black & Decker was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

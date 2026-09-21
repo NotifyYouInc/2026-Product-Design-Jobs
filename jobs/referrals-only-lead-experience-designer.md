@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Designer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7727593) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8200922) |
 
 ## About This Role
 
-This product designer position at Referrals Only was posted on 2026-05-14.
+This product designer position at Referrals Only was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
