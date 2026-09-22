@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Senior UX Product Designer, Engagement at HelloFresh
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8167268?gh_jid=8167268) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at HelloFresh was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

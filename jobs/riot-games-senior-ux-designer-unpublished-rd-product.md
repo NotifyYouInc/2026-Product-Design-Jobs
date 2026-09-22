@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Senior UX Designer  –  Unpublished R&D Product at Riot Games
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Riot Games](https://scoutify.ai/companies/riot-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://www.riotgames.com/en/work-with-us/job/8187637?gh_jid=8187637) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at Riot Games was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

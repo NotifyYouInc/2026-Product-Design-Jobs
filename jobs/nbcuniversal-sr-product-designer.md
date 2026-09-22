@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Sr. Product Designer at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000149383599-sr-product-designer) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at NBCUniversal was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

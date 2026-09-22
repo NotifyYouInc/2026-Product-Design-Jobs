@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Senior UX Designer at Curriculum Associates
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Curriculum Associates](https://scoutify.ai/companies/curriculumassociates?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://curriculumassociates.wd5.myworkdayjobs.com/External/job/US-NY-Brooklyn-Jay-St/Senior-UX-Designer_JR05587) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at Curriculum Associates was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

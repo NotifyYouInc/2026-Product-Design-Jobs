@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Senior Product Designer (Contract) at Myollie
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Myollie](https://scoutify.ai/companies/myollie?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.lever.co/myollie/3cfb5126-808b-4e01-ab11-e87450796eef) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Myollie was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Intern — User Experience Design at Labcorp
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Durham, North Carolina, United States |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Intern---User-Experience-Design_2632092) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at Labcorp was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

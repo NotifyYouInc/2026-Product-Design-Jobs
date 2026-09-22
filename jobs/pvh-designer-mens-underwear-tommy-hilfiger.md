@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Designer, Mens Underwear - Tommy Hilfiger at PVH
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/New-York-NY-Calvin-Klein-Office/Designer--Mens-Underwear---Tommy-Hilfiger_R61845) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at PVH was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Director, Product Design at Axonius
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Axonius](https://scoutify.ai/companies/axonius?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Designer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Apply | [View on company site](https://www.axonius.com/company/careers/open-jobs?gh_jid=7995556003) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Axonius was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

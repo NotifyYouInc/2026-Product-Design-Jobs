@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# B2 Service Designer at Scottish Government
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Scottish Government](https://scoutify.ai/companies/ocs-cx-oj47152?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Apply | [View on company site](https://fa-evxn-saasfaukgovprod1.fa.ocs.oraclecloud.com/jobs/#4769) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Scottish Government was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Experience Designer – Banner at EVERSANA
+# Designer, Designer Collaborations at Gap Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Chicago, Illinois, United States |
+| Company | [Gap Inc.](https://scoutify.ai/companies/gap-inc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000149418815-senior-experience-designer-banner) |
+| Apply | [View on company site](https://gapinc.wd1.myworkdayjobs.com/gapinc/job/SF---2-Folsom/Designer--Designer-Collaborations_R218304) |
 
 ## About This Role
 
-This product designer position at EVERSANA was posted on 2026-09-14.
+This product designer position at Gap Inc. was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# UX/UI Designer at Acrelec
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Acrelec](https://scoutify.ai/companies/acrelec?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Saint-Thibault-des-Vignes, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ACRELEC/744000149540539-uxui-designer) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Acrelec was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

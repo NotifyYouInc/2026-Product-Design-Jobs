@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Product Design at Axle Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Axle Energy](https://scoutify.ai/companies/axle-careers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/axle-careers/9b225bd7-4567-4b9b-82c1-8f634860e29c) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Axle Energy was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Australia/Senior-Functional-Designer_240605) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Australia/Senior-Functional-Designer_240606) |
 
 ## About This Role
 
-This product designer position at NBN Australia was posted on 2026-06-12.
+This product designer position at NBN Australia was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mar del Plata, Buenos Aires, Argentina |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8017111) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/8202052) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-06-22.
+This product designer position at DEPT® was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

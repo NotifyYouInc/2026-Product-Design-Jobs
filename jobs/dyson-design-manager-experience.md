@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Manager |
-| Posted | 2026-05-15 |
+| Category | Product Designer |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Design-Manager---Experience_JR36331-1) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-05-15.
+This product designer position at Dyson was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

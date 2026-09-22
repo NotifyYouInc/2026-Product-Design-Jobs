@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constant Contact](https://scoutify.ai/companies/constantcontact?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/8053440) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/8174104) |
 
 ## About This Role
 
-This product designer position at Constant Contact was posted on 2026-07-14.
+This product designer position at Constant Contact was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

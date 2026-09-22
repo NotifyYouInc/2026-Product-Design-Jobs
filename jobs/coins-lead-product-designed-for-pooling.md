@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Lead Product Designed (For Pooling) at Coins
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Coins](https://scoutify.ai/companies/coins?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Philippines |
 | Category | Product Designer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Apply | [View on company site](https://jobs.lever.co/coins/9db2dd39-d42d-42a6-a5ee-0220a7f18c83) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Coins was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

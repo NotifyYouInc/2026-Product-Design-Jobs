@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# UX Designer - 12m FTC at Capital Group
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/UX-Designer---12m-FTC_JR7306) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Capital Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

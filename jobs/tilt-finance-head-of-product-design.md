@@ -1,16 +1,16 @@
-# Strategic Designer  at carsales
+# Head of Product Design at Tilt Finance
 
 | Field | Details |
 |-------|---------|
-| Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Tilt Finance](https://scoutify.ai/companies/tilt-finance?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149507429-strategic-designer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tilthq/f0365550-18cb-4515-9222-92ed7bf323fa) |
 
 ## About This Role
 
-This product designer position at carsales was posted on 2026-09-15.
+This product designer position at Tilt Finance was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
