@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Designer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Specialist--Product-Experience-Design_R-288372) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Product-Experience-Designer_R-290375-1) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-08-18.
+This product designer position at Mastercard was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

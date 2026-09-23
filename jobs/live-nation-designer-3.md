@@ -5,12 +5,12 @@
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Designer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Gurugram-India/Designer-3_JR-87409-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Gurugram-India/Designer-3_JR-92577-2) |
 
 ## About This Role
 
-This product designer position at Live Nation was posted on 2026-08-20.
+This product designer position at Live Nation was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

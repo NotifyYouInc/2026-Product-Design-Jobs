@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Designer |
-| Posted | 2026-02-02 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Staff-Product-Designer_JR113740) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/India-Bengaluru-Karnataka/Staff-Product-Designer_JR116022) |
 
 ## About This Role
 
-This product designer position at ServiceTitan was posted on 2026-02-02.
+This product designer position at ServiceTitan was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

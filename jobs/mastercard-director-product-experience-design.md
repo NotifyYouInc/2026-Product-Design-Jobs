@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | O'Fallon, Missouri, United States |
 | Category | Product Designer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Director--Product-Experience-Design_R-281958) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Experience-Design_R-280164) |
 
 ## About This Role
 
-This product designer position at Mastercard was posted on 2026-07-10.
+This product designer position at Mastercard was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

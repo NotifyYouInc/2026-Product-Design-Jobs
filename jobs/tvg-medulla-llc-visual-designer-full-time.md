@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TVG-Medulla, LLC](https://scoutify.ai/companies/tvgmedullallc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Illinois, US |
-| Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990012674396-visual-designer-full-time) |
+| Location | Oak Brook, Illinois, United States |
+| Category | Product Designer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990015285667-visual-designer-full-time) |
 
 ## About This Role
 
-This marketing position at TVG-Medulla, LLC was posted on 2026-04-20.
+This product designer position at TVG-Medulla, LLC was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 2 locations |
 | Category | Product Designer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/UI-Design-Associate_R-66833-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/UI-Design-Associate_R-68902-1) |
 
 ## About This Role
 
-This product designer position at Kyndryl Holdings was posted on 2026-09-08.
+This product designer position at Kyndryl Holdings was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

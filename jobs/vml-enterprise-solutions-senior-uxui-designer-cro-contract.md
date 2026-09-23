@@ -1,16 +1,16 @@
-# Senior UX/UI Designer (CRO) - Contract at VML Enterprise Solutions
+# Senior UX/UI Designer (CRO)	- Contract at VML Enterprise Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Poznań, Greater Poland, Poland |
-| Category | UX Researcher |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8593785002) |
+| Category | Growth Marketing |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8593534002) |
 
 ## About This Role
 
-This ux researcher position at VML Enterprise Solutions was posted on 2026-06-16.
+This growth marketing position at VML Enterprise Solutions was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

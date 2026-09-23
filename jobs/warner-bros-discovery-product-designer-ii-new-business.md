@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
-| Category | UX Researcher |
-| Posted | 2026-06-10 |
+| Category | Product Designer |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Product-Designer-II--New-Business_R000106197) |
 
 ## About This Role
 
-This ux researcher position at Warner Bros Discovery was posted on 2026-06-10.
+This product designer position at Warner Bros Discovery was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brooklyn, New York, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Designer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brooklyn-231-Front-St-Song/Senior-Design-Lead_R00334614) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Senior-Design-Lead_R00357066) |
 
 ## About This Role
 
-This product designer position at Accenture was posted on 2026-06-05.
+This product designer position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

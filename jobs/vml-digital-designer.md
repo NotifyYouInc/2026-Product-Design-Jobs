@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Marketing |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8425258002?gh_jid=8425258002) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Product Designer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8808520002?gh_jid=8808520002) |
 
 ## About This Role
 
-This marketing position at VML was posted on 2026-05-21.
+This product designer position at VML was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

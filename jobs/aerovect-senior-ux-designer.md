@@ -5,12 +5,12 @@
 | Company | [Aerovect](https://scoutify.ai/companies/aerovect?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Designer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/a68fe257-4c8a-48b1-ace7-029e12c84049) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/bf710163-5bb4-4732-b2eb-bf629fa57170) |
 
 ## About This Role
 
-This product designer position at Aerovect was posted on 2026-07-21.
+This product designer position at Aerovect was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

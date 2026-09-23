@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556982009) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556998626) |
 
 ## About This Role
 
-This product designer position at Microsoft was posted on 2026-08-28.
+This product designer position at Microsoft was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

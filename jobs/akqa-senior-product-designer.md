@@ -1,16 +1,16 @@
-# Senior Product Designer at AKQA
+# Senior Product Designer  at AKQA
 
 | Field | Details |
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Stockholm, SE |
 | Category | Product Designer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.akqa.com/jobs/8099125/?gh_jid=8099125) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.akqa.com/jobs/8207295/?gh_jid=8207295) |
 
 ## About This Role
 
-This product designer position at AKQA was posted on 2026-07-31.
+This product designer position at AKQA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
