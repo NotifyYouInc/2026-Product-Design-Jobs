@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000137752257-senior-interaction-designer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000150030849-senior-interaction-designer) |
 
 ## About This Role
 
-This product designer position at Netcompany was posted on 2026-07-14.
+This product designer position at Netcompany was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

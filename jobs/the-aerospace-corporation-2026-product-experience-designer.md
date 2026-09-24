@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Product Designer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Product-Experience-Designer_R015915) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Product-Experience-Designer_R016610) |
 
 ## About This Role
 
-This product designer position at The Aerospace Corporation was posted on 2026-07-22.
+This product designer position at The Aerospace Corporation was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Internship – Design Sustainable Packaging REF296423S at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149893909-internship-design-sustainable-packaging-ref296423s) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Robert Bosch was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

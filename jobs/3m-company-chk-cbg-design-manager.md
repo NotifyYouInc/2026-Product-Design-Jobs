@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-05-29 |
+| Category | Product Designer |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/CHK-CBG-Design-Manager_R01165164) |
 
 ## About This Role
 
-This marketing position at 3M Company was posted on 2026-05-29.
+This product designer position at 3M Company was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

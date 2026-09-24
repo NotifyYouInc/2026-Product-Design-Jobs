@@ -1,16 +1,16 @@
-# Designer - WW Arrange Design at ASOS
+# Senior Product Designer, Global Markets, VP at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000149892560-designer-ww-arrange-design) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Senior-Product-Designer--Global-Markets--VP_R-797934) |
 
 ## About This Role
 
-This product designer position at ASOS was posted on 2026-09-16.
+This product designer position at State Street was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

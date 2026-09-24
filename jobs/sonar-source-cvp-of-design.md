@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# CVP of Design at Sonar Source
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Sonar Source](https://scoutify.ai/companies/sonar-source?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Switzerland |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://jobs.lever.co/sonarsource/85850faa-715d-4122-8ed2-82003a109779) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Sonar Source was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

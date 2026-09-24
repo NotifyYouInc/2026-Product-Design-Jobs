@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000128983095-designer-womens-accessories) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000149850886-designer-womens-accessories) |
 
 ## About This Role
 
-This product designer position at Primark was posted on 2026-05-28.
+This product designer position at Primark was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

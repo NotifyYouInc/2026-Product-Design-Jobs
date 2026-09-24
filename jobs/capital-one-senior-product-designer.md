@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Senior Product Designer at Capital One
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Senior-Product-Designer_R1000742-1) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Capital One was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Interactive Designer at Mixpanel
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Mixpanel](https://scoutify.ai/companies/mixpanel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mixpanel/jobs/8207163) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Mixpanel was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

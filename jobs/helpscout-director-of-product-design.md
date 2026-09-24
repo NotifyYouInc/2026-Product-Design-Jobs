@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Director of Product Design at helpscout
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [helpscout](https://scoutify.ai/companies/helpscout?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/helpscout/439356f7-9766-40ce-8e34-3e85620451bf) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at helpscout was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

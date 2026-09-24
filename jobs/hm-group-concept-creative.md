@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Concept Creative at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000150069349-concept-creative) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at H&M Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

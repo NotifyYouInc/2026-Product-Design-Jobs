@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | 3 locations |
 | Category | Product Designer |
-| Posted | 2026-08-04 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Product-Designer-II--Growth---Acquisition_R000106864) |
 
 ## About This Role
 
-This product designer position at Warner Bros Discovery was posted on 2026-08-04.
+This product designer position at Warner Bros Discovery was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

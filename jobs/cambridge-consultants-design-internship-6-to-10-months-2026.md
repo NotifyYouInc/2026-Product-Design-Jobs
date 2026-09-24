@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Design Internship - 6 to 10 months (2026) at Cambridge Consultants
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Cambridge Consultants](https://scoutify.ai/companies/cambridgeconsultantslimited?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4696767101) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Cambridge Consultants was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

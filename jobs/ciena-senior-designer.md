@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Senior Designer at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New Jersey, US |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US-NJ/Senior-Designer_R031675) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Ciena was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

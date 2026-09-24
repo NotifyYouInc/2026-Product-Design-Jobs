@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Senior Designer at VaynerMedia LLC
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [VaynerMedia LLC](https://scoutify.ai/companies/vaynermedia-llc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://vaynermedia.com/careers?gh_jid=8190723) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at VaynerMedia LLC was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

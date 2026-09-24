@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# UX UI Designer at Anglian Water
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Anglian Water](https://scoutify.ai/companies/awg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Huntingdon, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/UX-UI-Designer_R39345-1) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Anglian Water was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

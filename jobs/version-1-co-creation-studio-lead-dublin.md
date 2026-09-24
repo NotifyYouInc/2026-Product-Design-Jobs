@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Co-Creation Studio Lead (Dublin) at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000150072459-co-creation-studio-lead-dublin) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Version 1 was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

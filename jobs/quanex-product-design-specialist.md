@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Product Design Specialist at Quanex
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Quanex](https://scoutify.ai/companies/quanex?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Minnesota, US |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://recruiting2.ultipro.com/qua1012qbpc/JobBoard/0a83d4df-9021-42b1-aaec-a021a9a19104/OpportunityDetail?opportunityId=7336b3e7-6709-4025-b094-808a48787c42) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Quanex was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Burnaby, British Columbia, Canada |
+| Location | Seattle, Washington, United States |
 | Category | Product Designer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Burnaby-British-Columbia-Canada/Senior-Product-Designer_R_106185) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Designer_R_106913-1) |
 
 ## About This Role
 
-This product designer position at Remitly was posted on 2026-05-07.
+This product designer position at Remitly was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Senior Design Engineer  at AssemblyAI
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [AssemblyAI](https://scoutify.ai/companies/assemblyai?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Not specified |
 | Category | Product Designer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/assemblyai/jobs/2myHPTQ-senior-design-engineer) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at AssemblyAI was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Senior Product Designer at Arketa
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Arketa](https://scoutify.ai/companies/arketa?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arketa/2df86a89-8e45-4e9b-b21a-b72063500bb2) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Arketa was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

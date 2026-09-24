@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Senior Product Designer (6 month fixed-term contract) at Zip Co Limited
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Zip Co Limited](https://scoutify.ai/companies/zip-co-limited?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zipcolimited/jobs/4713364006) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Zip Co Limited was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

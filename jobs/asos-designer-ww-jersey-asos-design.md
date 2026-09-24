@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Designer - WW Jersey - ASOS Design at ASOS
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000150056119-designer-ww-jersey-asos-design) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at ASOS was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

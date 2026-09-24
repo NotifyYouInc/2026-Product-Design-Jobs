@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Digital Designer at Varian
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Digital-Designer_R-30862) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Varian was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

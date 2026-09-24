@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# Product Designer at Real Chemistry
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Real Chemistry](https://scoutify.ai/companies/real-chemistry?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 4 locations |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/realchemistry/jobs/5423576008) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Real Chemistry was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

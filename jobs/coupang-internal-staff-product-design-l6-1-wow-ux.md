@@ -1,16 +1,16 @@
-# Senior UX/UI Designer -  at DEPT®
+# Staff Product Design [L6-1] (Wow UX) at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7905542) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8188076?gh_jid=8188076) |
 
 ## About This Role
 
-This product designer position at DEPT® was posted on 2026-09-17.
+This product designer position at Coupang Internal was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# UX/UI Designer at ARHS Developments
+# PRODUCT DESIGNER SENIOR at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000149876050-uxui-designer) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4732825005?gh_jid=4732825005) |
 
 ## About This Role
 
-This product designer position at ARHS Developments was posted on 2026-09-16.
+This product designer position at Inter Carreiras was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
