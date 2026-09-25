@@ -1,16 +1,16 @@
-# Digital designer UX/UI at Sopra Steria
+# 3D Product Design Intern at Emma – The Sleep Company
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Company | [Emma – The Sleep Company](https://scoutify.ai/companies/emma-the-sleep-company?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Germany |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150328929-digital-designer-uxui) |
+| Apply | [View on company site](https://jobs.lever.co/emma-sleep/d20a633f-0eb7-40a2-aa10-72c9b20a44eb) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-09-18.
+This product designer position at Emma – The Sleep Company was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

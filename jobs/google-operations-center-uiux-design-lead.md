@@ -1,16 +1,16 @@
-# Digital designer UX/UI at Sopra Steria
+# UI/UX Design lead at Google Operations Center
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Company | [Google Operations Center](https://scoutify.ai/companies/google-operations-center?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Philippines |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150328929-digital-designer-uxui) |
+| Apply | [View on company site](https://google.wd501.myworkdayjobs.com/GOCJobs/job/PH-MNL-LIMA/UI-UX-Design-lead_JR6037) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-09-18.
+This product designer position at Google Operations Center was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

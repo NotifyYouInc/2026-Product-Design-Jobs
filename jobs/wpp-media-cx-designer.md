@@ -1,16 +1,16 @@
-# Senior Product Designer at Careers at Tide
+# CX Designer at WPP Media
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Serbia |
+| Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Manchester, England, United Kingdom |
 | Category | Product Designer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5426827008) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-09-17.
+This product designer position at WPP Media was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

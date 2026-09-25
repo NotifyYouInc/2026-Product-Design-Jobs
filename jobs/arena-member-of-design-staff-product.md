@@ -1,16 +1,16 @@
-# Senior Product Designer at Careers at Tide
+# Member of Design Staff (Product) at Arena
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Serbia |
+| Company | [Arena](https://scoutify.ai/companies/arena?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | California, US |
 | Category | Product Designer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/arena/ff1d3a91-273a-44a5-a24d-6caf3e1cb505) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-09-17.
+This product designer position at Arena was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

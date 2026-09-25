@@ -1,16 +1,16 @@
-# Senior Product Designer at Careers at Tide
+# UI UX Designer Intern at Gameloft
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Serbia |
+| Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Product Designer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000150303100-ui-ux-designer-intern) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-09-17.
+This product designer position at Gameloft was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

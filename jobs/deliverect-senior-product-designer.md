@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Senior Product Designer at Deliverect
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Deliverect](https://scoutify.ai/companies/deliverect?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://jobs.lever.co/deliverect/964659ab-95fd-4ed0-bb7e-2377593b9063) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Deliverect was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

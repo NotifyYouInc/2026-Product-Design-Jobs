@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Product Design Engineering Intern Opportunities  at SharkNinja
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Needham, Massachusetts, United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713810006) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at SharkNinja was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

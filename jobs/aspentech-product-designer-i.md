@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Product Designer I at Aspentech
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Bedford, Texas, United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Designer-I_R9306) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Aspentech was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

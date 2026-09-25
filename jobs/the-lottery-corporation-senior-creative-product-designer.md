@@ -1,16 +1,16 @@
-# Digital designer UX/UI at Sopra Steria
+# Senior Creative Product Designer at The Lottery Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Oslo, Oslo, Norway |
+| Company | [The Lottery Corporation](https://scoutify.ai/companies/ocs-cx-oj108759?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150328929-digital-designer-uxui) |
+| Apply | [View on company site](https://fa-exnj-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#101343) |
 
 ## About This Role
 
-This product designer position at Sopra Steria was posted on 2026-09-18.
+This product designer position at The Lottery Corporation was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

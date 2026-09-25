@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Senior Manager, Product Designer at Wonder
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Wonder](https://scoutify.ai/companies/wonder?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Senior-Manager--Product-Designer_JR101351) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Wonder was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

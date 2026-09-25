@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Game Designer - Castle Busters at Voodoo
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/5fde7220-fd3d-4df6-ab8c-cca21a313b39) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Voodoo was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

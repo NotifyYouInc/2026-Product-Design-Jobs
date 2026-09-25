@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Staff Design Engineer at Campfire
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Campfire](https://scoutify.ai/companies/campfire?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/campfire/89f392f0-5ada-471f-aa4b-3f9deaedf9be) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Campfire was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

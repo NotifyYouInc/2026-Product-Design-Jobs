@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Senior Product Designer at MrBeast
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [MrBeast](https://scoutify.ai/companies/mrbeast?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | 2 locations |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6199612004) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at MrBeast was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

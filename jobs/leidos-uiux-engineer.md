@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | San Diego, California, United States |
 | Category | Product Designer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/UI-UX-Engineer_R-00183582) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/UI-UX-Engineer_R-00192529) |
 
 ## About This Role
 
-This product designer position at Leidos was posted on 2026-08-24.
+This product designer position at Leidos was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

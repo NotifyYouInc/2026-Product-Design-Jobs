@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
-| Category | Product Designer |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/a597fbd6-0805-407e-bab5-d26b0f769668) |
 
 ## About This Role
 
-This product designer position at Heidi Health was posted on 2026-09-10.
+This digital / performance marketing position at Heidi Health was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

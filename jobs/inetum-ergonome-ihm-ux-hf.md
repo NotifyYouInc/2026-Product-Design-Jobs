@@ -1,16 +1,16 @@
-# Senior Product Designer at Careers at Tide
+# Ergonome IHM / UX H/F at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Serbia |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Saint-Ouen, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-09-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7779785003) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000150293370-ergonome-ihm-ux-hf) |
 
 ## About This Role
 
-This product designer position at Careers at Tide was posted on 2026-09-17.
+This product designer position at Inetum was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

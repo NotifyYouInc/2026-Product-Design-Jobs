@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# UX Designer at Taara
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Taara](https://scoutify.ai/companies/taaraconnect?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Sunnyvale, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/taaraconnect/5fec0e0d-abba-4022-89be-95ba6b83066c) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Taara was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

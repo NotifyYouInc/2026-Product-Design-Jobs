@@ -1,4 +1,4 @@
-# Product Design Architect, Platforms and Devices at Google
+# Senior Interaction Designer, Android and Pixel UX at Google
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mountain View, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWcn5TevOlALr3efAsaN0lbZ9jmL_h56xL9RfXyJcLNjEjsA9yzvgvEgZe156e58fzePt4xeVxRfqgQfHjPfJCp7FZAkedAWeYr1CcNEE9wdiJcMc64GB63CbeaZpg%3D%3D_V2&loc=US&title=Product+Design+Architect) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTZn1gJ33ZNgpVBFruO7haMx5R1y8ggVhQqmJUu38Y75EjsA9yzvgjmFy6IS9kA6SbV6yKZaLlDIUIatophDzOoHWxyXmOVdJxvU4dAQnSd8QKqhNBaTSIMyAM-R3w%3D%3D_V2&loc=US&title=Senior+Interaction+Designer) |
 
 ## About This Role
 

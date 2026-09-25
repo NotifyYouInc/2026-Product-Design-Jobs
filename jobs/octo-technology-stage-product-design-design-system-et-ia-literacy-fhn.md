@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Designer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000146666425-stage-product-design-design-system-et-ia-literacy-fhn) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000150101459-stage-product-design-design-system-et-ia-literacy-fhn) |
 
 ## About This Role
 
-This product designer position at OCTO Technology was posted on 2026-09-01.
+This product designer position at OCTO Technology was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

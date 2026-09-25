@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Product Designer |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200681833/ux-ui-designer-finance-transformation) |
 
 ## About This Role
 
-This product designer position at Apple was posted on 2026-09-11.
+This fp&a / strategic finance position at Apple was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

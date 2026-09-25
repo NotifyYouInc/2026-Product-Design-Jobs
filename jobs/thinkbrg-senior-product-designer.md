@@ -1,16 +1,16 @@
-# Project Designer at Cushman & Wakefield
+# Senior Product Designer at Thinkbrg
 
 | Field | Details |
 |-------|---------|
-| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Thinkbrg](https://scoutify.ai/companies/thinkbrg?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-USA/Project-Designer_R335971) |
+| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Senior-Product-Designer_JR101118) |
 
 ## About This Role
 
-This product designer position at Cushman & Wakefield was posted on 2026-09-17.
+This product designer position at Thinkbrg was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
