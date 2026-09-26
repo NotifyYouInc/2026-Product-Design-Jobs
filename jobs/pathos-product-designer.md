@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Product Designer at Pathos
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Pathos](https://scoutify.ai/companies/pathos-oj85088?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pathos/e26750a7-fd66-4446-b400-93155ea04707) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Pathos was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

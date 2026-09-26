@@ -1,16 +1,16 @@
-# Sr. Industrial Designer at Helenoftroy
+# Lead Designer – Client Services, Strategic Capital at Prologis
 
 | Field | Details |
 |-------|---------|
-| Company | [Helenoftroy](https://scoutify.ai/companies/helenoftroy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Prologis](https://scoutify.ai/companies/prologis?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---New-York-New-York/Sr-Industrial-Designer_R0006158) |
+| Apply | [View on company site](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/New-York-New-York/Lead-Designer---Client-Services--Strategic-Capital_R6470-1) |
 
 ## About This Role
 
-This product designer position at Helenoftroy was posted on 2026-09-18.
+This product designer position at Prologis was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

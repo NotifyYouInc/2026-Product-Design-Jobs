@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Senior Product Designer, Agent Experience at Vanta
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Vanta](https://scoutify.ai/companies/vanta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | United States |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vanta/0e154a57-fc33-4cf7-95cc-0aa30e0bde90) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Vanta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

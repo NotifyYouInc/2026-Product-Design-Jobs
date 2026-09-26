@@ -1,16 +1,16 @@
-# Sr. Industrial Designer at Helenoftroy
+# Droga5 Senior Designer, Motion Graphics at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Helenoftroy](https://scoutify.ai/companies/helenoftroy?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Designer |
-| Posted | 2026-09-18 |
-| Apply | [View on company site](https://helenoftroy.wd503.myworkdayjobs.com/main_hot/job/USA---New-York-New-York/Sr-Industrial-Designer_R0006158) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/Droga5-Senior-Designer--Motion-Graphics_R00353814) |
 
 ## About This Role
 
-This product designer position at Helenoftroy was posted on 2026-09-18.
+This product designer position at Accenture was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

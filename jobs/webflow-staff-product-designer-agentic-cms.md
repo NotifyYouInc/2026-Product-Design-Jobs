@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Staff Product Designer, Agentic CMS at Webflow
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Webflow](https://scoutify.ai/companies/webflow?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | British Columbia, CA |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webflow/jobs/8213629) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Webflow was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

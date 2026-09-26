@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Staff UX Designer  at Quince
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Quince](https://scoutify.ai/companies/quince?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quince/jobs/5423724008) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Quince was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

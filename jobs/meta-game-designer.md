@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Game Designer at Meta
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1083296824079997) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Meta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

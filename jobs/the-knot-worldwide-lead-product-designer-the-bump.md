@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Lead Product Designer, The Bump at The Knot Worldwide
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [The Knot Worldwide](https://scoutify.ai/companies/the-knot-worldwide?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/theknotworldwide/jobs/5427377008) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at The Knot Worldwide was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

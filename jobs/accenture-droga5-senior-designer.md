@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | New York City, New York, United States |
-| Category | Graphic / Brand Design |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/Droga5-Senior-Designer_R00348810-1) |
+| Category | Product Designer |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/New-York-120-Wall-Street-Song/Droga5-Senior-Designer_R00353813) |
 
 ## About This Role
 
-This graphic / brand design position at Accenture was posted on 2026-08-13.
+This product designer position at Accenture was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

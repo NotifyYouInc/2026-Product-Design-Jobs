@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Product Designer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000148139030-sr-product-designer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000148449229-sr-product-designer) |
 
 ## About This Role
 
-This product designer position at Mattel was posted on 2026-09-08.
+This product designer position at Mattel was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

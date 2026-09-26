@@ -1,4 +1,4 @@
-# Senior Product Designer at RevenueCat
+# Senior Design Engineer at RevenueCat
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Not specified |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/a897e317-9c65-46d5-ace3-25ec6f7b4a0c) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Digital Designer at T-Mobile
+# BANAMEX- Analista UX at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | 4 locations |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Designer |
 | Posted | 2026-09-19 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Irvine-California/Digital-Designer_REQ356933-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-UX_26996184) |
 
 ## About This Role
 
-This product designer position at T-Mobile was posted on 2026-09-19.
+This product designer position at Citigroup was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

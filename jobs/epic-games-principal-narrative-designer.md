@@ -1,16 +1,16 @@
-# Senior Product Designer at RevenueCat
+# Principal Narrative Designer at Epic Games
 
 | Field | Details |
 |-------|---------|
-| Company | [RevenueCat](https://scoutify.ai/companies/revenuecat?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
-| Location | Not specified |
+| Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Designer |
 | Posted | 2026-09-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/revenuecat/c3fe34a4-dc40-4ac5-b707-7d99eaf13fc4) |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5687406004?gh_jid=5687406004) |
 
 ## About This Role
 
-This product designer position at RevenueCat was posted on 2026-09-18.
+This product designer position at Epic Games was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

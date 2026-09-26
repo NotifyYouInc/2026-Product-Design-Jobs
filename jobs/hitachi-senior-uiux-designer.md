@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-design-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Designer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Senior-UI-UX-Designer_R0135017) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Senior-UI-UX-Designer_R0144459) |
 
 ## About This Role
 
-This product designer position at Hitachi was posted on 2026-06-26.
+This product designer position at Hitachi was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
